@@ -1,0 +1,90 @@
+﻿l_russian:
+  
+ ### Parties ### 
+ KUR_totalist_party: "СРПК"
+ KUR_totalist_party_long: "Социалистическая Рабочая Партия Курдистана"
+ KUR_syndicalist_party: "КПА"
+ KUR_syndicalist_party_long: "Курдский Партийный Альянс"
+ KUR_radical_socialist_party: "Мокриян"
+ KUR_radical_socialist_party_long: "Республиканская Партия 'Мокриян'"
+ KUR_social_democrat_party: "СДПК"
+ KUR_social_democrat_party_long: "Социал-Демократическая Партия Курдистана"
+ KUR_social_liberal_party: "Хойбун"
+ KUR_social_liberal_party_long: "Республиканская Партия 'Хойбун'"
+ KUR_market_liberal_party: "ПНД"
+ KUR_market_liberal_party_long: "Партия Нового Дня"
+ KUR_social_conservative_party: "ДПК"
+ KUR_social_conservative_party_long: "Демократическая Партия Курдистана"
+ KUR_authoritarian_democrat_party: "Клика Сидки"
+ KUR_authoritarian_democrat_party_long: "Клика Сидки"
+ KUR_paternal_autocrat_party: "Клика Барзинджи"
+ KUR_paternal_autocrat_party_long: "Клика Барзинджи"
+ KUR_national_populist_party: "Хамидие"
+ KUR_national_populist_party_long: "Националистическое Движение 'Хамидие'"
+  
+ ### Country Names ### 
+ KUR: "Курдистан"
+ KUR_ADJ: "Курдск"
+ KUR_DEF: "Курдистан"
+  
+ ### Ideas ### 
+ KUR_brother_behind_brother: "Брат за брата"
+ KUR_brother_behind_brother_desc: "Если брат стоит за брата, только Бог может уничтожить зло и дьявола."
+  
+ ### Events ### 
+ kur.1.t: "Хрупкое восстание"
+ kur.1.d: "Когда шейхи и агасы установили свои знамена в земле перед Великой мечетью Диярбакыр Улу Камии, многие сомневались в их способности вести эффективную войну с режимом кемалистов. Тем не менее, многие также сомневались в том, что эти силы когда-либо объединят свои силы.\n\nВ то время как железные дороги посягают на курдские владения, Вера теряет тот статус, которого она заслуживает с каждым днем, и турецкие интеллектуалы пытаются навязать свое видение нашему Великому Халифату, многие видели Свет, тем не менее, с письмами поддержки, поступающими со всего мусульманского мира, и с добровольцами, желающими сражаться за Халифа, записавшимися в Диярбакыр. Проклятым неверным столицы очень скоро будет показана ошибка пути, и улицы покраснеют от крови тех, кто против нас. Так давайте же пойдем, восстановим честь нашего Халифа и спасем весь Ислам от этой катастрофы!"
+ kur.1.a: "Аллах Акбар!"
+  
+ kur.2.t: "Сулеймания провозглашает свою независимость"
+ kur.2.d: "Объявленный недавно вернувшимся шейхом Махмутом Барзинджи, город Сулеймания и прилегающие территории решили порвать с Османской Империей и использовать правящий хаос в Машрике, чтобы создать собственное государство. Это решение стало немного неожиданностью для его бывшего союзника из [PER.GetName], который намеревался дестабилизировать Порту, но не объявить курдское государство. Опасаясь поддержки своего дела со стороны курдского населения, в настоящее время остается неясным, обратит ли Иран свое оружие на него, прежде чем ситуация может еще больше ухудшиться."
+ kur.2.a: "Проклятый Барзинджи!"
+  
+ kur.3.t: "Sheikh Mahmud Barzinji in Talks with [PER.GetName]" #NT!
+ kur.3.d: "Leader of two failed attempts in Sulaymanyiah to carve out a Kurdish kingdom, the infamous Sheikh Mahmud has been seen in contact once again with representatives of the Iranian government according to our spies. Prominent Qadiri, the Sheikh had the other Kurds to thank for most of his failures as their unwillingness to subordinate themselves to the Sheikh would be their downfall. Ottoman officials in Iraq were quick to exploit their differences and by utilising Kurdish forces opposed to him such as the powerful Jaf, he was forced to flee across the border to Iran.\n\nAttempts by the Iranian government to supply his troops and send them back into Sulaymanyiah to cause havoc on the Ottoman periphery became less and less successful as even his closest supporters started to believe the window had closed. Furthermore the Turks have countered this subterfuge with Kurdish pawns of their own. Simqi the Kurd, famous warlord of Iranian Kurdistan and feared by many an Assyrian for his excessive cruelty near Lake Urmia during the closing stages of the Weltkrieg has found his benefactor in the Ottoman government. Sometimes even going so far as fighting under a Turkish flag, this warlord caused great havoc and even successfully defeated the Iranian army. Nonetheless, reinforcements from Teheran would ultimately prove his demise as he was just like his colleague further South driven across the border.\n\nThis back and forth game between the two powers came to an end in 1927 when the administration of Mustafa Kemal and the Iranian Shah concluded the Saadabad Pact. Both sides would from now on stop fostering Kurdish dissent on the other side of the border as the danger of awakening Kurdish nationalism was regarded as detrimental to the interests of both sides. A few low-level troublemakers were exchanged in a symbolic gesture whilst both sides also confirmed the 1913 Ottoman-Iranian border." #NT!
+ kur.3.a: "What game are the Iranians playing?" #NT!
+  
+ kur.4.t: "Chaos Amidst the Jaf" #NT!
+ kur.4.d: "The Kurdish tribal confederation of the Jaf, one of the most prominent in Iraqi Kurdistan, has been shaken up earlier this week following the murder of their Chief. Fighting on the side of the Ottoman army during the first revolt of Sheikh Mahmud, many have been quick to point fingers across the Iranian border where the exiled Chief has seemingly been building up his strength for a return to power.\n\nThe assassination has caused the disaffected members of the confederation to break with the central policy and prop up their own successor whose vision on cooperation with the Ottoman regime is far less secure." #NT!
+ kur.4.a: "Disturbing" #NT!
+  
+ kur.5.t: "Rising Dissent in Iraqi Kurdistan" #NT!
+ kur.5.d: "With a general feeling of nearing war in the air, stability has taken a nosedive in the region of Sulaymanyiah. Raids by two powerful tribes, the Hawrami and Hamavand (allies of Sheikh Mahmud during his revolt) have become so unbearable that merchants and other urban citizens have been forced to leave for Kirkuk and Mosul where protection from the local confederations and the Ottoman gendarmerie are granting them much needed respite. Protests against the slow response of the government have also seen an uptick in the region as many Kurds start losing faith in the military to prevent them from harm.\n\nNonetheless the army has sent a detachment of 3000 men and an air squadron into the territory of the troublesome tribes to put an end to their disturbance. The Iranian government was quick to respond that the scale of these troop movements so close to their border can only be a sign that the Turks are planning to invade Iranian Kurdistan and drive out the Kurds currently living there." #NT!
+ kur.5.a: "Another waste of brave Turkish soldiers..." #NT!
+  
+ kur.6.t: "Sheikh Mahmud Arrives in Sulaymanyiah" #NT!
+ kur.6.d: "Riding out at the head of 500 horsemen, the exiled and self-styled 'King of Kurdistan' has returned to his home. To no one's surprise this has given another boost to the morale of the rebelling Kurds who see in the timely return of their hero a sign that the tide is finally turning. Both the Hawrami and Hamavand were quick to pledge their allegiance to the Sheikh and have both sent detachments of their tribes to his base of operation near the Iranian border. Certain factions of the Jaf confederation, still recovering from the blatant attack on their leadership, have also taken his side whilst others remain on the fence as the Iranian support Mahmud promises seems unlikely to arrive.\n\nAs a blatant breach of the Saadabad Pact, the government in Kostantiniyye has demanded an immediate answer from Iran in the matter to explain why they didn't stop the Sheikh from returning. A telegram was also promptly sent to Eastern Anatolia with the orders to arm the remnants of Simqi's army and put them on stand-by for similar operations around Lake Urmia should the Iranians not back down." #NT!
+ kur.6.a: "They better give us a good explanation!" #NT!
+  
+ kur.7.t: "Border Conflict in Kurdistan" #NT!
+ kur.7.d: "The Ottoman-Iranian border has always been a fickle beast, not in the least due to the large number of Kurdish tribes that don't identify with either side and migrate back and forth depending on the season. Efforts were undertaken in the 19th century to more decisively mark this border, a work that took almost a hundred years when it was affirmed in 1913. Nonetheless both we and the Turks have been sabotaging the other side wherever we can and have done so with great success through Kurdish pawns.\n\nThe 1920s saw an end to this rivalry however as the damage the support for Kurdish agitators on the other side did caused massive ramifications to the loyalty of our own Kurds. The Saadabad Pact was thus created as an agreement between our two governments to cease operations to foster Kurdish national sentiment in 1927.\n\nThe rise of Arab nationalism and the trouble created by the Egyptian government have made our government however 'reconsider' this idea as with the Middle East seemingly set on a course that can only end in war, Iranian hawks have sent the exiled Sheikh Mahmud Barzanji into Sulaymanyiah in an effort to soften up the Eastern flank of the Porte. As a blatant breach of the Saadabad Pact, the Ottoman government has now demanded an explanation and has threatened to tear up the treaty if we do not withdraw at once." #NT!
+ kur.7.a: "Just deny everything" #NT!
+  
+ kur.8.t: "Iran Denies Any Responsibility" #NT!
+ kur.8.d: "In response to our allegations, the Iranian government has decided to deny all responsibility in the Sulaymanyiah affair. They claim that Mahmut escaped from his guards and was fully on his own able to cross the border. Any incidents he may have caused after that are none of Iran's business which was followed by a snide remark that maybe the Ottomans should look at their own mismanagement instead of shifting blame to other nations.\n\nReports from our agents in Iran and Kurdistan however contradict this statement as reports of Iranian Kurds within the ranks of Barzinji have started to come in. Furthermore the question also remains how he could have possibly financed the host he raised without foreign backing.\n\nTherefore the council of ministers has officially elicited the services of Simqi who has been armed with Ottoman rifles, machine guns and even artillery pieces. Within his ranks, a few Ottoman foot soldiers have also been placed to ensure that he remains controllable by the government if necessary." #NT!
+ kur.8.a: "It seems the Saadabad Pact is dead" #NT!
+  
+ kur.9.t: "Return of Simqi" #NT!
+ kur.9.d: "An infamous Kurdish warlord, it seems that in response to the action of Mahmud Barzanji, the Turks have sent their own pawn back into our territory. Simqi, a Kurd from the Lake Urmia region is especially known amongst the Assyrians who he brutally massacred together with Ottoman forces when they fled into Iran during the Weltkrieg. He didn't stop there however as during the early '20s he tried to carve out his own Kurdish state with the tacit support of the Ottoman military. It would take multiple embarrassing defeats and a substantial army to finally push him out, leaving the region in tatters.\n\nHis return is therefore all the more disturbing as this seems a clear message from the Ottomans that it is once more interested in the Sunni Kurds of the North. Although the man has little support left standing in the region, the damage is likely to still be immense and should we not strike first whilst the Porte is suffering from blows in the West, we may soon find ourselves severely outgunned." #NT!
+ kur.9.a: "Send an ultimatum!" #NT!
+ kur.9.b: "We can not risk war for now" #NT!
+  
+ kur.10.t: "Iran Issues an Ultimatum" #NT!
+ kur.10.d: "In response to the havoc caused by Simqi, the Iranian government has decided to decree a full ultimatum towards our address. Demanding an immediate withdrawal of Simqi's forces, the extradition of all Kurdish war criminals from the last two decades and an absolutely staggering amount of reparations for the supposed damage he is causing, it is clear as day that this is a declaration of war in disguise. Troop movements in Khuzestan and near Tabriz have further confirmed this suspicion and it has become fully apparent that Iranians and Turks are once more at each others throats. May Allah guide us through these troubling times!" #NT!
+ kur.10.a: "We march on Teheran!" #NT!
+  
+ ### Characters ### 
+ KUR_qazi_mihemed: "Кази Мухаммед"
+ KUR_qazi_mihemed_leader_desc: "§YBorn:§! §LMay 1st, 1893, in Mahabad, Azerbaijan Province, Sublime State of Persia§!" #NT!
+ KUR_haji_baba_sheikh: "Хаджи Баба Шейх"
+ KUR_haji_baba_sheikh_leader_desc: "§YBorn:§! §Lin Bukan, Azerbaijan Province, Sublime State of Persia§!" #NT!
+ KUR_seyid_riza: "Сейид Риза"
+ KUR_seyid_riza_leader_desc: "§YBorn:§! §L1863, in Lertik, Eyalet of Erzurum, Ottoman Empire§!" #NT!
+ KUR_kamuran_ali_bedirxan: "Камуран Али Бедирхан"
+ KUR_kamuran_ali_bedirxan_leader_desc: "§YBorn:§! §LAugust 21st, 1895, in Konstantiniyye, Vilayet of Konstantiniyye, Ottoman Empire§!" #NT!
+ KUR_bakr_sidqi: "Бакр Сидки"
+ KUR_bakr_sidqi_leader_desc: "§YBorn:§! §L1890, in Askar, Vilayet of Baghdad, Ottoman Empire§!" #NT!
+ KUR_mehmud_berzinci: "Махмутом Барзинджи"
+ KUR_mehmud_berzinci_leader_desc: "§YBorn:§! §L1878, in Sulaymaniyah, Vilayet of Mosul, Ottoman Empire§!" #NT!
+ KUR_mustafa_barzani: "Мустафа Барзани"
+ KUR_mustafa_barzani_leader_desc: "§YBorn:§! §LMarch 14th, 1903, in Barzan, Vilayet of Mosul, Ottoman Empire§!" #NT!

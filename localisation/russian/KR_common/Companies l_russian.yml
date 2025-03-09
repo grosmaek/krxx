@@ -1,0 +1,126 @@
+﻿l_russian:
+  
+ generic_arms_company: "Общая оружейная компания"
+ generic_artillery_company: "Общая артиллерийская компания"
+ generic_car_company: "Общая моторизованная компания"
+  
+ generic_tank_company: "Общая танковая компания"
+  
+ generic_naval_company: "Общая военно-морская компания"
+  
+ generic_light_aircraft_company: "Light Aircraft Company" #NT!
+ generic_medium_aircraft_company: "Medium Aircraft Company" #NT!
+ generic_naval_aircraft_company: "Naval Aircraft Company" #NT!
+ generic_multi_role_aircraft_company: "Multi-Role Aircraft Company" #NT!
+  
+ generic_industrial_company: "Общая промышленная компания"
+  
+ ### Armour ### 
+ general_tank_manufacturer: "$generic_mio_initial_trait_general_tank_designer$" #NT!
+ general_tank_manufacturer_improved: "$general_tank_manufacturer$" #NT!
+  
+ infantry_tank_manufacturer: "Конструктор пехотного танка"
+ infantry_tank_manufacturer_improved: "$infantry_tank_manufacturer$" #NT!
+  
+ assault_gun_manufacturer: "$generic_mio_initial_trait_assault_guns_organization$" #NT!
+ assault_gun_manufacturer_improved: "$assault_gun_manufacturer$" #NT!
+  
+ mobile_tank_manufacturer: "$generic_mio_initial_trait_fast_tanks_designer$" #NT!
+ mobile_tank_manufacturer_improved: "$mobile_tank_manufacturer$" #NT!
+  
+ medium_tank_manufacturer: "Конструктор средних танков"
+ medium_tank_manufacturer_improved: "$medium_tank_manufacturer$" #NT!
+  
+ heavy_tank_manufacturer: "Конструктор тяжелых танков"
+ heavy_tank_manufacturer_improved: "$heavy_tank_manufacturer$" #NT!
+  
+ tank_refurbishment_plant: "Завод по восстановлению танков"
+ tank_refurbishment_plant_improved: "$tank_refurbishment_plant$" #NT!
+  
+ ### Air ### 
+ general_aircraft_manufacturer: "$generic_mio_initial_trait_general_aircraft_designer$" #NT!
+ general_aircraft_manufacturer_improved: "$general_aircraft_manufacturer$" #NT!
+  
+ light_aircraft_manufacturer: "Конструктор легкой авиации"
+ light_aircraft_manufacturer_improved: "$light_aircraft_manufacturer$" #NT!
+  
+ medium_aircraft_manufacturer: "Конструктор средней авиации"
+ medium_aircraft_manufacturer_improved: "$medium_aircraft_manufacturer$" #NT!
+  
+ heavy_aircraft_manufacturer: "Конструктор тяжелой авиации"
+ heavy_aircraft_manufacturer_improved: "$heavy_aircraft_manufacturer$" #NT!
+  
+ cas_aircraft_manufacturer: "$generic_mio_initial_trait_cas_aircraft_designer$" #NT!
+ cas_aircraft_manufacturer_improved: "$cas_aircraft_manufacturer$" #NT!
+  
+ naval_aircraft_manufacturer: "Конструктор палубной авиации"
+ naval_aircraft_manufacturer_improved: "$naval_aircraft_manufacturer$" #NT!
+  
+ multi_role_aircraft_manufacturer: "Конструктор многоцелевых самолетов"
+ multi_role_aircraft_manufacturer_improved: "$multi_role_aircraft_manufacturer$" #NT!
+  
+ high_agility_fighter_aircraft_manufacturer: "$generic_mio_initial_trait_high_agility_fighters_designer$" #NT!
+ high_agility_fighter_aircraft_manufacturer_improved: "$high_agility_fighter_aircraft_manufacturer$" #NT!
+  
+ range_focused_aircraft_manufacturer: "$generic_mio_initial_trait_range_focused_aircraft_designer$" #NT!
+ range_focused_aircraft_manufacturer_improved: "$range_focused_aircraft_manufacturer$" #NT!
+  
+ ### Materiel ### 
+ infantry_equipment_manufacturer_offence: "Offence-Focused Firearms Designer" #NT!
+ infantry_equipment_manufacturer_defence: "Defence-Focused Firearms Designer" #NT!
+ infantry_equipment_manufacturer_reliable: "Reliable Firearms Designer" #NT!
+ infantry_equipment_manufacturer_quality: "Quality Firearms Designer" #NT!
+ infantry_equipment_manufacturer_cheap: "Cheap Firearms Designer" #NT!
+  
+ artillery_equipment_manufacturer_offence: "Offence-Focused $generic_mio_initial_trait_artillery_manufacturer$" #NT!
+ artillery_equipment_manufacturer_defence: "Defence-Focused $generic_mio_initial_trait_artillery_manufacturer$" #NT!
+ artillery_equipment_manufacturer_cheap: "Cheap $generic_mio_initial_trait_artillery_manufacturer$" #NT!
+  
+ support_equipment_manufacturer: "Конструктор снаряжения отрядов обеспечения"
+  
+ motorised_equipment_manufacturer: "$generic_mio_initial_trait_motorized_mechanized_manufacturer$" #NT!
+  
+ mechanised_equipment_manufacturer_offence: "Offence-Focused Half-Track Designer" #NT!
+ mechanised_equipment_manufacturer_defence: "Defence-Focused Half-Track Designer" #NT!
+ mechanised_equipment_manufacturer_cheap: "Cheap Half-Track Designer" #NT!
+  
+ armored_car_manufacturer: "Конструктор бронемашины"
+  
+ ### Naval ### 
+ task_force_ship_manufacturer: "$generic_mio_initial_trait_task_force_ship_builders$" #NT!
+ task_force_ship_manufacturer_improved: "$task_force_ship_manufacturer$" #NT!
+  
+ battle_line_ship_manufacturer: "$generic_mio_initial_trait_battle_line_ship_builders$" #NT!
+ battle_line_ship_manufacturer_improved: "$battle_line_ship_manufacturer$" #NT!
+  
+ escort_ship_manufacturer: "$generic_mio_initial_trait_escort_fleet$" #NT!
+ escort_ship_manufacturer_improved: "$escort_ship_manufacturer$" #NT!
+  
+ raider_ship_manufacturer: "$generic_mio_initial_trait_raiding_fleet$" #NT!
+ raider_ship_manufacturer_improved: "$raider_ship_manufacturer$" #NT!
+  
+ submarine_manufacturer: "Конструктор подводных лодок"
+ submarine_manufacturer_improved: "$submarine_manufacturer$" #NT!
+  
+ small_fleet_manufacturer: "$generic_mio_initial_trait_small_fleet_designer$" #NT!
+ small_fleet_manufacturer_improved: "$small_fleet_manufacturer$" #NT!
+  
+ refurbishment_repair_dockyard: "$generic_mio_refurbishment_repair_dockyard_organization$" #NT!
+ refurbishment_repair_dockyard_improved: "$refurbishment_repair_dockyard$" #NT!
+  
+ merchant_marine_manufacturer: "Производитель торгового флота"
+  
+ ### General Industry ### 
+ mining_company: "Горнодобывающая компания"
+ chemical_producer: "Химический концерн"
+ industrial_manufacturer: "Промышленный концерн"
+ electronics_manufacturer: "Электронный концерн"
+ railroad_company: "Железнодорожная компания"
+ oil_concern: "Нефтяная компания"
+ energy_company: "Энергетическая компания"
+ construction_company: "Строительная компания"
+ industrial_conglomerate: "Industrial Conglomerate" #NT!
+ industrial_monopoly: "Индустриальная монополия"
+ refinery_company: "Refinery Company" #NT!
+ steelworks: "Steelworks" #NT!
+ transport_company: "Transport Company" #NT!

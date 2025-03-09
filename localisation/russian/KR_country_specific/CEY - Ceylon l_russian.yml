@@ -1,0 +1,143 @@
+﻿l_russian:
+  
+ ### Parties ### 
+ CEY_totalist_party: "ОСП"
+ CEY_totalist_party_long: "Объединённая Социалистическая Партия"
+ CEY_syndicalist_party: "ЛСС"
+ CEY_syndicalist_party_long: "Ланка Сама Самаджа"
+ CEY_radical_socialist_party: "ЛСС"
+ CEY_radical_socialist_party_long: "Ланка Сама Самаджа"
+ CEY_social_democrat_party: "ПСШ"
+ CEY_social_democrat_party_long: "Партия Свободы Шри-Ланки"
+ CEY_social_liberal_party: "ТППШ"
+ CEY_social_liberal_party_long: "Тамильская Правительственная Партия Шри-Ланки"
+ CEY_market_liberal_party: "НП"
+ CEY_market_liberal_party_long: "Национальная Партия"
+ CEY_social_conservative_party: "НП"
+ CEY_social_conservative_party_long: "Национальная Партия"
+ CEY_authoritarian_democrat_party: "НП"
+ CEY_authoritarian_democrat_party_long: "Национальная Партия"
+ CEY_paternal_autocrat_party: "ВА"
+ CEY_paternal_autocrat_party_long: "Военная Администрация"
+ CEY_national_populist_party: "ЭБП"
+ CEY_national_populist_party_long: "Эксат Бхикку Перамуна"
+  
+ ### Country Names ### 
+ CEY: "Цейлон"
+ CEY_ADJ: "Цейлонск"
+ CEY_DEF: "Цейлон"
+  
+ CEY_totalist: "Шри-Ланка"
+ CEY_totalist_ADJ: "Шриланкск"
+ CEY_totalist_DEF: "Шри-Ланка"
+ CEY_syndicalist: "Шри-Ланка"
+ CEY_syndicalist_ADJ: "Шриланкск"
+ CEY_syndicalist_DEF: "Шри-Ланка"
+ CEY_radical_socialist: "Шри-Ланка"
+ CEY_radical_socialist_ADJ: "Шриланкск"
+ CEY_radical_socialist_DEF: "Шри-Ланка"
+ CEY_social_democrat: "Шри-Ланка"
+ CEY_social_democrat_ADJ: "Шриланкск"
+ CEY_social_democrat_DEF: "Шри-Ланка"
+ CEY_national_populist: "Шри-Ланка"
+ CEY_national_populist_ADJ: "Шриланкск"
+ CEY_national_populist_DEF: "Шри-Ланка"
+  
+ ### Leader Traits ### 
+  
+ CEY_parippu_mahathmaya: "Париппу Махатмая"
+ CEY_lion_of_boralugoda: "Лев Боралагоды"
+ CEY_charismatic_opportunist: "Харизматичный оппортунист"
+ CEY_father_of_ceylon: "Отец Цейлона"
+  
+ ### Characters ### 
+  
+ CEY_sugiswara_abeywardena_wickramasinghe: "С.А. Викрамасингхе"
+ CEY_sugiswara_abeywardena_wickramasinghe_leader_desc: "§YBorn:§! §LMay 13th, 1900, in Athuraliya, Southern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_nanayakkarapathirage_martin_perera: "Н.М. Перера"
+ CEY_nanayakkarapathirage_martin_perera_leader_desc: "§YBorn:§! §LJune 6th, 1905, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_philip_gunawardena: "Филип Гунавардена"
+ CEY_philip_gunawardena_leader_desc: "§YBorn:§! §LJanuary 11th, 1901, in Boralugoda, Western Provnce, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_samuel_james_veluppillai_chelvanayakam: "С.Ж.В. Челванаякам"
+ CEY_samuel_james_veluppillai_chelvanayakam_leader_desc: "§YBorn:§! §LMarch 31st, 1898, in Ipoh, British Mayala§!" #NT!
+ CEY_solomon_west_ridgeway_dias_bandaranaike: "С.В.Р.Д. Бандаранаике"
+ CEY_solomon_west_ridgeway_dias_bandaranaike_leader_desc: "§YBorn:§! §LJanuary 8th, 1899, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+  
+ CEY_don_stephen_senanayake: "Дон Стивен Сенанаяке"
+ CEY_don_stephen_senanayake_leader_desc: "§YBorn:§! §LOctober 20th, 1884, in Botale,  Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_tikiri_banda_nugawela: "Тикири Банда Нугавала"
+ CEY_tikiri_banda_nugawela_leader_desc: "§YBorn:§! §L1882, in Kandy, Central Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_robert_burton_leslie: "Роберт Бертон Лесли"
+ CEY_robert_burton_leslie_commander_desc: "§YBorn:§! §LOctober 8th, 1891, in Cork, Co. Cork, Ireland§!" #NT!
+ CEY_john_lionel_kotelawala: "Джон Лайонел Котелавала"
+ CEY_john_lionel_kotelawala_sic_desc: "§YBorn:§! §LApril 4th, 1897, in Madapatha, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_willoughby_greaves_beauchamp: "Уиллоуби Гривз Бошан"
+ CEY_willoughby_greaves_beauchamp_navy_chief_desc: "§YBorn:§! §LApril 5th, 1890, in Madras, Presidency of Fort St. George, British India§!" #NT!
+  
+ CEY_herbert_sri_nissanka: "Герберт Шри Ниссанка"
+ CEY_herbert_sri_nissanka_sic_desc: "§YBorn:§! §LDecember 7th, 1898, in Balapitiya, Southern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_paul_edward_pieris: "Пол Эдвард Пиерис"
+ CEY_paul_edward_pieris_advisor_desc: "§YBorn:§! §LFebruary 16th, 1874, in Deraniyagala, Sabaragamuwa Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_oliver_goonetilleke: "Оливер Гунетиллеке"
+ CEY_oliver_goonetilleke_advisor_desc: "§YBorn:§! §LOctober 20th, 1892, in Trincomalee, Eastern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_ganapathipillai_gangaser_ponnambalam: "ГГ Поннамбалам"
+ CEY_ganapathipillai_gangaser_ponnambalam_advisor_desc: "§YBorn:§! §LNovember 8th, 1901, in Alvai, Northern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_henry_woodward_amarasuriya: "Генри Вудворд Амарасурия"
+ CEY_henry_woodward_amarasuriya_advisor_desc: "§YBorn:§! §LOctober 14th, 1904, in Unawatuna, Southern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_don_baron_jayatilaka: "Дон Барон Джаятилака"
+ CEY_don_baron_jayatilaka_advisor_desc: "§YBorn:§! §LFebruary 13th, 1868, in Waragoda, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_edwin_wijeyeratne: "Эдвин Виджейератне"
+ CEY_edwin_wijeyeratne_advisor_desc: "§YBorn:§! §LJanuary 8th, 1889, in Rambukkana, Sabaragamuwa Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_junius_richard_jayewardene: "Дж. Р. Джайеварден"
+ CEY_junius_richard_jayewardene_advisor_desc: "§YBorn:§! §LSeptember 17th, 1906, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_richard_aluwihare: "Ричард Алувихаре"
+ CEY_richard_aluwihare_army_chief_desc: "§YBorn:§! §LMay 23rd, 1895, in the Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_patrick_de_silva_kularatne: "Патрик де Сильва Куларатне"
+ CEY_patrick_de_silva_kularatne_advisor_desc: "§YBorn:§! §LMarch 31st, 1893, in Ambalangoda, Southern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_gunapala_piyasena_malalasekera: "Гунапала Пиясена Малаласекера"
+ CEY_gunapala_piyasena_malalasekera_advisor_desc: "§YBorn:§! §LNovember 8th, 1899, in Malamulla, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_colvin_reginald_de_silva: "Колвин Р. де Сильва"
+ CEY_colvin_reginald_de_silva_advisor_desc: "§YBorn:§! §LFebruary 16th, 1907, in Balapitiya, Southern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_vivienne_goonewardene: "Вивьен Гуневарден"
+ CEY_vivienne_goonewardene_advisor_desc: "§YBorn:§! §LSeptember 18th, 1916, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_edmund_samarakkody: "Эдмунд Самараккоди"
+ CEY_edmund_samarakkody_advisor_desc: "§YBorn:§! §LApril 19th, 1912, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_leslie_goonewardene: "Лесли Гуневарден"
+ CEY_leslie_goonewardene_advisor_desc: "§YBorn:§! §LOctober 31st, 1909, in Panadura, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_cristopher_william_wijekoon_kannangara: "С.В.В. Каннангара"
+ CEY_cristopher_william_wijekoon_kannangara_advisor_desc: "§YBorn:§! §LOctober 13th, 1884, in Wewala, Southern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_wellawattearachchige_abraham_de_silva: "В. А. де Сильва"
+ CEY_wellawattearachchige_abraham_de_silva_advisor_desc: "§YBorn:§! §LJanuary 16th, 1890, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_don_richard_wijewardena: "Дон Ричард Виджевардена"
+ CEY_don_richard_wijewardena_advisor_desc: "§YBorn:§! §LFebruary 23rd, 1886, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_morawakkorakoralege_walter_fonseka_abeykoon: "М.В.Ф. Абейкун"
+ CEY_morawakkorakoralege_walter_fonseka_abeykoon_advisor_desc: "§YBorn:§! §LApril 30th, 1903, in the Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_robert_gunawardena: "Роберт Гунавардена"
+ CEY_robert_gunawardena_advisor_desc: "§YBorn:§! §LMarch 12th, 1904, in Kosgama, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_alexander_ekanayake_gunasinha: "А.Э. Гунасинха"
+ CEY_alexander_ekanayake_gunasinha_advisor_desc: "§YBorn:§! §LMay 1st, 1891, in Kandy, Central Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_edward_walter_perera: "Эдвард Уолтер Перера"
+ CEY_edward_walter_perera_advisor_desc: "§YBorn:§! §LDecember 11th, 1875, in Unawatuna, Southern Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_philip_norton_banks: "Филип Нортон Бэнкс"
+ CEY_philip_norton_banks_advisor_desc: "§YBorn:§! §L1889, in Kensington, London, England§!" #NT!
+  
+ CEY_fredrick_de_saram: "Фредрик де Сарам"
+ CEY_fredrick_de_saram_army_chief_desc: "§YBorn:§! §LSeptember 5th, 1912, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_cyril_cyrus_dissanayake: "К.С. Диссанаяке"
+ CEY_cyril_cyrus_dissanayake_high_command_desc: "§YBorn:§! §Lin the Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_arthur_cletus_dep: "А. С. Депп"
+ CEY_arthur_cletus_dep_high_command_desc: "§YBorn:§! §LMarch 5th, 1917, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_reginald_edward_bales: "Р.Е. Бейлс"
+ CEY_reginald_edward_bales_high_command_desc: "§YBorn:§! §Lin the Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_chandra_senanayake: "Чандра Сенанаяке"
+ CEY_chandra_senanayake_high_command_desc: "§YBorn:§! §Lin the Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_nimal_fernando: "Нимал Фернандо"
+ CEY_nimal_fernando_high_command_desc: "§YBorn:§! §Lin the Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_susantha_de_fonseka: "Susantha de Fonseka" #NT!
+ CEY_susantha_de_fonseka_high_command_desc: "§YBorn:§! §LApril 25th, 1900, in Panadura, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_noel_gratiaen: "Noel Gratiaen" #NT!
+ CEY_noel_gratiaen_high_command_desc: "§YBorn:§! §LDecember 20th, 1904, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_lionel_karunasena: "Лайонел Карунасена"
+ CEY_lionel_karunasena_high_command_desc: "§YBorn:§! §Lin Ratnapura, Samaragabura Province, Island of Ceylon and its Territories and Dependencies§!" #NT!
+ CEY_reform_council: "Реформаторский совет"
+ CEY_reform_council_theorist_desc: "§YFounded:§! §L1881, in Colombo, Western Province, Island of Ceylon and its Territories and Dependencies§!" #NT!

@@ -1,0 +1,126 @@
+﻿l_russian:
+  
+ ### Country Names ### 
+ BAY: "Южная Германия"
+ BAY_ADJ: "Южногерманск"
+ BAY_DEF: "Южная Германия"
+  
+ BAY_totalist: "Южно-Германский Союз"
+ BAY_totalist_DEF: "Южно-Германский Союз"
+ BAY_syndicalist: "Южно-Германский Союз"
+ BAY_syndicalist_DEF: "Южно-Германский Союз"
+ BAY_radical_socialist: "Южно-Германский Союз"
+ BAY_radical_socialist_DEF: "Южно-Германский Союз"
+ BAY_social_democrat: "Южногерманская Конфедерация"
+ BAY_social_democrat_DEF: "Южногерманская Конфедерация"
+ BAY_social_liberal: "Южногерманская Конфедерация"
+ BAY_social_liberal_DEF: "Южногерманская Конфедерация"
+ BAY_market_liberal: "Южногерманская Конфедерация"
+ BAY_market_liberal_DEF: "Южногерманская Конфедерация"
+ BAY_social_conservative: "Южногерманская Конфедерация"
+ BAY_social_conservative_DEF: "Южногерманская Конфедерация"
+ BAY_authoritarian_democrat: "Южногерманская Конфедерация"
+ BAY_authoritarian_democrat_DEF: "Южногерманская Конфедерация"
+ BAY_paternal_autocrat: "Южногерманская Конфедерация"
+ BAY_paternal_autocrat_DEF: "Южногерманская Конфедерация"
+ BAY_national_populist: "Южногерманская Конфедерация"
+ BAY_national_populist_DEF: "Южногерманская Конфедерация"
+  
+ ### Parties ### 
+ BAY_totalist_party: "КРПГ"
+ BAY_totalist_party_long: "Коммунистическая рабочая партия Германии - Южногерманская"
+ BAY_syndicalist_party: "КРПГ"
+ BAY_syndicalist_party_long: "Коммунистическая рабочая партия Германии - Южногерманская"
+ BAY_radical_socialist_party: "КРПГ"
+ BAY_radical_socialist_party_long: "Коммунистическая рабочая партия Германии - Южногерманская"
+ BAY_social_democrat_party: "СДП"
+ BAY_social_democrat_party_long: "Социал-Демократическая партия Германии - Баварское земельное объединение"
+ BAY_social_liberal_party: "БКЛ"
+ BAY_social_liberal_party_long: "Баварская крестьянская лига"
+ BAY_market_liberal_party: "НЛГП"
+ BAY_market_liberal_party_long: "Национал-либеральная государственная партия"
+ BAY_social_conservative_party: "БНЛ"
+ BAY_social_conservative_party_long: "Баварская народная партия"
+ BAY_authoritarian_democrat_party: "БНЛ"
+ BAY_authoritarian_democrat_party_long: "Баварская народная партия - Правая"
+ BAY_paternal_autocrat_party: "БПСК"
+ BAY_paternal_autocrat_party_long: "Баварская партия среднего класса"
+ BAY_national_populist_party: "ФСБ"
+ BAY_national_populist_party_long: "Фёлькиш-социальный блок"
+  
+  ### Focus Tree ### 
+ bavaria_focus: "Bavarian Focus Tree" #NT!
+  
+ BAY_bavaria_austria_condominium: "Bavarian-Austrian Condominium" #NT!
+ BAY_bavaria_austria_condominium_desc: "" #NT!
+ BAY_bavarian_leadership: "Bavarian Leadership" #NT!
+ BAY_bavarian_leadership_desc: "" #NT!
+ BAY_south_german_workers: "The South German Workers' Union" #NT!
+ BAY_south_german_workers_desc: "" #NT!
+ BAY_concordat: "Concordat with the Holy See" #NT!
+ BAY_concordat_desc: "" #NT!
+ BAY_liberalism: "Retained Liberal Traditions" #NT!
+ BAY_liberalism_desc: "" #NT!
+ BAY_reaction: "Stronghold of Reaction" #NT!
+ BAY_reaction_desc: "" #NT!
+ BAY_rural_development: "Promote Rural Development" #NT!
+ BAY_rural_development_desc: "" #NT!
+ BAY_agro_political_apparatus: "Agro-Political Apparatus" #NT!
+ BAY_agro_political_apparatus_desc: "" #NT!
+ BAY_unitarian: "Unitarian Constitution" #NT!
+ BAY_unitarian_desc: "" #NT!
+ BAY_socialization: "Create the Socialisation Commission" #NT!
+ BAY_socialization_desc: "" #NT!
+ BAY_abolition_of_estates: "Abolish the Nobility" #NT!
+ BAY_abolition_of_estates_desc: "" #NT!
+ BAY_republic_of_councils: "A Republic of Councils" #NT!
+ BAY_republic_of_councils_desc: "" #NT!
+ BAY_revkoms: "Revolutionary Commissars" #NT!
+ BAY_revkoms_desc: "" #NT!
+ BAY_postwar_reconstruction: "Finish Postwar Reconstruction" #NT!
+ BAY_postwar_reconstruction_desc: "" #NT!
+ BAY_bayernwerk: "Bayernwerk" #NT!
+ BAY_bayernwerk_desc: "" #NT!
+ BAY_canals: "Begin the Main–Danube Canal" #NT!
+ BAY_canals_desc: "" #NT!
+ BAY_neckar_valley: "Invest in the Neckar Valley" #NT!
+ BAY_neckar_valley_desc: "" #NT!
+  
+ BAY_recall_veterans: "Recall Bavarian Army Veterans" #NT!
+ BAY_recall_veterans_desc: "" #NT!
+ BAY_alpine_training: "Alpine Training" #NT!
+ BAY_alpine_training_desc: "" #NT!
+ BAY_study_prussian_mistakes: "Study Prussia's Failure" #NT!
+ BAY_study_prussian_mistakes_desc: "" #NT!
+ BAY_modern_unit_organization: "Modern Unit Organisation" #NT!
+ BAY_modern_unit_organization_desc: "" #NT!
+ BAY_domestic_arms: "Domestic Arms Industry" #NT!
+ BAY_domestic_arms_desc: "" #NT!
+ BAY_military_integration: "Integrate into Our Alliance" #NT!
+ BAY_military_integration_desc: "" #NT!
+ BAY_south_german_air_force: "A South German Air Force" #NT!
+ BAY_south_german_air_force_desc: "" #NT!
+ BAY_all_german_military_union: "All-German Military Cooperation" #NT!
+ BAY_all_german_military_union_desc: "" #NT!
+  
+  ### Ideas ### 
+  
+ BAY_concordat_idea: "Concordat with the Papacy" #NT!
+ BAY_concordat_idea_desc: "" #NT!
+ BAY_council_republic: "A Republic of Councils" #NT!
+ BAY_council_republic_desc: "" #NT!
+ BAY_bavarian_army: "Heirs of the Royal Bavarian Army" #NT!
+ BAY_bavarian_army_desc: "" #NT!
+  
+ GERS_liberal_politics: "Liberal Politics" #NT!
+ GERS_liberal_politics_desc: "" #NT!
+ GERS_reactionary: "Postwar Reaction" #NT!
+ GERS_reactionary_desc: "" #NT!
+ GERS_socialization_commission: "Socialisation Commission" #NT!
+ GERS_socialization_commission_desc: "" #NT!
+ GERS_revolutionary_commissars: "Revolutionary Commissars" #NT!
+ GERS_revolutionary_commissars_desc: "" #NT!
+ GERS_overlord_cooperation: "Cooperation with our Liberators" #NT!
+ GERS_overlord_cooperation_desc: "" #NT!
+ GERS_all_german_military_cooperation: "All-German Military Cooperation" #NT!
+ GERS_all_german_military_cooperation_desc: "" #NT!

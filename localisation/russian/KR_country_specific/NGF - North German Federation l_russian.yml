@@ -1,0 +1,119 @@
+﻿l_russian:
+  
+ ### Parties ### 
+ NGF_totalist_party: "КРПГ"
+ NGF_totalist_party_long: "Коммунистическая рабочая партия Германии - Северогерманская"
+ NGF_syndicalist_party: "КРПГ"
+ NGF_syndicalist_party_long: "Коммунистическая рабочая партия Германии - Северогерманская"
+ NGF_radical_socialist_party: "КРПГ"
+ NGF_radical_socialist_party_long: "Коммунистическая рабочая партия Германии - Северогерманская"
+ NGF_social_democrat_party: "СДП"
+ NGF_social_democrat_party_long: "Социал-демократическая партия Германии - Северогерманская"
+ NGF_social_liberal_party: "СЛНП"
+ NGF_social_liberal_party_long: "Северогерманская либеральная народная партия"
+ NGF_market_liberal_party: "ЭСП"
+ NGF_market_liberal_party_long: "Экономическая Северогерманская партия"
+ NGF_social_conservative_party: "СХНП"
+ NGF_social_conservative_party_long: "Северогерманская христианская народная партия"
+ NGF_authoritarian_democrat_party: "Ландволкпартей"
+ NGF_authoritarian_democrat_party_long: "Христианская национальная партия фермеров и крестьян"
+ NGF_paternal_autocrat_party: "Вахлбюро"
+ NGF_paternal_autocrat_party_long: "Избирательное бюро землевладельцев"
+ NGF_national_populist_party: "БНРП"
+ NGF_national_populist_party_long: "Большая немецкая рабочая партия"
+  
+ ### Country Names ### 
+ NGF: "Северная Германия"
+ NGF_ADJ: "Северогерманск"
+ NGF_DEF: "Северная Германия"
+  
+ NGF_totalist: "Северогерманский Союз"
+ NGF_totalist_DEF: "Северогерманский Союз"
+ NGF_syndicalist: "Северогерманский Союз"
+ NGF_syndicalist_DEF: "Северогерманский Союз"
+ NGF_radical_socialist: "Северогерманский Союз"
+ NGF_radical_socialist_DEF: "Северогерманский Союз"
+ NGF_social_democrat: "Северогерманская Федерация"
+ NGF_social_democrat_DEF: "Северогерманская Федерация"
+ NGF_social_liberal: "Северогерманская Федерация"
+ NGF_social_liberal_DEF: "Северогерманская Федерация"
+ NGF_market_liberal: "Северогерманская Федерация"
+ NGF_market_liberal_DEF: "Северогерманская Федерация"
+ NGF_social_conservative: "Северогерманская Федерация"
+ NGF_social_conservative_DEF: "Северогерманская Федерация"
+ NGF_authoritarian_democrat: "Северогерманская Федерация"
+ NGF_authoritarian_democrat_DEF: "Северогерманская Федерация"
+ NGF_paternal_autocrat: "Северогерманская Федерация"
+ NGF_paternal_autocrat_DEF: "Северогерманская Федерация"
+ NGF_national_populist: "Северогерманская Федерация"
+ NGF_national_populist_DEF: "Северогерманская Федерация"
+  
+ ### National Focus ### 
+ north_germany_focus: "North German Focus Tree" #NT!
+  
+ NGF_new_hanover: "A New Hanover" #NT!
+ NGF_new_hanover_desc: "" #NT!
+ NGF_democracy_traditions: "Traditions of Democracy" #NT!
+ NGF_democracy_traditions_desc: "" #NT!
+ NGF_redeemed_bremen_revolution: "Bremen Revolution Redeemed" #NT!
+ NGF_redeemed_bremen_revolution_desc: "" #NT!
+ NGF_federalism: "Genuine Federalism, At Last" #NT!
+ NGF_federalism_desc: "" #NT!
+ NGF_modernize_city_electoral_laws: "Modernize Urban Electoral Laws" #NT!
+ NGF_modernize_city_electoral_laws_desc: "" #NT!
+ NGF_connect_markets: "Connect the Markets" #NT!
+ NGF_connect_markets_desc: "" #NT!
+ NGF_social_democrats: "Integrate Social Democrats" #NT!
+ NGF_social_democrats_desc: "" #NT!
+ NGF_replicate_prussian_dominance: "Replicate Prussian Dominance" #NT!
+ NGF_replicate_prussian_dominance_desc: "" #NT!
+ NGF_house_of_lords: "North German House of Lords" #NT!
+ NGF_house_of_lords_desc: "" #NT!
+ NGF_holstein_agrarian_reaction: "Ally Holstein Agrarian Reactionaries" #NT!
+ NGF_holstein_agrarian_reaction_desc: "" #NT!
+ NGF_soldier_worker_councils: "Form Soldier and Worker Councils" #NT!
+ NGF_soldier_worker_councils_desc: "" #NT!
+ NGF_hanover_land_reform: "Land Reform in Hanover" #NT!
+ NGF_hanover_land_reform_desc: "" #NT!
+ NGF_socialization_commission: "Create the Socialisation Commission" #NT!
+ NGF_socialization_commission_desc: "" #NT!
+ NGF_ally_cartels: "Alliances with Industrial Cartels" #NT!
+ NGF_ally_cartels_desc: "" #NT!
+ NGF_root_out_westphalian_aristocracy: "Root out Westphalian Landowners" #NT!
+ NGF_root_out_westphalian_aristocracy_desc: "" #NT!
+ NGF_hanover_brunswick_automobile: "Hanover-Brunswick Auto Industry Centre" #NT!
+ NGF_hanover_brunswick_automobile_desc: "" #NT!
+ NGF_unterweser_shipbuilding: "Restore Unterweser Shipbuilding" #NT!
+ NGF_unterweser_shipbuilding_desc: "" #NT!
+ NGF_exploit_local_black_soils: "Exploit Local Black Soils" #NT!
+ NGF_exploit_local_black_soils_desc: "" #NT!
+ NGF_greater_hamburg: "The Groß-Hamburg Act" #NT!
+ NGF_greater_hamburg_desc: "" #NT!
+ NGF_new_army: "An Army from Scratch" #NT!
+ NGF_new_army_desc: "" #NT!
+ NGF_local_militias: "Form Local Militias" #NT!
+ NGF_local_militias_desc: "" #NT!
+ NGF_military_integration: "Integrate into Our Alliance" #NT!
+ NGF_military_integration_desc: "" #NT!
+ NGF_shipbuilding: "Militarise the Naval Industry" #NT!
+ NGF_shipbuilding_desc: "" #NT!
+ NGF_naval_bombers: "Naval Bombers" #NT!
+ NGF_naval_bombers_desc: "" #NT!
+ NGF_all_german_cooperation: "All-German Military Cooperation" #NT!
+ NGF_all_german_cooperation_desc: "" #NT!
+ NGF_marine_divisions: "Restore the Marine Divisions" #NT!
+ NGF_marine_divisions_desc: "" #NT!
+ NGF_motorized_infantry: "Motorised Infantry" #NT!
+ NGF_motorized_infantry_desc: "" #NT!
+  
+  # Ideas 
+  
+ NGF_north_german_army: "Army of the Federation" #NT!
+ NGF_north_german_army_desc: "" #NT!
+ NGF_raise_militias_tt: "Raise five Irregular Infantry divisions across your territory." #NT!
+ NGF_house_of_lords_idea: "House of Lords" #NT!
+ NGF_house_of_lords_idea_desc: "" #NT!
+ NGF_romantic_agrarianism: "Romantic Agrarianism" #NT!
+ NGF_romantic_agrarianism_desc: "" #NT!
+ NGF_federal_constitution: "A Federal Constitution" #NT!
+ NGF_federal_constitution_desc: "" #NT!

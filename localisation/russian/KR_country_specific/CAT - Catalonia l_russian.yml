@@ -1,0 +1,51 @@
+﻿l_russian:
+  
+ ### Parties ### 
+ CAT_totalist_party: "КРЛ"
+ CAT_totalist_party_long: "Крайние Республиканские Левые"
+ CAT_syndicalist_party: "НКТ"
+ CAT_syndicalist_party_long: "Национальная конфедерация трудящихся"
+ CAT_radical_socialist_party: "ЕСПК"
+ CAT_radical_socialist_party_long: "Единая Социалистическая Партия Каталонии"
+ CAT_social_democrat_party: "РЛК"
+ CAT_social_democrat_party_long: "Республиканская Левая Каталония"
+ CAT_social_liberal_party: "КРД"
+ CAT_social_liberal_party_long: "Каталонское Республиканское Действие"
+ CAT_market_liberal_party: "КРД"
+ CAT_market_liberal_party_long: "Каталонское Республиканское Действие"
+ CAT_social_conservative_party: "КДС"
+ CAT_social_conservative_party_long: "Каталонский Демократический Союз"
+ CAT_authoritarian_democrat_party: "КЛ"
+ CAT_authoritarian_democrat_party_long: "Каталонская Лига"
+ CAT_paternal_autocrat_party: "ТС"
+ CAT_paternal_autocrat_party_long: "Традиционалистское Сообщество"
+ CAT_national_populist_party: "ТдС"
+ CAT_national_populist_party_long: "Только для себя!"
+  
+ ### Country Names ### 
+ CAT: "Каталония"
+ CAT_ADJ: "Каталонск"
+ CAT_DEF: "Каталония"
+  
+ ### Characters ### 
+ CAT_angel_samblancat_i_salanova: "Анхель Самбланкат-и-Саланова"
+ CAT_angel_samblancat_i_salanova_leader_desc: "§YBorn:§! §LMay 1st, 1885, in Graus, Province of Huesca, Kingdom of Spain§!" #NT!
+ CAT_joan_garcia_oliver: "Joan Garcia Oliver" #NT!
+ CAT_joan_garcia_oliver_leader_desc: "§YBorn:§! §LJanuary 20th, 1901, in Reus, Province of Tarragona, Kingdom of Spain§!" #NT!
+ CAT_joan_comorera_i_soler: "Хуан Коморера-и-Солер"
+ CAT_joan_comorera_i_soler_leader_desc: "§YBorn:§! §LSeptember 5th, 1894, in Cervera, Province of Lleida, Kingdom of Spain§!" #NT!
+ CAT_lluis_companys_i_jover: "Льюис Компаньс-и-Жовер "
+ CAT_lluis_companys_i_jover_leader_desc: "§YBorn:§! §LJune 21st, 1882, in El Tarròs, Province of Lleida, Kingdom of Spain§!" #NT!
+ CAT_luis_nicolau_dolwer: "Luis Nicolau d'Olwer" #NT!
+ CAT_luis_nicolau_dolwer_leader_desc: "§YBorn:§! §LJanuary 20th, 1888, in Barcelona, Province of Barcelona, Kingdom of Spain§!" #NT!
+ CAT_joaquim_de_camps_i_arboix: "Жоаким де Кампс-и-Арбуа"
+ CAT_joaquim_de_camps_i_arboix_leader_desc: "§YBorn:§! §LJanuary 24th, 1894, in Girona, Province of Girona, Kingdom of Spain§!" #NT!
+ CAT_manuel_carrasco_formiguera: "Manuel Carrasco Formiguera" #NT!
+ CAT_manuel_carrasco_formiguera_leader_desc: "§YBorn:§! §LApril 3rd, 1890, in Barcelona, Province of Barcelona, Kingdom of Spain§!" #NT!
+ CAT_francesc_cambo_i_batlle: "Франсеск Камбо-и-Батлье"
+ CAT_francesc_cambo_i_batlle_leader_desc: "§YBorn:§! §LSeptember 2nd, 1876, in Verges, Province of Girona, Kingdom of Spain§!" #NT!
+ CAT_joaquim_bau_i_nolla: "Хоакин Бау-и-Нолья"
+ CAT_joaquim_bau_i_nolla_leader_desc: "§YBorn:§! §LAugust 16th, 1897, in Tortosa, Province of Tarragona, Kingdom of Spain§!" #NT!
+ CAT_daniel_cardona_i_civit: "Даниэль Кардона-и-Сивит"
+ CAT_daniel_cardona_i_civit_leader_desc: "§YBorn:§! §LAugust 20th, 1890, in Barcelona, Province of Barcelona, Kingdom of Spain§!" #NT!
+  

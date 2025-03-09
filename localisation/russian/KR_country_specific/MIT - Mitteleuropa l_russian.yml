@@ -1,0 +1,365 @@
+﻿l_russian:
+  
+ ### Scripted GUI ### 
+ mitteleuropa_title: "Миттельевропа"
+  
+ mitteleuropa_open_button: "§YМиттельевропа§!"
+ mitteleuropa_open_button_desc: "[ROOT.GetMitteleuropaButtonDesc]"
+ mitteleuropa_open_button_desc_enabled: "Центрально-Европейский таможенный союз, известный так же как §HМиттельевропа§!, является экономическим альянсом, объединяющим германский блок, неудобным компромиссом между превосходством Германии и прогрессивным видением общеевропейского сотрудничества. Его внутренняя структура сложна, но его ключевыми институтами являются §Конференции Миттельевропы§!, где проводится саммит делегатов всех стран-участников, который проходит каждые шесть месяцев §HКомиссия Миттельевропы §!, бюрократический орган, контролируемый странами-участниками , чьё §HПрезиденство§! переизбирается каждой конфессией n\n Миттельевропы §HTab§!, вы можете увидеть страну-Президент, все страны-участников и список потенциальных §Hповесток дня§! Для предложения на следующей конфессии. Каждая страна-участник может вложить §HПолитическую силу §! Для продвижения своей повестки дня по выбору, или попытаться стать следующим избранным §HПрезидентом Миттельевропы §!. В конце цикла и в начале следующей конференции президент выберет и активирует §Hдве§! Повестки дня из трех наиболее поддерживаемых повесток, а также свою собственную повестку дня, если они ее выбрали. Затем состоятся выборы нового президента, и цикл продолжится.\n\nКак основатель, и самая могущественная страна, §H[GER.GetNameWithFlag]§! имеет доступ к фокусному дереву, чтобы разблокировать новые типы повестки дня и инициировать реформу Миттельевропы, а также §Hсклонить конфессию в свою пользу...§!\n\nThe Presidency of MITteleuropa is held by §Y[ MIT.GetNameWithFlag]§!\nThe next meeting of the MITteleuropa Commission will happen in roughly §Y[GER.GetMitteleuropaNextElection]§!."
+ mitteleuropa_open_button_desc_disabled: "§YСтанет активным в 1937 году§!."
+  
+ mitteleuropa_leader_title: "Президент"
+ mitteleuropa_leader_desc: "Президентом Миттельевропы является §Y[ MIT.GetNameDef]§!"
+  
+ mitteleuropa_next_election_title: "Следующие выборы"
+ mitteleuropa_next_election_value: "[GetMitteleuropaNextElection]"
+ mitteleuropa_next_election_desc: "Следующее заседание Комиссии Миттельевропы состоится примерно через §Y[GER.GetMitteleuropaNextElection]§!."
+ mitteleuropa_next_election_days: "§Y[?days_to_next_election]§! дней"
+ mitteleuropa_next_election_soon: "§YНеизбежное§!"
+  
+ mitteleuropa_small_value: "[?global.MIT_small_value|Y=1]" #NT!
+ mitteleuropa_medium_value: "[?global.MIT_medium_value|Y=1]" #NT!
+ mitteleuropa_large_value: "[?global.MIT_large_value|Y=1]" #NT!
+ mitteleuropa_huge_value: "[?global.MIT_huge_value|Y=1]" #NT!
+  
+ mitteleuropa_small_cost: "[?MIT_small_value_temp|R=1]" #NT!
+ mitteleuropa_medium_cost: "[?MIT_medium_value_temp|R=1]" #NT!
+ mitteleuropa_large_cost: "[?MIT_large_value_temp|R=1]" #NT!
+ mitteleuropa_huge_cost: "[?MIT_huge_value_temp|R=1]" #NT!
+  
+ agenda_score_title: "Оценка повестки дня"
+ agenda_score_tooltip: "[!agenda_score_breakdown_button_click]"
+  
+ agenda_score_tooltip_title: "§Y$agenda_score_title$§!"
+ agenda_score_tooltip_base: "База из §Y Управляющих фабрик§!: [?num_of_controlled_factories|G0]"
+ agenda_score_tooltip_multiplier: "$mitteleuropa_industry_score$: [?modifier@ MITteleuropa_industry_score|+=%0]"
+ agenda_score_tooltip_bonus_score: "$mitteleuropa_score$: [?modifier@ MITteleuropa_score|+0]"
+ agenda_score_tooltip_investment: "£pol_power §YPolitical Power§! investment: [?MIT_agenda_investment|+0]"
+ agenda_score_tooltip_final: "Итоговая оценка: [?mtth: MITteleuropa_agenda_score_calculation|G0]"
+ agenda_score_tooltip_other_supporters: "От поддерживающих: §G[GetMitteleuropaAgendaSupportersScore]§!"
+  
+ agenda_score_value_default: "[?MIT_supported_agenda:agenda_score]" #NT!
+ agenda_score_value_fallback: "[?mtth:mitteleuropa_agenda_score_calculation]" #NT!
+  
+ agenda_score_supporters_value: "[?other_supporters_value]" #NT!
+  
+ agenda_add_score_desc: "Увеличьте свой счёт повестки дня за £pol_power §Yполитическую силу§!."
+ agenda_sub_score_desc: "Верните инвестированные очки £pol_power §Yполитической силы§! за счёт счёта повестки дня."
+  
+ add_score_commands: "§GНажмите§!, чтобы потратить [GetMitteleuropaSmallCost] £pol_power и увеличить очки на [GetMitteleuropaSmallValue]\n§GCtrl + Клик§!, чтобы потратить [GetMitteleuropaMediumCost] £pol_power и увеличить очки на [GetMitteleuropaMediumValue]\n§GShift + Click§!, чтобы потратить [GetMitteleuropaLargeCost] £pol_power и увеличить очки на [GetMitteleuropaLargeValue]\n§GCtrl + Shift + Клик§!, чтобы потратить [GetMitteleuropaHugeCost] £pol_power и увеличить очки на [GetMitteleuropaHugeValue]"
+ subtract_score_commands: "§GНажмите§!, чтобы вернуть [GetMitteleuropaSmallValue] £pol_power и уменьшить очки на [GetMitteleuropaSmallCost]\n§GCtrl + Клик§!, чтобы вернуть [GetMitteleuropaMediumValue] £pol_power и уменьшить очки на [GetMitteleuropaMediumCost]\n§GShift + Клик§!, чтобы вернуть [GetMitteleuropaLargeValue] £pol_power и уменьшить очки на [GetMitteleuropaLargeCost]\n§GCtrl + Shift + Клик§!, чтобы вернуть [GetMitteleuropaHugeValue] £pol_power и уменьшить очки на [GetMitteleuropaHugeCost]"
+  
+ member_entry_title: "§Y[THIS.GetName]§!"
+  
+ member_entry_desc: "[THIS.GetMitteleuropaVotingStatus]"
+  
+ member_entry_proposing_agenda: "§Y[THIS.GetNameDefCap]§! В настоящее время возглавляет лоббистскую деятельность в пользу §Y[?MIT_supported_agenda:agenda_idea.GetTokenLocalizedKey]§!."
+ member_entry_supporting_agenda: "§Y[THIS.GetNameDefCap]§! В настоящее время поддерживает §Y[?MIT_supported_agenda:agenda_supporters^0.GetAdjective]§! l лоббистские усилия в пользу§Y[?MIT_supported_agenda:agenda_idea.GetTokenLocalizedKey]§!."
+ member_entry_neutral: "§Y[THIS.GetNameDefCap]§! в настоящее время не поддерживает никаких повесток дня."
+  
+ main_agenda_supporter_title: "§Y[?top_agenda:agenda_supporters^0.GetName]§!"
+  
+ top_agenda_icon_title: "§Y[?top_agenda:agenda_idea.GetTokenLocalizedKey]§!"
+ top_agenda_icon_desc: "[!top_agenda_reward_loc_button_click]"
+  
+ agenda_list_title: "Возможные повестки дня"
+  
+ agenda_button_title: "[?agenda:agenda_idea.GetTokenLocalizedKey]"
+ agenda_button_score: "([?agenda:agenda_score|Y0])"
+ agenda_button_tooltip: "[?agenda:agenda_idea.GetTokenLocalizedKey]\nОбщая поддержка: [?agenda:agenda_score|Y0]"
+ agenda_button_tooltip_delayed: "[!agenda_button_click_enabled]\n§YЭффект, если повестка пройдёт:§!\n[!agenda_reward_loc_button_click]"
+  
+ top_agendas_title: "Наиболее поддерживаемые повестки дня"
+ top_agenda_name: "[?top_agenda:agenda_idea.GetTokenLocalizedKey]"
+ top_agenda_score: "Support: [?top_agenda:agenda_score|Y1]"
+  
+ MIT_recent_agenda_change: "§Y[ROOT.GetNameDefCap]§! Уже недавно решил поддержать повестку дня и должен подождать [?MIT_recent_agenda_change:days_left|Y0]дней чтобы снова проголосовать."
+  
+ MIT_generic_industrial_projects: "$MIT_generic_industrial_projects_idea$"
+ MIT_generic_industrial_projects_idea: "Поддержка промышленных проектов"
+ MIT_generic_industrial_projects_idea_desc: "Создание более благоприятной среды для гражданских отраслей промышленности по всей Миттельевропе и финансирование расширения производства."
+  
+ MIT_generic_industrial_projects_improved_idea: "$MIT_generic_industrial_projects_idea$"
+ MIT_generic_industrial_projects_improved_idea_desc: "$MIT_generic_industrial_projects_idea_desc$"
+  
+ MIT_generic_arms_industry: "$MIT_generic_arms_industry_idea$"
+ MIT_generic_arms_industry_idea: "Поддержка оружейной промышленности"
+ MIT_generic_arms_industry_idea_desc: "Предлагать дешевые кредиты военным производителям по всей MITteleuropa и укреплять международное сотрудничество в производстве вооружений."
+  
+ MIT_generic_arms_industry_improved_idea: "$MIT_generic_arms_industry_idea$"
+ MIT_generic_arms_industry_improved_idea_desc: "$MIT_generic_arms_industry_idea_desc$"
+  
+ MIT_generic_infrastructure: "$MIT_generic_infrastructure_idea$"
+ MIT_generic_infrastructure_idea: "Поддержка инфраструктурных проектов"
+ MIT_generic_infrastructure_idea_desc: "Предлагать дешевые кредиты на инфраструктурные проекты и отправлять консультантов по строительству из Германии в государства-члены."
+  
+ MIT_generic_infrastructure_improved_idea: "$MIT_generic_infrastructure_idea$"
+ MIT_generic_infrastructure_improved_idea_desc: "$MIT_generic_infrastructure_idea_desc$"
+  
+ MIT_generic_financial_bailout: "$MIT_generic_financial_bailout_idea$"
+ MIT_generic_financial_bailout_idea: "Финансовая инъекция"
+ MIT_generic_financial_bailout_idea_desc: "Организовать инъекцию капитала из немецких и других европейских банков в экономику государств-членов."
+  
+ MIT_generic_financial_bailout_improved_idea: "$MIT_generic_financial_bailout_idea$"
+ MIT_generic_financial_bailout_improved_idea_desc: "$MIT_generic_financial_bailout_idea_desc$"
+  
+ MIT_generic_industrial_advisors: "$MIT_generic_industrial_advisors_idea$"
+ MIT_generic_industrial_advisors_idea: "Промышленные советники Миттельевропы"
+ MIT_generic_industrial_advisors_idea_desc: "Отправить немецких советников по промышленности и технологиям в государства-члены Миттельевропы."
+  
+ MIT_generic_industrial_advisors_improved_idea: "$MIT_generic_industrial_advisors_idea$"
+ MIT_generic_industrial_advisors_improved_idea_desc: "$MIT_generic_industrial_advisors_idea_desc$"
+  
+ MIT_generic_arms_experts: "$MIT_generic_arms_experts_idea$"
+ MIT_generic_arms_experts_idea: "Эксперты по вооружению Миттельевропы"
+ MIT_generic_arms_experts_idea_desc: "Отправить экспертов по производству вооружений из германской имперской армии в государства-члены Миттельевропы."
+  
+ MIT_generic_arms_experts_improved_idea: "$MIT_generic_arms_experts_idea$"
+ MIT_generic_arms_experts_improved_idea_desc: "$MIT_generic_arms_experts_idea_desc$"
+  
+ MIT_generic_cohesion_fund: "$MIT_generic_cohesion_fund_idea$"
+ MIT_generic_cohesion_fund_idea: "Поддержка Фонда сплочения"
+ MIT_generic_cohesion_fund_idea_desc: "Предоставлять средства государствам Восточной Европы для сокращения их отсталости и приближения их к западному экономическому уровню."
+  
+ MIT_generic_legal_reform: "$MIT_generic_legal_reform_idea$"
+ MIT_generic_legal_reform_idea: "Консультанты по правовой реформе"
+ MIT_generic_legal_reform_idea_desc: "Отправить консультантов из немецких университетов и судов в государства-члены Миттельевропы для предоставления консультаций по законодательству и согласования их законов с соглашениями Миттельевропы."
+  
+ MIT_directive_system: "$MIT_directive_system_idea$"
+ MIT_directive_system_idea: "§RСоздать систему директив§!"
+ MIT_directive_system_idea_desc: "Директивы — это резолюции Комиссии Миттельевропы о целях или проектах — они обязательны к достижению в течение некоторого времени, но их реализация ложится на государства-члены независимо, сохраняя свою автономию. §YНесколько улучшает эффект повесток дня.§!"
+  
+ MIT_consultative_assembly: "$MIT_consultative_assembly_idea$"
+ MIT_consultative_assembly_idea: "§RСоздать Консультативную ассамблею§!"
+ MIT_consultative_assembly_idea_desc: "Конференция министров иностранных дел будет заменена делегатами национальных парламентов, которые организуются по идеологии, а не по национальности. §YУменьшает дисбаланс сил в Конференции и увеличивает эффект расходования политической власти в механике Миттельевропы.§!"
+  
+ MIT_qualified_majority: "$MIT_qualified_majority_idea$"
+ MIT_qualified_majority_idea: "§RВозвратить принцип квалифицированного большинства§!"
+ MIT_qualified_majority_idea_desc: "Создание системы, в которой каждый голос должен получить не только большинство на Конференции, но и косвенно не менее 60 процентов от общей численности населения Миттельевропы, обеспечит Германию необходимостью вести переговоры с как можно большим количеством государств-членов, чтобы получить их одобрение, и организация станет более плюралистической."
+  
+ MIT_assembly_approval: "$MIT_assembly_approval_idea$"
+ MIT_assembly_approval_idea: "§RДать одобрение Ассамблеи для институциональных назначений§!"
+ MIT_assembly_approval_idea_desc: "Все основные назначения в администрацию Миттельевропы будут одобрены членами Конференции. §YИзменяет дух Миттельевропы.§!"
+  
+ MIT_regulation_system: "$MIT_regulation_system_idea$"
+ MIT_regulation_system_idea: "§RСоздать систему регулирования§!"
+ MIT_regulation_system_idea_desc: "Регламенты — это резолюции Комиссии Миттельевропы, которые обязательны для соблюдения всеми государствами-членами, независимо от их позиции по политике. §Y Улучшает эффективность повестки дня и увеличивает дисбаланс сил в Конференции.§!"
+  
+ MIT_budget_quota: "$MIT_budget_quota_idea$"
+ MIT_budget_quota_idea: "§RУстановить квоту взносов в бюджет§!"
+ MIT_budget_quota_idea_desc: "Все голоса на конференции теперь взвешиваются в соответствии с вкладом страны в бюджет Миттельевропы, радикально в пользу Германии, поскольку это в первую очередь ее проект. §Y Сделает механику Миттельевропы намного дешевле для действующего президента.§!"
+  
+ MIT_enforcement_directorate: "$MIT_enforcement_directorate_idea$"
+ MIT_enforcement_directorate_idea: "§RВосстановить Директорат по обеспечению соблюдения§!"
+ MIT_enforcement_directorate_idea_desc: "Создать Директорат, который будет контролировать все государства-члены и иметь полномочия налагать санкции на государства, которые не следуют правилам Миттельевропы в точности. §Y Изменить дух Миттельевропы.§!"
+  
+ MIT_enlargement_directorate: "$MIT_enlargement_directorate_idea$"
+ MIT_enlargement_directorate_idea: "§RВосстановить Директорат по расширению§!"
+ MIT_enlargement_directorate_idea_desc: "Разрешить президенту Миттельевропы приглашать страны в Миттельевропу."
+  
+ MIT_common_travel_area: "$MIT_common_travel_area_idea$"
+ MIT_common_travel_area_idea: "§Восстановить Европейское общее туристическое пространство§!"
+ MIT_common_travel_area_idea_desc: "Создать общую зону путешествий вМиттельевропе. §YИзменяет дух Миттельевропы.§!"
+  
+ MIT_support_local_production: "$MIT_support_local_production_idea$"
+ MIT_support_local_production_idea: "Поддержка местного производства"
+ MIT_support_local_production_idea_desc: "Установить правила для определенных местных продуктов, чтобы защитить их от конкуренции, вызванной созданием общей зоны путешествий."
+  
+ MIT_mitteleuropa_loans: "$MIT_ MITteleuropa_loans_idea$"
+ MIT_mitteleuropa_loans_idea: "Кредиты Миттельевропы"
+ MIT_mitteleuropa_loans_idea_desc: "Предоставлять государствам-членам дешевые кредиты от Банка Центральной Европы для национального развития."
+  
+ MIT_europamark: "$MIT_europamark_idea$"
+ MIT_europamark_idea: "§RCоздаnm европейскую марку§!"
+ MIT_europamark_idea_desc: "Создать общую резервную валюту для Миттельевропы. §YИзменяет дух Миттельевропы.§!"
+  
+ MIT_central_europe_bank: "$MIT_central_europe_bank_idea$"
+ MIT_central_europe_bank_idea: "§RСоздать Банк Центральной Европы§!"
+ MIT_central_europe_bank_idea_desc: "Создать центральный банк для Миттельевропы. §YИзменит дух Миттельевропы§!"
+  
+ MIT_challenge_leadership: "$MIT_challenge_leadership_idea$"
+ MIT_challenge_leadership_idea: "§CБросить вызов текущему руководству§!"
+ MIT_challenge_leadership_idea_desc: "Объединить государства-члены Миттельевропы, чтобы попытаться сместить текущего председателя Миттельевропы и назначить лидера оспаривающей фракции новым председателем."
+  
+ MIT_defied_leadership_challenge: "Бросить вызов лидерству"
+  
+ ### Economic Sphere GUI elements ### 
+ KR_mitteleuropa_name: "§YМиттельевропа§!"
+ KR_mitteleuropa_desc: "§L$MIT_ MITteleuropa_modifier_desc$§!"
+  
+ ### Modifiers ### 
+ mitteleuropa_score: "Рейтинг Миттельевропы"
+ mitteleuropa_score_tooltip: "$MITteleuropa_score$: $RIGHT|+=0$"
+  
+ mitteleuropa_industry_score: "Рейтинг Миттельевропы по отрасли"
+ mitteleuropa_industry_score_tooltip: "$MITteleuropa_industry_score$: $RIGHT|+=%2$"
+  
+ mitteleuropa_investment_cost: "Стоимость инвестиций в Миттельевропу"
+ mitteleuropa_investment_cost_tooltip: "$MITteleuropa_investment_cost$: $RIGHT|-=%0$"
+  
+ ### Tooltips ### 
+ MIT_already_in_tt: "§R§Y[FROM.GetNameWithFlag]§! уже является участником Миттельевропы.§!"
+ MIT_not_in_same_faction_tt: "§R§Y[FROM.GetNameWithFlag]§! не является членом [ROOT.GetFactionName].§!"
+ MIT_requires_enlargement_agenda_tt: "§RТребует принятия повестки дня §Y$MIT_enlargement_directorate$§!.§!"
+ MIT_can_invite_subject_only_if_overlord_is_member_tt: "§RИх сюзерен §Y[FROM.Overlord.GetNameWithFlag]§! не является членом Миттельевропы.§!"
+  
+ MIT_is_active: "Система §YМиттельевропа§! активна"
+ MIT_is_active_NOT: "Система §YМиттельевропа§! не активна"
+  
+ MIT_is_current_president: "Является §YПрезидентом Комиссии Миттельевропы §!"
+ MIT_is_current_president_NOT: "Не является §YПрезидентом Комиссии Миттельевропы §!"
+  
+ MIT_mechanics_unlocked: "Механика §YМиттельевропы§! теперь включена."
+ MIT_focus_unlocked: "Дерево фокусов §YМиттельевропы§! теперь разблокировано."
+  
+ MIT_becomes_new_chairman: "§Y[ROOT.GetNameWithFlag]§! становится новым §Yпрезидентом комиссии Миттельевропы§!"
+  
+ ### Dynamic Modifiers ### 
+ MIT_mitteleuropa_modifier: "Член Миттельевропы"
+ MIT_mitteleuropa_modifier_desc: "Официально именуемый Центрально-Европейским экономическим союзом, Миттельевропа— это таможенный и экономический союз, объединяющий Германию и ее сферу влияния, созданный после Мировой войны. Государства-члены Миттельевропы находят влияние этого соглашения неоднозначным — хотя экономические связи с Германией выгодны, соглашение в значительной степени ориентировано на пользу Германии."
+  
+ MIT_targeted_and_research_modifiers_tt: "[THIS.GetMitteleuropaBerlinBureaucracyActive]"
+  
+ MIT_berlin_bureaucracy_modifier: "(§Y[GER.GetNameWithFlag]§!)\n $MODIFIER_CIC_TO_TARGET_FACTOR$: [?0.05|R=%]\n $MODIFIER_TRADE_TO_TARGET_FACTOR$: [?0.25|G=%]\n\n"
+ MIT_enforcement_directorate_modifier: "Удешевляет механику §YМиттельевропы§! для §Y[GER.GetNameWithFlag]§!."
+ MIT_enlargement_directorate_modifier: "Разблокирует дипломатическое действие: §YПригласить в Миттельевропу§!"
+ MIT_regulation_system_modifier: "§YУлучшает эффекты§! всех общих для §Y Миттельевропы§! повесток дня."
+  
+ ### Economic Spheres ### 
+ MIT_tooltip: "[GetMitteleuropaName]"
+  
+ MIT_tooltip_leader: "Лидер §YМиттельевропы§!"
+ MIT_tooltip_member: "Участник §YМиттельевропы§!"
+  
+ MIT_tooltip_desc: "[GetMitteleuropaDesc]"
+ MIT_tooltip_desc_text: "§L$MIT_ MITteleuropa_modifier_desc$§!"
+  
+ ### Scripted Diplomatic Actions ### 
+ MIT_INVITE_MEMBER_TITLE: "Пригласить в Миттельевропу"
+ MIT_INVITE_MEMBER_ACTION_DESC: "Пригласить эту страну в Миттельевропу."
+ MIT_INVITE_MEMBER_ACTION_SEND_DESC: "[FROM.GetName] входит в немецкий блок, но еще не присоединился к Миттельевропе. Мы должны пригласить их."
+  
+ ai_reason_base_reluctance: "Базовое нежелание"
+ ai_reason_subject: "§Y[FROM.GetNameDefCap]§! является марионеткой §Y[ROOT.GetNameDef]§!"
+ ai_reason_same_government_type: "§Y[FROM.GetNameDefCap]§! имеет похожее правительство с §Y[ROOT.GetNameDef]§!"
+ ai_reason_opinion: "§Y[FROM.GetAdjective]ое§! мнение о §Y[ROOT.GetNameDef]§!"
+ ai_reason_major: "§Y[FROM.GetNameDefCap]§! считается крупной страной"
+ ai_reason_industry_difference: "Различие в промышленности стран"
+  
+ ### Events ### 
+ germany_mitteleuropa_events.1.t: "Саммит Комиссии Миттельевропы: выборы повестки дня"
+ germany_mitteleuropa_events.1.d.no_voting: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичного обсуждения, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время из [ MIT.GetNameDef], также будет решать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nОднако, похоже, никаких предложений не было вынесено на обсуждение, поэтому саммит прошел без принятия каких-либо важных решений."
+ germany_mitteleuropa_events.1.d.unanimous: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время представляет [ MIT.GetNameDef], также будет решать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nПредложение, выдвинутое председателем, не нашло конкурентов, поэтому оно будет реализовано."
+ germany_mitteleuropa_events.1.d.two_agendas: "Делегаты из всех государств Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время представляет [ MIT.GetNameDef], также будет решать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nЕсть два предложения, получившие значительную поддержку государств-членов, что, к сожалению, означает, что не все могут быть удовлетворены сегодняшним решением комиссии, однако это зависит от председателя."
+ germany_mitteleuropa_events.1.d.two_agendas_chairman: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время представляет [ MIT.GetNameDef], также будет решать, какое из многочисленных предложений будет реализовано бюрократическими органами.\n\nНа столе находится предложение, пользующееся значительной поддержкой государств-членов, однако, если они сочтут его неприемлемым, председатель имеет возможность отменить интересы государств-членов и выбрать свои собственные."
+ germany_mitteleuropa_events.1.d.three_agendas: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичных дискуссий, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии по странам Миттельевропы, который в настоящее время представляет [ MIT.GetNameDef], также будет решать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nЕсть три предложения, получившие значительную поддержку государств-членов, что, к сожалению, означает, что не все могут быть удовлетворены сегодняшним решением комиссии, однако это зависит от председателя."
+ germany_mitteleuropa_events.1.d.three_agendas_chairman: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время представляет [ MIT.GetNameDef], также будет решать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nНа столе находятся два предложения, получившие значительную поддержку государств-членов, однако, если они сочтут их неприемлемыми, председатель имеет возможность отменить интересы государств-членов и выбрать свои собственные."
+ germany_mitteleuropa_events.1.d.four_agendas: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии по странам Миттельевропы, который в настоящее время представляет [ MIT.GetNameDef], также будет решать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nНа столе находятся три предложения, пользующиеся значительной поддержкой государств-членов, однако, если они сочтут их неприемлемыми, председатель имеет возможность отменить интересы государств-членов и выбрать свои собственные."
+ germany_mitteleuropa_events.1.a: "Внедрить [?MIT_first_place_agenda.agenda_idea.GetTokenLocalizedKey]"
+ germany_mitteleuropa_events.1.b: "Внедрить [?MIT_second_place_agenda.agenda_idea.GetTokenLocalizedKey]"
+ germany_mitteleuropa_events.1.c: "Внедрить [?MIT_third_place_agenda.agenda_idea.GetTokenLocalizedKey]"
+ germany_mitteleuropa_events.1.d: "Внедрить [?MIT_chairman_agenda.agenda_idea.GetTokenLocalizedKey]"
+ germany_mitteleuropa_events.1.e: "Идем дальше."
+  
+ germany_mitteleuropa_events.2.t: "Саммит Комиссии Миттельевропы: выбрана повестка дня-лидер"
+ germany_mitteleuropa_events.2.d.supported: "Делегаты всех стран Миттельевропы собираются в Берлине для двухгодичного обсуждения, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии MITteleuropa, который в настоящее время является представителем [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nОни решили реализовать наиболее поддержанное предложение повестки дня, которое мы также поддержали, — получение запланированных выгод."
+ germany_mitteleuropa_events.2.d.not_supported: "Делегаты всех стран Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время из [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nОни решили реализовать наиболее поддерживаемое предложение повестки дня вместо того, которое поддержали мы, — так что мы упускаем запланированные выгоды."
+ germany_mitteleuropa_events.2.a: "Хорошо."
+ germany_mitteleuropa_events.2.b: "Черт."
+  
+ germany_mitteleuropa_events.3.t: "Саммит Комиссии Миттельевропы: выбрана повестка дня на второе место"
+ germany_mitteleuropa_events.3.d.supported: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичного обсуждения, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время является представителем [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nОни решили реализовать второе по популярности предложение повестки дня, которое мы также поддержали, — получение запланированных выгод."
+ germany_mitteleuropa_events.3.d.not_supported: "Делегаты всех стран Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время является представителем [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nОни решили реализовать второе по популярности предложение повестки дня вместо того, которое поддержали мы, — так что мы упускаем запланированные выгоды."
+ germany_mitteleuropa_events.3.a: "Хорошо."
+ germany_mitteleuropa_events.3.b: "Черт."
+  
+ germany_mitteleuropa_events.4.t: "Саммит Комиссии Миттельевропы: выбрана третья повестка дня"
+ germany_mitteleuropa_events.4.d.supported: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичного обсуждения, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время является представителем [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nОни решили реализовать третье по популярности предложение повестки дня, которое мы также поддержали, — получение запланированных выгод."
+ germany_mitteleuropa_events.4.d.not_supported: "Делегаты всех стран Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время из [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nОни решили реализовать третье по популярности предложение повестки дня вместо того, которое поддержали мы, — так что мы упускаем запланированные выгоды."
+ germany_mitteleuropa_events.4.a: "Хорошо."
+ germany_mitteleuropa_events.4.b: "Черт."
+  
+ germany_mitteleuropa_events.5.t: "Саммит Комиссии Миттельевропы: повестка дня председателя выбрана"
+ germany_mitteleuropa_events.5.d.supported: "Делегаты всех государств Миттельевропы собираются в Берлине для двухгодичного обсуждения, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время является представителем [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими органами.\n\nВопреки голосованию, они решили поддержать повестку дня, которую сами предложили — к счастью, мы их поддержали, поэтому мы также получаем некоторые преимущества."
+ germany_mitteleuropa_events.5.d.not_supported: "Делегаты всех стран Миттельевропы собираются в Берлине для двухгодичных обсуждений, а также переговоров о направлении деятельности блока. Хотя будут обсуждаться сотни различных вопросов, только те, которые привлекли внимание достаточного количества государств-членов, получат необходимое им время. Председатель Комиссии Миттельевропы, который в настоящее время из [ MIT.GetNameDef], должен выбрать, какие из многочисленных предложений будут реализованы бюрократическими властями.\n\nБросая вызов голосованию, они решили поддержать повестку дня, которую сами предложили, а не нашу."
+ germany_mitteleuropa_events.5.a: "Хорошо."
+ germany_mitteleuropa_events.5.b: "Как они смеют!"
+  
+ germany_mitteleuropa_events.6.t: "Саммит Комиссии Миттельевропы: [ MIT_next_chairman.GetAdjective] Вызов лидерам"
+ germany_mitteleuropa_events.6.d: "Поступили новости от Комиссии Миттельевропы - [ MIT_next_chairman.GetNameDef] возглавил вотум недоверия нашему руководству. Из-за различных разочарований в нашем руководстве этот вызов получил достаточно большую поддержку среди государств-членов, и нам придется его рассмотреть. Мы можем принять этот вызов и разрешить выборы нового председателя - однако, если у нас самих будет большое влияние, мы можем просто проигнорировать вызов."
+ germany_mitteleuropa_events.6.a: "Признать поражение."
+ germany_mitteleuropa_events.6.b: "Они, должно быть, шутят!"
+  
+ germany_mitteleuropa_events.7.t: "[ MIT_next_chairman.GetNameDefCap] берет на себя руководство"
+ germany_mitteleuropa_events.7.d.new_leader: "Мы добились успеха. После длительных дебатов в рамках конференции Миттельевропы предыдущий председатель, представлявший [ MIT_previous_chairman.GetNameDef], ушел в отставку и позволил представителю из нашей страны избраться в качестве своего преемника. Теперь мы контролируем работу Миттельевропы ."
+ germany_mitteleuropa_events.7.d.others: "После длительных дебатов в рамках конференции Миттельевропы предыдущий председатель, представлявший [ MIT_previous_chairman.GetNameDef], ушел в отставку и позволил представителю из [ MIT_next_chairman.GetNameDef] избраться в качестве своего преемника. Теперь они контролируют работу Миттельевропы ."
+ germany_mitteleuropa_events.7.a: "Отлично!"
+  
+ germany_mitteleuropa_events.8.t: "[ MIT_previous_chairman.GetNameDefCap] бросает вызов лидерству"
+ germany_mitteleuropa_events.8.d.new_leader: "Вызов действующему председателю Комиссии Миттельевропы, представляющему [ MIT_previous_chairman.GetNameDef], во главе с нами, был проигнорирован, несмотря на то, что он получил большинство поддержки. Они были вынуждены потратить значительные ресурсы во время вызова, но остаться у власти."
+ germany_mitteleuropa_events.8.d.others: "Вызов действующему председателю Комиссии Миттельевропы, представляющему [ MIT_previous_chairman.GetNameDef], во главе с [ MIT_next_chairman.GetNameDef], был проигнорирован, несмотря на то, что он получил большинство поддержки. Они были вынуждены потратить значительные ресурсы во время вызова, но остаться у власти."
+ germany_mitteleuropa_events.8.a: "Это возмутительно!"
+  
+ germany_mitteleuropa_events.11.t: "Грядет голосование Миттельевропы "
+ germany_mitteleuropa_events.11.d.not_voted_yet: "Следующая конференция Миттельевропы должна состояться в течение следующего месяца. Учитывая, что будет обсуждаться ряд конкурирующих повесток дня, было бы разумно, если бы мы как можно скорее приняли решение о том, что мы должны поддержать на конференции."
+ germany_mitteleuropa_events.11.d.last_chance: "Следующая конференция Миттельевропы должна состояться в течение следующего месяца. Учитывая, что будет обсуждаться ряд конкурирующих повесток дня, было бы разумно убедиться, что мы поддержали лучший для нас вариант на конференции."
+ germany_mitteleuropa_events.11.a: "Понятно."
+  
+ germany_mitteleuropa_events.20.t: "Выход из Миттельевропы "
+ germany_mitteleuropa_events.20.d.defunct: "В результате нашего членства в Миттельевропе мы невероятно интегрировались в блок, взяв на себя ряд обязательств, а также получив некоторые преимущества, такие как торговля и взаимная оборона. Эти соглашения больше не действуют. Германия пала, и поэтому союз Миттельевропы больше не ограничивает нас никакими мерами."
+ germany_mitteleuropa_events.20.d.socialist: "В результате нашего членства в Миттельевропе мы невероятно интегрировались в блок, взяв на себя ряд обязательств, а также получив некоторые преимущества, такие как торговля и взаимная оборона. Эти соглашения больше не действуют. Наш народ восстал и установил социалистический режим, сделав их недействительными."
+ germany_mitteleuropa_events.20.d.war_with_GER: "В результате нашего членства в Миттельевропе мы невероятно интегрировались в блок, взяв на себя ряд обязательств, а также получив некоторые выгоды, такие как торговля и взаимная оборона. Эти соглашения больше не действуют. Поскольку мы находимся в состоянии войны с Германией, они были разорваны с предубеждением."
+ germany_mitteleuropa_events.20.d.kicked_out: "В результате нашего членства в Миттельевропе мы невероятно интегрировались в блок, взяв на себя ряд обязательств, а также получив некоторые выгоды, такие как торговля и взаимная оборона. Эти соглашения больше не действуют. Разозлив правительство в Берлине, мы разорвали их по соглашению кайзера."
+ germany_mitteleuropa_events.20.d.allied_with_rival: "В результате нашего членства в Миттельевропе мы невероятно интегрировались в блок, взяв на себя ряд обязательств, а также получив некоторые преимущества, такие как торговля и взаимная оборона. Эти соглашения больше не действуют. Из-за изменения нашей геополитической ориентации наши связи с Германией были разорваны."
+ germany_mitteleuropa_events.20.d.left_mitteleuropa: "В результате нашего членства в Миттельевропе мы невероятно интегрировались в блок, взяв на себя ряд обязательств, а также получив некоторые преимущества, такие как торговля и взаимная оборона. Эти соглашения больше не действуют. Последние из них были аннулированы дипломатическим соглашением с Германской империей сегодня, и мы снова являемся свободной страной."
+ germany_mitteleuropa_events.20.a: "Почему мы вообще подписали половину из них?"
+  
+ germany_mitteleuropa_events.21.t: "[FROM.GetNameDefCap] покидает Миттельевропу!"
+ germany_mitteleuropa_events.21.d.socialist: "[FROM.GetNameDefCap] сегодня разорвал последние связи с Миттельевропой - левая революция в их стране подтолкнула их к разрыву с нами и нашей сферой влияния. Любые планы, которые мы могли иметь в отношении их страны, должны быть оставлены на время."
+ germany_mitteleuropa_events.21.d.allied_with_rival: "[FROM.GetNameDefCap] сегодня разорвал последние связи с Миттельевропой - их правительство решило покинуть нашу сферу влияния и обратиться к одному из наших соперников. Любые планы, которые мы могли иметь в отношении их страны, должны быть оставлены на время."
+ germany_mitteleuropa_events.21.d.left_mitteleuropa: "[FROM.GetNameDefCap] сегодня разорвал последние связи с Миттельевропой - их правительство решило покинуть нашу сферу влияния, сославшись на эксплуататорский характер таможенного союза. Любые планы, которые мы могли иметь в отношении их страны, должны быть на время оставлены."
+ germany_mitteleuropa_events.21.a: "Предатели!"
+  
+ germany_mitteleuropa_events.1000.t: "Миттельевропа возвращается к деятельности"
+ germany_mitteleuropa_events.1000.d: "После начала экономического кризиса, вызванного крахом фондового рынка в черный понедельник, заставившего Германию отвлечься от иностранных дел на весь прошлый год, центрально европейский таможенный союз, более известный как Миттельевропа, вернулся к деятельности. Вновь проводятся саммиты министров иностранных дел организации, каждый из которых направлен на координацию экономик альянса и упрощение потока товаров. Со временем Миттельевропа расширилась до нескольких официальных и неофициальных сфер деятельности - и интересы государств-членов могут заставить ее помочь в той или иной области.\n\nКонечно, некоторые интеллектуалы и политики представляют себе немного больше и мечтают о возможности реформировать организацию и создать что-то новое... Немецкая экономическая гегемония? Исполнение общеевропейских мечтаний? Время покажет."
+ germany_mitteleuropa_events.1001.d: "Центрально европейский таможенный союз, более известный как Миттельевропа, вернулся к действиям. Снова проводятся саммиты министров иностранных дел организации, каждый из которых имеет целью координацию экономик альянса и облегчение потока товаров. Со временем Миттельевропа расширилась до нескольких официальных и неофициальных сфер деятельности - и интересы государств-членов могут заставить ее помочь в той или иной области.\n\nКонечно, некоторые интеллектуалы и политики представляют себе немного больше и мечтают о возможности реформировать организацию и создать что-то новое... Немецкая экономическая гегемония? Исполнение панъевропейских мечтаний? Время покажет."
+ germany_mitteleuropa_events.1000.a: "Хорошо."
+  
+ germany_mitteleuropa_events.1002.t: "Система директив"
+ germany_mitteleuropa_events.1002.d: "Конференция Миттельевропы одобрила внедрение системы директив для организации работы учреждений, контролирующих бюрократические органы Миттельевропы. Директивы — это резолюции Комиссии Миттельевропы по некоторым целям или проектам — они обязательны к достижению в течение определенного времени, но их реализация ложится на государства-члены независимо, сохраняя свою автономию во внутренних делах. Это несколько повысит эффективность Миттельевропы ."
+ germany_mitteleuropa_events.1002.a: "Понятно."
+  
+ germany_mitteleuropa_events.1003.t: "Суд Миттельевропы"
+ germany_mitteleuropa_events.1003.d: "Комиссия Миттельевропы создала наднациональный суд, которому будет поручено толкование конфликтов между национальным законодательством и условиями членства в нашем общем рынке. Кроме того, их собрание уважаемых ученых-юристов сможет помочь государствам-членам в гармонизации их правовых систем друг с другом, если они когда-либо попросят об этом."
+ germany_mitteleuropa_events.1003.a: "Понятно."
+  
+ germany_mitteleuropa_events.1004.t: "Система регулирования"
+ germany_mitteleuropa_events.1004.d: "Конференция Миттельевропы одобрила внедрение системы регулирования для организации работы учреждений, контролирующих бюрократические органы Миттельевропы. Регламенты — это резолюции Комиссии Миттельевропы, которые обязательны для соблюдения всеми государствами-членами, независимо от их позиции по политике. Это несколько повысит эффективность Миттельевропы, но также расширит влияние Германии."
+ germany_mitteleuropa_events.1004.a: "Понятно."
+  
+ germany_mitteleuropa_events.1005.t: "Растущая бюрократия Миттельевропы в Берлине"
+ germany_mitteleuropa_events.1005.d: "Комиссия Миттельевропы начала перемещать почти все бюрократические учреждения организации в Берлин, и все больше и больше государственных служащих, работающих в организации, теперь нанимаются из немецких клерков в городе. Это начало все больше и больше смещать интересы организации в сторону немецких интересов, что склонило чашу весов в пользу Германии."
+ germany_mitteleuropa_events.1005.a: "Понятно."
+  
+ germany_mitteleuropa_events.1006.t: "Дирекция по обеспечению соблюдения"
+ germany_mitteleuropa_events.1006.d: "Конференция Миттельевропы одобрила создание Дирекции по обеспечению соблюдения Миттельевропы. Этой дирекции будет поручено наблюдение за выполнением Регламентов во всех государствах-членах, и она будет иметь возможность выносить выговоры государствам, а также устанавливать санкции в отношении государств-членов, которые не выполняют введенные Регламенты. Это усилит контроль Германии над Миттельевропы."
+ germany_mitteleuropa_events.1006.a: "Понятно."
+  
+ germany_mitteleuropa_events.1007.t: "Конференциальный контроль над институтами"
+ germany_mitteleuropa_events.1007.d: "Конференция Миттельевропы одобрила изменения в назначении важных должностных лиц в бюрократических институтах Миттельевропы. Вместо назначения с исключительной прерогативой президента, теперь им потребуется одобрение Консультативной ассамблеи, что означает, что парламентарии и представители государств Миттельевропы будут иметь большее влияние на направление блока."
+ germany_mitteleuropa_events.1007.a: "Понятно."
+  
+ germany_mitteleuropa_events.1008.t: "Европейская зона свободного передвижения"
+ germany_mitteleuropa_events.1008.d: "Конференция Миттельевропы одобрила создание Центральноевропейской зоны свободного передвижения — дополнительного уровня к институтам Миттельевропы. Эта организация обяжет все государства-члены сократить пограничный контроль на внутренних границах блока, что позволит торговле и транспорту между государствами перемещаться в основном беспрепятственно. Проверка документов и другие меры безопасности по-прежнему будут существовать, но эта реформа значительно сократит правила и время ожидания в поездках между государствами-членами, как для товаров, так и для частных лиц."
+ germany_mitteleuropa_events.1008.a: "Я всегда хотел посетить Европу..."
+ germany_mitteleuropa_events.1008.b: "Мы хотели бы отказаться."
+  
+ germany_mitteleuropa_events.1009.t: "Европамарка"
+ germany_mitteleuropa_events.1009.d: "Конференция Миттельевропы одобрила создание Евромарки — резервной валюты для блока Миттельевропа. Это будет общая торговая валюта, которая будет использоваться для транзакций между государствами-членами блока, что облегчит торговлю между ними и повысит ее справедливость, поскольку ни одному государству-участнику не придется беспокоиться о том, что его обманут несправедливыми курсами обмена валют."
+ germany_mitteleuropa_events.1009.a: "Мы присоединимся к сети Евромарки."
+ germany_mitteleuropa_events.1009.b: "Мы хотели бы отказаться."
+  
+ germany_mitteleuropa_events.1010.t: "Банк Центральной Европы"
+ germany_mitteleuropa_events.1010.d: "Конференция Миттельевропы одобрила создание Банка Центральной Европы — центрального банка для экономического блока Миттельевропы. Чтобы избежать искажения рынка неравной фискальной политикой, Банк будет учреждением, которому поручено создание общей фискальной политики для всех членов MITte Миттельевропы leuropa, которые присоединятся к Банку, — например, минимальный уровень процентной ставки среди государств-членов. Он также сможет предоставлять кредиты под низкие проценты на цели развития и консультировать государства-члены по вопросам финансовой политики."
+ germany_mitteleuropa_events.1010.a: "Мы станем членом Банка Центральной Европы."
+ germany_mitteleuropa_events.1010.b: "Мы хотели бы отказаться."

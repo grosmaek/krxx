@@ -1,0 +1,421 @@
+﻿l_russian:
+  
+ ### Renaming Events ### 
+  
+ gru.1.t: "Демократизация нашей администрации"
+ gru.1.d: "Чтобы порвать со старым реакционным режимом, мы должны избавиться от его влияния в каждом уголке нашей новой страны. Администрация должна быть демократизирована, учителя перевоспитаны, а армия реструктурирована. Частью этого процесса является лишение почестей, которыми они награждали джингоистских убийц, таких как Отто фон Бисмарк и Пауль фон Гинденбург. Самыми яркими примерами являются бесчисленные мемориальные башни Бисмарка по всей стране, а также город Гинденбург. Наш президент выступил с предложением назвать его в честь Карла Маркса, в то время как местные жители предпочли оставить это абсурдное название."
+ gru.1.a: "Переименовать его в честь Карла Маркса"
+ gru.1.b: "Название, отражающее его промышленное происхождение"
+  
+ gru.2.t: "Восстановление старого порядка"
+ gru.2.d: "После победы над нашими социалистическими врагами пришло время навести порядок и на местном уровне. Их режим изменил названия мест, улиц и бульваров, названных в честь героев нашего народа, потому что они считались непредставительными или контрреволюционными. Их первоначальные названия должны быть восстановлены."
+ gru.2.a: "Это будет Гинденбург навсегда"
+  
+ gru.3.t: "Просьба Германии о независимости"
+ gru.3.d: "Немецкое правительство потратило немало времени на то, чтобы создать себя. В кои-то веки кажется, что ее больше не рассматривают как наше государство-клиент. Возможно, наконец-то пришло время предоставить им независимость, освободив от нашего надзора."
+ gru.3.a: "Они заслужили это."
+ gru.3.b: "Немцам нельзя доверять."
+  
+ gru.4.t: "Эксплуатация: Брудер"
+ gru.4.d: "В последнее время наше государство-клиент в Германии пытается разжечь революцию в Австрии. Их действия наверняка приведут к войне между ними и австрийцами. Мы должны подумать, готовы ли мы к такой войне."
+ gru.4.a: "Одобрить операцию."
+ gru.4.b: "Прикажите им отступить."
+  
+ gru.5.t: "Операция: Веттер"
+ gru.5.d: "В последнее время наше государство-клиент в Германии пытается разжечь революцию в Польше. Их действия наверняка приведут к войне между ними и поляками. Мы должны подумать, готовы ли мы к такой войне."
+ gru.5.a: "Одобрить операцию."
+ gru.5.b: "Прикажите им отступить."
+  
+ gru.6.t: "Операция: Швестер"
+ gru.6.d: "В последнее время наше государство-клиент в Германии пытается разжечь революцию в Пруссии, пытаясь разжечь пламя воссоединения Германии. Их действия наверняка приведут к войне между ними и правительством Пруссии. Мы должны подумать, готовы ли мы к такой войне."
+ gru.6.a: "Одобрить операцию."
+ gru.6.b: "Прикажите им отступить."
+  
+ ### Parties ### 
+ GRU_totalist_party: "КЕРПГ"
+ GRU_totalist_party_long: "Коммунистическая Единая Рабочая Партия Германии"
+ GRU_syndicalist_party: "КЕРПГ"
+ GRU_syndicalist_party_long: "Коммунистическая Единая Рабочая Партия Германии"
+ GRU_radical_socialist_party: "КЕРПГ"
+ GRU_radical_socialist_party_long: "Коммунистическая Единая Рабочая Партия Германии"
+ GRU_social_democrat_party: "Сопаде"
+ GRU_social_democrat_party_long: "Партийное руководство Социал-демократической партии Германии в изгнании - Сопаде"
+ GRU_social_liberal_party: "Фрайбургский круг"
+ GRU_social_liberal_party_long: "Фрайбургский круг"
+ GRU_market_liberal_party: "Фрайбургский круг"
+ GRU_market_liberal_party_long: "Фрайбургский круг"
+ GRU_social_conservative_party: "Сообщество католического действия"
+ GRU_social_conservative_party_long: "Сообщество католического действия"
+ GRU_authoritarian_democrat_party: "НКзСГ"
+ GRU_authoritarian_democrat_party_long: "Национальный Комитет за Свободу Германии"
+ GRU_paternal_autocrat_party: "НКзСГ"
+ GRU_paternal_autocrat_party_long: "Национальный Комитет за Свободу Германии"
+ GRU_national_populist_party: "НКзСГ"
+ GRU_national_populist_party_long: "Национальный Комитет за Свободу Германии"
+  
+ GRU_syndicalist_FAUD_party: "FAUD" #NT!
+ GRU_syndicalist_FAUD_party_long: "Freie Arbeiter Union Deutschlands (Free Workers' Union of Germany)" #NT!
+ GRU_syndicalist_communist_party: "SP" #NT!
+ GRU_syndicalist_communist_party_long: "Sozialistische Partei Deutschlands (Socialist Party of Germany)" #NT!
+ GRU_radical_socialist_communist_party: "КПГ"
+ GRU_radical_socialist_communist_party_long: "Коммунистическая партия Германии"
+  
+ GRU_social_democrat_democratic_party: "СДПГ"
+ GRU_social_democrat_democratic_party_long: "Социал-демократическая партия Германии"
+ GRU_social_liberal_democratic_party: "НЛП"
+ GRU_social_liberal_democratic_party_long: "Народная Либеральная партия"
+ GRU_market_liberal_democratic_party: "ННП"
+ GRU_market_liberal_democratic_party_long: "Народная Немецкая партия"
+ GRU_social_conservative_democratic_party: "ХНП"
+ GRU_social_conservative_democratic_party_long: "Христианская народная партия"
+ GRU_authoritarian_democrat_democratic_party: "НБ"
+ GRU_authoritarian_democrat_democratic_party_long: "Немецкий блок"
+ GRU_paternal_autocrat_democratic_party: "НБ"
+ GRU_paternal_autocrat_democratic_party_long: "Немецкий блок"
+ GRU_national_populist_democratic_party: "ННП"
+ GRU_national_populist_democratic_party_long: "Немецкая Народная партия"
+  
+ GRU_national_populist_dictatorship_party: "НСП"
+ GRU_national_populist_dictatorship_party_long: "Немецкая социалистическая партия"
+  
+ GRU: "Германия"
+ GRU_ADJ: "Германск"
+ GRU_DEF: "Германия"
+  
+ GRU_totalist: "Свободная Социалистическая Республика Германия"
+ GRU_totalist_DEF: "Свободная Социалистическая Республика Германия"
+ GRU_syndicalist: "Свободная Свободная Социалистическая Республика Германия"
+ GRU_syndicalist_DEF: "Свободная Социалистическая Республика Германия"
+ GRU_radical_socialist: "Свободная Социалистическая Республика Германия"
+ GRU_radical_socialist_DEF: "Свободная Социалистическая Республика Германия"
+ GRU_social_democrat: "Германская Республика"
+ GRU_social_democrat_DEF: "Германская Республика"
+ GRU_social_liberal: "Германская Республика"
+ GRU_social_liberal_DEF: "Германская Республика"
+ GRU_market_liberal: "Германская Республика"
+ GRU_market_liberal_DEF: "Германская Республика"
+ GRU_social_conservative: "Германская Республика"
+ GRU_social_conservative_DEF: "Германская Республика"
+ GRU_authoritarian_democrat: "Германское Республика"
+ GRU_authoritarian_democrat_DEF: "Германское Республика"
+ GRU_paternal_autocrat: "Германское Государство"
+ GRU_paternal_autocrat_DEF: "Германское Государство"
+ GRU_national_populist: "Германское Государство"
+ GRU_national_populist_DEF: "Германское Государство"
+  
+ GRU_empire: "Германская Империя"
+ GRU_empire_DEF: "Германская Империя"
+ GRU_empire_syndicalist: "Германская Империя"
+ GRU_empire_syndicalist_DEF: "Германская Империя"
+ GRU_empire_radical_socialist: "Германская Империя"
+ GRU_empire_radical_socialist_DEF: "Германская Империя"
+ GRU_empire_social_democrat: "Германская Империя"
+ GRU_empire_social_democrat_DEF: "Германская Империя"
+ GRU_empire_social_liberal: "Германская Империя"
+ GRU_empire_social_liberal_DEF: "Германская Империя"
+ GRU_empire_market_liberal: "Германская Империя"
+ GRU_empire_market_liberal_DEF: "Германская Империя"
+ GRU_empire_social_conservative: "Германская Империя"
+ GRU_empire_social_conservative_DEF: "Германская Империя"
+ GRU_empire_authoritarian_democrat: "Германская Империя"
+ GRU_empire_authoritarian_democrat_DEF: "Германская Империя"
+ GRU_empire_paternal_autocrat: "Германская Империя"
+ GRU_empire_paternal_autocrat_DEF: "Германская Империя"
+ GRU_empire_national_populist: "Германская Империя"
+ GRU_empire_national_populist_DEF: "Германская Империя"
+  
+ ### Focus Tree ### 
+ German_Puppet_focus: "Древо фокусов марионеточной Германии"
+  
+ GRU_risen_from_ruins: "Восстать из руин"
+ GRU_risen_from_ruins_desc: "" #NT!
+ GRU_begin_GCC: "Открыть заседание"
+ GRU_begin_GCC_desc: "" #NT!
+ GRU_rehab_unions: "Реабилитировать реформистские профсоюзы"
+ GRU_rehab_unions_desc: "" #NT!
+ GRU_purge_reactionaries: "Устранить влияние реакционеров"
+ GRU_purge_reactionaries_desc: "" #NT!
+ GRU_redraw_volksstaats: "Перекроить границы фольксштата"
+ GRU_redraw_volksstaats_desc: "" #NT!
+ GRU_KAPD_election: "Передать факел"
+ GRU_KAPD_election_desc: "" #NT!
+ GRU_socialists: "Фронт социалистического единства"
+ GRU_socialists_desc: "" #NT!
+ GRU_councilists: "Федерация советов"
+ GRU_councilists_desc: "" #NT!
+ GRU_communists: "Национализм и коммунизм"
+ GRU_communists_desc: "" #NT!
+  
+ GRU_implement_syndicalism: "Внедрять местный синдикализм"
+ GRU_implement_syndicalism_desc: "" #NT!
+ GRU_find_allies: "Расширить фронт единства"
+ GRU_find_allies_desc: "" #NT!
+ GRU_liberal_opposition: "Работать с либеральной оппозицией"
+ GRU_liberal_opposition_desc: "" #NT!
+ GRU_bodenreform: "Начать боденреформу"
+ GRU_bodenreform_desc: "" #NT!
+ GRU_democratic_centralism: "Начать культурную революцию"
+ GRU_democratic_centralism_desc: "" #NT!
+ GRU_enforce_unity: "Обеспечить единство партии"
+ GRU_enforce_unity_desc: "" #NT!
+ GRU_destroy_landowners: "Уничтожить класс землевладельцев"
+ GRU_destroy_landowners_desc: "" #NT!
+ GRU_farming_coop: "Социалистические фермерские кооперативы"
+ GRU_farming_coop_desc: "" #NT!
+ GRU_sorelianism: "Поддерживать социалистическую ортодоксию"
+ GRU_sorelianism_desc: "" #NT!
+ GRU_DSP: "Преобразовать членство в НСП"
+ GRU_DSP_desc: "" #NT!
+ GRU_national_energy: "Использовать национальную энергию Германии"
+ GRU_national_energy_desc: "" #NT!
+ GRU_purge_opposition: "Вычистить бюрократических синдикалистов"
+ GRU_purge_opposition_desc: "" #NT!
+ GRU_land_redistribution: "Перераспределить негерманские земли"
+ GRU_land_redistribution_desc: "" #NT!
+ GRU_councilism_supreme: "Закрепить доктрину советизма"
+ GRU_councilism_supreme_desc: "" #NT!
+ GRU_land_grants: "Проводить социализацию земель"
+ GRU_land_grants_desc: "" #NT!
+  
+ GRU_remilitarization: "Начать ремилитаризацию"
+ GRU_remilitarization_desc: "" #NT!
+ GRU_rebuild_mils: "Восстановить промышленность военного времени"
+ GRU_rebuild_mils_desc: "" #NT!
+ GRU_sword_and_shield: "Меч и щит рабочего класса"
+ GRU_sword_and_shield_desc: "" #NT!
+ GRU_expand_police_force: "Расширить фольксполицию"
+ GRU_expand_police_force_desc: "" #NT!
+ GRU_red_mitte: "Красная Миттельевропа"
+ GRU_red_mitte_desc: "" #NT!
+ GRU_paperclip: "Нанять ветеранов Abteitung IIIb"
+ GRU_paperclip_desc: "" #NT!
+ GRU_volkswehrmacht: "Создать Фольксверкрафт"
+ GRU_volkswehrmacht_desc: "" #NT!
+ GRU_austrian_uprising: "Радикализировать австромарксистов"
+ GRU_austrian_uprising_desc: "" #NT!
+ GRU_prussian_uprising: "Освободить прусских рабочих"
+ GRU_prussian_uprising_desc: "" #NT!
+ GRU_polish_uprising: "Разжигание революции в Польше"
+ GRU_polish_uprising_desc: "" #NT!
+ GRU_germany_over_prussia: "Германское единство против прусской тирании"
+ GRU_germany_over_prussia_desc: "" #NT!
+ GRU_thrdint_planes: "Приобрести самолеты Третьего Интернационала"
+ GRU_thrdint_planes_desc: "" #NT!
+ GRU_reunification: "Мечта о воссоединении"
+ GRU_reunification_desc: "" #NT!
+ GRU_eastern_fortification: "Восточный фланг Третьего Интернационала"
+ GRU_eastern_fortification_desc: "" #NT!
+ GRU_request_independence: "Вопрос о независимости"
+ GRU_request_independence_desc: "" #NT!
+ GRU_legitimate_government: "Легитимное правительство Германии"
+ GRU_legitimate_government_desc: "" #NT!
+ GRU_free_socialist_government: "Свободное социалистическое правительство"
+ GRU_free_socialist_government_desc: "" #NT!
+  
+ GRU_facing_the_future: "Перед лицом будущего"
+ GRU_facing_the_future_desc: "" #NT!
+ GRU_federal_republic: "Федеративная Германская Республика"
+ GRU_federal_republic_desc: "" #NT!
+ GRU_new_empire: "Вторая Германская империя"
+ GRU_new_empire_desc: "" #NT!
+ GRU_democratic_constitution: "Истинно демократическая конституция"
+ GRU_democratic_constitution_desc: "" #NT!
+ GRU_federalization: "Федерация равных"
+ GRU_federalization_desc: "" #NT!
+ GRU_semi_presidential: "A President of the People" #NT!
+ GRU_semi_presidential_desc: "" #NT!
+ GRU_free_elections: "Первые свободные выборы"
+ GRU_free_elections_desc: "" #NT!
+ GRU_SPD: "Демократические левые"
+ GRU_SPD_desc: "" #NT!
+ GRU_true_welfare_state: "Настоящее государство всеобщего благосостояния"
+ GRU_true_welfare_state_desc: "" #NT!
+ GRU_socialize_land: "Земельный вопрос"
+ GRU_socialize_land_desc: "" #NT!
+ GRU_combat_homlessness: "Beschäftigungsprogramm"
+ GRU_combat_homlessness_desc: "" #NT!
+ GRU_prevent_betrayal: "Больше никаких предательств"
+ GRU_prevent_betrayal_desc: "" #NT!
+ GRU_second_du: "Второй Демократический Союз"
+ GRU_second_du_desc: "" #NT!
+ GRU_domestic_reform: "Великая внутренняя реформа"
+ GRU_domestic_reform_desc: "" #NT!
+ GRU_circus_right: "Круг правых"
+ GRU_circus_right_desc: "" #NT!
+ GRU_LVP: "Либеральная народная партия"
+ GRU_LVP_desc: "" #NT!
+ GRU_liberal_welfare: "Либеральное государство всеобщего благосостояния"
+ GRU_liberal_welfare_desc: "" #NT!
+ GRU_liberal_industry: "Наши деловые союзники"
+ GRU_liberal_industry_desc: "" #NT!
+ GRU_liberal_democracy: "Мечта 1848 года"
+ GRU_liberal_democracy_desc: "" #NT!
+ GRU_new_march: "Наши естественные союзники"
+ GRU_new_march_desc: "" #NT!
+ GRU_centre_forever: "Новая мартовская коалиция"
+ GRU_centre_forever_desc: "" #NT!
+ GRU_CVP: "Христианская народная партия"
+ GRU_CVP_desc: "" #NT!
+ GRU_leaving_the_tower: "Покидая башню"
+ GRU_leaving_the_tower_desc: "" #NT!
+ GRU_christian_unionism: "Традиция христианских профсоюзов"
+ GRU_christian_unionism_desc: "" #NT!
+ GRU_christian_democracy: "Современная христианская демократия"
+ GRU_christian_democracy_desc: "" #NT!
+ GRU_german_right: "Немецкие правые"
+ GRU_german_right_desc: "" #NT!
+ GRU_DkP: "Немецкий блок"
+ GRU_DkP_desc: "" #NT!
+ GRU_national_conservative: "Консервативный идеализм"
+ GRU_national_conservative_desc: "" #NT!
+ GRU_living_in_faith: "Жизнь в религии"
+ GRU_living_in_faith_desc: "" #NT!
+ GRU_renewed_national_spirit: "Обновленный немецкий дух"
+ GRU_renewed_national_spirit_desc: "" #NT!
+ GRU_enhance_executive_power: "Место президента"
+ GRU_enhance_executive_power_desc: "" #NT!
+ GRU_volkonservative: "Фольконсервативная доктрина"
+ GRU_volkonservative_desc: "" #NT!
+ GRU_end_monopolies: "Покончить с монополиями"
+ GRU_end_monopolies_desc: "" #NT!
+ GRU_nationalism_liberalism: "Национализм и либерализм"
+ GRU_nationalism_liberalism_desc: "" #NT!
+ GRU_DVP: "Немецкая народная партия"
+ GRU_DVP_desc: "" #NT!
+ GRU_peoples_state: "Немецкий фолькстаат"
+ GRU_peoples_state_desc: "" #NT!
+ GRU_army_with_state: "Построение верхового государства"
+ GRU_army_with_state_desc: "" #NT!
+ GRU_pacification_campaign: "Начать кампанию умиротворения"
+ GRU_pacification_campaign_desc: "" #NT!
+ GRU_nationalize_industry: "Национализировать нашу промышленную мощь"
+ GRU_nationalize_industry_desc: "" #NT!
+ GRU_verpo_merger: "Единая тайная полиция"
+ GRU_verpo_merger_desc: "" #NT!
+ GRU_building_bureaucracy: "Создание гражданской бюрократии"
+ GRU_building_bureaucracy_desc: "" #NT!
+ GRU_prussian_stratocracy: "Наследие прусской стратократии"
+ GRU_prussian_stratocracy_desc: "" #NT!
+ GRU_german_nationalism: "Немецкий национальный популизм"
+ GRU_german_nationalism_desc: "" #NT!
+ GRU_nationalist_landreform: "Перераспределение негерманских земель"
+ GRU_nationalist_landreform_desc: "" #NT!
+ GRU_loyal_officer_corps: "Обеспечить лояльный офицерский корпус"
+ GRU_loyal_officer_corps_desc: "" #NT!
+ GRU_chamber_of_estates: "Создать Палату сословий"
+ GRU_chamber_of_estates_desc: "" #NT!
+ GRU_cutail_dsp: "Приструнить НСП"
+ GRU_cutail_dsp_desc: "" #NT!
+ GRU_expand_secret_police: "Агенты Верпо за каждым углом"
+ GRU_expand_secret_police_desc: "" #NT!
+ GRU_infiltrate_military: "Проникнуть в армию"
+ GRU_infiltrate_military_desc: "" #NT!
+ GRU_found_unification_army: "Основать Армию Объединения"
+ GRU_found_unification_army_desc: "" #NT!
+ GRU_look_to_reformists: "Смотреть на реформистов"
+ GRU_look_to_reformists_desc: "" #NT!
+ GRU_rehab_die_fronde: "Реабилитация Die Fronde"
+ GRU_rehab_die_fronde_desc: "" #NT!
+ GRU_new_german_spirit: "Воспоминания об объединенной Германии"
+ GRU_new_german_spirit_desc: "" #NT!
+ GRU_rebuild_panzer_corps: "Восстановление немецких танковых корпусов"
+ GRU_rebuild_panzer_corps_desc: "" #NT!
+ GRU_anti_socialism: "Антисиндикалистская реторика"
+ GRU_anti_socialism_desc: "" #NT!
+ GRU_anti_nationalism: "Проникновение национал-популистов"
+ GRU_anti_nationalism_desc: "" #NT!
+ GRU_peoples_war: "Фолькскриг"
+ GRU_peoples_war_desc: "" #NT!
+ GRU_prepare_industry: "Разжечь печи"
+ GRU_prepare_industry_desc: "" #NT!
+ GRU_import_modern_arms: "Импорт современной доктрины"
+ GRU_import_modern_arms_desc: "" #NT!
+ GRU_request_for_independence: "Попросить независимость"
+ GRU_request_for_independence_desc: "" #NT!
+ GRU_pursue_unification: "Движение к объединению"
+ GRU_pursue_unification_desc: "" #NT!
+ GRU_germany_above_all: "Германия превыше всего"
+ GRU_germany_above_all_desc: "" #NT!
+  
+ ### Ideas ### 
+  
+ GRU_occupation_government: "Оккупационное правительство"
+ GRU_burgeoning_government: "Развивающееся правительство"
+ GRU_socialist_government_1: "Молодое социалистическое правительство"
+ GRU_councilist_government_1: "Молодое советское правительство"
+ GRU_nationalist_government_1: "Молодое коммунистическое правительство"
+ GRU_socialist_government_2: "Легитимное социалистическое правительство"
+ GRU_councilist_government_2: "Легитимное советское правительство"
+ GRU_nationalist_government_2: "Легитимное коммунистическое правительство"
+ GRU_socialist_government_3: "Соперничающее социалистическое правительство"
+ GRU_councilist_government_3: "Соперничающее советское правительство"
+ GRU_nationalist_government_3: "Соперничающее коммунистическое правительство"
+ GRU_scars_of_2wk: "Шрамы второго Вельткрига"
+ GRU_lingering_reactionary_influence_1: "Затянувшееся влияние реакционеров"
+ GRU_lingering_reactionary_influence_2: "Затянувшееся влияние реакционеров"
+ GRU_lingering_reactionary_influence_3: "Затянувшееся влияние реакционеров"
+ GRU_socialist_resistance_1: "Активное социалистическое сопротивление"
+ GRU_socialist_resistance_2: "Уменьшение социалистического сопротивления"
+ GRU_socialist_resistance_3: "Широкомасштабное социалистическое сопротивление"
+ GRU_revolutionary_unions: "Настоящие социалистические профсоюзы"
+ GRU_no_standing_army: "Вневедомственная постоянная армия"
+ GRU_local_syndicalism: "Государственный уровень Синдикализм"
+ GRU_socialist_land_reform: "Умеренная земельная реформа"
+ GRU_councilist_land_reform: "Начало Боденрефром"
+ GRU_farming_cooperatives: "Коллективизированная земельная реформа"
+ GRU_german_national_energy: "Немецкая национальная энергетика"
+ GRU_communist_land_reform: "Националистическая земельная реформа"
+ GRU_land_socialization: "Социализированная земельная реформа"
+ GRU_councilist_orthodoxy: "Закрепленная советологическая мысль"
+ GRU_abwehr_1: "Абвер"
+ GRU_abwehr_2: "Абвер"
+ GRU_industrial_heart: "Промышленное сердце Европы"
+ GRU_volkswehrmacht_1: "Дезорганизованные ополченцы"
+ GRU_volkswehrmacht_2: "Милитаризованная полиция"
+ GRU_volkswehrmacht_3: "Создание Фольксверкрефте"
+ GRU_volkswehrmacht_4: "Профессиональные Фольксверкрефте"
+ GRU_democratic_government: "Молодое демократическое правительство"
+ GRU_leftist_government_1: "Слабое левое демократическое правительство"
+ GRU_leftist_government_2: "Сильное левое демократическое правительство"
+ GRU_liberal_government_1: "Слабое либерально-демократическое правительство"
+ GRU_liberal_government_2: "Сильное либерально-демократическое правительство"
+ GRU_centrist_government_1: "Слабое центристское демократическое правительство"
+ GRU_centrist_government_2: "Сильное центристское демократическое правительство"
+ GRU_conservative_government_1: "Слабое консервативное демократическое правительство"
+ GRU_conservative_government_2: "Сильное консервативное демократическое правительство"
+ GRU_rightist_government_1: "Слабое правое демократическое правительство"
+ GRU_rightist_government_2: "Сильное правое демократическое правительство"
+ GRU_federation_of_equals: "Федерация равных"
+ GRU_empowered_executive: "Власть президента"
+ GRU_liberal_welfare_1: "Восстанавливающееся государство всеобщего благосостояния"
+ GRU_spd_welfare_2: "Совершенствование государства всеобщего благосостояния"
+ GRU_spd_welfare_3: "Модель государства всеобщего благосостояния"
+ GRU_spd_employment: "Бешефтигунгспрограмм"
+ GRU_liberal_unity: "Соединения Штреземаните"
+ GRU_christian_unions: "Возрожденный христианский юнионизм"
+ GRU_anti_trust_laws: "Антимонопольное законодательство"
+ GRU_pietism: "Пиетистский дух"
+ GRU_nationalist_fervour: "Националистический пыл"
+ GRU_reunification_conplete: "Объединение Германии завершено"
+ GRU_bundeswer_1: "Вооруженные силы Германии"
+ GRU_pacification_campaign_ongoing: "Кампания по умиротворению страны"
+ GRU_authoritarian_governemnt: "Стратократическое правительство"
+ GRU_corpratist_governemnt: "Фолькстаат"
+ GRU_government_military: "Верстат"
+ GRU_loyal_officers: "Преданный офицерский корпус"
+ GRU_nationalist_officers: "Фанатичный офицерский корпус"
+ GRU_nationalist_landreform_idea: "Современное немецкое крестьянство"
+ GRU_disorganised_high_command: "Disorganised High Command" #NT!
+ GRU_reformist_army: "Наследие реформаторов"
+ GRU_fronde_army: "Армия Фронды"
+ GRU_anti_nationalist_fervor: "Антинациональный популизм"
+ GRU_volkswehr: "Тоталер Криг"
+ GRU_anti_socialist_fervor: "Антисоциалистический пыл"
+ GRU_internationale_planes: "Интернациональные самолеты"
+  
+ ### Tool Tips ### 
+  
+ GRU_begin_GCC_tt: "Начнется съезд Генерального совета."
+ GRU_KAPD_election_tt: "Выборы в KAPD решат, кто будет управлять гражданским правительством."
+ GRU_free_elections_tt: "В Германии пройдут выборы. Победитель будет определяться на основе идеологии владыки Германии."
+ GRU_independence_tt: "Предоставление Германии независимости позволит им провести объединение без нашего посредничества."

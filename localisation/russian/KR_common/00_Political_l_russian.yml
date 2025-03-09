@@ -1,0 +1,294 @@
+﻿l_russian:
+
+### Generic Faction Joining ###
+ kr.political.10.t: "Альянс с [FROM.GetNonIdeologyNameDef]?"
+ kr.political.10.d: "Международные отношения часто бывают изменчивыми, соглашения и союзнические отношения быстро сменяют друг друга от поколения к поколению. Иногда даже в течение одного поколения пакты подписываются и отменяются по мере изменения интересов. Нестабильность, возникшая после Черного Понедельника и других политических событий по всему миру, усилила опасения многих слабых стран, что великие державы, вступающие в борьбу, застанут их врасплох.\n\nВ то время как некоторые обращаются к изоляции либо из-за собственных внутренних неурядиц, либо в надежде, что нейтралитет сделает их не стоящими времени для различных держав, чтобы охотиться на них, [FROM.GetNameDefCap] выбрал противоположный подход. Теперь, когда все внутренние проблемы решены, люди в [FROM.GetNameDefCap] начали смотреть вовне, надеясь найти защиту, которую дадут им союзники. Мы, возможно, из-за превосходных географических условий, военной мощи или идеологической последовательности, являемся выбором союзников [ROOT.GetFactionName].\n\n Теперь остается вопрос, примем ли мы их? Еще один союзник в нашем пакте означает дополнительные ресурсы для наших объединенных сил, хотя любые дополнительные опасности, которые они добавляют для нашей фракции - это опасности, которые будут приняты во внимание. Любые конкурирующие претензии должны быть приняты во внимание, как и любые разногласия, которые они могут вызвать между членами фракции. Каким должно быть наше решение?"
+ kr.political.10.a: "Вместе сильнее!"
+ kr.political.10.b: "Если подумать, то нет..."
+
+ kr.political.11.t: "[From.GetNonIdeologyNameDefCap] приняла!"
+ kr.political.11.d: "Выслушав нашу просьбу о вступлении в альянс, [From.GetNameDefCap] принял наше заявление, и теперь мы становимся членом [FROM.GetFactionName]. Это, надеюсь, повысит нашу безопасность в эти тревожные времена, так как мы стремимся обеспечить защиту нашего народа от внешних сил и иностранного вмешательства.\n\nНо это не значит, что это соглашение дается бесплатно. На нас возлагаются определенные надежды по участию в общей обороне государств [FROM.GetFactionName], и мы, вероятно, будем вовлечены в конфликты, связанные с этим пактом. Это включает возможность участия в войнах, инициированных членами этого пакта.\n\n Теперь мы идем в будущее вместе, наши судьбы теперь переплетены как на словах, так и силой оружия. Если повезет, мы получим от этого соглашения гораздо больше, чем потеряли в автономии."
+ kr.political.11.a: "Превосходно!"
+
+ kr.political.12.t: "[From.GetNonIdeologyNameDefCap] отказала!"
+ kr.political.12.d: "Несмотря на наши убедительные призывы к тому, что мы могли бы стать эффективным вкладчиком и членом их альянса, к нашему огорчению [From.GetNameDef] отклонил нашу просьбу о вступлении в [FROM.GetFactionName]. В некотором смысле, этого можно было ожидать: союзы часто бывают непростыми и полными опасностей, и при их заключении следует проявлять некоторую осторожность. Тем не менее, этот отказ ставит нас в затруднительное положение. Либо у них нет намерений защищать нас, либо, что более цинично, они рассматривают нас как будущую цель на поле боя.\n\n Тогда мы должны поспешить, чтобы найти работающие средства национальной безопасности. Будь то поиск другого альянса, который защитит нас от вторжения, обращение к нескольким фракциям в качестве доброжелательного нейтрального посредника или обращение внутрь страны для создания вооруженной обороны, мы должны обеспечить безопасность нашего народа. [FROM.GetFactionName] может сожалеть или не сожалеть о том, что отверг нас, но очень важно, чтобы мы не сожалели о таком исходе."
+ kr.political.12.a: "Их потеря."
+
+ kr.political.13.t: "Альянс с [FROM.GetNonIdeologyNameDef]?"
+ kr.political.13.d: "Международные отношения часто бывают изменчивыми, соглашения и союзнические отношения быстро сменяют друг друга от поколения к поколению. Иногда даже в течение одного поколения пакты подписываются и отменяются по мере изменения интересов. Нестабильность, возникшая после Черного Понедельника и других политических событий по всему миру, усилила опасения многих слабых стран, что великие державы, вступающие в борьбу, застанут их врасплох.\n\nВ попытке преследовать общие интересы, [FROM.GetFactionName] объединились во всеобъемлющий военный альянс. Они добиваются нашего членства, предлагая нам дальнейшую защиту (от внешних угроз или от самих себя), а в обмен на углубление военных и экономических связей мы станем частью более сильного и единого блока.\n\n Однако вступление в союз не лишено риска. Мы, вероятно, будем втянуты в любые конфликты, которые возникнут в связи с этим альянсом, и возможно, что наш вклад перевесит преимущества, которые мы получим от членства. Важно, чтобы мы как нация тщательно взвесили затраты и выгоды от такого соглашения."
+ kr.political.13.a: "Вместе сильнее!"
+ kr.political.13.b: "Если подумать, то нет..."
+
+ kr.political.14.t: "[From.GetNonIdeologyNameDefCap] приняла!"
+ kr.political.14.d: "После некоторых обсуждений [From.GetNameDefCap] принял наше приглашение присоединиться к [ROOT.GetFactionName], как мы и надеялись. Новый член нашего альянса, как правило, приветствуется, обеспечивая дополнительную безопасность друг для друга и по крайней мере, гарантируя мир между его членами. Их вклад в виде военных сил, финансирования и дипломатического веса будет способствовать взаимным интересам [ROOT.GetFactionName], но есть некоторые опасения.\n\nЕще один союзник в нашем пакте означает дополнительные ресурсы для наших объединенных сил, хотя любые дополнительные опасности, которые они добавляют для нашей фракции - это опасности, которые будут приняты во внимание. Любые конкурирующие претензии должны быть приняты во внимание, и любые разногласия, которые они могут вызвать между членами фракции.\n\nМы должны будем усердно работать, чтобы эти вопросы были сглажены, и чтобы этот союз работал на всех (или, по крайней мере, на нас самих). Тем не менее, это не должно омрачать дипломатическую победу, которую мы одержали сегодня для всех наших народов."
+ kr.political.14.a: "Превосходно!"
+
+ kr.political.15.t: "[From.GetNonIdeologyNameDefCap] отказала!"
+ kr.political.15.d: "После некоторых размышлений, к нашему огорчению, [From.GetNameDef] отклонил наше приглашение присоединиться к [ROOT.GetFactionName]. К сожалению, это не редкое явление, когда речь идет о создании альянса. Некоторые страны опасаются потери дипломатической гибкости, которую дает официальное обязательство, надеясь избежать втягивания в проигрышный конфликт или желая присоединиться к более подходящему альянсу. Возможно также, что у них есть замыслы, взаимоисключающие наши цели, хотя, надеюсь, не антагонистические.\n\nКак бы то ни было, [From.GetNameDef] не сделает и не разрушит наш альянс. По крайней мере, так должно быть, чтобы наша фракция имела хоть какой-то вес. Мы так или иначе достигнем своих целей, и если им повезет, [From.GetNameDef] не сильно пожалеют о своем плохом решении."
+ kr.political.15.a: "Их потеря."
+
+### Incoming War-ning ###
+ kr.political.30.t: "Приготовиться к войне!"
+ kr.political.30.d: "Мы получили многочисленные сообщения о том, что в настоящее время [From.GetAdjective]ие войска массово перегруппируются, и что по ту сторону [Root.GetAdjective]ой границы проводится большая разведывательная работа. Военные говорят, очевидно, что [From.GetNameDef] планирует вторжение на государство [Root.GetNameDef], которое может начаться в любое время в течение ближайших нескольких недель."
+ kr.political.30.a: "Мы должны готовиться!"
+ kr.political.31.d: "Мы получили тревожное сообщение от [From.GetNameDef] о том, что [From.From.GetAdjective]ие войска в настоящее время массово наращиваются, и что через [From.GetAdjective]ую границу проходит интенсивная разведка. Военные чиновники говорят, очевидно, что [From.From.GetNameDef] планирует вторжение на государство [From.GetNameDef], которое может начаться в любое время в течение ближайших нескольких недель."
+ kr.political.32.d: "Мы получили сообщение от наших союзников в [From.GetNameDef] о том, что их войска в настоящее время группируются, и что через [attack_target.GetAdjective]ую границу проходит интенсивная разведка. [From.GetNameDef] планирует вторжение в [attack_target.GetNameDef], которое может начаться в любое время в течение следующих нескольких недель."
+ 
+### Returning Cores ###
+ return_cores_to_ally: "Вернуть [From.GetAdjective]ие земли"
+ return_cores_to_ally_desc: "[Root.GetAdjective]ое обсудило с нами вопрос оккупации нами земель, на которые они претендуют. Должны ли мы вернуть эти земли государству [From.GetNameDef]?"
+ return_cores_to_subject: "Вернуть [From.GetAdjective]ие земли"
+ return_cores_to_subject_desc: "[Root.GetAdjective]ое обсудило с нами вопрос оккупации нами земель, на которые они претендуют. Должны ли мы вернуть эти земли государству [From.GetNameDef]?"
+ 
+ kr.political.75.t: "[From.From.GetAdjective]ие земли"
+ kr.political.75.d: "[Root.GetAdjective]ое обсудило с нами вопрос оккупации нами земель, на которые они претендуют. Должны ли мы вернуть эти земли государству [From.GetNameDef]?"
+ kr.political.75.a: "Да, верните все граничащие земли"
+ KR_will_return_all: "Все прибрежные или смежные земли, являющиеся [return_to.GetAdjective]ими национальными землями или претензиями будут возвращены государству §Y[return_to.GetNameDef]§!\n"
+ kr.political.75.b: "Да, верните им землю... но сохраните самые жизненно важные регионы"
+ KR_will_return_rest: "Все прибрежные или смежные земли, являющиеся [return_to.GetAdjective]ими национальными землями или претензиями будут возвращены государству §Y[return_to.GetNameDef]§!\n"
+ kr.political.75.c: "Вернуть только их национальные земли"
+ KR_will_return_cores: "Все прибрежные или смежные земли, являющиеся [return_to.GetAdjective]ими национальными будут возвращены государству §Y[return_to.GetNameDef]§!.\n\nОбратите внимание, это §Rне§! включает [Root.GetAdjective]ие §Yпретензии§! или §Yнациональные§! земли, ни §Yважных§! земель как каналы. Любые [return_to.GetAdjective]ие §Yпретензии§! также будет сохранены."
+ kr.political.75.e: "Мы все оставим себе!"
+ KR_will_not_return: "Мы §Rне§! вернем ни одной из их земель, и нас не попросят сделать это снова."
+ 
+ kr.political.76.t: "Государство [From.GetNameDefCap] вернуло [Root.GetAdjective]ие земли"
+ kr.political.76.d: "Наши союзники из государства [From.GetNameDefCap] вернули нам часть наших земель!"
+ kr.political.76.a: "Великолепно!"
+ 
+### Ideology ###
+ KR_different_ideology_close: "Разные идеологии"
+ KR_different_ideology: "Разные идеологии"
+ KR_similar_ideology_close: "Схожие идеологии"
+ KR_similar_ideology: "Схожие идеологии"
+ KR_similar_ideology_distant: "Схожие идеологии"
+ KR_same_ideology: "Одна идеология"
+ KR_ideology_allowed: "Министр позволен для этой идеологии"
+ KR_factional_rivalry: "Фракционное соперничество"
+ head_of_gov_available: "§RГлавы правительств не могут быть добавлены или удалены вручную.§! Они могут быть изменены только через события, фокусы, решения и так далее.\n\nЭтот список представляет всех возможных глав правительств страны, поэтому люди здесь могут вступать в противоречие с нынешним главой, в другой стране или даже мертвы."
+ minister_available: "§RМинистры не могут быть добавлены или удалены вручную.§! Они могут быть изменены только через события, фокусы, решения и так далее.\n\nЭтот список представляет всех возможных министров для страны, поэтому люди здесь могут вступать в противоречие с действующим правительством, в другой стране или даже мертвы."
+ military_staff_available: "Этот член Военного штаба жив и готов служить правительству."
+ 
+ government_is_loc: "Текущая правящая партия "
+ government_is_not_loc: "Текущая правящая партия не "
+
+ KR_is_socialist: "$government_is_loc$§Y$totalist$§!, §Y$syndicalist$§! или §Y$radical_socialist$§!"
+ KR_is_socialist_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$syndicalist$§! или §Y$radical_socialist$§!"
+
+ KR_is_elected: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! или §Y$social_conservative$§!"
+ KR_is_elected_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! или §Y$social_conservative$§!"
+
+ KR_is_democratic: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! или §Y$authoritarian_democrat$§!"
+ KR_is_democratic_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! или §Y$authoritarian_democrat$§!"
+
+ KR_is_authoritarian: "$government_is_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! или §Y$national_populist$§!"
+ KR_is_authoritarian_NOT: "$government_is_not_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! или §Y$national_populist$§!"
+
+ KR_is_dictatorship: "$government_is_loc$§Y$paternal_autocrat$§! или §Y$national_populist$§!"
+ KR_is_dictatorship_NOT: "$government_is_not_loc$§Y$paternal_autocrat$§! или §Y$national_populist$§!"
+
+ KR_right_wing_democracy: "$government_is_loc$§Y$market_liberal$§! или §Y$social_conservative$§!"
+ KR_right_wing_democracy_NOT: "$government_is_not_loc$§Y$market_liberal$§! или §Y$social_conservative$§!"
+
+ KR_left_wing_democracy: "$government_is_loc$§Y$social_democrat$§! или §Y$social_liberal$§!"
+ KR_left_wing_democracy_NOT: "$government_is_not_loc$§Y$social_democrat$§! или §Y$social_liberal$§!"
+
+ KR_is_any_authoritarian: "$government_is_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! или §Y$national_populist$§!"
+ KR_is_any_authoritarian_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! или §Y$national_populist$§!"
+
+ KR_is_liberal: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§! или §Y$market_liberal$§!"
+ KR_is_liberal_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§! или §Y$market_liberal$§!"
+
+ KR_is_conservative: "$government_is_loc$§Y$social_conservative$§! или §Y$authoritarian_democrat$§!"
+ KR_is_conservative_NOT: "$government_is_not_loc$§Y$social_conservative$§! или §Y$authoritarian_democrat$§!"
+
+### Party Popularity Tooltips ###
+ popularity_ideology_tooltip: "Ваша текущая правящая партия - §H[?current_party_ideology_group.GetTokenLocalizedKey]§!"
+ popularity_ideology_desc: "§L[GetPopularityTooltipDesc]§!"
+ party_popularity_delayed_tooltip: "Популярность партии представляет собой контроль текущего правительства над страной и его поддержку в народе. Политические партии с высокой популярностью имеют больше возможностей для продвижения своей политической программы и стабилизации нации."
+
+ party_popularity_tooltip: "§HПопулярность партии§![GetPopularityPPGain]"
+ party_popularity_tooltip_long: "§H\n\nЭффекты от нашей нынешней Популярности партии:§!\nЕжедневный прирост Политической силы: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionTotalist][GetCoalitionSyndicalist][GetCoalitionRadicalSocialist][GetCoalitionSocialDemocrat][GetCoalitionSocialLiberal][GetCoalitionMarketLiberal][GetCoalitionSocialConservative][GetCoalitionAuthoritarianDemocrat][GetCoalitionPaternalAutocrat][GetCoalitionNationalPopulist]"
+
+ party_popularity_dynamic_modifier: "Популярность партии"
+ party_popularity_dynamic_modifier_ideology_mapped: "Популярность партии"
+ party_popularity_dynamic_modifier_coalition: "Коалиции"
+
+ party_pop_coalition: "\n\n§HПартнеры по коалиции:§!\n"
+ party_pop_coalition_totalist: "- [?token:totalist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_syndicalist: "- [?token:syndicalist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_radical_socialist: "- [?token:radical_socialist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_democrat: "- [?token:social_democrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_liberal: "- [?token:social_liberal.GetTokenLocalizedKey]\n"
+ party_pop_coalition_market_liberal: "- [?token:market_liberal.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_conservative: "- [?token:social_conservative.GetTokenLocalizedKey]\n"
+ party_pop_coalition_authoritarian_democrat: "- [?token:authoritarian_democrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_paternal_autocrat: "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_national_populist: "- [?token:national_populist.GetTokenLocalizedKey]\n"
+
+ add_to_coalition: "К коалиции присоединятся §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]§!."
+ remove_from_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]§! покинут коалицию."
+
+ has_coalition_with_target: "Находится в коалиции с §H[?coalition_target.GetTokenLocalizedKey]§!."
+ has_coalition_with_target_NOT: "Не состоит в коалиции с §H[?coalition_target.GetTokenLocalizedKey]§!."
+
+ coalition_stability_tooltip: "Партнеры по коалиции теперь обеспечивают $RIGHT|G%0$ своей популярности как дополнительное §Hусиление политической власти§!."
+
+### At War Notice ###
+ has_scripted_peace: "Мы воюем"
+ has_scripted_peace_desc: "Страна воюет и стремится победить - народ даже и не думает о том, чтобы сдаваться. (Внимание: это необходимо для войн, которые должны закончится по скрипту, чтобы преждевременно не начать мирную конференцию.)"
+ 
+### Demobilisation ###
+ mobilisation_penalty_modifier: "Верхний лимит дивизий"
+ 
+ unit_limit_count: "[unit_limit_count_loc]/[?max_divisions|H0]"
+ 
+ unit_limit_count_red: "[?num_actual_divisions|R0]"
+ unit_limit_count_yellow: "[?num_actual_divisions|H0]"
+ unit_limit_count_green: "[?num_actual_divisions|G0]"
+ 
+ unit_limit_factory_bonus: "Лимит дивизий"
+ unit_limit_bonus: "Лимит дивизий"
+ unit_limit_subject_bonus: "Добавлен лимит дивизий для повелителя"
+ 
+ unit_limit_label: "§HМаксимальное количество поддерживаемых дивизий§!\nДивизии: [?max_divisions|H0]\n\nБазовое значение: [?base_units|G1]\n   - От основного населения: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Из принадлежащих регионов: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nМножитель фабричного числа: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nПо умолчанию: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
+ unit_limit_desc: "Каждая страна способна содержать только определенное количество отдельных военных подразделений, прежде чем ее экономика и инфраструктура перестанут справляться с их содержанием.\n\nМаксимальное количество поддерживаемых единиц основывается на численности населения страны §Hнаселение§! и §Hколичество регионов§!, а затем умножается на отношение этого значения к §Hколичеству фабрик§! в регионах.\n\nВ §Hгражданских войнах§! базовые значения рассчитываются из суммы всех регионов, принадлежащих всем участникам.[above_unit_limit_desc]"
+
+ unit_limit_desc_fake_intel: " (§HПоддельные дивизии разведки§! не засчитываются в лимит дивизий)"
+ 
+ unit_limit_desc_above_limit: "\n\n--------------\n\n§RВ настоящее время мы превысили свои возможности, и единственный способ ослабить нагрузку на нашу страну, будет заключаться в устранении некоторых наших дивизий.§!\n\nОрганизация дивизий: [?mobilisation_penalty_var|+=%1]\nФабрики, производящие товары народного потребления: [?mobilisation_penalty_var_positive|=%H1]\nОбъем заводского производства: [?mobilisation_penalty_var|+=%]\nВремя обучения: [?mobilisation_penalty_var_positive|-=%]\nСкорость пополнения: [?mobilisation_penalty_var|+=%1]"
+ 
+ unit_limit_noncore_population_desc: "\n   - Из ненационального населения: [?non_core_base|G1]"
+ unit_limit_subject_population_bonus_desc: "\n   - Из населения §Hсубъекта§!: [?subject_base_units|G1]"
+ unit_limit_subject_state_bonus_desc: "\n   - Из регионов §Hсубъекта§!: [?subject_states|G0]"
+ unit_limit_modifier_was_capped_desc: "\n(Ограничение до минимума [?0.5|H%])"
+ unit_limit_modified_by_desc: "\n\nДальнейшие изменения:"
+ unit_limit_faction_leader_desc: "\n   - Лидер фракции: §G+15%§!"
+ unit_limit_bonus_used_desc: "\nНациональные духи: [?modifier@unit_limit_bonus|=+0]"
+
+ unit_limit_low_economic_mobilisation: "\n   - §H$low_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_partial_economic_mobilisation: "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_war_economy: "\n   - §H$war_economy$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ 
+### Tooltips ###
+ KR_party_pop_less_than_100: "Меньше, чем §Y100%§! поддержки [Root.GetRulingParty]"
+ is_ally_of_ROOT: "Является союзником [ROOT.GetNameDef]"
+ has_coalition_with: "Находится в коалиции с §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
+
+ KR_getting_faction_invite: "В настоящее время нас приглашают во фракцию."
+ KR_getting_faction_invite_NOT: "В настоящее время мы §Rне§! приглашены во фракцию."
+
+### Decisions ###
+ generic_raise_stability: "[generic_raise_stability_text]"
+ generic_raise_stability_desc: "[generic_raise_stability_desc_text]"
+
+ generic_raise_stability_socialist: "Улучшение условий труда рабочих"
+ generic_raise_stability_socialist_desc: "Работа на фабрике тяжела и сопряжена со многими опасностями. Улучшение условий для наших заводских рабочих приведет к снижению объемов производства в краткосрочной перспективе, но долгосрочные выгоды того стоят."
+
+ generic_raise_stability_liberal: "Законодательные свободы"
+ generic_raise_stability_liberal_desc: "Простейший способ сделать страну стабильной - дать людям то, чего они хотят. Нам придётся пойти на некоторые уступки, но зато в страну вернётся порядок."
+ 
+ generic_raise_stability_conservative: "Полицейская облава"
+ generic_raise_stability_conservative_desc: "В стране начались жуткие беспорядки. Нам не остаётся ничего, кроме как убрать все запреты с работы нашей полиции, чтобы они быстрее отловили организаторов и самых активных бунтующих."
+ 
+ generic_raise_stability_authoritarian: "Ввести военное положение"
+ generic_raise_stability_authoritarian_desc: "Беспорядки в нашей стране должны быть полностью подавлены силами армии. Многим это не понравится, но иногда у нас нет иного выбора, кроме как ввести военное положение."
+
+ generic_raise_support: "[generic_raise_support_text]"
+ generic_raise_support_desc: "[generic_raise_support_desc_text]"
+ 
+ rally_public_support: "Заручиться поддержкой народа"
+ rally_public_support_desc: "С помощью небольших вложений мы могли бы заручиться поддержкой нашего народа. Время и деньги, потраченные на агитацию, напрямую укрепят фундамент правящей партии."
+ 
+ solidify_control: "Усилить контроль"
+ solidify_control_desc: "Мы должны использовать нашу власть, чтобы избавиться от политических конкурентов. Даже если мы не можем убрать их всех, парочка исчезнувших оппозиционеров даст нам больше свободы действий."
+
+ restructure_supply_system: "Реорганизовать систему железных дорог"
+ restructure_supply_system_desc: "Перенаправляя строительные материалы и железнодорожных рабочих, мы можем быстро создать небольшое количество временных складов снабжения вдоль некоторых наших железных дорог. Однако это не является надежным. \n\n§RЭто решение может быть принято только один раз. Бонус исчезнет, если вы построите более 3 дополнительных узлов снабжения.§!"
+
+ debug_decisions: "Решения по отладке"
+ turn_off_plpc_debug: "Отключить конференции под руководством игрока"
+ turn_off_plpc_debug_desc: "Это временно отключит мирные конференции под руководством игрока - то есть мирные конференции будут проходить как обычно, и страны ИИ не будут выбывать, если в них участвует игрок."
+ turn_on_plpc_debug: "Включить конференции под руководством игрока"
+ turn_on_plpc_debug_desc: "Это восстановит нормальную функциональность мирных конференций под руководством игрока. Страны ИИ всегда будут выбывать из мирных конференций, если в них участвует игрок на стороне победителя."
+ KR_player_leads_conferences: "Игровое правило §YПервенство игрока§! для мирных конференций активно и §Gвключено§!\n"
+ KR_plpc_disable_tt: "Игровое правило §YПервенство игрока§! будет временно §Rотключено§!\n"
+ KR_plpc_enable_tt: "Игровое правило §YПервенство игрока§! будет снова §Gвключено§!\n"
+ KR_plpc_turned_off: "Игровое правило §YПервенство игрока§! для мирных конференций активно, но в настоящее время §Rотключено§!\n"
+ stt_highlight_states: "Отмеченные регионы"
+
+##################
+### Ideologies ###
+##################
+ 
+### Names ###
+ totalist: "Тотализм"
+ syndicalist: "Синдикализм"
+ radical_socialist: "Радикальный Социализм"
+ social_democrat: "Социал-Демократизм"
+ social_liberal: "Социал-Либерализм"
+ market_liberal: "Рыночный Либерализм"
+ social_conservative: "Социал-Консерватизм"
+ authoritarian_democrat: "Авторитарная Демократия"
+ paternal_autocrat: "Патернализм"
+ national_populist: "Национал-Популизм"
+ 
+### Nouns ###
+ totalist_noun: "Тоталисты"
+ syndicalist_noun: "Синдикалисты"
+ radical_socialist_noun: "Радикальные Социалисты"
+ social_democrat_noun: "Социал-Демократы"
+ social_liberal_noun: "Социал-Либералы"
+ market_liberal_noun: "Либералы-Рыночники"
+ social_conservative_noun: "Социал-консерваторы"
+ authoritarian_democrat_noun: "Авторитарные Демократы"
+ paternal_autocrat_noun: "Патерналисты"
+ national_populist_noun: "Национал-Популисты"
+ 
+### Ideology Grouping ###
+ kr_government_grouping: "Идеологическая группа"
+ totalist_desc: "Социалистическая"
+ syndicalist_desc: "Социалистическая"
+ radical_socialist_desc: "Социалистическая"
+ social_democrat_desc: "Либеральная"
+ social_liberal_desc: "Либеральная"
+ market_liberal_desc: "Либеральная"
+ social_conservative_desc: "Консервативная"
+ authoritarian_democrat_desc: "Консервативная"
+ paternal_autocrat_desc: "Реакционная"
+ national_populist_desc: "Реакционная"
+ 
+### Subtype Descriptions ###
+ totalist_subtype_desc: "Термин 'Тотализм' происходит от Тоталистической Хартии, соглашения о сотрудничестве между Освальдом Мосли, Жоржем Валуа и Бенито Муссолини, в котором изложены основные принципы идеологии. Тоталисты отказываются от федеративного элемента синдикалистской государственной организации, утверждая, что до достижения Мировой революции, революционные государства должны быть централизованы и милитаризированы для борьбы с оставшимися капиталистическими государствами. Степень трансформации общества тоталистическими режимами также значительно выше, зачастую с переходом к тоталитарному контролю над обществом и построению культов личности. 'Тотализм' также часто используется для описания левых государств, которые не связаны с тотализмом Хартии, но тем не менее, проявляют такие черты, как милитаризация, централизация и тоталитарная трансформация общества."
+ syndicalist_subtype_desc: "Синдикализм - ведущая левая революционная идеология, взлет которой на мировую арену начался с Французской революции 1919 года. Хотя синдикализм разделен на различные течения, некоторые из которых находятся под влиянием других идеологий, таких как марксизм и анархизм, ортодоксальный синдикализм основывается на трудах лидеров Всеобщей Конфедерация Труда (ВКТ), закрепленных в Амьенской хартии 1906 года, и рассматривает Михаила Бакунина и Пьер-Жозефа Прудона в качестве своих предшественников. Синдикализм определяется понятиями революционной спонтанности и прямого действия - верой в то, что сами рабочие, организованные в профсоюзы, должны бороться с капитализмом, а не полагаться на внешнего агента, такого как политическая партия. Превращение капиталистического общества в синдикалистское должно происходить посредством 'Всеобщей Забастовки' - общенационального отказа от капитализма и передачи всех средств производства профсоюзам. Синдикалистские государства децентрализованы и федеративны, все отрасли объединены в синдикаты, трудовые советы, избранные из этих профсоюзов, управляют местным самоуправлением, а центральное правительство наделено общенациональным съездом представителей профсоюзов. Однако степень реализации этих принципов в разных странах неодинакова."
+ radical_socialist_subtype_desc: "Радикальный Социализм - общее название для всех левых идеологий, не связанных по сути с Синдикализмом. Страны с таким режимом имеют социалистическую экономику, в то время как в политике имеются черты демократии. Их главная цель - создать рай для рабочих. Условия этого рая разнятся от течения к течению."
+ social_democrat_subtype_desc: "Социал-Демократия стремиться гуманизировать существующую капиталистическую модель, но не избавится от неё. Хотя основу идеологии составляет демократия и регулирование рынка, порой внутри этой идеологии возникают и более радикальные течения."
+ social_liberal_subtype_desc: "Социал-Либерализм - один из видов Рыночного Либерализма, который преследует цель соблюдения прав человека. Проводя сбалансированные социальные и экономические реформы, социал-демократы стремятся создать общество, где каждый гражданин сможет жить полной жизнью в не зависимости от статуса."
+ market_liberal_subtype_desc: "Рыночный Либерализм - классическое понимание либерализма. Он подразумевает под собой демократию и нерегулируемый рынок. Рыночные либералы считают, что чем свободней рынок, тем свободней человек. Они будут до конца защищать права отдельного гражданина."
+ social_conservative_subtype_desc: "Консерватизм - это политическая идеология, ориентированная на сохранение традиционных верований, взглядов и философии, а также традиционной динамики власти в обществе при использовании демократической системы. Консерваторы, противостоящие как радикальным, так и умеренным изменениям статус-кво, хотят сохранить порядок и стабильность в обществе. Обычно они продвигают регулируемую рыночную экономику, но более либеральная экономическая политика не редкость."
+ authoritarian_democrat_subtype_desc: "Авторитарная демократия - это идеология, совмещающая в себе широкую власть и авторитет отдельной личности, а также парламентаризм и некоторые другие элементы демократии. Авторитарные демократы часто встают на позиции консерваторов в социальной политики, в то время как в экономической они выступают за небольшую регуляцию рынка государством. Цель данной идеологии - сохранить стабильность в стране, но и сохранить народное правительство."
+ paternal_autocrat_subtype_desc: "Патернализм - это не политическая идеология в обычном понимании этого слова, а скорее общий термин для отношения, которое эти правительства придерживаются к своим гражданам: весь народ является подданными лидера, либо монарха, либо диктатора, и это работа и обязанность лидера - вести государство и общество на праведный и лучший путь, объединяя людей под своей благосклонной защитой. В этих странах обычно очень авторитарное правительство, консервативные социальные взгляды и экономика, контролируемая государством."
+ national_populist_subtype_desc: "Объединяя под собой различные ультра-националистические и милитаристские идеологии, Национал-Популизм провозглашает безоговорочную преданность государству и полный контроль рынка. Расизм и национализм частые спутники этой идеологии. Национал-Популизм недолюбливается всеми остальными идеологиями."
+ 
+### Drift ###
+ totalist_drift: "Ежедневная поддержка тотализма"
+ syndicalist_drift: "Ежедневная поддержка синдикализма"
+ radical_socialist_drift: "Ежедневная поддержка радикального социализма"
+ social_democrat_drift: "Ежедневная поддержка социал-демократии"
+ social_liberal_drift: "Ежедневная поддержка социал-либерализма"
+ market_liberal_drift: "Ежедневная поддержка рыночного либерализма"
+ social_conservative_drift: "Ежедневная поддержка социал-консерватизма"
+ authoritarian_democrat_drift: "Ежедневная поддержка авторитарной демократии"
+ paternal_autocrat_drift: "Ежедневная поддержка патернализма"
+ national_populist_drift: "Ежедневная поддержка национал-популизма"
+
+ totalist_acceptance: "Принятие тоталистической дипломатии"
+ syndicalist_acceptance: "Принятие синдикалистской дипломатии"
+ radical_socialist_acceptance: "Принятие радикальной социалистической дипломатии"
+ social_democrat_acceptance: "Принятие социал-демократической дипломатии"
+ social_liberal_acceptance: "Принятие социально-либеральной дипломатии"
+ market_liberal_acceptance: "Принятие рыночной либеральной дипломатии"
+ social_conservative_acceptance: "Принятие социал-консервативной дипломатии"
+ authoritarian_democrat_acceptance: "Принятие авторитарной демократической дипломатии"
+ paternal_autocrat_acceptance: "Принятие патерналистской дипломатии"
+ national_populist_acceptance: "Принятие национал-популистской дипломатии"

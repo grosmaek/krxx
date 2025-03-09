@@ -1,0 +1,68 @@
+﻿l_russian:
+  
+ ### Parties ### 
+ FRP_totalist_party: "Francs-Tireurs" #NT!
+ FRP_totalist_party_long: "Francs-Tireurs et Partisans" #NT!
+ FRP_syndicalist_party: "Francs-Tireurs" #NT!
+ FRP_syndicalist_party_long: "Francs-Tireurs et Partisans" #NT!
+ FRP_radical_socialist_party: "Francs-Tireurs" #NT!
+ FRP_radical_socialist_party_long: "Francs-Tireurs et Partisans" #NT!
+ FRP_social_democrat_party: "PRdT" #NT!
+ FRP_social_democrat_party_long: "Parti républicain des travailleurs (Republican Workers' Party)" #NT!
+ FRP_social_liberal_party: "PRRSD" #NT!
+ FRP_social_liberal_party_long: "Parti républicain, radical et social-démocrate (Radical, Republican and Social-Democratic Party)" #NT!
+ FRP_market_liberal_party: "PdCR" #NT!
+ FRP_market_liberal_party_long: "Parti du Centre Républicain (Party of the Republican Centre)" #NT!
+ FRP_social_conservative_party: "MRP" #NT!
+ FRP_social_conservative_party_long: "Mouvement républicain populaire (Republican Popular Movement)" #NT!
+ FRP_authoritarian_democrat_party: "FP" #NT!
+ FRP_authoritarian_democrat_party_long: "Front paysan (Peasant Front)" #NT!
+ FRP_authoritarian_democrat_party_parliamentary: "PAPF" #NT!
+ FRP_authoritarian_democrat_party_parliamentary_long: "Parti agraire et paysan français (French Peasant and Agrarian Party)" #NT!
+ FRP_paternal_autocrat_party: "X-Crise" #NT!
+ FRP_paternal_autocrat_party_long: "X-Crise" #NT!
+ FRP_national_populist_party: "Fringe Monarchists" #NT!
+ FRP_national_populist_party_long: "Fringe Monarchists" #NT!
+  
+ FRP_governorate_paternal_autocrat_party: "Militärregierung" #NT!
+ FRP_governorate_paternal_autocrat_party_long: "Militärregierung (Military Government)" #NT!
+  
+ ### Country Names ### 
+ FRP: "Франция"
+ FRP_ADJ: "Французск"
+ FRP_DEF: "Франция"
+  
+ FRP_spa_kingdom: "Королевство Франция"
+ FRP_spa_kingdom_ADJ: "Французск"
+ FRP_spa_kingdom_DEF: "Королевство Франция"
+  
+ FRP_governorate_paternal_autocrat: "France" #NT!
+ FRP_governorate_paternal_autocrat_democrat_ADJ: "French" #NT!
+ FRP_governorate_paternal_autocrat_DEF: "the German Military Administration in France" #NT!
+  
+ ### Fake Characters ### 
+  
+ FRP_henri_tanguy: "Henri Tanguy" #NT!
+ FRP_jules_moch: "Jules Moch" #NT!
+ FRP_gaston_bergery: "Gaston Bergery" #NT!
+ FRP_rene_pleven: "René Pleven" #NT!
+ FRP_georges_bidault: "Georges Bidault" #NT!
+ FRP_pierre_mathe: "Pierre Mathé" #NT!
+ FRP_henri_dorgeres: "Henri Dorgères" #NT!
+ FRP_jean_coutrot: "Jean Coutrot" #NT!
+ FRP_henri_de_orleans: "Henri d'Orléans" #NT!
+  
+ ### Ideas ### 
+  
+ FRP_ashes_of_syndicalism: "The Ashes of Syndicalism" #NT!
+ FRP_ashes_of_syndicalism_desc: "For France today capitalism is not only a new economic model but a new way of life. The nullification of all important institutions of the Commune is causing ripples of economic shock across the whole country. Reorganisation will take time." #NT!
+ FRP_bloc_of_rights: "The Bloc of Rights" #NT!
+ FRP_bloc_of_rights_desc: "The government consists of §mParty of the Republican Centre§!, §cRepublican Popular Movement§!, and §gFrench Peasant and Agrarian Party!, united by a desire to protect the new France from insurrectionist elements while respecting the democratic process." #NT!
+ FRP_bloc_of_rights_authdem: "The Bloc of Rights" #NT!
+ FRP_bloc_of_rights_authdem_desc: "The government consists of the §cRepublican Popular Movement§! and §gFrench Peasant and Agrarian Party§!, united by a desire to protect the new France from insurrectionist elements while respecting the democratic process." #NT!
+ FRP_republican_front: "The Republican Front" #NT!
+ FRP_republican_front_desc: "The government consists of the §SRepublican Workers' Party§!, §lRadical, Republican and Social-Democratic Party§!, and §cRepublican Popular Movement§!, united by a desire to complete the parliamentarisation of the new France and engineer a fair new model for the economy." #NT!
+ FRP_new_national_bloc: "The New National Bloc" #NT!
+ FRP_new_national_bloc_desc: "The government consists of the §lRadical, Republican and Social-Democratic Party§!, §mParty of the Republican Centre§! and §cRepublican Popular Movement§!, united by a desire to complete the parliamentarisation of the new France and ensure a smooth transition to a liberalised economy." #NT!
+ FRP_coalition_of_expertise: "The Coalition of Expertise" #NT!
+ FRP_coalition_of_expertise_desc: "The government consists of the §gPeasant Front§! and §PX-Crise Group§!, who intend to eliminate the excesses of bureaucratic democracy in favour of a powerful executive which can maintain the dominance of French nationalism." #NT!

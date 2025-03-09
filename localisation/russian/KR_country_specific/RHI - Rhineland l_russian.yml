@@ -1,0 +1,125 @@
+﻿l_russian:
+  
+ ### Parties ### 
+ RHI_totalist_party: "КРПГ"
+ RHI_totalist_party_long: "Коммунистическая рабочая партия Германии - Рейнская"
+ RHI_radical_socialist_party: "КРПГ"
+ RHI_radical_socialist_party_long: "Коммунистическая рабочая партия Германии - Рейнская"
+ RHI_syndicalist_party: "КРПГ"
+ RHI_syndicalist_party_long: "Коммунистическая рабочая партия Германии - Рейнская"
+ RHI_social_democrat_party: "СДП"
+ RHI_social_democrat_party_long: "Социал-демократическая партия Германии - Объединение земель Рейнланд"
+ RHI_social_liberal_party: "РРНП"
+ RHI_social_liberal_party_long: "Рейнская республиканская народная партия"
+ RHI_market_liberal_party: "ННП"
+ RHI_market_liberal_party_long: "Национальная Народная Партия"
+ RHI_social_conservative_party: "РХНП"
+ RHI_social_conservative_party_long: "Рейнская христианская народная партия"
+ RHI_authoritarian_democrat_party: "РКП"
+ RHI_authoritarian_democrat_party_long: "Рейнская крестьянская партия"
+ RHI_paternal_autocrat_party: "РХНП"
+ RHI_paternal_autocrat_party_long: "Рейнская христианская народная партия - Правые"
+ RHI_national_populist_party: "РСФ"
+ RHI_national_populist_party_long: "Рабочее сообщество Фёлькиш"
+  
+ RHI: "Рейнланд"
+ RHI_ADJ: "Рейнск"
+ RHI_DEF: "Рейнланд"
+  
+ RHI_totalist: "Рейнский Союз"
+ RHI_totalist_DEF: "Рейнский Союз"
+ RHI_syndicalist: "Рейнский Союз"
+ RHI_syndicalist_DEF: "Рейнский Союз"
+ RHI_radical_socialist: "Рейнский Союз"
+ RHI_radical_socialist_DEF: "Рейнский Союз"
+ RHI_social_democrat: "Рейнская Республика"
+ RHI_social_democrat_DEF: "Рейнская Республика"
+ RHI_social_liberal: "Рейнская Республика"
+ RHI_social_liberal_DEF: "Рейнская Республика"
+ RHI_market_liberal: "Рейнская Республика"
+ RHI_market_liberal_DEF: "Рейнская Республика"
+ RHI_social_conservative: "Рейнская Республика"
+ RHI_social_conservative_DEF: "Рейнская Республика"
+ RHI_authoritarian_democrat: "Рейнская Республика"
+ RHI_authoritarian_democrat_DEF: "Рейнская Республика"
+ RHI_paternal_autocrat: "Рейнская Республика"
+ RHI_paternal_autocrat_DEF: "Рейнская Республика"
+ RHI_national_populist: "Рейнская Республика"
+ RHI_national_populist_DEF: "Рейнская Республика"
+  
+ ### National Spirits ### 
+ RHI_rhenish_reparations: "Рейнские репарации"
+ RHI_rhenish_reparations_desc: "В качестве репараций по условиям мирного договора, [ROOT.overlord.GetAdjective]ое правительство прибрало к рукам большую часть промышленного потенциала Рейнланда в счёт выплат. Большинство трудоспособных людей обязано вкалывать на фабриках, лишь немногие из самых вёртких устроились работать полицаями."
+  
+  ### National Focus ### 
+ rhineland_focus: "Rhenish Focus Tree" #NT!
+  
+ RHI_freedom: "Freedom from the Prussian Yoke" #NT!
+ RHI_freedom_desc: "" #NT!
+ RHI_cisrhenian: "New Cisrhenian Republic" #NT!
+ RHI_cisrhenian_desc: "" #NT!
+ RHI_socialist: "Heartland of German Socialism" #NT!
+ RHI_socialist_desc: "" #NT!
+ RHI_reparations_agency: "The Rhineland Reparations Agency" #NT!
+ RHI_reparations_agency_desc: "" #NT!
+ RHI_rhenish_identity: "Construct Rhenish Identity" #NT!
+ RHI_rhenish_identity_desc: "" #NT!
+ RHI_september_5: "Proclaim September 5 as National Day" #NT!
+ RHI_september_5_desc: "" #NT!
+ RHI_renegotiate_reparations: "Attempt Renegotiation" #NT!
+ RHI_renegotiate_reparations_desc: "" #NT!
+ RHI_socialization: "Begin Socialisation of Industry" #NT!
+ RHI_socialization_desc: "" #NT!
+ RHI_proletarian_hundreds: "Form Proletarian Hundreds" #NT!
+ RHI_proletarian_hundreds_desc: "" #NT!
+ RHI_secularism: "Secularisation of the Catholic Countryside" #NT!
+ RHI_secularism_desc: "" #NT!
+ RHI_faud: "Crush Reformist Unionism" #NT!
+ RHI_faud_desc: "" #NT!
+ RHI_defense_force: "Create the Rhineland Protection Force" #NT!
+ RHI_defense_force_desc: "" #NT!
+ RHI_all_german_cooperation: "All-German Military Cooperation" #NT!
+ RHI_all_german_cooperation_desc: "" #NT!
+ RHI_acquire_hardware: "Acquire Hardware" #NT!
+ RHI_acquire_hardware_desc: "" #NT!
+ RHI_concordat: "Concordat with the Church" #NT!
+ RHI_concordat_desc: "" #NT!
+ RHI_corporatism: "Apply Corporatist Economics" #NT!
+ RHI_corporatism_desc: "" #NT!
+ RHI_root_out_faud: "Root Out Ruhr Unionist Remnants" #NT!
+ RHI_root_out_faud_desc: "" #NT!
+ RHI_rural_development: "Rural Development" #NT!
+ RHI_rural_development_desc: "" #NT!
+  
+ RHI_rebuild_rhine_trade: "Rebuild the Rhine River Trade" #NT!
+ RHI_rebuild_rhine_trade_desc: "" #NT!
+ RHI_basf: "Nationalise BASF" #NT!
+ RHI_basf_desc: "" #NT!
+ RHI_beyond_coal_steel: "Beyond Coal and Steel" #NT!
+ RHI_beyond_coal_steel_desc: "" #NT!
+ RHI_bergian_city_triangle: "Develop the "Bergian Triangle"" #NT!
+ RHI_bergian_city_triangle_desc: "" #NT!
+ RHI_benerhi: "BeNeRhein" #NT!
+ RHI_benerhi_desc: "" #NT!
+  
+ RHI_corporatism_idea: "Corporatist Economics" #NT!
+ RHI_corporatism_idea_desc: "" #NT!
+ RHI_seizing_churches: "Occupation of the Churches" #NT!
+ RHI_seizing_churches_desc: "" #NT!
+ RHI_defense_force_idea: "The Protection Force" #NT!
+ RHI_defense_force_idea_desc: "" #NT!
+ RHI_benerhi_idea: "BeNeRhein" #NT!
+ RHI_benerhi_idea_desc: "" #NT!
+ RHI_benerhi_tt: "Invites §Y[HOL.GetNameWithFlag]§! and §Y[BEL.GetNameWithFlag]§! into a common trade organization, if both are in a faction with §Y[RHI.GetNameWithFlag]§!. Applies this effect, if accepted:\n" #NT!
+ RHI_nationalist_festivals: "Nationalist Festivals" #NT!
+ RHI_nationalist_festivals_desc: "" #NT!
+  
+ gru.7.t: "[RHI.GetName] Proposes Free Trade Area" #NT!
+ gru.7.d: "The government of [RHI.GetNameDef] has reached out to us, proposing a free trade area and economic cooperation zone between the three likeminded nations south of the North Sea. This would expand upon our preexisting military obligations to one another as part of our alliance - and bring benefits to all three of our economies, if adopted." #NT!
+ gru.7.a: "Of course." #NT!
+ gru.7.b: "We'd rather not." #NT!
+  
+ gru.8.t: "[RHI.GetName] Requests Renegotiation" #NT!
+ gru.8.d: "The government of [RHI.GetNameDef] has reached out to us, requesting adjustments to the current harsh level of reparations applied to their state. They argue that such payments have stifled the development of the local economy and have left the country helpless in the face of foreign threats. The renegotiation would also allow it to expand their self-defense forces. Finally, they argue that it's unfair for them to pay such high reparations when it was Prussia who were at fault for the Weltkriegs..." #NT!
+ gru.8.a: "This seems reasonable." #NT!
+ gru.8.b: "We disagree." #NT!

@@ -1,0 +1,178 @@
+﻿l_russian:
+  
+ ### Intro Screen ### 
+ GAL_country_intro_background: "GFX_GAL_intro" #NT!
+  
+ ### Political Parties ### 
+ GAL_totalist_party: "$GAL_radical_socialist_party$"
+ GAL_totalist_party_long: "$GAL_radical_socialist_party_long$"
+  
+ GAL_syndicalist_party: "ПСДП - Л"
+ GAL_syndicalist_party_long: "Польская Социал-Демократическая Партия - Левая"
+  
+ GAL_radical_socialist_party: "КрРП"
+ GAL_radical_socialist_party_long: "Крестьянская Радикальная Партия"
+  
+ GAL_social_democrat_party: "ПСДП - УСДП"
+ GAL_social_democrat_party_long: "Польская Социал-Демократическая Партия и Украинская Социал-Демократическая Партия"
+  
+ GAL_social_liberal_party: "ППП - УНДП"
+ GAL_social_liberal_party_long: "Польская Прогрессивная Партия и Украинская Национально-Демократическая Партия"
+  
+ GAL_market_liberal_party: "ПДП"
+ GAL_market_liberal_party_long: "Польская Демократическая Партия"
+  
+ GAL_social_conservative_party: "ПНП 'Пяст' - ХрСП"
+ GAL_social_conservative_party_long: "Польская Народная Партия 'Пяст' и Христианско-Социальная Партия"
+  
+ GAL_authoritarian_democrat_party: "Станчики"
+ GAL_authoritarian_democrat_party_long: "Партия Национальных Правых - Станчики"
+  
+ GAL_paternal_autocrat_party: "Подоляки"
+ GAL_paternal_autocrat_party_long: "Партия Национальных Правых - Подоляки"
+  
+ GAL_national_populist_party: "НДП"
+ GAL_national_populist_party_long: "Национал-Демократическая Партия"
+  
+ ### Events ### 
+ gal.1.t: "Галиция-Лодомерия становится независимой"
+ gal.1.d: "После столетнего правления Габсбургов, которое началось с первого раздела Речи Посполитой в 1772 году, Галиция-Лодомерия обрела независимость. Но мы слабое государство, окруженное могущественными соседями - и, возможно, нам стоит попросить защиту у Польши, ведь наша национальная территория была забрана у них годами ранее."
+ gal.1.a: "Официально попросить о включении в состав Польши. (Это будет означать конец игры для игрока.)"
+ gal.1.b: "Галиция должна оставаться независимой."
+  
+ gal.2.t: "Галиция просит включения в состав нашей нации"
+ gal.2.d: "После столетнего правления Габсбургов, которое началось с первого раздела Речи Посполитой в 1772 году, Галиция-Лодомерия обрела независимость. Но считаясь слабым государством, окруженным внушительными соседями, новая независимая нация чувствует, что её существование находиться под большой угрозой. Сегодня прибыл посол, чтобы обсудить вопрос о включении Галиции в состав Польши."
+ gal.2.a: "Добро пожаловать домой, братья."
+ gal.2.b: "Украинцы-галичане присоединятся к Украине."
+  
+ gal.3.t: "Галиция желает союза с Польшей"
+ gal.3.d: "Бывшая австрийская территория Галиция-Лодомерия в последнее время, похоже, оказалась в состоянии неопределенности. Регион, приобретенный Габсбургами в 1772 году во время разделов Польши, населяют поляки и украинцы, которые не слишком привязаны к галицкой идентичности - вместо этого они предпочитают отождествлять себя со своими соотечественниками в других местах. Поэтому мало кто рассматривает созданное нами в регионе государство-сателлит как нечто большее, чем временную меру, которая со временем сольется с другой нацией.\n\nСейчас, когда Польша находится под контролем союзного правительства, поляки Галиции решили, что время пришло - мы получили запрос от [From.Capital.GetCapitalVictoryPointName] с просьбой одобрить союз между Польшей и Галицией-Лодомерией. Хотя большинство в нашем правительстве с пониманием относится к этой просьбе, есть одно осложнение: этот союз также приведет значительное количество украинцев под польский флаг, что не всем нравится. Со своей стороны, правительство в Варшаве настаивает на том, что украинцев примут как соотечественников, но некоторые дипломаты считают, что наши потребности лучше удовлетворить, сохранив раздельное существование государств. Должны ли мы позволить объединению продолжаться?"
+ gal.3.a: "Разумеется."
+ gal.3.b: "Нет, мы предпочитаем, чтобы они находились отдельно."
+  
+ gal.4.t: "[FROM.GetNameDefCap] одобряет союз с Польшей"
+ gal.4.d: "Отличные новости - наша просьба о слиянии с польскими соотечественниками была одобрена! Подготовка к слиянию уже началась полным ходом, так как граница между нами станет историей."
+ gal.4.a: "Отправьте посланника в Варшаву!"
+  
+ gal.5.t: "[FROM.GetNameDefCap] отказывается от союза с Польшей"
+ gal.5.d: "К сожалению, [FROM.GetNameDef] отклонил нашу просьбу о союзе с Польшей, ссылаясь на стратегические соображения. Похоже, что нам суждено еще некоторое время оставаться порознь."
+ gal.5.a: "Будь ты проклята!"
+  
+ gal.6.t: "Галицкие поляки присоединяются к нам"
+ gal.6.d: "Королевство Галиция и Лодомерия, созданное в 1772 году как коронная земля монархии Габсбургов в результате разделов Польши, завершило свое существование.\n\n С его долгой историей этнических и экономических бедствий, коронная земля часто игнорировалась Веной, прокладывая путь к значительной автономии и позволяя польскому и украинскому национальным движениям процветать и конкурировать. Вельткриг привел к тому, что регион стал 'Пьемонтом' Польши и Украины, а польские и украинские легионы сражались за освобождение своих стран от русского ига.\nЗаконному объединению галичан с их национальной родиной помешали немецко-австрийские препирательства, но это оказалось лишь временным явлением. После распада Галиции и Лодомерии ожидается обострение противоречий между Польшей и Украиной. Еще предстоит выяснить, как они решат судьбу региона и как будет происходить присоединение новых этнических меньшинств.\n\nНесмотря на это, сегодня мы приветствуем наших братьев и сестер из ныне несуществующей коронной земли в нашем государстве."
+ gal.6.a: "Добро пожаловать домой, братья."
+  
+ gal.7.t: "Карл Альбрехт избран королём Польши"
+ gal.7.d: "Нынешний губернатор Галиции-Лодомерии Карл Альбрехт фон Габсбург только что был избран новым королём Польши после нелёгкого голосования. Ожидается, что Карл Альбрехт рано утром покинет страну, чтобы заняться своими новыми обязанностями в качестве лидера польского народа, и оставит Владислава Сикорского нести ответственность за Галицию в его отсутствие."
+ gal.7.a: "Пожелаю ему удачи."
+  
+ gal.8.t: "Галицкие украинцы присоединяются к нам"
+ gal.8.d: "Королевство Галиция и Лодомерия, созданное в 1772 году как коронная земля монархии Габсбургов в результате разделов Польши, завершило свое существование.\n\n С его долгой историей этнических и экономических бедствий, коронная земля часто игнорировалась Веной, прокладывая путь к значительной автономии и позволяя польскому и украинскому национальным движениям процветать и конкурировать. Вельткриг привел к тому, что регион стал 'Пьемонтом' Польши и Украины, а польские и украинские легионы сражались за освобождение своих стран от русского ига.\nЗаконному объединению галичан с их национальной родиной помешали немецко-австрийские препирательства, но это оказалось лишь временным явлением. После распада Галиции и Лодомерии ожидается обострение противоречий между Польшей и Украиной. Еще предстоит выяснить, как они решат судьбу региона и как будет происходить присоединение новых этнических меньшинств.\n\nНесмотря на это, сегодня мы приветствуем наших братьев и сестер из ныне несуществующей коронной земли в нашем государстве."
+ gal.8.a: "Добро пожаловать домой, братья."
+  
+ ### Country Names ### 
+ GAL: "Галиция"
+ GAL_ADJ: "Галицк"
+ GAL_DEF: "Галиция"
+  
+ GAL_totalist: "Союз Галиции-Лодомерии"
+ GAL_totalist_DEF: "Союз Галиции-Лодомерии"
+ GAL_syndicalist: "Союз Галиции-Лодомерии"
+ GAL_syndicalist_DEF: "Союз Галиции-Лодомерии"
+ GAL_radical_socialist: "Союз Галиции-Лодомерии"
+ GAL_radical_socialist_DEF: "Союз Галиции-Лодомерии"
+ GAL_social_democrat: "Галиция-Лодомерия"
+ GAL_social_democrat_DEF: "Галиция-Лодомерия"
+ GAL_social_liberal: "Галиция-Лодомерия"
+ GAL_social_liberal_DEF: "Галиция-Лодомерия"
+ GAL_market_liberal: "Галиция-Лодомерия"
+ GAL_market_liberal_DEF: "Галиция-Лодомерия"
+ GAL_social_conservative: "Галиция-Лодомерия"
+ GAL_social_conservative_DEF: "Галиция-Лодомерия"
+ GAL_authoritarian_democrat: "Галиция-Лодомерия"
+ GAL_authoritarian_democrat_DEF: "Галиция-Лодомерия"
+ GAL_paternal_autocrat: "Галиция-Лодомерия"
+ GAL_paternal_autocrat_DEF: "Галиция-Лодомерия"
+ GAL_national_populist: "Галиция-Лодомерия"
+ GAL_national_populist_DEF: "Галиция-Лодомерия"
+  
+ GAL_west_galicia: "Западная Галициия"
+ GAL_west_galicia_ADJ: "Галицк"
+ GAL_west_galicia_DEF: "Западная Галициия"
+  
+ GAL_east_galicia: "Восточная Галициия"
+ GAL_east_galicia_ADJ: "Галицк"
+ GAL_east_galicia_DEF: "Восточная Галициия"
+  
+ GAL_bucovina: "Буковина"
+ GAL_bucovina_ADJ: "Буковинск"
+ GAL_bucovina_DEF: "Буковина"
+  
+ ### Characters ### 
+ GAL_stanislaw_szeptycki: "Станислав Шептицкий"
+ GAL_stanislaw_szeptycki_commander_desc: "§YBorn:§! §LNovember 3rd, 1867, in Przyłbice, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_franciszek_kleeberg: "Францишек Клееберг"
+ GAL_franciszek_kleeberg_commander_desc: "§YBorn:§! §LFebruary 1st, 1888, in Tarnopol, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_tadeusz_kutrzeba: "Тадеуш Кутшеба"
+ GAL_tadeusz_kutrzeba_high_command_desc: "§YBorn:§! §LApril 15th, 1885, in Kraków, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+  
+ GAL_wladyslaw_sikorski: "Владислав Сикорский"
+ GAL_wladyslaw_sikorski_leader_desc: "§YBorn:§! §LNovember 7th, 1881, in Tuszów Narodowy, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_wladyslaw_sikorski_army_chief_desc: "§YBorn:§! §LNovember 7th, 1881, in Tuszów Narodowy, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LWładysław Sikorski was the third son of a schoolteacher, and aimed for a career in engineering early on. After his graduation he volunteered for service in the Austro-Hungarian army and left it as a reserve second lieutenant. During this time he became involved in multiple organisations such as the socialist paramilitaries fighting for Poland's independence. He also met Piłsudski, Slawek, Sosnkowski and the other activists, and became the president of the Lwów chapter of the Riflemen's Association.\n\nWhen the Weltkrieg broke out, Sikorski was mobilised, and fought in the Polish units within the Austro-Hungarian military. Eventually he joined Piłsudski's Polish Legions and acted as a recruiter in Kraków. During this time he drifted away from Piłsudski, who spoke for a common cause with the Central Powers against Russia, while Sikorski believed that both Austrians and Germans had betrayed the Polish people too. Ironically Sikorski's doubts were confirmed when the Oath Crisis led to the disbanding of the Polish Legions. Sikorski himself returned to the Austro-Hungarian army, but soon joined Piłsudski in internment, after announcing lukewarm solidarity to his countryman.\n\nRefusing to serve under another German King, Władysław Sikorski decided to stay in Galicia after the war. He re-joined the army and became a prominent military theorist, calling for modernisation and motorisation of Galician forces. Sikorski has also been active in politics, campaigning for democracy and unification of the \"Two Polands\" on both sides of the border.§!" #NT!
+  
+ GAL_dmytro_vitovskyi: "Дмитро Витовский"
+ GAL_dmytro_vitovskyi_commander_desc: "§YBorn:§! §LNovember 8th, 1887, in Medukha, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_hnat_stefaniv: "Гнат Стефанив"
+ GAL_hnat_stefaniv_commander_desc: "§YBorn:§! §LMay 2nd, 1895, in Toporivtsi, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+  
+ GAL_stanislaw_jasinski: "Станислав Ясинский"
+ GAL_stanislaw_jasinski_theorist_desc: "§YBorn:§! §LApril 5th, 1891, in Oskrzesince, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_jan_rozwadowski: "Ян Розвадовский"
+ GAL_jan_rozwadowski_theorist_desc: "§YBorn:§! §LNovember 23rd, 1889, in Staryi Maidan, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_stanislaw_maczek: "Станислав Мачек"
+ GAL_stanislaw_maczek_high_command_desc: "§YBorn:§! §LMarch 31st, 1892, in Szczerc, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_franciszek_zamoyski: "Францишек Замойски"
+ GAL_franciszek_zamoyski_advisor_desc: "§YBorn:§! §L1876, in Moteszyce, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_alfred_antoni_potocki: "Альфред Антони Потоцкий"
+ GAL_alfred_antoni_potocki_advisor_desc: "§YBorn:§! §LJune 14th, 1886, in Łańcut, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_edward_raczynski: "Эдвард Рачиньски"
+ GAL_edward_raczynski_advisor_desc: "§YBorn:§! §LDecember 19th, 1891, in Zakopane, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_fryderyk_zoll: "Фридерки Золл"
+ GAL_fryderyk_zoll_advisor_desc: "§YBorn:§! §LFebruary 1st, 1865, in Kraków, Kingdom of Galicia and Lodomeria, Austrian Empire§!" #NT!
+ GAL_adam_krzyzanowski: "Адам Кржижановский"
+ GAL_adam_krzyzanowski_advisor_desc: "§YBorn:§! §LJanuary 19th, 1873, in Kraków, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_stanislaw_ulam: "Станислав Улам"
+ GAL_stanislaw_ulam_theorist_desc: "§YBorn:§! §LApril 13th, 1909, in Lwów, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_ludwik_spiechowicz_boruta: "Людвик Шпихович-Борута"
+ GAL_ludwik_spiechowicz_boruta_high_command_desc: "§YBorn:§! §LFebruary 20th, 1894, in Rzeszów, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_stanislaw_miller: "Станислав Миллер"
+ GAL_stanislaw_miller_high_command_desc: "§YBorn:§! §LNovember 6th, 1881, in Chrzanów, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_wladyslaw_kalkus: "Владислав Калкус"
+ GAL_wladyslaw_kalkus_air_chief_desc: "§YBorn:§! §LJune 8th, 1882, in Lwów, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_juliusz_kleeberg: "Юлиуш Клееберг"
+ GAL_juliusz_kleeberg_high_command_desc: "§YBorn:§! §LMarch 30th, 1890, in Trembowla, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_stanislaw_ujejski: "Станислав Уйейский"
+ GAL_stanislaw_ujejski_high_command_desc: "§YBorn:§! §LNovember 14th, 1891, in Ropczyce, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_wincenty_witos: "Винсенти Витос"
+ GAL_wincenty_witos_sic_desc: "§YBorn:§! §LJanuary 21st, 1874, in Wierzchosławice, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_ignacy_moscicki: "Игнаций Мосьцицкий"
+ GAL_ignacy_moscicki_advisor_desc: "§YBorn:§! §LDecember 1st, 1867, in Mierzanowo, Płock Governorate, Kingdom of Poland, Russian Empire§!" #NT!
+ GAL_adam_romer: "Адам Ромер"
+ GAL_adam_romer_advisor_desc: "§YBorn:§! §LJanuary 5th, 1892, in Nowy Jiczyn, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_adam_sapieha: "Адам Сапега"
+ GAL_adam_sapieha_advisor_desc: "§YBorn:§! §LMay 14th, 1867, in Krasiczyn, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_kost_levytskyi: "Кость Левицкий"
+ GAL_kost_levytskyi_advisor_desc: "§YBorn:§! §LNovember 18th, 1859, in Kost Levytskyi, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_yevhen_petrushevych: "Евгений Петрушевич"
+ GAL_yevhen_petrushevych_advisor_desc: "§YBorn:§! §LJune 3rd, 1863, in Busk, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_eugeniusz_kwiatkowski: "Евгениуш Квятковски"
+ GAL_eugeniusz_kwiatkowski_advisor_desc: "§YBorn:§! §LDecember 30th, 1888, in Kraków, Kingdom of Galicia and Lodomeria, Austria-Hungary§!" #NT!
+ GAL_franciszek_pokorny: "Францишек Покорный"
+ GAL_franciszek_pokorny_advisor_desc: "§YBorn:§! §LJune 15th, 1891, in Mosty, Duchy of Silesia, Austria-Hungary§!" #NT!
+  
+ ### Traits ### 
+ GAL_polish_officer: "Польский офицер"
+ GAL_polish_officer_desc: "§LЭтот лидер - польский галицкий офицер. В случае распада или раскола Галиции-Лодомерии они будут выступать на стороне польских режимов.§!"
+  
+ GAL_ukrainian_officer: "Украинский офицер"
+ GAL_ukrainian_officer_desc: "§LЭтот лидер - украинский галицкий офицер. В случае распада или раскола Галиции-Лодомерии они будут выступать на стороне украинских режимов.§!"
