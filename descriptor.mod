@@ -4,5 +4,4 @@ tags={
 }
 picture="thumbnail.png"
 name="Kaiserreich » Русская Локализация"
-supported_version="1.14.7"
-remote_file_id="3263480931"
+supported_version="1.16.0"
