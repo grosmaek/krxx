@@ -1,42 +1,55 @@
 ﻿l_russian:
-  
- ### Parties ### 
- MNR_totalist_party: "Социалистическая группа"
- MNR_syndicalist_party: "Социалистическая группа"
- MNR_radical_socialist_party: "Социалистическая группа"
- MNR_social_democrat_party: "Социал-демократическая партия"
- MNR_social_liberal_party: "Народная партия Северного Кавказа"
- MNR_market_liberal_party: "Федералистская партия Северного Кавказа"
- MNR_social_conservative_party: "Федералистская партия Северного Кавказа"
- MNR_authoritarian_democrat_party: "Народная партия Северного Кавказа"
- MNR_paternal_autocrat_party: "Военное правительство"
- MNR_national_populist_party: "Общество исламистов"
-  
- ### Country Names ### 
- MNR: "Mountain Republic" #NT!
- MNR_ADJ: "North Caucasian" #NT!
- MNR_DEF: "the Mountain Republic" #NT!
-  
- MNR_totalist: "Федерация Северного Кавказа"
- MNR_totalist_ADJ: "Северокавказская"
- MNR_totalist_DEF: "Федерация Северного Кавказа"
- MNR_syndicalist: "Федерация Северного Кавказа"
- MNR_syndicalist_ADJ: "Северокавказская"
- MNR_syndicalist_DEF: "Федерация Северного Кавказа"
- MNR_radical_socialist: "Федерация Северного Кавказа"
- MNR_radical_socialist_ADJ: "Северокавказская"
- MNR_radical_socialist_DEF: "Федерация Северного Кавказа"
-  
- ### Characters ### 
- MNR_djelal_eddin_korkmasov: "Djelal ed-Din Korkmasov" #NT!
- MNR_djelal_eddin_korkmasov_leader_desc: "§YBorn:§! §LSeptember 19th, 1877, in Kumtorkala, Dagestan Oblast, Russian Empire§!" #NT!
- MNR_alikhan_kantemir: "Алихан Кантемир"
- MNR_alikhan_kantemir_leader_desc: "§YBorn:§! §LMay 9th, 1886, in Karagach, Terek Oblast, Russian Empire§!" #NT!
- MNR_said_shamil: "Мухаммад Саид Шамиль"
- MNR_said_shamil_leader_desc: "§YBorn:§! §L1901, in Konstantiniyye, Vilayet of Konstantiniyye, Ottoman Empire§!" #NT!
- MNR_haidar_bammat: "Haidar Bammat" #NT!
- MNR_haidar_bammat_leader_desc: "§YBorn:§! §LNovember 3rd, 1890, in Temir-Khan-Shura, Dagestan Oblast, Russian Empire§!" #NT!
- MNR_ali_mitayev: "Али Митаев"
- MNR_ali_mitayev_leader_desc: "§YBorn:§! §L1881, in Avtury, Terek Oblast, Russian Empire§!" #NT!
- MNR_sultan_klych_girey: "Султан Клыч-Гирей"
- MNR_sultan_klych_girey_high_command_desc: "§YBorn:§! §LMarch 15th, 1880, in Ulyap, Kuban Oblast, Russian Empire§!\n§YBackground:§! §LSultan Klych-Girey (in Russian Army - Kelech Shakhanovich Sultan-Girey) comes from a dynasty of Girey Khans of Crimea, and thus is a descendant of the Genghis Khan. By his time the family was living in Maykop in North Caucasus as typical Russian military aristocracy. Klych-Girey graduated from the Yelisavetgrad Cavalry Cadet School in 1901, and would serve most of his career in the infamous Caucasian Native Cavalry Division. In the division, he would become close to General Kornilov, then-commander of the division, and would join the Volunteer Army soon after its creation. General-Major Klych-Girey was tasked with recruitment efforts in the North Caucasus, aided by his extensive connections in Circassia.\n\nAfter the civil war, he continued to serve in the Russian Army, and was initially supportive towards creation of the North Caucasus Special Autonomous Region. Constant unrest and military conflict in the region did eventually put him at odds with General Kornilov's handling of the region, and eventually in 1929 Klych-Girey was retired from the military. After the rise of Savinkov and heightening tensions in the Caucasus, he became a part of the North Caucasian emigré community in Germany, trying to find ways for the Caucasians to oppose Moscow's attempts at abolishing any sembalance of autonomy that was left.§!" #NT!
+
+### Parties ###
+ ## Партии ###  
+MNR_totalist_party: "Социалистическая группа"  
+MNR_syndicalist_party: "Социалистическая группа"  
+MNR_radical_socialist_party: "Социалистическая группа"  
+MNR_social_democrat_party: "Социал-демократическая партия"  
+MNR_social_liberal_party: "Народная партия Северного Кавказа"  
+MNR_market_liberal_party: "Федералистская партия Северного Кавказа"  
+MNR_social_conservative_party: "Федералистская партия Северного Кавказа"  
+MNR_authoritarian_democrat_party: "Народная партия Северного Кавказа"  
+MNR_paternal_autocrat_party: "Военное правительство"  
+MNR_national_populist_party: "Общество исламистов"  
+
+### Country Names ###
+ MNR_totalist: "Федерация Северного Кавказа"  
+MNR_totalist_ADJ: "Северокавказская"  
+MNR_totalist_DEF: "Федерация Северного Кавказа"  
+MNR_syndicalist: "Федерация Северного Кавказа"  
+MNR_syndicalist_ADJ: "Северокавказская"  
+MNR_syndicalist_DEF: "Федерация Северного Кавказа"  
+MNR_radical_socialist: "Федерация Северного Кавказа"  
+MNR_radical_socialist_ADJ: "Северокавказская"  
+MNR_radical_socialist_DEF: "Федерация Северного Кавказа"  
+MNR_social_democrat: "Горская Республика"  
+MNR_social_democrat_ADJ: "Северокавказская"  
+MNR_social_democrat_DEF: "Горская Республика"  
+MNR_social_liberal: "Горская Республика"  
+MNR_social_liberal_ADJ: "Северокавказская"  
+MNR_social_liberal_DEF: "Горская Республика"  
+MNR_market_liberal: "Горская Республика"  
+MNR_market_liberal_ADJ: "Северокавказская"  
+MNR_market_liberal_DEF: "Горская Республика"  
+MNR_social_conservative: "Горская Республика"  
+MNR_social_conservative_ADJ: "Северокавказская"  
+MNR_social_conservative_DEF: "Горская Республика"  
+MNR_authoritarian_democrat: "Горская Республика"  
+MNR_authoritarian_democrat_ADJ: "Северокавказская"  
+MNR_authoritarian_democrat_DEF: "Горская Республика"  
+MNR_paternal_autocrat: "Горская Республика"  
+MNR_paternal_autocrat_ADJ: "Северокавказская"  
+MNR_paternal_autocrat_DEF: "Горская Республика"  
+MNR_national_populist: "Горская Республика"  
+MNR_national_populist_ADJ: "Северокавказская"  
+MNR_national_populist_DEF: "Горская Республика"  
+
+### Characters ###
+MNR_dzhalalutdin_korkmas: "Джалалутдин Коркмас"  
+MNR_alikhan_kantemir: "Алихан Кантемир"  
+MNR_said_shamil: "Мухаммад Саид Шамиль"  
+MNR_gaidar_bammat: "Гайдар Баммат"  
+MNR_ali_mitayev: "Али Митаев"  
+MNR_sultan_klych_girey: "Султан Клыч-Гирей"  
+MNR_sultan_klych_girey_high_command_desc: "§YРодился:§! §L1 января 1880 года, Уляп, Кубанская область, Российская Империя§!\n§YБиография:§! §ЛСултан Клыч-Гирей (в русской армии - Келеч Шаханович Султан-Гирей) происходит из династии крымских ханов Гиреев, и, таким образом, является потомком Чингисхана. К этому времени семья проживала в Майкопе на Северном Кавказе, будучи типичной военной аристократией Российской Империи. Клыч-Гирей окончил Елисаветградское кавалерийское училище в 1901 году и большую часть карьеры служил в знаменитой Кавказской туземной кавалерийской дивизии. В дивизии он стал близок с генералом Корниловым, тогдашним командиром дивизии, и вскоре после её создания присоединился к Добровольческой армии. Генерал-майор Клыч-Гирей был назначен ответственным за вербовку на Северном Кавказе, используя свои обширные связи в Черкесии.\n\nПосле гражданской войны он продолжил службу в русской армии и изначально поддерж

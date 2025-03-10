@@ -1,35 +1,35 @@
 ﻿l_russian:
-  
- ### Events ### 
+
+### Events ###
  nepal.10.t: "Непал побеждает в войне"
  nepal.10.d: "Невероятно, но непальские гуркхи хлынули из гор и переломили ход событий против нас. Может быть, пришло время уступить их требованиям и просить о мире?"
  nepal.10.a: "Да, давайте покончим с этим сейчас"
  nepal.10.b: "Нет, мы еще можем все изменить!"
-  
+ 
  nepal.11.t: "[From.GetNameDefCap] просит мира с Непалом"
  nepal.11.d: "Удивительно, но непальская армия перехитрила нас. [From.GetNameDefCap] потребовала мира и уступила их требованиям, чтобы, наконец, положить конец нашему унижению."
  nepal.11.a: "Невероятно!"
-  
+ 
  nepal.20.t: "Тупик в войне с Непалом"
  nepal.20.d.claims: "Наша война с непальцами затянулась в горах, на территории, на которой они слишком хорошо умеют воевать. Возможно, нам следует заключить мир - они могут отдать нам наши территории и уйти, а мы оставим попытки завоевать их. Конечно, они знают, что, если дать им достаточно времени, мы победим... но какой ценой?"
  nepal.20.d.noclaims: "Наша война с непальцами затянулась в горах, на территории, где они слишком хорошо умеют воевать. Возможно, нам следует заключить мир и просто уйти от этого, пока битва не затянулась надолго."
  nepal.20.a: "Да, давайте покончим с этим сейчас"
  nepal.20.b: "Мы попросим [faction_leader.GetNameDef] провести переговоры о мире"
  nepal.20.c: "Нет! Мы возьмем Катманду или умрем!"
-  
+ 
  nepal.21.t: "Мир с Непалом?"
  nepal.21.d.claims: "Война с непальцами затянулась в горах, на территории, где они слишком хорошо умеют воевать. Посланники [From.GetAdjective]ого правительства обратились к нам с просьбой заключить мир - непальцы могут отдать им заявленные территории и уйти, а [Root.GetFactionName] оставит попытки завоевать их. Конечно, [NEP.GetNameDef] знает, что, если дать достаточно времени, мы победим... но какой ценой?"
  nepal.21.d.noclaims: "Война с непальцами затянулась в горах, на территории, где они слишком хорошо умеют воевать. К нам обратились посланники [From.GetAdjective]ого правительства и попросили заключить мир - [Root.GetFactionName], конечно, выиграет в долгосрочной перспективе, но какой ценой? Они говорят, что война не стоит продолжения."
  nepal.21.a: "Тогда давайте покончим с этим сейчас"
  nepal.21.b: "Война не закончится, пока не падет Катманду"
-  
+ 
  nepal.22.t: "Мир с [From.GetNameDef]?"
  nepal.22.d.claims: "Война с [From.GetNameDef] затихла в горах, как мы и предполагали, но мы еще очень, очень далеки от победы. Представители [From.GetAdjective]ого правительства предложили нам передать заявленные [claimant.GetAdjective]ие территории и уйти, сохранив нашу независимость."
  nepal.22.d.noclaims: "Война с [From.GetNameDef] затихла в горах, как мы и предполагали, но мы еще очень, очень далеки от победы. Представители [From.GetAdjective]ого правительства предложили закончить войну и уйти, ни одна из сторон ничего не получила, но наша независимость осталась нетронутой."
  nepal.22.a: "Да, давайте покончим с этим сейчас"
  nepal.22.b: "Абсолютно нет!"
-  
- ### Parties ### 
+
+### Parties ###
  NEP_totalist_party: "Группа Джапели"
  NEP_totalist_party_long: "Группа Джапели"
  NEP_syndicalist_party: "Всенепальский профсоюзный конгресс"
@@ -50,77 +50,84 @@
  NEP_paternal_autocrat_party_long: "Традиционная фракция Династия Рана"
  NEP_national_populist_party: "Национальная партия Яна Сангш"
  NEP_national_populist_party_long: "Национальная партия Яна Сангш"
-  
- ### Ideas ### 
+
+### Tooltips ###
+ NEP_puppetdiv_tt: "Будут сформированы две новые пехотные дивизии."
+
+### Ideas ###
  NEP_gurkha_brigades: "Бригады гуркхов"
-  
- ### Country Names ### 
+ 
+### Country Names ###
  NEP: "Непал"
  NEP_ADJ: "Непальск"
  NEP_DEF: "Непал"
-  
- ### Intro Screen ### 
- NEP_country_intro_background: "GFX_NEP_intro" #NT!
-  
- ### Decisions ### 
+ 
+ NEP_totalist: "Непал"
+ NEP_totalist_ADJ: "Непальск"
+ NEP_totalist_DEF: "Непал"
+ NEP_syndicalist: "Непал"
+ NEP_syndicalist_ADJ: "Непальск"
+ NEP_syndicalist_DEF: "Непал"
+ NEP_radical_socialist: "Непал"
+ NEP_radical_socialist_ADJ: "Непальск"
+ NEP_radical_socialist_DEF: "Непал"
+ NEP_social_democrat: "Непал"
+ NEP_social_democrat_ADJ: "Непальск"
+ NEP_social_democrat_DEF: "Непал"
+ NEP_social_liberal: "Непал"
+ NEP_social_liberal_ADJ: "Непальск"
+ NEP_social_liberal_DEF: "Непал"
+ NEP_market_liberal: "Непал"
+ NEP_market_liberal_ADJ: "Непальск"
+ NEP_market_liberal_DEF: "Непал"
+ NEP_social_conservative: "Непал"
+ NEP_social_conservative_ADJ: "Непальск"
+ NEP_social_conservative_DEF: "Непал"
+ NEP_authoritarian_democrat: "Непал"
+ NEP_authoritarian_democrat_ADJ: "Непальск"
+ NEP_authoritarian_democrat_DEF: "Непал"
+ NEP_paternal_autocrat: "Непал"
+ NEP_paternal_autocrat_ADJ: "Непальск"
+ NEP_paternal_autocrat_DEF: "Непал"
+ NEP_national_populist: "Непал"
+ NEP_national_populist_ADJ: "Непальск"
+ NEP_national_populist_DEF: "Непал"
+
+### Decisions ###
  NEP_hold_out_vs_india: "Устоять против [From.GetNameDef]"
  NEP_defeat_nepal: "Победить Непал"
  NEP_defeat_india: "Поставить [From.GetNameDef] на колени"
-  
- ### Characters ### 
+
+### Characters ###
  NEP_dhammalok_mahasthavir: "Дхаммалок Махастхавир"
- NEP_dhammalok_mahasthavir_leader_desc: "§YBorn:§! §LJanuary 16th, 1890, in Kathmandu, Kingdom of Nepal§!" #NT!
-  
+ 
  NEP_tribhuvan: "Трибхуван"
  NEP_tribhuvan_leader_desc: "Король Трибхуван сел на трон пятилетним мальчишкой, не имея реальной власть. Могущественная семья Рана управляла страной от его имени в качестве регентов. Возмужав, Трибхуван столкнулся с нежеланием своих помощников делиться властью. Непал всё больше и больше становится ареной внутренних распрей короля и клана Рана. Только время покажет, кто из них победит."
-  
+
  NEP_subarna_shamsher_rana: "Субарна Шамшер Рана"
- NEP_subarna_shamsher_rana_leader_desc: "§YBorn:§! §L1910, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_matrika_prasad_koirala: "Матрика Прасад Коирала"
- NEP_matrika_prasad_koirala_leader_desc: "§YBorn:§! §LJanuary 1st, 1912, in Benares, United Provinces of Agra and Oudh, British India§!" #NT!
  NEP_tanka_prasad_acharya: "Танка Прасад Ачария"
- NEP_tanka_prasad_acharya_leader_desc: "§YBorn:§! §LFebruary 11th, 1912, in Nawalparasi, Kingdom of Nepal§!" #NT!
  NEP_bishweshwar_prasad_koirala: "Бишвешвар Прасад Коирала"
- NEP_bishweshwar_prasad_koirala_leader_desc: "§YBorn:§! §LSeptember 8th, 1914, in Benares, United Provinces of Agra and Oudh, British India§!" #NT!
  NEP_kunwar_inderjit_singh: "Кунвар Индерджит Сингх"
- NEP_kunwar_inderjit_singh_leader_desc: "§YBorn:§! §L1906, in Dumrakot, Kingdom of Nepal§!" #NT!
  NEP_juddha_shumsher_jang_bahadur_rana: "Джуддха Шамшер Джанг Бахадур Рана"
- NEP_juddha_shumsher_jang_bahadur_rana_sic_desc: "§YBorn:§! §LApril 19th, 1875, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_kaiser_shumsher_jang_bahadur_rana: "Кайзер Шамшер Юнг Бахадур Рана"
- NEP_kaiser_shumsher_jang_bahadur_rana_commander_desc: "§YBorn:§! §LJanuary 8th, 1892, in the Kingdom of Nepal§!" #NT!
  NEP_mutilal_gurung: "Мотилал Гурунг"
- NEP_mutilal_gurung_commander_desc: "§YBorn:§! §Lin the Kingdom of Nepal§!" #NT!
-  
+
  NEP_dashrath_chand: "Дашратх Чанд"
- NEP_dashrath_chand_sic_desc: "§YBorn:§! §L1903, in Baskot, Kingdom of Nepal§!" #NT!
  NEP_bharat_shumsher_jang_bahadur_rana: "Бхарат Шумшер Рана"
- NEP_bharat_shumsher_jang_bahadur_rana_sic_desc: "§YBorn:§! §Lin Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_bharat_mani_sharma: "Бхарат Мари Шарма"
- NEP_bharat_mani_sharma_advisor_desc: "§YBorn:§! §Lin the Kingdom of Nepal§!" #NT!
  NEP_dharma_bhakta_mathema: "Дхарма Бхакта Матхема"
- NEP_dharma_bhakta_mathema_advisor_desc: "§YBorn:§! §LSeptember 24th, 1909, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_shukraraj_shastri: "Шукрарадж Шастри"
- NEP_shukraraj_shastri_advisor_desc: "§YBorn:§! §L1894, in Benares, United Provinces of Agra and Oudh, British India§!" #NT!
  NEP_krishna_prasad_koirala: "Кришна Прасад Коирала"
- NEP_krishna_prasad_koirala_advisor_desc: "§YBorn:§! §Lin Dumja, Kingdom of Nepal§!" #NT!
  NEP_laxmi_prasad_devkota: "Лакшмипрасад Девкота"
- NEP_laxmi_prasad_devkota_advisor_desc: "§YBorn:§! §LNovember 12th, 1909, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_nrip_jang_rana: "Нрип Джан Рана"
- NEP_nrip_jang_rana_advisor_desc: "§YBorn:§! §LFebruary 15th, 1890, in Calcutta, Presidency of Fort William in Bengal, British India§!" #NT!
  NEP_mohan_shumsher_jang_bahadur_rana: "Мохан Шамшер Рана"
- NEP_mohan_shumsher_jang_bahadur_rana_army_chief_desc: "§YBorn:§! §LDecember 23rd, 1885, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_baber_shumsher_jang_bahadur_rana: "Бабер Шамшер Рана"
- NEP_baber_shumsher_jang_bahadur_rana_army_chief_desc: "§YBorn:§! §LJanuary 27th, 1888, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_padma_shumsher_jang_bahadur_rana: "Падма Шамшер Рана"
- NEP_padma_shumsher_jang_bahadur_rana_advisor_desc: "§YBorn:§! §LDecember 5th, 1882, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_ranaji_vishnu_shumsher_jang_bahadur_rana: "Ранажи Вишну Шамшер Рана"
- NEP_ranaji_vishnu_shumsher_jang_bahadur_rana_advisor_desc: "§YBorn:§! §LNovember 13th, 1906, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_purendra_bikram_shah: "Пурендра Бикрам Шах"
- NEP_purendra_bikram_shah_high_command_desc: "§YBorn:§! §LJanuary 20th, 1900, in Kathmandu, Kingdom of Nepal§!" #NT!
  NEP_karan_bahadur_rana: "Каранбахадур Рана"
- NEP_karan_bahadur_rana_high_command_desc: "§YBorn:§! §LDecember 21st, 1898, in Mangalthan Gulmi, Kingdom of Nepal§!" #NT!
  NEP_kulbir_thapa: "Кулбир Тхапа"
- NEP_kulbir_thapa_high_command_desc: "§YBorn:§! §LDecember 15th, 1888, in Palpa, Kingdom of Nepal§!" #NT!
-  
- ### Traits ### 
+
  NEP_defiant_hostage: "Дерзкий заложник"
+ 

@@ -1,257 +1,95 @@
 ﻿l_russian:
-  
+
  ASM: "Ассам"
  ASM_ADJ: "Ассамск"
  ASM_DEF: "Ассам"
-  
+
  BNG: "Бенгалия"
  BNG_ADJ: "Бенгальск"
  BNG_DEF: "Бенгалия"
- BNG_totalist_DEF: "the Workers' Republic of Bengal" #NT!
- BNG_syndicalist_DEF: "the Workers' Republic of Bengal" #NT!
- BNG_radical_socialist_DEF: "the Workers' Republic of Bengal" #NT!
-  
+
  BOM: "Махараштра"
  BOM_ADJ: "Махараштрск"
  BOM_DEF: "Махараштра"
-  
+
  GUJ: "Гуджарат"
  GUJ_ADJ: "Гуджаратск"
  GUJ_DEF: "Гуджарат"
- GUJ_totalist: "Gujarati Republic" #NT!
- GUJ_totalist_ADJ: "Gujarati" #NT!
- GUJ_totalist_DEF: "the Gujarati Republic" #NT!
- GUJ_syndicalist: "Gujarati Republic" #NT!
- GUJ_syndicalist_ADJ: "Gujarati" #NT!
- GUJ_syndicalist_DEF: "the Gujarati Republic" #NT!
- GUJ_radical_socialist: "Gujarati Republic" #NT!
- GUJ_radical_socialist_ADJ: "Gujarati" #NT!
- GUJ_radical_socialist_DEF: "the Gujarati Republic" #NT!
-  
+
  INR: "Бхаратские мятежники"
  INR_ADJ: "Бхаратск"
  INR_DEF: "Бхаратские мятежники"
-  
+
  KAS: "Кашмир"
  KAS_ADJ: "Кашмирск"
  KAS_DEF: "Кашмир"
-  
+
+ MYS: "Майсур"
+ MYS_ADJ: "Майсурск"
+ MYS_DEF: "Майсур"
+
  ORI: "Орисса"
  ORI_ADJ: "Орийск"
  ORI_DEF: "Орисса"
-  
+
  PJB: "Пенджаб"
  PJB_ADJ: "Пенджабск"
  PJB_DEF: "Пенджаб"
- PJB_totalist: "Punjab Kirti Republic" #NT!
- PJB_totalist_DEF: "the Punjab Kirti Republic" #NT!
- PJB_syndicalist: "Punjab Kirti Republic" #NT!
- PJB_syndicalist_DEF: "the Punjab Kirti Republic" #NT!
- PJB_radical_socialist: "Punjab Kirti Republic" #NT!
- PJB_radical_socialist_DEF: "the Punjab Kirti Republic" #NT!
-  
+
+ pakistan: "Пакистан"
+ pakistan_ADJ: "Пакистанск"
+ pakistan_DEF: "Пакистан"
+
  KHA: "Халистан"
  KHA_ADJ: "Халистанск"
  KHA_DEF: "Халистан"
-  
+
  RJS: "Раджастан"
  RJS_ADJ: "Раджастанск"
  RJS_DEF: "Раджастан"
-  
+
  TRV: "Траванкор"
  TRV_ADJ: "Траванкорск"
  TRV_DEF: "Траванкор"
- TRV_totalist: "Kerala" #NT!
- TRV_totalist_ADJ: "Keralite" #NT!
- TRV_totalist_DEF: "Kerala" #NT!
- TRV_syndicalist: "Kerala" #NT!
- TRV_syndicalist_ADJ: "Keralite" #NT!
- TRV_syndicalist_DEF: "Kerala" #NT!
- TRV_radical_socialist: "Kerala" #NT!
- TRV_radical_socialist_ADJ: "Keralite" #NT!
- TRV_radical_socialist_DEF: "Kerala" #NT!
-  
+
  HIN: "Индостан"
  HIN_ADJ: "Индостанск"
  HIN_DEF: "Индостан"
-  
- ### Party Names ### 
-  
- PJB_totalist_party_long: "Communist Party of Punjab" #NT!
- PJB_totalist_party: "CPP" #NT!
- PJB_syndicalist_party_long: "Communist Party of Punjab" #NT!
- PJB_syndicalist_party: "CPP" #NT!
- PJB_radical_socialist_party_long: "Communist Party of Punjab" #NT!
- PJB_radical_socialist_party: "CPP" #NT!
- PJB_social_democrat_party_long: "Azad Punjab Party" #NT!
- PJB_social_democrat_party: "Azad Punjab" #NT!
- PJB_social_liberal_party_long: "Punjab Muslim League" #NT!
- PJB_social_liberal_party: "Muslim League" #NT!
- PJB_market_liberal_party_long: "Punjab Muslim League" #NT!
- PJB_market_liberal_party: "Muslim League" #NT!
- PJB_social_conservative_party_long: "Punjab Muslim League" #NT!
- PJB_social_conservative_party: "Muslim League" #NT!
- PJB_authoritarian_democrat_party_long: "Punjab Muslim League" #NT!
- PJB_authoritarian_democrat_party: "Muslim League" #NT!
- PJB_paternal_autocrat_party_long: "Punjab Army" #NT!
- PJB_paternal_autocrat_party: "Punjab Army" #NT!
- PJB_national_populist_party_long: "Daru'l-Islam (House of Islam)" #NT!
- PJB_national_populist_party: "Daru'l-Islam" #NT!
-  
- KHA_totalist_party_long: "Lal Communist Party (Red Communist Party)" #NT!
- KHA_totalist_party: "Lal Communist Party" #NT!
- KHA_syndicalist_party_long: "Lal Communist Party (Red Communist Party)" #NT!
- KHA_syndicalist_party: "Lal Communist Party" #NT!
- KHA_radical_socialist_party_long: "Lal Communist Party (Red Communist Party)" #NT!
- KHA_radical_socialist_party: "Lal Communist Party" #NT!
- KHA_social_democrat_party_long: "Shiromani Akali Dal" #NT!
- KHA_social_democrat_party: "SAD" #NT!
- KHA_social_liberal_party_long: "Shiromani Akali Dal" #NT!
- KHA_social_liberal_party: "SAD" #NT!
- KHA_market_liberal_party_long: "Shiromani Akali Dal" #NT!
- KHA_market_liberal_party: "SAD" #NT!
- KHA_social_conservative_party_long: "Shiromani Akali Dal" #NT!
- KHA_social_conservative_party: "SAD" #NT!
- KHA_authoritarian_democrat_party_long: "Shiromani Akali Dal" #NT!
- KHA_authoritarian_democrat_party: "SAD" #NT!
- KHA_paternal_autocrat_party_long: "Kharku Jujharu (Courageous Workers)" #NT!
- KHA_paternal_autocrat_party: "Kharku Jujharu" #NT!
- KHA_national_populist_party_long: "Kharku Jujharu (Courageous Workers)" #NT!
- KHA_national_populist_party: "Kharku Jujharu" #NT!
-  
- KAS_totalist_party_long: "Kashmir Socialist Party" #NT!
- KAS_totalist_party: "KSP" #NT!
- KAS_syndicalist_party_long: "Kashmir Socialist Party" #NT!
- KAS_syndicalist_party: "KSP" #NT!
- KAS_radical_socialist_party_long: "Kashmir Socialist Party" #NT!
- KAS_radical_socialist_party: "KSP" #NT!
- KAS_social_democrat_party_long: "All Jammu and Kashmir Muslim Conference" #NT!
- KAS_social_democrat_party: "Kashmir Conference" #NT!
- KAS_social_liberal_party_long: "Kisan Mazdoor Party (Farmers and Workers Party)" #NT!
- KAS_social_liberal_party: "Kisan Mazdoor Party" #NT!
- KAS_market_liberal_party_long: "Kisan Mazdoor Party (Farmers and Workers Party)" #NT!
- KAS_market_liberal_party: "Kisan Mazdoor Party" #NT!
- KAS_social_conservative_party_long: "Sanatana Dharma Yuvak Sabha (Eternal Dharmic Youth Association)" #NT!
- KAS_social_conservative_party: "Yuvak Sabha" #NT!
- KAS_authoritarian_democrat_party_long: "Sanatana Dharma Yuvak Sabha (Eternal Dharmic Youth Association)" #NT!
- KAS_authoritarian_democrat_party: "Yuvak Sabha" #NT!
- KAS_paternal_autocrat_party_long: "All Jammu and Kashmir Rajya Hindu Sabha" #NT!
- KAS_paternal_autocrat_party: "Hindu Sabha" #NT!
- KAS_national_populist_party_long: "All Jammu and Kashmir Rajya Hindu Sabha" #NT!
- KAS_national_populist_party: "Hindu Sabha" #NT!
-  
- BNG_totalist_party_long: "Communist Party of Bengal" #NT!
- BNG_totalist_party: "CPB" #NT!
- BNG_syndicalist_party_long: "Communist Party of Bengal" #NT!
- BNG_syndicalist_party: "CPB" #NT!
- BNG_radical_socialist_party_long: "Nikhil Banga Praja Samiti (All Bengal Tenants' Association)" #NT!
- BNG_radical_socialist_party: "Praja Samiti" #NT!
- BNG_social_democrat_party_long: "Nikhil Banga Praja Samiti (All Bengal Tenants' Association)" #NT!
- BNG_social_democrat_party: "Praja Samiti" #NT!
- BNG_social_liberal_party_long: "Tippera Krishak Samiti (Tripura Farmers' Association)" #NT!
- BNG_social_liberal_party: "Krishak Samiti" #NT!
- BNG_market_liberal_party_long: "Bengal Muslim Alliance" #NT!
- BNG_market_liberal_party: "BMA" #NT!
- BNG_social_conservative_party_long: "Bengal Muslim Alliance" #NT!
- BNG_social_conservative_party: "BMA" #NT!
- BNG_authoritarian_democrat_party_long: "Bengal Muslim Alliance" #NT!
- BNG_authoritarian_democrat_party: "BMA" #NT!
- BNG_paternal_autocrat_party_long: "Bengal Army" #NT!
- BNG_paternal_autocrat_party: "Bengal Army" #NT!
- BNG_national_populist_party_long: "Daru'l-Islam (House of Islam)" #NT!
- BNG_national_populist_party: "Daru'l-Islam" #NT!
-  
- TRV_totalist_party_long: "Communist Party of Kerala" #NT!
- TRV_totalist_party: "CPK" #NT!
- TRV_syndicalist_party_long: "Communist Party of Kerala" #NT!
- TRV_syndicalist_party: "CPK" #NT!
- TRV_radical_socialist_party_long: "Communist Party of Kerala" #NT!
- TRV_radical_socialist_party: "CPK" #NT!
- TRV_social_democrat_party_long: "Travancore-Cochin Congress" #NT!
- TRV_social_democrat_party: "TCC" #NT!
- TRV_social_liberal_party_long: "Travancore-Cochin Congress" #NT!
- TRV_social_liberal_party: "TCC" #NT!
- TRV_market_liberal_party_long: "Travancore-Cochin Praja Party" #NT!
- TRV_market_liberal_party: "TCPP" #NT!
- TRV_social_conservative_party_long: "Travancore-Cochin Praja Party" #NT!
- TRV_social_conservative_party: "TCPP" #NT!
- TRV_authoritarian_democrat_party_long: "National Government" #NT!
- TRV_authoritarian_democrat_party: "National Government" #NT!
- TRV_paternal_autocrat_party_long: "National Government" #NT!
- TRV_paternal_autocrat_party: "National Government" #NT!
- TRV_national_populist_party_long: "Akhila Thiruvithamkoor Malayali Sabha (All-Travancore Malayali Assembly)" #NT!
- TRV_national_populist_party: "Malayali Sabha" #NT!
-  
- ### World Tension ### 
+ 
+### World Tension ###
  indian_wars_threat: "Война за объединение Индии"
-  
- ### Characters ### 
- BNG_muzaffar_ahmad: "Muzaffar Ahmad" #NT!
- BNG_muzaffar_ahmad_leader_desc: "§YBorn:§! §LAugust 5th, 1889, in Sandwip, Presidency of Fort William in Bengal, British India§!" #NT!
- BNG_ashrafuddin_ahmad_chowdhury: "Ashrafuddin Ahmad Chowdhury" #NT!
- BNG_ashrafuddin_ahmad_chowdhury_leader_desc: "§YBorn:§! §L1894, in Batagram, Presidency of Fort William in Bengal, British India§!" #NT!
- BNG_khawaja_nazimuddin: "Khawaja Nazimuddin" #NT!
- BNG_khawaja_nazimuddin_leader_desc: "§YBorn:§! §LJuly 19th, 1894, in Dacca, Presidency of Fort William in Bengal, British India§!" #NT!
- BNG_abdul_waheed_choudhury: "Abdul Waheed Choudhury" #NT!
- BNG_abdul_waheed_choudhury_leader_desc: "§YBorn:§! §L1914, in Dariyapur, Presidency of Fort William in Bengal, British India§!" #NT!
-  
+ 
+### Characters ###
+ BNG_muzaffar_ahmed: "Музаффар Ахмад"
+ 
  GUJ_bahman_pestonji_wadia: "Бахман Пестонджи Вадиа"
- GUJ_bahman_pestonji_wadia_leader_desc: "§YBorn:§! §LOctober 8th, 1881, in Bombay, Presidency of Bombay, British India§!" #NT!
  GUJ_sayajirao_gaekwad_iii: "Саяджирао Гаеквад III"
- GUJ_sayajirao_gaekwad_iii_leader_desc: "§YBorn:§! §LMarch 11th, 1863, in Kavlana, Baroda State, India§!" #NT!
-  
- PJB_sajjad_zaheer: "Sajjad Zaheer" #NT!
- PJB_sajjad_zaheer_leader_desc: "§YBorn:§! §LNovember 5th, 1905, in Lucknow, United Provinces of Agra and Oudh, British India§!" #NT!
- PJB_mian_iftikharuddin: "Mian Iftikharuddin" #NT!
- PJB_mian_iftikharuddin_leader_desc: "§YBorn:§! §LApril 8th, 1907, in Lahore, Province of the Punjab, British India§!" #NT!
- PJB_sultan_muhammed_shah: "Sultan Muhammed Shah" #NT!
- PRF_sultan_muhammed_shah_advisor_desc: "§YBorn:§! §LNovember 2nd, 1877, in Karachi, Presidency of Bombay, British India§!" #NT!
+ 
+ PJB_aga_khan_iii: "Ага-хан III"
  PJB_liaquat_ali_khan: "Лиакат Али-хан"
- PJB_liaquat_ali_khan_leader_desc: "§YBorn:§! §LOctober 1st, 1895, in Karnal, Province of the Punjab, British India§!" #NT!
  PJB_allama_mashriqi: "Аллама Машрики"
- PJB_allama_mashriqi_leader_desc: "§YBorn:§! §LAugust 25th, 1888, in Amritsar, Province of the Punjab, British India§!" #NT!
  PJB_akbar_khan: "Акбар Хан"
- PJB_akbar_khan_leader_desc: "§YBorn:§! §LDecember 1st, 1912, in Utmanzai, North-West Frontier Province, British India§!" #NT!
  PJB_abul_ala_maududi: "Абу-ль-Аля Маудуди"
- PJB_abul_ala_maududi_leader_desc: "§YBorn:§! §LSeptember 25th, 1903, in Aurangabad, Hyderabad State, India§!" #NT!
-  
+
  PJB_ali_haidar: "Али Хайдар"
- PJB_ali_haidar_commander_desc: "§YBorn:§! §LAugust 21st, 1913, in Kohat, North-West Frontier Province, British India§!" #NT!
  PJB_mahmood_khan_durrani: "Махмуд Хан Дуррани"
- PJB_mahmood_khan_durrani_commander_desc: "§YBorn:§! §LJuly 1st, 1914, in Multan, Province of the Punjab, British India§!" #NT!
  PJB_shah_nawaz_khan: "Шах Наваз Хан"
- PJB_shah_nawaz_khan_commander_desc: "§YBorn:§! §LJanuary 24th, 1914, in Matore, Province of the Punjab, British India§!" #NT!
-  
- KAS_prem_nath_bazaz: "Prem Nath Bazaz" #NT!
- KAS_prem_nath_bazaz_leader_desc: "§YBorn:§! §LJuly 13th, 1905, in Budgam, Jammu and Kashmir, India§!" #NT!
- KAS_sheikh_abdullah: "Sheikh Abdullah" #NT!
- KAS_sheikh_abdullah_leader_desc: "§YBorn:§! §LDecember 5th, 1905, in Soura, Jammu and Kashmir, India§!" #NT!
- KAS_hari_singh: "Hari Singh" #NT!
- KAS_hari_singh_commander_desc: "§YBorn:§! §LSeptember 1895, in Jammu, Jammu and Kashmir, India§!" #NT!
-  
- KHA_teja_singh_sutantar: "Teja Singh Sutantar" #NT!
- KHA_teja_singh_sutantar_leader_desc: "§YBorn:§! §LJuly 16th, 1901, in Aluna, Province of the Punjab, British India§!" #NT!
+ 
  KHA_tara_singh: "Тара Сингх"
- KHA_tara_singh_leader_desc: "§YBorn:§! §LJune 24th, 1885, in Rawalpindi, Province of the Punjab, British India§!" #NT!
-  
+
  RJS_sawai_man_singh_ii: "Савай Мэн Сингх II"
- RJS_sawai_man_singh_ii_leader_desc: "§YBorn:§! §LAugust 21st, 1912, in Isarda, Jaipur State, Rajputana Agency, India§!" #NT!
-  
+ 
  TRV_chithira_thirunal_balarama_varma: "Читхира Тирунал Баларама Варма"
- TRV_chithira_thirunal_balarama_varma_sic_desc: "§YBorn:§! §LNovember 8th, 1912, in Deepavali, Kingdom of Travancore, India§!" #NT!
  TRV_chandrasekharan_nair: "Чандрасекаран Наир"
- TRV_chandrasekharan_nair_commander_desc: "§YBorn:§! §Lin Methu Kummal Vilavan, Kingdom of Travancore, India§!" #NT!
- TRV_p_krishna_pillai: "P. Krishna Pillai" #NT!
- TRV_p_krishna_pillai_leader_desc: "§YBorn:§! §LAugust 19th, 1906, in Vaikom, Kingdom of Travancore, India§!" #NT!
-  
- ### Tooltips ### 
+
+### Tooltips ###
  india_will_seize_ceylon_if_germany_at_war: "Цейлон будет захвачен, если это решение будет принято в то время, когда Германия вовлечена в большую войну."
  india_compliance_gain_plus_three: "(§YИндия§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.03|+=%%]"
  india_compliance_gain_plus_two: "(§YИндия§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.02|+=%%]"
  india_compliance_gain_plus_one: "(§YИндия§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.01|+=%%]"
-  
- ### Shared Decisions ### 
-  
+
+### Shared Decisions ###
+
  india_invade_tawang_decision: "Потребовать [858.GetName]"
  india_invade_tawang_decision_desc: "Во время первоначального хаоса, приведшего к краху британского владычества над Индией, приграничная территория [858.GetName] оказалась под оккупацией местных правителей. Теперь, когда субконтинент вновь стал единым, настало время добиваться восстановления правильных границ государства."
  india_invade_aksai_chin_decision: "Потребовать [897.GetName]"

@@ -1,18 +1,21 @@
 ﻿l_russian:
-  
- ### Country Names ### 
+
+### Country Names ###
  EPR: "Восточная Пруссия"
  EPR_ADJ: "Прусск"
  EPR_DEF: "Восточная Пруссия"
-  
+
  EPR_totalist: "Восточногерманский Прусский Союз"
+ EPR_totalist_ADJ: "Восточногерманск"
  EPR_totalist_DEF: "Восточногерманский Прусский Союз"
  EPR_syndicalist: "Восточногерманский Прусский Союз"
+ EPR_syndicalist_ADJ: "Восточногерманск"
  EPR_syndicalist_DEF: "Восточногерманский Прусский Союз"
  EPR_radical_socialist: "Восточногерманский Прусский Союз"
+ EPR_radical_socialist_ADJ: "Восточногерманск"
  EPR_radical_socialist_DEF: "Восточногерманский Прусский Союз"
-  
- ### Parties ### 
+
+### Parties ###
  EPR_totalist_party: "КРПГ"
  EPR_totalist_party_long: "Коммунистическая рабочая партия Германии - Восточногерманская"
  EPR_syndicalist_party: "КРПГ"

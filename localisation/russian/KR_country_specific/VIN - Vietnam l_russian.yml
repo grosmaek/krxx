@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Parties ### 
+
+### Parties ###
  VIN_totalist_party: "Тан Вьет"
  VIN_totalist_party_long: "Новая вьетнамская революционная партия"
  VIN_radical_socialist_party: "ОС"
@@ -21,44 +21,35 @@
  VIN_paternal_autocrat_party_long: "Роялистская Партия"
  VIN_national_populist_party: "Каодай"
  VIN_national_populist_party_long: "Великий путь третьей эпохи спасения"
-  
- ### Country Names ### 
+
+### Country Names ###
  VIN: "Вьетнам"
  VIN_ADJ: "Вьетнамск"
  VIN_DEF: "Вьетнам"
-  
+
  VIN_totalist: "Вьетнамская Народная Республика"
+ VIN_totalist_ADJ: "Вьетнамск"
  VIN_totalist_DEF: "Вьетнамская Народная Республика"
  VIN_syndicalist: "Вьетнамская Народная Республика"
+ VIN_syndicalist_ADJ: "Вьетнамск"
  VIN_syndicalist_DEF: "Вьетнамская Народная Республика"
  VIN_radical_socialist: "Вьетнамская Народная Республика"
+ VIN_radical_socialist_ADJ: "Вьетнамск"
  VIN_radical_socialist_DEF: "Вьетнамская Народная Республика"
-  
- ### Characters ### 
+
+### Characters ###
  VIN_le_duc_tho: "Ле Дык Тхо"
- VIN_le_duc_tho_leader_desc: "§YBorn:§! §LOctober 14th, 1911, in Nam Truc, Nam Đinh Province, Protectorate of Tonkin, Indochinese Union§!" #NT!
  VIN_bao_dai: "Бао-дай"
- VIN_bao_dai_leader_desc: "§YBorn:§! §LOctober 22nd, 1913, in Doan-Trang-Vien Palace, Huê, Thua Thiên Province, Protectorate of Annam, Indochinese Union§!" #NT!
  VIN_ngo_din_diem: "Нго Динь Зьем"
- VIN_ngo_din_diem_leader_desc: "§YBorn:§! §LJanuary 3rd, 1901, in Đai Phong Lôc, Quang Nam Province, Protectorate of Annam, Indochinese Union§!" #NT!
  VIN_cuong_de: "Куонг Де"
- VIN_cuong_de_leader_desc: "§YBorn:§! §LJanuary 11th, 1882, in Huê, Thua Thiên Province, Protectorate of Annam, Indochinese Union§!" #NT!
  VIN_pham_cong_tac: "Фам Конг Так"
- VIN_pham_cong_tac_leader_desc: "§YBorn:§! §LJune 21st, 1890, in Bình Lâp, Tân An Province, Colony of Cochinchina, Indochinese Union§!" #NT!
  VIN_nguyen_van_hinh: "Нгуен Ван Хинь"
- VIN_nguyen_van_hinh_commander_desc: "§YBorn:§! §LSeptember 20th, 1915, in Vũng Tàu, Bà Ria Province, Colony of Cochinchina, Indochinese Union§!" #NT!
  VIN_duong_van_minh: "Зыонг Ван Минь"
- VIN_duong_van_minh_high_command_desc: "§YBorn:§! §LFebruary 16th, 1916, in My Tho Province, Colony of Cochinchina, Indochinese Union§!" #NT!
  VIN_le_van_ty: "Ле Ван Тай"
- VIN_le_van_ty_army_chief_desc: "§YBorn:§! §LMay 17th, 1904, in Thăng Nhì, Vũng Tàu, Bà Ria Province, Colony of Cochinchina, Indochinese Union§!" #NT!
  VIN_tran_quang_vinh: "Тран Куанг Винь"
- VIN_tran_quang_vinh_commander_desc: "§YBorn:§! §LSeptember 8th, 1897, in Long Xuyên, Long Xuyên Province, Colony of Cochinchina, Indochinese Union§!" #NT!
  VIN_le_quang_vinh: "Ле Куанг Винь"
- VIN_le_quang_vinh_commander_desc: "§YBorn:§! §L1923, in Long Xuyên, Long Xuyên Province, Colony of Cochinchina, Indochinese Union§!" #NT!
  VIN_le_quang_my: "Ле Куанг Май"
- VIN_le_quang_my_navy_chief_desc: "§YBorn:§! §Lin the Indochinese Union§!" #NT!
  VIN_tran_van_chon: "Тран Ван Чон"
- VIN_tran_van_chon_admiral_desc: "§YBorn:§! §LSeptember 24th, 1920, in Vũng Tàu, Bà Ria Province, Colony of Cochinchina, Indochinese Union§!" #NT!
  VIN_nguyen_ton_hoan: "Нгуен Тон Хоань"
  VIN_tran_trong_kim: "Тран Чонг Ким"
  VIN_hoang_xuan_han: "Хоанг Суан Хань"
@@ -68,4 +59,4 @@
  VIN_nguyen_giac_ngo: "Нгуен Джиак Нго"
  VIN_le_van_vien: "Ле Ван Вень"
  VIN_vuong_thua_vu: "Вуонг Тхуа Ву"
-  
+

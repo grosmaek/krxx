@@ -1,14 +1,14 @@
 ﻿l_russian:
-  
+
  o_strat_offensive_default: "Наступательная операция"
  o_strat_defensive_default: "Оборонительный порядок"
  o_strat_naval_default: "Десантная операция"
-  
+
  o_operation: "Операция"
-  
-  ###German 
+
+ ###German
  o_unternehmen: "Унтернемен"
-  
+
  o_barbarossa: "Барбаросса"
  o_seelowe: "Морской Лев"
  o_weserubung: "Везерюбунг"
@@ -156,29 +156,28 @@
  o_teutonburg: "Тевтобург"
  o_tannenberg: "Танненберг"
  o_wagner: "Вагнер"
-  
-  ###Ireland 
+
+ ###Ireland
  o_skibbereen: "Операция Skibbereen"
  o_naomh_padraig: "Операция Naomh Pádraig"
  o_dal_riata: "Операция Dál Riata"
  o_tir_chonaill: "Операция Tír Chonaill"
  o_regicide: "Операция Цареубийство"
-  
-  ###Russia 
+
+ ###Russia
  o_strat_offensive_ru: "Стратегическая наступательная операция"
  o_strat_defensive_ru: "Стратегическая оборонительная операция"
  o_strat_naval_ru: "Стратегическая десантная операция"
-  
+
  o_operatsiya: "Операция"
-  
+
  o_bagration: "Операция Багратион"
  o_suvorov: "Операция Суворов"
  o_kutuzov: "Операция Кутузов"
  o_rumyantsev: "Операция Полководец Румянцев"
- o_yekaterina: "Operation Yekaterina" #NT!
  o_potyomkin: "Операция Потемкин"
  o_alekseyev: "Операция Алексеев"
-  
+
  o_mars: "Операция Марс"
  o_jupiter: "Операция Юпитер"
  o_saturn: "Операция Сатурн"
@@ -188,7 +187,7 @@
  o_mercury: "Операция Меркурий"
  o_venus: "Операция Венера"
  o_neptune: "Операция Нептун"
-  
+
  o_proryv: "Операция Прорыв"
  o_polar_star: "Операция Полярная Звезда"
  o_star_rus: "Операция Звезда"
@@ -204,14 +203,14 @@
  o_pustynya: "Операция Пустыня"
  o_general_moroz: "Операция Генерал Мороз"
  o_ring: "Операция Кольцо"
-  
+
  o_berlin_strategic_offensive: "Берлинская стратегическая наступательная операция"
  o_prussian_strategic_offensive: "Прусская стратегическая наступательная операция"
  o_warsaw_strategic_offensive: "Варшавская стратегическая наступательная операция"
  o_baltic_strategic_offensive: "Балтийская стратегическая наступательная операция"
  o_north_caucasus_strategic_offensive: "Северо-Кавказская стратегическая наступательная операция"
-  
-  ###Japan 
+
+ ###Japan
  o_ichi: "Ити-Го"
  o_ni: "Ни-Го"
  o_san: "Сан-Го"
@@ -282,8 +281,8 @@
  o_mo: "M O"
  o_ry: "R Y"
  o_mi: "M I"
-  
-  ###USA, CSA, PSA, TEX, NEE 
+
+ ###USA, CSA, PSA, TEX, NEE
  o_bold: "Смелый"
  o_striking: "Страйкинг"
  o_cobra: "Кобра"
@@ -323,8 +322,8 @@
  o_blackstone: "Блэкстоун"
  o_brushwood: "Брашвуд"
  o_goalpost: "Голпост"
-  
-  ###ENG 
+
+ ###ENG
  o_abstention: "Воздержание"
  o_acrobat: "Акробат"
  o_agreement: "Соглашение"
@@ -384,8 +383,8 @@
  o_clipper: "Клиппер"
  o_aintree: "Эйнтри"
  o_fusilade: "Фьюсилэйд"
-  
-  ###CAN 
+
+ ###CAN
  o_umbral: "Тусклый"
  o_shadow: "Тень"
  o_sunlight: "Солнечный свет"
@@ -454,12 +453,12 @@
  o_lion: "Лев"
  o_tiger: "Тигр"
  o_shield: "Щит"
-  
- ### NFA 
+
+### NFA
  o_strat_offensive_nfa: ""
  o_strat_defensive_nfa: ""
  o_strat_naval_nfa: ""
-  
+
  o_adolphe: "Адольф"
  o_atlante: "Атлант"
  o_bretagne: "Бретань"
@@ -474,12 +473,12 @@
  o_mouette: "Муэтта"
  o_papillon: "Папильон"
  o_pollux: "Поллукс"
-  
- ### CHI - Left Kuomintang 
+
+### CHI - Left Kuomintang
  o_strat_offensive_chi: "Стратегическая наступательная операция НРА"
  o_strat_defensive_chi: "Стратегическая оборонительная операция НРА"
  o_strat_naval_chi: "Стратегическая десантная операция НРА"
-  
+
  o_mingan: "Минганская кампания"
  o_nanchang: "Наньчанская кампания"
  o_dabei_mountains: "Кампания в горах Дабэй"
@@ -492,17 +491,17 @@
  o_liangguang: "Кампания по освобождению Лянгуана"
  o_yunnan: "Кампания по освобождению Юньнани"
  o_upper_yangtze: "Кампания по форсированию Верхней Янцзы"
-  
+
  o_heart_strike: "Удар в сердце"
  o_duty: "Долг"
  o_red_sword: "Красный меч"
  0_united: "Юнайтед"
-  
- ### SIA - Kingdom of Siam 
+
+### SIA - Kingdom of Siam
  o_yutthakarn: "Юттхакарн"
-  
-  # (Generic) Classical Names 
- o_anantanakkharat: "Anantanakkharat" #NT!
+
+ # (Generic) Classical Names
+ o_anantanakharat: "Анантанакхарат"
  o_anekkachatphuchong: "Анеккачатпучонг"
  o_kruthernhej: "Крутернхей"
  o_kruttrejjakkrai: "Круттрейяккрай"
@@ -520,14 +519,14 @@
  o_paleerangthaweep: "Палри Рангтавип"
  o_sukreepkrongmueang: "Сукрип Кронгмуанг"
  o_naraisongsuban: "Нараи Сон Субан"
-  
-  # (Generic) Real Generic Stuff 
+
+ # (Generic) Real Generic Stuff
  o_phitakthai: "Фитактай"
  o_prabpai: "Прабпай"
  o_phamueang: "Пхамуанг"
  o_phadetsuek: "Пхадецуек"
-  
-  # (Regional) Within Indochina 
+
+ # (Regional) Within Indochina
  o_inthalaeng: "Инталаенг"
  o_talengphai: "Таленг Фай"
  o_suriyamonthon: "Суриямесяцонг"

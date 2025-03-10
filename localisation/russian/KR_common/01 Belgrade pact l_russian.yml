@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Ideas ### 
+
+### Ideas ###
  SER_reparation_payments: "Военные репарации Болгарии"
  SER_reparation_payments_desc: "Так как Сербия потерпела поражение в Четвертой Балканской Войне, ей необходимо выплатить военные репарации Болгарии."
  BUL_reparation_payments_from_serbia: "Военные репарации из Сербии"
@@ -8,16 +8,17 @@
  is_in_belgrade_pact: "Находимся в Белградском Договоре"
  BPL_pact_of_organisation: "Пакт Организации"
  BPL_pact_of_organisation_desc: "Подписание Пакта Организации, помогло интегрировать экономики балканских стран и углубить отношения. Экономический совет Пакта помог координировать торгово-экономические отношения, и наша страна видит в этом свои преимущества.\n\n§RЕсли мы окажемся в состоянии войны с кем-либо из членов этого экономического союза, Совет будет распущен, и мы лишимся всех преимуществ.§!"
+ BPL_modify_pact_of_organisation: "Изменит §H$BPL_pact_of_organisation$§! на"
  BP_war_exhaustion: "Истощение от Балканской войны"
  belgrade_part_arms_embargo: "Международное эмбарго на поставки оружия"
  belgrade_part_arms_embargo_desc: "По решению Австрийской Империи и ее союзников по всей Европе, на нас теперь наложено международное эмбарго на поставки оружия. Наши границы закрыты от любого импорта оружия и боеприпасов, и нам придется иметь дело с нашим скудным внутренним производством. Следовательно, мы должны быстро покончить с Болгарией."
-  
- ### Decisions ### 
+ 
+### Decisions ###
  Belgrade_Pact_Balkan_War: "Белградский Договор"
-  
+ 
  Belgrade_Pact_invite_member: "Пригласить [From.GetNameDef] в Белградский Договор"
  Belgrade_Pact_invite_member_desc: "Нам понадобится [From.GetAdjective]ая армия, если мы надеемся достичь нашей цели. Пришло время пригласить их в наш альянс."
-  
+ 
  Belgrade_Pact_Romania_capture_dobrudzha_mission: "Захватить Добруджу"
  Belgrade_Pact_Romania_capture_dobrudzha_mission_desc: "Наконец у нас появилась возможность отомстить Болгарии. Вернуть Добруджу, украденную у нас Центральными Державами после Вельткрига, является нашим долгом."
  Belgrade_Pact_Serbia_capture_macedonia_mission: "Захватить Македонию"
@@ -26,410 +27,374 @@
  Belgrade_Pact_Greece_capture_southern_macedonia_desc: "Наконец у нас появилась возможность отомстить Болгарии. Вернуть Македонию, украденную у нас Болгарией после Вельткрига, является нашим долгом."
  Belgrade_Pact_race_to_sofia: "Гонка до Софии"
  Belgrade_Pact_race_to_sofia_desc: "Болгарская оборона пробита, и дорога к Софии открыта. Падение болгарской столицы теперь является вопросом времени. Захват этого города станет большим успехом для нашей страны."
-  
- ### Opinion Modifiers ### 
+ 
+### Opinion Modifiers ###
  Belgrade_Pact_anti_bulgaria: "Против Болгарии"
  Belgrade_Pact_joined_boo: "Вступили в договор против Болгарии"
  Belgrade_Pact_did_not_join_yay: "Не вступили в Белградский Договор"
  Belgrade_Pact_joined_yay: "Вступили в Белградский Договор"
  Belgrade_Pact_refused: "Не подписали договор с нами"
  Belgrade_Pact_joined_against_us: "Вступили в договор против нас"
-  
- ### Flags ### 
+ 
+### Flags ###
  BP_working_on_eco_union: "Союзник уже работает над этим проектом."
-  
- ### Events ### 
+ 
+### Events ###
  pact.1.t: "Конгресс в Белграде"
  pact.1.d: "Сотрудничество балканских государств в борьбе против общего врага, несмотря на их внутренние разногласия, - это путь, который уже хорошо известен истории. Балканская лига, созданная между Сербией, Болгарией и Грецией для победы над Османской Империей на Балканах, стала ярким примером этого, несмотря на то, что она распалась во Второй Балканской войне всего через несколько месяцев после победы. Сегодня Сербия, Румыния и Греция пристально смотрят на другого гегемона - Царство Болгарии, и у каждого из них есть территории, которые нужно вернуть.\n\nПочти два десятилетия мысль о том, что такой альянс возникнет, была немыслима. Три балканских государства были разрушены, ослаблены, разоружены, и глаза великих держав Европы всегда были бдительными. Однако к 1930-м годам ситуация окончательно изменилась. Постоянная слабость Австро-Венгерской Империи и таким образом, отсутствие желания вмешиваться в дела Балкан уже дали шанс малым балканским странам перевооружиться, а теперь дали им возможность строить совместные планы. Двухпартийные саммиты и дипломатические переговоры между Сербией и Румынией проходят с 1932 года, а между Сербией и Грецией - с 1934 года, и все это завершилось конгрессом в Белграде.\n\nЧетырнадцатидневный саммит в столице Сербии является не только политическим, но и культурным событием. Дипломатическое планирование между министрами иностранных дел трех государств происходит параллельно с диалогом между университетами Белграда и Бухареста, например, по вопросам исследований и студенческого обмена. \n\nНесмотря на это, к концу Конгресса делегации трех государств выпустили резолюцию из 14 пунктов, наиболее тревожной из которых было 'признание того, что только самоопределение народа, в соответствии с его этнической принадлежностью, может рассматриваться как справедливый путь к суверенитету и территориальным притязаниям', и призыв к 'новому порядку на Балканах' для реализации этого принципа, предположительно за счет Болгарии."
-  # Of course, such an event could not take place without controversy. The inclusion of the Romanian delegation, while crucial, has been protested by many representatives in the Skupština, who could not bring themselves to bear [SER.GetLeader] shaking hands with the despised Corneliu Codreanu. - TBA later 
+ # Of course, such an event could not take place without controversy. The inclusion of the Romanian delegation, while crucial, has been protested by many representatives in the Skupština, who could not bring themselves to bear [SER.GetLeader] shaking hands with the despised Corneliu Codreanu. - TBA later
  pact.1.a: "Открыть Конгресс."
-  
+ 
  pact.2.t: "Конгресс в Белграде"
  pact.2.d: "[From.GetNameDefCap] пригласила наших дипломатов в Белград для принятия участия в Белградском Конгрессе, для переговоров о политической и военной ситуации на Балканах. Со времен победы Болгарии в Вельткриге мы смотрим на землю, которая по праву принадлежит нам, как это делает и Сербия. Они предлагают создать новый, формальный союз, называемый Белградским Договором, для защиты наших совместных интересов и сдерживания Болгарской Угрозы. Это может, однако, разозлить бывших союзников Болгарии, Германию, Австрию и Османскую Империю."
  pact.2.a: "Выразить нашу поддержку Белградского Договора."
  pact.2.b: "Мы не заинтересованы в этом направлении."
-  
+ 
  pact.3.t: "[From.GetName] присоединяется к Белградскому Договору"
  pact.3.d: "[From.GetAdjective]ое правительство объявило о присутствии на Белградском Конгрессе и формальном присоединении к Белградскому Договору."
  pact.3.a: "Вместе за мир!"
-  
+ 
  pact.4.t: "[From.GetName] не присоединится к Белградскому Договору"
  pact.4.d: "[From.GetAdjective]ое правительство объявило, что на данный момент они не будут частью какого-либо формального альянса, противостоящего Болгарии."
  pact.4.a: "Они нам не нужны."
-  
+ 
  pact.5.t: "Конец Договора"
  pact.5.d: "Мы попытались создать альянс для продвижения сербских интересов в Балканах, но мир оказался против. Пришло время признать, что Белградский Договор подошёл к своему концу."
  pact.5.a: "Что ж."
-  
+ 
  pact.6.t: "Конгресс в Белграде утверждает новый порядок на Балканах"
  pact.6.d: "По инициативе Сербии представители ряда стран собрались в Белграде для обсуждения политической и военной ситуации на Балканах. В этих четырнадцатидневных мероприятиях сербы, румыны и греки замышляют создать так называемый 'новый порядок на Балканах', даже задумав создать резолюцию из 14 пунктов, в которой провозглашается, что 'только самоопределение народов, в соответствии с их этнической принадлежностью, может считаться справедливым путем к суверенитету и территориальным притязаниям'.\n\nОчевидно, что Балканы снова неспокойны, и резолюции Белградского конгресса, несомненно, будут использованы для оправдания общей войны против Болгарии и в конечном счете, Австрийской Империи. Что делать с этими новостями?"
  pact.6.a: "Сербы и румыны дважды подумают после эмбарго!"
  pact.6.b: "Пусть приходят, Балканы нам не угрожают"
-  
+ 
  pact.7.t: "[From.GetName] объявляет о поддержке Болгарии"
  pact.7.d: "[From.GetAdjective]ое правительство сегодня объявило о поддержке Болгарии в случае войны между ней и Белградским Договором. Будет ли это ограниченная поддержка поставками вооружения, или [From.GetNameDef] введет армию, остается неизвестным."
  pact.7.a: "Это не хорошо."
-  
+ 
  pact.8.t: "[From.GetName] объявили о поддержке Болгарии"
  pact.8.d: "По инициативе Сербии представители ряда стран собрались в Белграде для обсуждения политической и военной ситуации на Балканах. В этих четырнадцатидневных мероприятиях сербы, румыны и греки замышляют создать так называемый 'новый порядок на Балканах', даже задумав создать резолюцию из 14 пунктов, в которой провозглашается, что 'только самоопределение народов, в соответствии с их этнической принадлежностью, может считаться справедливым путем к суверенитету и территориальным притязаниям'.\n\nОчевидно, что Балканы снова неспокойны, и резолюции Белградского конгресса, несомненно, будут использованы для оправдания общей войны против Болгарии и в конечном счете, Австрийской Империи. Австрийцы призвали к международному эмбарго на поставки оружия на Балканы, чтобы поддержать Болгарию, объявим ли мы о нашей поддержке болгар?"
  pact.8.a: "Только Болгария сохранит стабильность на Балканах"
  pact.8.b: "Балканы нам неинтересны"
-  
+ 
  pact.17.t: "Сербский удар!"
  pact.17.d: "После напряженного двухнедельного противостояния на реке Морава, сербское правительство наконец-то заговорило снова - оно требует, чтобы мы освободили Македонию и регион Ниш в течение 48 часов, фактически передав его под контроль Сербии, чтобы защитить местное сербское население от дальнейшего террора и кровопролития. Последующие ультиматумы были направлены союзниками по Белградскому Договору, в которых говорилось об этническом конфликте и беспокойстве на их территориях.\n\nНе успели еще высохнуть чернила на этих документах, как наши силы в Нише уже прислали сообщения о переходе сербских войск через Мораву, первых стычках и воздушных бомбардировках. Тогда у нас остается только один вариант."
  pact.17.a: "На войну! Защитите честь Болгарии!"
-  
+ 
  pact.21.t: "Фракийский вопрос"
  pact.21.d: "Болгария находится в состоянии войны со странами Белградского Договора, и у правительства страны появилось идея о том, что мы тоже должны вернуть принадлежащие нам по праву земли. С окончания Вельткрига Болгария оккупировала Западную Фракию, население которой по большей части состоит из мусульман - наш старый ‘союзник’, конечно же, поступит мудро и вернёт их, если мы попросим."
  pact.21.a: "Потребовать территорию"
  pact.21.b: "Мы не заинтересованы в этом в данный момент"
-  
+ 
  pact.22.t: "Османы требуют Фракию"
  pact.22.d: "Как оказалось, наши старые 'союзники' в Османской Империи не ниже того, чтобы капитализировать на нашем конфликте с Белградским Договором. Они требуют возвращения Западной Фракии, территорию преимущественно с турецким и мусульманским населением, которую мы оккупировали с окончания Вельткрига. Если мы откажемся, они могут атаковать нас, а позволить себе сражаться на ещё один фронт мы, скорее всего, не сможем."
  pact.22.a: "Отдайте им что просят"
  pact.22.b: "Ни за что! Мы и их победим!"
-  
+ 
  pact.23.t: "Болгария соглашается"
  pact.23.d: "Не видя мудрости в ведении войны на два фронта, Болгария решила вернуть земли южной Фракии нам."
  pact.23.a: "Очень мудро"
-  
+ 
  pact.24.t: "Болгария отказывает"
  pact.24.d: "Болгарское правительство, упёртое до самого конца, ответило на наши требования одним возмущением. Они готовы сражаться с нами, если понадобится."
  pact.24.a: "Так тому и быть"
-  
+ 
  pact.25.t: "Османы мобилизуются"
  pact.25.d: "Возможно решив, что наша война с Белградским Договором предоставляет возможность вернуть потерянную территорию, османы начали концентрировать силы на нашей общей границе. Тяжело сказать, собираются они выдвинуть ультиматум или сразу вторгнуться, но мы должны быть готовы к любому исходу."
  pact.25.a: "Как они посмели?"
-  
+ 
  pact.26.t: "[From.GetAdjective]ая помощь прибывает"
  pact.26.d: "Как они и обещали, правительство [From.GetNameDef] выслали нам помощь в конфликте с Белградским Договором. К сожалению, они не могут вмешаться напрямую, но некоторые добровольческие дивизии и снаряжение прибыли к нам."
  pact.26.a: "Любая помощь пригодится."
  pact.26.tt: "[From.GetAdjective]ие солдаты и снаряжение прибыли."
-  
+ 
  pact.27.t: "Сербия ведет мирные переговоры"
  pact.27.d: "Министерство иностранных дел Сербии сообщило нам, что в настоящее время они ведут переговоры о заключении мирного договора с Болгарией, который положит конец войне и выполнит щедрые территориальные требования всех членов Договора. Поскольку война затягивается, такой мир будет приветствоваться в народе. Однако Болгария останется независимым государством, чем обеспокоены чиновники в нашем правительстве - это будет означать, что Болгария теоретически может перевооружиться и нанести ответный удар, как это было во время Вельткрига. Должны ли мы принять этот мир?"
  pact.27.a: "Давайте закончим войну сейчас, пока не выросли расходы."
  pact.27.b: "Bulgaria delenda est!"
  BP_temporary_breakaway_tt: "Вы сможете присоединиться к Договору после войны."
-  
+ 
  pact.28.t: "Софийский мир"
  pact.28.d: "В Софии между членами Белградского Договора и Болгарией подписан мирный договор, положивший конец Четвертой Балканской войне."
  pact.28.a: "Победа!"
-  
+ 
  pact.29.t: "Военное истощение"
  pact.29.d: "Наша страна вступила в Четвертую Балканскую войну с обещанием, что эта война будет короткой и приведет к быстрому получению территориальных завоеваний, но сейчас она застопорилась, и население жаждет мира. Ходят слухи о том, что болгары предложили очень щедрый мирный договор, который выполнил бы все наши территориальные притязания, но он был отклонен, и поэтому еще больше людей будут отправлены на смерть в войне ни за что. Наши офицеры борются за то, чтобы мотивировать своих солдат на продолжение боевых действий, а домашняя обстановка становится неуправляемой."
  pact.29.a: "Черт..."
-  
+ 
  pact.30.t: "Возобновление Белградского Договора"
  pact.30.d: "Теперь, когда война с Болгарией закончилась, сербские официальные лица обратились к нам с просьбой о восстановлении нашего членства в Белградском Договоре в связи с предстоящей борьбой с Австрией."
  pact.30.a: "Сделаем это."
  pact.30.b: "Нет, мы больше не будем участвовать в иностранных предприятиях."
-  
+ 
  pact.35.t: "Мы проигрываем в Балканской Войне"
  pact.35.d: "Силы Белградского Договора разбили наши войска и оккупировали значительную часть нашей страны. Мы должны завершить эту войну, пока они не заняли всю нашу территорию, или Болгария может перестать существовать."
  pact.35.a: "Молить о мире."
  pact.35.b: "Мы все еще можем победить!"
  BUL_other_states_may_continue_war_tt: "Мир, если его примут, будет установлен через семь дней. В течение этого времени участники Договора могут продолжать войну самостоятельно."
-  
+ 
  pact.36.t: "Болгария просит о мире"
  pact.36.d: "Когда большая часть страны оккупирована а войска отступают, Болгария просит нас о мире. Они передадут все спорные территории, но мы должны будем отвести наши силы на новую границу. Независимая Болгария продолжит существовать, пока что."
  pact.36.a: "Белградский Договор торжествует."
  pact.36.b: "Нет, мы должны сокрушить их!"
  SER_other_states_may_continue_war_tt: "Мир будет восстановлен через семь дней. В течение этого времени наши союзники могут покинуть Договор, чтобы продолжить войну самостоятельно."
-  
+ 
  pact.37.t: "Мир с Белградским Договором"
  pact.37.d: "Белградский Договор принял наше предложение. Мы передадим все спорные территории, но они отведут свои силы на новую границу."
  pact.37.a: "Мы хотя-бы существуем!"
-  
+ 
  pact.38.t: "Болгария сдается"
  pact.38.d: "Объединенные вооруженные силы Белградского Договора сумели исправить несправедливость результатов Вельткрига. Болгария передаст Белградскому Договору все спорные земли, но мы должны будем отвести наши силы на границу. Независимая, но сильно уменьшенная Болгария пока что продолжит существование."
  pact.38.a: "Белградский Договор торжествует!"
-  
+ 
  pact.39.t: "Болгария заключает мир"
  pact.39.d.gained: "Болгария заключила мир с Белградским Договором, и поэтому нам тоже придётся прекратить войну. К счастью, мы успели захватить всю территорию, на которую претендовали, и сербы со своими союзниками не смогут разделить наши земли между собой как им вздумается."
  pact.39.d.nogain: "Болгария заключила мир с Белградским Договором. К сожалению, мы не успели захватить территорию на которую претендовали, и сербы со своими союзниками смогут разделить их между собой как пожелают. Нам следовало продвигаться быстрее."
  pact.39.a: "Что ж"
  pact.39.b: "Тогда мы продолжим войну!"
-  
+ 
  pact.40.t: "Мы оккупировали Фракию"
  pact.40.d: "Мы оккупировали западную Фракию, а наши солдаты успешно сдерживают атаки Болгарии. Теперь-то они увидят мудрость в примирении с нами?"
  pact.40.a: "Предложим им положить этому всему конец"
  pact.40.b: "Нет – они хотели войны, они её получат!"
-  
+ 
  pact.41.t: "Османы предлагают мир"
  pact.41.d: "Османы оккупировали территорию, на которую они выдвинули претензии и успешно защищаются от наших контратак -  если мы продолжим настаивать на войне мы можем потерять вообще всё. Может, стоит согласиться на их требования?"
  pact.41.a: "Ну и ладно!"
  pact.41.b: "Нет, мы продолжим сражаться, не смотря не на что!"
-  
+ 
  pact.42.t: "Мы проигрываем войну"
- pact.42.t.germany: "Germany Demands an End to the War for Thrace" #NT!
- pact.42.t.austria: "Austria Demands an End to the War for Thrace" #NT!
- pact.42.t.germanyandaustria: "Germany and Austria Demand an End to the War for Thrace" #NT!
- pact.42.t.losing: "We are Losing the War" #NT!
  pact.42.d: "Несмотря на своё тяжёлое положение, Болгария смогла успешно отбиться от наших атак. Маленькая победоносная война обернулась трагедией, и мы потеряли контроль над всей территорией в Европе. Возможно, если мы откажемся от притязаний на Фракию, войне можно будет положить конец?"
- pact.42.d.germany: "For too long has the war against Bulgaria gone on without any end. After two years, the Germans have finally decided to intervene in the Balkans: they have demanded we, along with the Pact, withdraw all of our forces from Bulgaria, essentially returning the Balkans to the status quo antebellum. Perhaps we should relinquish our claims to Thrace and end the war; agitating Berlin is the last thing we need when we have already lost so many men in a pointless conflict." #NT!
- pact.42.d.austria: "For too long has the war against Bulgaria gone on without any end. After two years, the Austrians have finally decided to intervene in the Balkans: they have demanded we, along with the Pact, withdraw all of our forces from Bulgaria, essentially returning the Balkans to the status quo antebellum. Perhaps we should relinquish our claims to Thrace and end the war; agitating Vienna is the last thing we need when we have already lost so many men in a pointless conflict." #NT!
- pact.42.d.germanyandaustria: "For too long has the war against Bulgaria gone on without any end. After two years, the Austrians and Germans have released a joint statement demanding an end to the war in the Balkans, citing it as a threat to European security and peace. Perhaps we should relinquish our claims to Thrace and end the war; agitating Berlin and Vienna is the last thing we need when we have already lost so many men in a pointless conflict." #NT!
- pact.42.d.losing: "Despite the odds against them, and what we assumed would be a quick war, the Bulgarians have pushed us back. Indeed, we no longer control land in Europe, and if this continues we will end up in very dire straits indeed. Perhaps we can offer to relinquish our claims to Thrace and put an end to this war now?" #NT!
  pact.42.a: "Да, предложить перемирие"
  pact.42.b: "Нет, мы будем сражаться!"
-  
+ 
  pact.43.t: "Османы призывают к миру"
  pact.43.d: "Османы, уже жалеющие о своём решении вмешаться в войну и потерявшие контроль над всей территорией в Европе, предлагают перемирие. Они откажутся от всех притязаний на Западную Фракию и уйдут восвояси."
  pact.43.a: "Так тому и быть"
-  
+ 
  pact.46.t: "[From.GetNameDefCap] отказывает в перемирии"
  pact.46.d: "Хотя мы пошли на большие уступки нашим врагам, их правительство отказалось от нашего предложения мира и не собирается останавливаться, пока мы не будем полностью разгромлены."
  pact.46.a: "Нам нужно переломить ситуацию!"
-  
+ 
  pact.47.t: "Мы проигрываем войну"
- pact.47.t.germany: "Germany Demands an End to the Balkan War" #NT!
- pact.47.t.austria: "Austria Demands an End to the Balkan War" #NT!
- pact.47.t.germanyandaustria: "Germany and Austria Demand an End to the Balkan War" #NT!
- pact.47.t.losing: "We're Losing the Balkan War" #NT!
  pact.47.d: "Война с Болгарией была абсолютным провалом. Не смотря на наших союзников в Белградском Договоре, Болгария вновь смогла одержать победу над нами, и они уже на подходе к Белграду. Мы можем предложить болгарам роспуск нашего альянса, признаём капитуляцию территории Черногории, демилитаризацию пограничных территорий и выплату репараций на несколько лет. Это большая цена, но альтернативой является полная потеря независимости."
- pact.47.d.germany: "The war against Bulgaria has dragged for long enough to the point where Berlin has finally started to exert pressure on us. A diplomatic note from the German Foreign Office has demanded that all Pact forces withdraw from Bulgarian territory, essentially returning the Balkans to the status quo antebellum. Failure to comply with this demand will mean German entry into the war to 'stabilise the Balkan situation'.\n\nWhile this clearly means our defeat, it certainly could be worse. After all, should we accept, we will retain our independence, and avoid punishment from Sofia." #NT!
- pact.47.d.austria: "The war against Bulgaria has dragged for long enough to the point where Vienna has finally started to exert pressure on us. In a strongly worded letter, the Austrians demanded that the Pact withdraws all of its forces from the Balkans, lest the Imperial Army intervenes to 'stabilise the Balkan situation'. While this clearly means our defeat, it certainly could be worse. After all, should we accept, we will retain our independence, and avoid punishment from Sofia." #NT!
- pact.47.d.germanyandaustria: "A joint declaration from Germany and Austria have made one thing clear: the Pact's continuing war against Bulgaria will no longer be tolerated, citing it as a 'threat to Balkan stability'. While this clearly means our defeat, it certainly could be worse. After all, should we accept, we will retain our independence, and avoid punishment from Sofia." #NT!
- pact.47.d.losing: "The war against Bulgaria has been a total disaster. Despite our allies in the Belgrade Pact, Bulgaria has been able to defeat us once again, and they're close to Belgrade itself. We can offer the Bulgarians the dismantlement of our alliance, capitulate the province of Montenegro, give the Albanians in Kosovo and Albania autonomy, and de-militarise border provinces. Furthermore, we need to offer them reparation payments for several years. These are harsh terms, but otherwise we might lose our independence completely." #NT!
  pact.47.a: "Просить мира"
  pact.47.b: "Мы ещё можем победить!"
-  
+ 
  pact.48.t: "Сербия предлагает перемирие"
- pact.48.t.germany: "A German Ultimatum to Belgrade" #NT!
- pact.48.t.austria: "An Austrian Ultimatum to Belgrade" #NT!
- pact.48.t.germanyandaustria: "The Central Powers’ Ultimatum to Belgrades" #NT!
- pact.48.t.victory: "Serbia Asks for Peace" #NT!
  pact.48.d: "Мы преуспели в Балканской Войне, а Белградский Договор находится на грани капитуляции. Сербия предлагает нам мирный договор, согласно которому они признают капитуляцию территории Черногории, демилитаризируют пограничные территории и распустят свой военный альянс. В обмен, мы позволим им сохранить свою независимость."
- pact.48.d.germany: "The German Auswaertiges Amt has viewed the Fourth Balkan War with concern since it broke out almost two years ago. Although Bulgaria left the German military alliance after the Weltkrieg, the Kaiser’s government still views the Tsar’s as a far better alternative than a defeated, radicalized Bulgaria and a triumphant revanchist Belgrade Pact. With both sides now exhausted, the ambassador of the Kaiserreich in [GER.GetCapital] has informed us his government has leveled an ultimatum to the Serbs, Greeks and Romanians: fourteen days to come to a ceasefire and return the borders of the Balkans to the status quo ante bellum, or face German intervention. The Belgrade Pact, fearful of German might, has acquiesced, and now the decision is ours.\n\nMany in the Tsar’s government, and particularly the Liberal Party, welcome the prospect of peace, even without any territorial gains. However, morale in the military is still high, and our generals believe total victory, even without any prospect of a negotiated peace, is in sight. The German ambassador claims to have saved us with his Empire’s ultimatum, but what kind of salvation is a peace with thousands dead and nothing to show for it? Is it time for one last offensive? Or should we welcome this peace, as a blow against Belgrade that will preserve our hegemony in the Balkans?" #NT!
- pact.48.d.austria: "The  k. u. k. Ministerium des Ausern has viewed the Fourth Balkan War with concern since it broke out almost two years ago. Although Bulgaria had broken from the Austro-German military alliance after the Weltkrieg, the Imperial government still views Bulgarian hegemony over Serbia and Greece as a far better alternative than a defeated, radicalized Bulgaria and a triumphant revanchist Belgrade Pact, one that might attempt to incite the minorities in the Empire. With both sides now exhausted, the ambassador of the Austro-Hungarian Empire in [AUS.GetCapital] has informed us his government has leveled an ultimatum to the Serbs, Greeks and Romanians: fourteen days to come to a ceasefire and return the borders of the Balkans to the status quo ante bellum, or face Austro-Hungarian intervention. The Belgrade Pact, fearful of Austrian might, has acquiesced, and now the decision is ours.\n\nMany in the Tsar’s government, and particularly the Liberal Party, welcome the prospect of peace, even without any territorial gains. However, morale in the military is still high, and our generals believe total victory, even without any prospect of a negotiated peace, is in sight. The high-handed Austrian ambassador claims to have saved us with his Empire’s ultimatum, but what kind of salvation is a peace with thousands dead and nothing to show for it? Is it time for one last offensive? Or should we welcome this peace, as a blow against Belgrade that will preserve our hegemony in the Balkans?" #NT!
- pact.48.d.germanyandaustria: "Our old allies in Vienna and Berlin have viewed the Fourth Balkan War with concern since it broke out almost two years ago. Although Bulgaria had broken from the Austro-German military alliance after the Weltkrieg, both German and Austrian governments still view Bulgarian hegemony over Serbia and Greece as a far better alternative than a defeated, radicalized Bulgaria and a triumphant revanchist Belgrade Pact, one that might attempt to incite the minorities in the Austro-Hungarian Empire. With both sides now exhausted, the ambassador of the Kaiserreich in [GER.GetCapital] has informed us his and the Austrian governments have leveled an ultimatum to the Serbs, Greeks and Romanians: fourteen days to come to a ceasefire and return the borders of the Balkans to the status quo ante bellum, or face joint intervention. The Belgrade Pact, fearful of Teutonic might, has acquiesced, and now the decision is ours.\n\nMany in the Tsar’s government, and particularly the Liberal Party, welcome the prospect of peace, even without any territorial gains. However, morale in the military is still high, and our generals believe total victory, even without any prospect of a negotiated peace, is in sight. The high-handed German ambassador claims to have saved us with their Kaiserreichs’ ultimatum, but what kind of salvation is a peace with thousands dead and nothing to show for it? Is it time for one last offensive? Or should we welcome this peace, as a blow against Belgrade that will preserve our hegemony in the Balkans?" #NT!
- pact.48.d.victory: "With our success in the Balkan War, the Belgrade Pact is on the verge of collapse. Serbia has approached us with a peace offer. They will capitulate the territory of Montenegro, several border provinces will be de-militarised, the Belgrade Pact will be disbanded, and Serbia will pay us war reparations. In return, we allow them to keep their independence." #NT!
- pact.48.d.croyug: "With both the Bulgarian and Illyrian successes in the Balkan War, the Belgrade Pact is on the verge of collapse. As the Illyrian flag flys over Belgrade, the Illyrians have approached us with an interesting offer to say the least. Instead of a Serbian lead Yugoslavia, they propose an Illyrian lead one, which perhaps might keep the Serbs under heel and ensure they never threaten Bulgaria again! In addition to this, several border provinces will be de-militarised and the Belgrade Pact will be disbanded. In return, we allow Greece and Romania to keep their independence." #NT!
  pact.48.a: "Мы торжествуем вновь!"
- pact.48.a.germany: "If the master of Europe tells you you've won, you've won." #NT!
- pact.48.a.austria: "The Austrians have shown who the real hegemon of the Balkans is." #NT!
- pact.48.a.germanyandaustria: "It's good to have friends in high places, when they win your war for you." #NT!
- pact.48.a.victory: "We are triumphant once again." #NT!
  pact.48.b: "Нет, они будут уничтожены!"
-  
+ 
  pact.49.t: "Болгария принимает перемирие"
  pact.49.d: "Четвёртая Балканская Война окончилась не совсем так, как мы рассчитывали. Болгария смогла успешно прорваться через наши линии обороны и готова брать Белград. Они приняли наш призыв к миру, и мы можем сохранить свою независимость. Однако мы должны отдать Черногории ее независимость, передать Косово - Албании и выплатить военным репарации в ближайшие годы."
  pact.49.a: "По крайней мере, мы ещё существуем"
-  
+ 
  pact.50.t: "Болгария одержала победу"
  pact.50.d: "Четвёртая Балканская Война окончилась не совсем так, как мы рассчитывали. Болгария смогла успешно прорваться через наши линии обороны и готова брать Белград. Переговоры между Сербией и Болгарией закончились перемирием, но теперь мы должны демилитаризовать Отлению и отказаться от притязаний на территорию Болгарии. Белградский Договор будет распущен."
  pact.50.a: "Они неуязвимые, что ли?"
-  
+ 
  pact.51.t: "Болгария одержала победу"
  pact.51.d: "Четвёртая Балканская Война окончилась не совсем так, как мы рассчитывали. Болгария смогла успешно прорваться через наши линии обороны и готова брать Белград. Переговоры между Сербией и Болгарией закончились перемирием, но теперь мы должны сдать Салоники, демилитаризовать Фессалию и отказаться от притязаний на территорию Болгарии. Белградский Договор будет распущен."
  pact.51.a: "Они неуязвимые, что ли?"
-  
+ 
  pact.52.t: "Война окончена"
  pact.52.d: "Четвёртая Балканская Война подошла к концу, наши солдаты наконец возвращаются домой и ситуация в стране вновь стабилизировалась."
  pact.52.a: "Наконец-то"
-  
+ 
  pact.53.t: "Война окончена"
  pact.53.d: "Война с болгарами подошла к концу и ситуация на нашей северной границе вернулась к подобию спокойствия."
  pact.53.a: "Наконец-то"
-  
+ 
  pact.54.t: "Болгария заключает мир"
  pact.54.d: "Болгария заключила мир с Белградским пактом, и таким образом, у нас есть шанс положить конец нашей войне с ними. Воспользуемся ли мы победой Сербии и добьемся своих требований или продлим войну еще на несколько лет?"
- pact.54.d.germany: "Two years have passed since the Belgrade Pact has attempted to dismantle our ally in the Balkans, [BUL.GetNameDef]. When the war kicked off, there was little we could do to dissuade Belgrade's ambitions, as we were focusing inwards at the time. Since then, our economic and military might has been rebuilt, and an end to the Balkan war seems to not be in sight. We could finally use our leverage to make a very simple demand to Serbia: end this destabilizing war, or face a German intervention. The Foreign Ministry is confident that this will not lead to another great war: the western Syndicalists have been largely uninterested in the recent Balkan matters, and while Russia will undoubtedly protest, they are unable to claim that we are demanding the subjugation of their allies in the region." #NT!
- pact.54.d.austria: "As the Fourth Balkan War has dragged on inconclusively, we may finally have the opportunity to end Belgrade's expansionism. With our economic and military strength rebuilt and Serbia's forces depleted after the long conflict, it will not be too difficult to force the Belgrade Pact to end their war with Bulgaria. While such actions may harken back to what caused the First World War, we are not asking for much except peace, and Russia is unlikely to intervene on the Pact's side." #NT!
  pact.54.a: "Давайте закончим с этим сейчас."
  pact.54.b: "Мы не остановимся, пока они не будут завоеваны!"
-  
+ 
  pact.64.t: "Призыв к оккупации Болгарии"
  pact.64.d: "Болгары были побеждены и мы восстановили свою репутацию в глазах стран мира! Но, за исключением промышленных репараций, мы не задумывались, что делать с оставшейся болгарской территорией. Большая часть нашего офицерского состава призывает к хотя бы временной оккупации всей Болгарии, но некоторые говорят, что это будет слишком дорого для нашей усталой нации."
  pact.64.a: "Разделим Болгарию на оккупационные зоны!"
  pact.64.b: "Пусть остаются независимыми."
-  
+ 
  pact.65.t: "[From.GetName] призывает к совместной оккупации Болгарии"
  pact.65.d: "Наш союзник призывал к совместной оккупации оставшейся территории Болгарии. В будущем, урезанное в размерах болгарское государство будет восстановлено, но сейчас мы сможем управлять территорией как захотим, даже полностью её разграбить."
  pact.65.a: "Очень хорошо."
  pact.65.b: "Нет, мы оставим наши новые земли себе!"
-  
+ 
  pact.66.t: "[From.GetName] отказывается создать оккупационные зоны"
  pact.66.d: "[From.GetAdjective]ое правительство отказалось принять наше предложение по созданию оккупационных территорий в бывших болгарских территориях. Они заявляют, что вся территория, которую они захватили, по праву принадлежит им. [From.GetName] нанесла непоправимый удар нашим отношениям, и нам не остаётся ничего, кроме как окончить наше военное сотрудничество."
  pact.66.a: "Это возмутительно!"
-  
+ 
  pact.70.t: "Помочь Болгарии?"
  pact.70.d: "Сербия атаковала Болгарию вместе с остальными членами Белградского Договора. Во время Вельткрига мы сражались плечом к плечу, и они даже присылали нам материальную помощь в виде оружия. Некоторые заявляют, что мы должны вмешаться на стороне Болгарии, а другие говорят, что это нарушит баланс сил в Европе и может очень дорого нам стоить. Мы также можем проигнорировать конфликт полностью, но тогда мы бросим в беде нашего бывшего союзника."
  pact.70.a: "Послать помощь."
  pact.70.b: "Предложить альянс болгарам!"
  pact.70.c: "Мы ничего не можем поделать."
-  
+ 
  pact.71.t: "Албания предлагает заключить союз"
  pact.71.d: "На удивление, Албания предложила нам военный альянс, припомнив помощь, которую мы им оказали в сражении с Сербами во время Вельткрига. Их помощь может оказаться весьма кстати, но они также могут оказаться помехой в боевых действиях. Что мы им ответим?"
  pact.71.a: "Отлично!"
  pact.71.b: "Они нам не нужны."
-  
+ 
  pact.72.t: "Болгария приняла наше предложение альянса"
  pact.72.d: "Болгарское правительство с радостью приняло наше предложение, и наши войска уже выдвинулись к нашему общему фронту. Вместе мы отразим агрессию Белградского Договора и сохраним территориальную целостность наших стран."
  pact.72.a: "Мы сокрушим сербскую угрозу."
-  
+ 
  pact.73.t: "Болгария отказала нашему предложению альянса"
  pact.73.d: "Болгарское правительство отказалось от нашего предложения и заявило, что им не нужна наша помощь в сражении с Белградским пактом."
  pact.73.a: "Так тому и быть."
-  
+ 
  pact.74.t: "Мы проигрываем в Балканской Войне"
  pact.74.d: "Наше интервенция в Четвёртую Балканскую Войну была полным провалом. Болгария пала под натиском Белградского Договора, как и часть нашей территории. Мы должны предложить перемирие, пока ещё можем!"
  pact.74.a: "Просить мира."
  pact.74.b: "Мы ещё можем победить!"
-  
+ 
  pact.75.t: "Албанцы просят мира"
  pact.75.d: "После того, как мы разбили их силы и оккупировали часть их территории, Албания запросила мира."
  pact.75.a: "Мы победили!"
  pact.75.b: "Нет, они будут сокрушены!"
-  
+ 
  pact.76.t: "Мир с Белградским Договором"
  pact.76.d: "Белградский Договор принял наше предложение мира. Нам пришлось отдать им спорную территорию, но теперь они выведут свои силы."
  pact.76.a: "По крайней мере, мы сохранили свой суверенитет!"
-  
+ 
  pact.77.t: "Албания сдалась"
  pact.77.d: "Совместные усилия вооружённых сил Белградского Договора смогли сокрушить албанцев. Они сдались и сдали спорную территорию членам договора, в обмен на возвращение контроля над своей столицей. Ещё один враг пал."
  pact.77.a: "Белградский Договор торжествует!"
-  
+ 
  pact.78.t: "Мы проигрываем Балканскую Войну"
  pact.78.d: "Хотя нам больно это признавать, вмешательство Албании изменило ход войны. Нам придётся отдать всю спорную территорию, если мы надеемся сохранить свою независимость."
  pact.78.a: "Предложить мир"
  pact.78.b: "Мы ещё можем победить!"
-  
+ 
  pact.79.t: "Сербия просит мира"
  pact.79.d: "Белградский Договор отступает. Теперь, Сербия предложила нам мирный договор. Они отдадут нам все спорные территории, а в обмен мы позволим им сохранить свою независимость."
  pact.79.a: "Хватит кровопролитий. Положим конец этой войне."
  pact.79.b: "Нет, они будут уничтожены!"
-  
+ 
  pact.80.t: "Мир подписан, война закончилась"
  pact.80.d: "Как бы в это не было тяжело поверить, албанцы смогли победить нас на поле брани. Переговоры между Сербией и Албанией подошли к концу, и теперь мы должны передать им всю спорную территорию."
  pact.80.a: "Мы этого не забудем!"
-  
+ 
  pact.81.t: "Война окончена"
  pact.81.d: "Война с сербами подошла к концу, и ситуация на наших границах возвращается к чему-то похожему на спокойствие."
  pact.81.a: "Наконец"
- pact.81.b: "We do not need them" #NT!
-  
+ 
  pact.200.t: "Победа в Балканской войне"
  pact.200.d: "После многих лет планирования и подготовки, объединенные силы Белградского договора теперь одерживают победу над болгарской угрозой! Болгары больше не могут принуждать нас выполнять свои приказы, потому что мы теперь хозяева на Балканах. Наша победа была достигнута ценой, разумеется, многих храбрых людей, отдавших свои жизни за осуществление нашей давней мечты, и именно их жизнь мы будем праздновать в этой ошеломляющей победе.\n\nИ все же, даже после того, как мы отвоевали наши законные территории у болгар, наша миссия не окончена. Австрия твердо стоит на севере, угнетая свое южно-славянское население, чтобы исполнить волю Габсбургов. Это неприемлемо. Мы должны исправить ошибки Вельткрига и наконец, отомстить Вене, но для обеспечения единства Белградского договора в ближайшие недели будет проведен второй Белградский конгресс."
  pact.200.a: "Разошлите приглашения!"
-  
+ 
  pact.201.t: "Приглашение из Сербии"
  pact.201.d: "Сегодня мы получили послание от посольства Сербии с приглашением принять участие во втором конгрессе в Белграде, уже через пару недель. Наши союзники хотят освободить южных славян, которые остаются под австрийским сапогом, и несомненно, хотят, чтобы мы помогли в этом деле. Кроме того, есть вероятность того, что мы сможем извлечь выгоду из поражения Австрии, поэтому крайне важно, чтобы мы, по крайней мере, приняли участие во втором Конгрессе, чтобы сформулировать план действий."
  pact.201.a: "Очень хорошо, мы будем присутствовать."
-  
+ 
  pact.202.t: "Возможные новые союзники"
  pact.202.d.ITA: "Балканские государства не единственные, у которых есть территориальные претензии к Габсбургской империи. Даже если не считать конкурирующих этносов, входящих в ее состав, в окружающих ее странах есть братья, которые хотят освободиться из этой 'тюрьмы народов'. Поскольку Австрия намного сильнее балканских государств вместе взятых, нам необходимо рассмотреть этих возможных новых союзников.\n\nВо время гражданской войны в Италии, австрийцы оторвали кусок Италии и основали вассальную республику в Милане. Однако они не смогли подавить ее надолго, и теперь под контролем [ITA.Capital.GetCapitalVictoryPointName] находится крайне реваншистское правительство во главе с [ITA.GetLeader], которое стремится отвоевать все итальянские земли - включая земли, находящиеся во владении Австрии.\n\nВозможно, их можно убедить присоединиться к нашему делу?"
  pact.202.a: "Любая помощь приветствуется."
  pact.202.b: "Не беспокойтесь."
-  
+ 
  pact.203.t: "Приглашение в Белград"
  pact.203.d: "Балканские государства, одержав совместную победу над Болгарией и теперь во главе с Сербией, повернули свои взгляды на север, в сторону Австро-Венгерской империи - и поскольку их интересы совпадают с нашими, правительство Сербии обратилось к нам с предложением - приглашением посетить Белград для участия во Втором Конгрессе, на котором делегаты примут решение о совместных действиях против Австрии. Каким должен быть наш ответ?"
  pact.203.a: "Очень хорошо, мы будем присутствовать."
  pact.203.b: "Это пустая трата времени."
-  
+ 
  pact.204.t: "[FROM.GetNameDefCap] согласна принять участие"
  pact.204.d: "Министерство иностранных дел [FROM.GetNameDef] направило нам ответное письмо, в котором сообщило, что они согласны присоединиться к нашему общему делу против Австрии."
  pact.204.a: "Превосходно."
-  
+ 
  pact.205.t: "Делегаты прибывают"
  pact.205.d: "Сегодня многонациональная делегация дипломатов, наблюдателей и военных должностных лиц прибыла в Белград, чтобы принять участие в церемонии открытия второго Белградского конгресса. Премьер-министр в короткой речи поблагодарил всех присутствующих за участие, а затем произнес тост за нашу уверенную победу над нашими общими врагами в Вене. Завтра начнутся серьезные обсуждения, касающиеся притязаний каждого на территорию Габсбургов и нашего подхода к их решению. Но сегодня - день, когда нужно бережно хранить это уникальное - торжество паннационального единства!"
  pact.205.a: "Пусть Конгресс начнется!"
-  
+ 
  CongressMembers_Pact_minus_one: "[?SER_attending_congress^0.GetNameDef]"
  CongressMembers_Pact: "[?SER_attending_congress^0.GetNameDef] и [?SER_attending_congress^1.GetNameDef]"
  CongressMembers_Pact_plus_one: "[?SER_attending_congress^0.GetNameDef], [?SER_attending_congress^1.GetNameDef] и [?SER_attending_congress^2.GetNameDef]"
  CongressMembers_Pact_plus_two: "[?SER_attending_congress^0.GetNameDef], [?SER_attending_congress^1.GetNameDef], [?SER_attending_congress^2.GetNameDef] и [?SER_attending_congress^3.GetNameDef]"
-  
+ 
  pact.206.t: "Выбор цели"
  pact.206.d: "Наша общая цель может быть одинаковой, но есть несколько путей, как мы можем подойти к решению проблемы Вены. Более радикальные делегаты Конгресса призывают к войне, чтобы пролить кровь австрийцам, в отместку за их действия во время Вельткрига. С другой стороны, умеренные дипломаты выступают за более дипломатический подход, надеясь на сближение с Веной, а не на чисто воинственную позицию по отношению к ним. Мирный подход, вероятно, был бы предпочтительнее, но мало кто оптимистично оценивает вероятность того, что Австрия действительно займет место за столом переговоров. В конечном счете, у ведущих сербских делегатов есть право решающего выбора, к какому подходу мы должны стремиться, и после нескольких часов закулисных встреч они возвращаются в Конгресс со своим курсом действий."
  pact.206.a: "За войну с Австрией!"
  pact.206.b: "Заставьте их действовать дипломатией!"
-  
+ 
  pact.207.t: "Конгресс решил напасть на Австрию"
  pact.207.d: "Делегаты в Белграде решили, что с свержением Болгарской гегемонии, пришло время свергнуть Габсбургскую гегемонию над Центральной Европой. Поскольку большинство членов Договора имеют обширные претензии на Австро-Венгерскую империю, их делегаты стремятся, наконец, покончить с их национальными целями, но не все члены так стремятся броситься на прогнившую империю. Независимо от этого, настало время официально объявить о нашей поддержке этого плана действий или покинуть Конгресс."
  pact.207.a: "Мы поддерживаем эту инициативу."
  pact.207.b: "Мы присоединимся к Договору!"
  pact.207.c: "Что? Нет!"
  pact.207.e: "Нам никогда не было дела до Трансильвании."
-  
+ 
  pact.208.t: "[FROM.GetNameDefCap] покидает Конгресс"
  pact.208.d.war: "Делегация [FROM.GetNameDef] покинула Конгресс либо в знак протеста против согласованного плана действий, либо потому, что не видит никакой пользы для себя."
  pact.208.d.diplomacy: "Делегация [FROM.GetNameDef] покинула Конгресс, по-видимому, не заинтересованная в австрийском вопросе."
  pact.208.a: "Их потеря."
-  
+ 
  pact.209.t: "Вопрос о претензиях"
  pact.209.d: "Приняв план действий, делегации решили официально оформить свои претензии к Австро-Венгерской Империи. Естественно, мы постарались проинформировать их о том, что конечной целью нашего правительства является объединение южных славян Австро-Венгрии под нашим флагом, освобождая их от многовекового угнетения."
  pact.209.a: "Мы освободим славян!"
-  
+ 
  pact.210.t: "Вопрос о претензиях"
  pact.210.d: "Приняв план действий, делегации решили официально оформить свои претензии к Австро-Венгерской Империи. Естественно, мы постарались проинформировать их о том, что конечной целью нашего правительства является освобождение земель, населяемых этническими румынами, которые в настоящее время подвергаются унижениям в результате многовекового притеснения."
  pact.210.a: "Мы воссоединимся с Трансильванией!"
-  
+ 
  pact.211.t: "Вопрос о претензиях"
  pact.211.d: "Приняв план действий, делегации решили официально оформить свои претензии к Австро-Венгерской Империи. Греция, тем не менее, мало что выигрывает в плане территорий непосредственно от Габсбургов, но мы полагаем, что это является частью улучшения регионального сотрудничества и укрепления отношений."
  pact.211.a: "У нас нет претензий."
  pact.211.b: "Северный Эпир принадлежит нам!"
-  
+
  pact.213.t: "Вопрос о претензиях"
  pact.213.d: "Приняв план действий, делегации решили официально оформить свои претензии к Австро-Венгерской Империи. Естественно, мы постарались проинформировать их о том, что конечная цель нашего правительства - окончательно положить конец Рисорджименто, освободить итальянцев Австрии от габсбургского ига и отомстить за позор 1919 года!"
  pact.213.a: "Мы восстановим Истрию и Тренто!"
-  
+ 
  pact.214.t: "Конгресс завершился"
  pact.214.d: "Когда наши планы и намерения стали ясны, Конгресс подошел к концу. Сейчас мы продвигаемся к финальной битве за установление нового порядка на Балканах, где нации будут свободны от чужих империй и угнетения."
  pact.214.a: "Вперёд!"
-  
+ 
  pact.215.t: "Конгресс выбирает переговоры с Австрией"
  pact.215.d: "Делегаты в Белграде решили, что было бы неразумно безрассудно бросаться в сторону Австро-Венгерской армии. Чтобы четко озвучить наши претензии и завоевать симпатии международного сообщества, мы должны начать переговоры с Веной для достижения заявленной на Конгрессе цели - исправить исторические несправедливости и положить конец страданиям многих наших соотечественников, которые в настоящее время проживают в Австро-Венгрии. Если они откажутся, у нас будут все основания для того, чтобы добиваться справедливости с помощью оружия."
  pact.215.a: "Мы поддерживаем эту инициативу."
  pact.215.b: "Что? Нет!"
-  
+ 
  pact.216.t: "Приглашение в Белград?"
  pact.216.d: "Белградский Конгресс направил нам приглашение. Хотя они четко заявили о своих целях по ликвидации нашей древней монархии, они, кажется, сначала хотят попытаться договориться за столом переговоров. Конечно, мы знаем их условия, и они абсолютно неприемлемы; присутствовать на них было бы полной тратой времени, и вместо этого мы должны заранее подготовиться к мобилизации против них."
  pact.216.a: "Возможно, шанс на мир?"
  pact.216.b: "Мы отвергаем их нелепое предложение!"
-  
+ 
  pact.217.t: "Австрия осуждает наши усилия"
  pact.217.d: "Предсказуемо, Вена отказалась от переговоров. Так как они явно хотят войны, которая окончательно положит конец их прогнившей империи, настало время для того, чтобы мы вступили в нашу последнюю битву за свержение Габсбургского ига."
  pact.217.a: "Значит, будет война."
-  
+ 
  pact.300.t: "Пакт Организации"
  pact.300.d: "[FROM.GetNameDefCap] предлагает углубить связи между балканскими странами через экономический союз. Если мы подпишем их договор, то будет сформирован Экономический совет для координации торгово-экономических интересов его государств-членов. Несомненно, мы выиграем от этого тесного экономического союза."
  pact.300.a: "Конечно, мы все можем извлечь из этого пользу."
  pact.300.b: "Это приведет к потере независимости!"
-  
+ 
  BP_economic_integration_tt: "§GМы станем членом Пакта Организации и получим от него экономическую выгоду§!."
-  
+ 
  pact.301.t: "[FROM.GetNameDefCap] отказывается"
  pact.301.d: "[FROM.GetAdjective]ое правительство отказалось подписать Пакт Организации, не заинтересованное в более тесных экономических связях в Балканском регионе."
  pact.301.a: "Очень жаль их."
-  
+ 
  pact.302.t: "Формирование Экономического Совета"
  pact.302.d: "С ратификацией Пакта Организации, Экономический совет приступит к работе по координации торгово-экономических отношений между своими членами."
  pact.302.a: "Ближе к процветающим Балканам."
-  
+ 
  pact.303.t: "Формирование Экономического Совета"
  pact.303.d: "С ратификацией Пакта Организации, Экономический совет приступит к работе по координации торгово-экономических отношений между своими членами."
  pact.303.a: "Ближе к процветающим Балканам."
-  
+ 
  pact.304.t: "Доклад Экономического Совета"
  pact.304.d: "Благодаря усилиям Экономического совета и наших союзников, преимущества, которые мы получаем от дальнейшей региональной интеграции, значительно улучшились."
  pact.304.a: "Отлично!"
-  
+ 
  pact.305.t: "Покидает Экономический Совет"
  pact.305.d.war: "В результате актов агрессии против других членов Балканского Экономического Совета, мы были немедленно исключены из состава Совета. Как результат, мы больше не получим от него никаких выгод."
  pact.305.d.revolution: "Наш новый социалистический режим объявил все договоры с Балканским Экономическим Советом недействительными и вступающими в силу немедленно. Как результат, мы больше не получим от него никаких выгод."
  pact.305.a: "Очень хорошо."
-  
+ 
  pact.306.t: "[FROM.GetNameDefCap] присоединяется к Экономическому Совету"
  pact.306.d: "[FROM.GetAdjective]ое правительство подписало Пакт Организации, пропустив до этого формирование Совета, и все члены организации не получают дополнительных выгод от взаимного экономического сотрудничества."
  pact.306.a: "Ближе к процветающим Балканам."
-  
+ 
  pact.307.t: "Будущее Белградского Договора"
  pact.307.d: "С нашей главной целью - победой над Австрией - многие задаются вопросом: что теперь? Несмотря на то, что альянсы на Балканах часто создавались ненадолго, некоторые более идеалистические голоса продвигали идею превращения Белградского Договора в долгосрочный альянс не только для того, чтобы защитить Балканы от иностранной угрозы, но и для того, чтобы сотрудничать в экономическом плане и принести процветание как сербскому, так и румынскому народам. Более пессимистичные голоса указывают на все предполагаемые проблемы: идеологические разногласия, Западный Банат, неверие в то, действительно ли балканские страны могут в одиночку противостоять таким бегемотам, как Германия и Россия. Независимо от этого, если наше правительство одобрит идею долгосрочного сотрудничества, это значительно увеличит шансы нашего альянса на то, что мы останемся вместе."
  pact.307.a: "Мы вместе пролили кровь, мы останемся вместе."
  pact.307.b: "Извини, это была всего лишь одна война."
-  
- pact.308.t: "Support from [SER.GetName]" #NT!
- pact.308.d: "Quite a few people doubted [BUL.GetLeader] when he steered our country on the path of peace with [SER.GetName], just after they defeated us in the Fourth Balkan War. The Serbs were surprisingly open to the idea of reconciling with us, allowing us to join the Belgrade Pact. Now with their dreams of unity of the South Slavs realised, they extended a helping hand to us, recognizing our support and sacrfice in our shared struggle." #NT!
- pact.308.a: "A true brotherhood." #NT!

@@ -1,45 +1,38 @@
 ﻿l_russian:
-  
- ### Country Names ### 
+
+### Country Names ###
  VOL: "Верхняя Вольта"
  VOL_ADJ: "Вольтавск"
  VOL_DEF: "Верхняя Вольта"
-  
+
  VOL_totalist: "Союз Вольта"
+ VOL_totalist_ADJ: "Вольтавск"
  VOL_totalist_DEF: "Союз Вольта"
  VOL_syndicalist: "Союз Вольта"
+ VOL_syndicalist_ADJ: "Вольтавск"
  VOL_syndicalist_DEF: "Союз Вольта"
  VOL_radical_socialist: "Союз Вольта"
+ VOL_radical_socialist_ADJ: "Вольтавск"
  VOL_radical_socialist_DEF: "Союз Вольта"
  VOL_social_democrat: "Союз Вольта"
+ VOL_social_democrat_ADJ: "Вольтавск"
  VOL_social_democrat_DEF: "Союз Вольта"
-  
- ### Characters ### 
+
+### Characters ###
  VOL_christophe_kalenzaga: "Кристоф Калензага"
- VOL_christophe_kalenzaga_leader_desc: "§YBorn:§! §L1910, in Oualaga, Colony of Upper Volta, French West Africa§!" #NT!
  VOL_henri_guissou: "Анри Гиссу"
- VOL_henri_guissou_leader_desc: "§YBorn:§! §LNovember 10th, 1910, in Koudougou, Colony of Upper Volta, French West Africa§!" #NT!
  VOL_joseph_ouedraogo: "Жозеф Уэдраого"
- VOL_joseph_ouedraogo_leader_desc: "§YBorn:§! §LJanuary 11th, 1919, in Saaba, Colony of Upper Volta, French West Africa§!" #NT!
  VOL_nazi_boni: "Нази Бони"
- VOL_nazi_boni_leader_desc: "§YBorn:§! §LDecember 31st, 1909, in Bouan, Colony of Upper Volta, French West Africa§!" #NT!
- VOL_antoine_augustin_dim_delobsom: "Antoine Augustin Dim Delobsom" #NT!
- VOL_antoine_augustin_dim_delobsom_leader_desc: "§YBorn:§! §L1897, in Sao, Colony of Upper Volta, French West Africa§!" #NT!
- VOL_phillipe_zinda_kabore: "Phillippe Zinda Kabore" #NT!
- VOL_phillipe_zinda_kabore_leader_desc: "§YBorn:§! §LNovember 18th, 1920, in Koudougou, Colony of Upper Volta, French West Africa§!" #NT!
- VOL_mogho_naaba_kom_ii: "Mogho Naaba Kom II" #NT!
- VOL_mogho_naaba_kom_ii_leader_desc: "§YBorn:§! §L1889, in the Colony of Upper Volta, French West Africa§!" #NT!
- VOL_robert_louis_delavignette: "Robert Louis Delavignette" #NT!
- VOL_robert_louis_delavignette_leader_desc: "§YBorn:§! §LMarch 29th, 1897, in Sainte-Colombe-sur-Seine, Côte-d'Or, French Republic§!" #NT!
-  
- VOL_aboubakar_sangoule_lamizana: "Aboubakar Sangoulé Lamizana" #NT!
- VOL_aboubakar_sangoule_lamizana_commander_desc: "§YBorn:§! §LJanuary 31st, 1916, in Dianra, Colony of Upper Volta, French West Africa§!" #NT!
+ VOL_dim_delobsom: "Антуан Огюстен Дим Делобсом"
+ VOL_phillipe_kabore: "Филипп Зинда Каборе"
+ VOL_mogho_naaba: "Могхо Нааба Ком II"
  VOL_joseph_conombo: "Жозеф Иссуфу Кономбо"
- VOL_joseph_conombo_commander_desc: "§YBorn:§! §LFebruary 9th, 1917, in Tampinko, Colony of Upper Volta, French West Africa§!" #NT!
- VOL_sambo_joseph_sankara: "Sambo Joseph Sankara" #NT!
- VOL_sambo_joseph_sankara_commander_desc: "§YBorn:§! §L1919, in the Colony of Upper Volta, French West Africa§!" #NT!
-  
- ### Parties ### 
+ VOL_robert_delavignette: "Роберт Луис Делайминьет"
+
+ VOL_aboubakar_sangoule: "Абубакар Сангуле Ламизана"
+ VOL_sambo_sankara: "Самбо Джозеф Санкара"
+
+### Parties ###
  VOL_totalist_party: "ВКР"
  VOL_totalist_party_long: "Всеобщая Конфедерация Рабочих"
  VOL_syndicalist_party: "НСРВВ"

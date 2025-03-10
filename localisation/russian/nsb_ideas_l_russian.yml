@@ -31,8 +31,8 @@
  subservience_to_navy_spirit_desc: "Настоящая польза авиации — в поддержке и разведке для флота."
  no_focus_on_training_spirit: "Без акцента на обучении"
  no_focus_on_training_spirit_desc: "Тренировки? Зачем это нам? И так все просто. Заодно топливо сбережем."
- disorganised_ground_crews_spirit: "Disorganised Ground Crews" #NT!
- disorganised_ground_crews_spirit_desc: "Ground crew? Who are they? Why should they matter?" #NT!
+ disorganized_ground_crews_spirit: "Неорганизованный наземный персонал"
+ disorganized_ground_crews_spirit_desc: "Наземный персонал? А кто это? Зачем они нам?"
  conflicting_branches_spirit: "Конфликты родов войск"
  conflicting_branches_spirit_desc: "Но они сказали…"
  elite_fighter_pilots_spirit: "Элитные летчики-истребители"
@@ -71,7 +71,7 @@
  officers_clique_spirit_desc: "Хоть они и пилоты, они ведь все равно рядовые, верно?"
  not_worth_the_risk_spirit: "Неоправданный риск"
  not_worth_the_risk_spirit_desc: "Самолеты, между прочим, стоят дорого."
-  
+
  merchant_mariners_spirit: "Моряки торгового флота"
  merchant_mariners_spirit_desc: "Морские походы — наша вторая натура."
  naval_wargames_spirit: "Морские штабные игры"
@@ -296,6 +296,6 @@
  air_force_academy_spirit: "Дух академии ВВС"
  air_force_spirit: "Дух ВВС"
  air_force_command_spirit: "Дух командования ВВС"
-  
+ 
  heritage_of_accomplishment: "Сложившееся наследие"
  heritage_of_accomplishment_desc: "История и достижения наших полков — свидетельство героизма наших солдат. Признавая подвиги, человек может стремиться к величию сам."

@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Parties ### 
+
+### Parties ###
  TOG_social_democrat_party: "Югенд"
  TOG_social_democrat_party_long: "Тоголезское молодежное движение"
  TOG_social_conservative_party: "СВиНС"
@@ -21,9 +21,8 @@
  TOG_syndicalist_party_long: "Тоголезские Синтикалисты"
  TOG_totalist_party: "Революционкомитет"
  TOG_totalist_party_long: "Тоголезский Революционкомитет"
-  
- ### Characters ### 
+
+### Characters ###
  TOG_Sylvanus_Olympio: "Сильванус Олимпио"
- TOG_sylvanus_olympio_leader_desc: "§YBorn:§! §LSeptember 6th, 1902, in Kpandu, Togoland Protectorate§!" #NT!
  TOG_Alhaji_Grunshi: "Альхаджи Грунши"
- TOG_alhaji_grunshi_leader_desc: "§YBorn:§! §Lin the Colony of the Gold Coast§!" #NT!
+ 

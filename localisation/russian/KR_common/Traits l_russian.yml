@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Operative Traits ### 
+
+### Operative Traits ###
  operative_bold: "Смельчак"
  operative_bold_desc: "Оперативник отлично умеет быстро принимать решения и рассчитывать лучшее время для нанесения удара."
  operative_cautious: "Осторожный стратег"
@@ -25,18 +25,12 @@
  operative_master_commando_desc: "Этот оперативник имеет одну из лучших военных подготовок."
  operative_master_saboteur: "Мастер диверсант"
  operative_master_saboteur_desc: "Если этот оперативник сможет подобраться к этому, они смогут его саботировать."
-  
- ### Unit Leader Traits ### 
+
+### Unit Leader Traits ###
  artillery_officer: "Офицер-артиллерист"
  artillery_officer_desc: "§LДанный генерал лучше всего справляется с управлением артиллерией.§!"
  artillery_specialist: "Специалист по артиллерии"
  artillery_specialist_desc: "§LБоевой опыт позволяет точнее и эффективнее использовать артиллерию.§!"
  artillery_expert: "Эксперт-Артиллерист"
  artillery_expert_desc: "Настоящий эксперт по управлению артиллерией."
- artillery_ratio_over_20: "Artillery ratio > §H20%§!" #NT!
- master_of_ordnance: "Master of Ordnance" #NT!
- master_of_ordnance_desc: "§LThere is no such thing as \"too much artillery.\"§!" #NT!
-  
- rising_star: "Rising Star" #NT!
- rising_star_desc: "§LThis officer shows great promise in the field of military tactics and grand strategy.§!" #NT!
- rising_star_tt: "Removed upon reaching §YSkill Level 3§!" #NT!
+ artillery_ratio_over_30: "Доля артиллерии > §H30%§!"

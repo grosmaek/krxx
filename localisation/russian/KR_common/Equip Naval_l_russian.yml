@@ -18,6 +18,7 @@
  FLEET_NAME_BAT: "$NUMBER$. Kaiserlich-Baltische Flotte"
  FLEET_NAME_GEA: "$NUMBER$. Kaiserlich-Ostasiatische Flotte"
  FLEET_NAME_MAF: "$NUMBER$. Kaiserlich-Afrikanische Flotte"
+ #FLEET_NAME_SOV: "$NUMBER$-ya Sovetsky Flot" in vanilla_override
  FLEET_NAME_RUS: "$NUMBER$-й Русский флот"
  FLEET_NAME_TRM: "$NUMBER$-й Русский флот"
  FLEET_NAME_UKR: "$NUMBER$-й Український флот"
@@ -116,7 +117,7 @@
  JAP_ship_light_battery_1: "120мм/45 Тип 3"
  JAP_ship_light_battery_2: "127мм/50 Тип 3"
  JAP_ship_light_battery_3: "Сдвоенная 127мм/50 Тип 3"
- JAP_ship_light_battery_4: "Сдвоенная 127мм/50 Тип 3 Каи"
+ JAP_ship_light_battery_4: "Сдвоенная 127мм/50 Тип 3 Kai"
 
  JAP_dp_light_battery_1: "Сдвоенная 100мм/65 Тип 98"
  JAP_dp_light_battery_2: "12.7 см/40 Тип 89"
@@ -126,15 +127,14 @@
  JAP_ship_light_medium_battery_1: "14 см/50 3rd Year Тип"
  JAP_ship_light_medium_battery_2: "15 см/50 41st Year Тип"
  JAP_ship_light_medium_battery_3: "15.5 см/60 3rd Year Тип"
- JAP_ship_light_medium_battery_4: "15.5 см/60 3rd Year Тип Каи"
+ JAP_ship_light_medium_battery_4: "15.5 см/60 3rd Year Тип Kai"
 
  JAP_ship_medium_battery_1: "20 см/50 3rd Year Тип Mk 1"
  JAP_ship_medium_battery_2: "20 см/50 3rd Year Тип Mk 2"
- # Fake design, an overall improved version of the 20cm/50 3rd Year Type:
+ # Fake design, a overall improved version of the 20cm/50 3rd Year Тип:
  JAP_ship_medium_battery_3: "20 см/50 Тип 98"
  # Design B-65's gun, but you can now put it on a cruiser:
  JAP_ship_medium_battery_4: "31 см/50 Тип 0"
-
  # British gun, used on Japan's early Battlecruisers/Battleships:
  JAP_ship_heavy_battery_1: "Vickers 14 inch/45"
  JAP_ship_heavy_battery_2: "41 см/45 3rd Year Тип"

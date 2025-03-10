@@ -14,9 +14,7 @@
  remove_chief_of_airforce: "§RСнять§! с поста §Yглавнокомандующего ВВС§!:\n"
  remove_military_high_command: "§RСнять§! с поста §Yверховного главнокомандующего§!:\n"
  remove_theorist: "§RСнять§! с поста §Yтеоретика§!:\n"
- remove_designer: "§RRemove§! as §YDesign Company§!:\n" #NT!
  construction_tech_bonus: "Бонус к технологии строительства"
- excavation_tech_bonus: "Бонус к добыче ресурсов"
  air_sup_bonus: "Бонус к доктринам превосходства в воздухе"
  op_dest_bonus: "Бонус к доктринам оперативного разрушения"
  bomber_bonus: "Бонус к моделям бомбардировщиков"
@@ -87,4 +85,3 @@
  confirm_cancel_national_focus_progress_loss_singular: "Вы потеряете §R$LOST_DAYS$§! день развития."
  confirm_cancel_national_focus_progress_loss_plural: "Вы потеряете §R$LOST_DAYS$§! д. развития."
  confirm_cancel_national_focus_desc: "Вы действительно хотите отменить национальный фокус §H$FOCUS_NAME$§!?"
- FOCUS_SHORTCUT_TOOLTIP: "§GЩелкните§!, чтобы переместиться к пути «$PATH|H$»."

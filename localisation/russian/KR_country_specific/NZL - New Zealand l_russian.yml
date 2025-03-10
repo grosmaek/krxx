@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Parties ### 
+
+### Parties ###
  NZL_totalist_party: "Авангард"
  NZL_totalist_party_long: "Новозеландская партия авангарда"
  NZL_radical_socialist_party: "Социалисты"
@@ -19,12 +19,12 @@
  NZL_national_populist_party_long: "Новозеландский легион"
  NZL_paternal_autocrat_party: "Военное правительство"
  NZL_paternal_autocrat_party_long: "Временное военное правительство"
-  
- ### Country Names ### 
+ 
+### Country Names ###
  NZL: "Новая Зеландия"
  NZL_ADJ: "Новозеландская"
  NZL_DEF: "Новая Зеландия"
-  
+ 
  NZL_totalist: "Республика Аотеароа"
  NZL_totalist_ADJ: "Аотеароанск"
  NZL_totalist_DEF: "Республика Аотеароа"
@@ -34,164 +34,111 @@
  NZL_radical_socialist: "Республика Аотеароа"
  NZL_radical_socialist_ADJ: "Аотеароанск"
  NZL_radical_socialist_DEF: "Республика Аотеароа"
-  
- ### Intro Screen ### 
- NZL_country_intro_background: "GFX_NZL_intro" #NT!
-  
- ### Events ### 
+
+### Events ###
  nzl.10.t: "Предложение о мире?"
  nzl.10.d: "Прошло много месяцев с начала войны с австралийцами, и пока они еще не закрепились в Новой Зеландии, мы не приближаемся к победе. Это война, которая никуда не пойдет, и поэтому было высказано предположение, что мы должны искать белый мир. Наше предпочтение было бы в том, чтобы восстановить демократию в Австралазии, но мы должны быть удовлетворены демократией и безопасностью здесь, дома."
  nzl.10.a: "Пришло время призвать к перемирию"
  nzl.10.b: "Нет! Мы продолжим войну до конца!"
-  
+ 
  nzl.11.t: "Мир с Новой Зеландией?"
  nzl.11.d: "Посол прибыл из Новой Зеландии, предлагая прекратить военные действия. Если мы их оставим, они откажутся от своих попыток свергнуть наше правительство, и этот конфликт может подойти к концу ... конфликт, который, кажется, никуда не денется. Это, однако, означает отказ от наших усилий по возвращению Новой Зеландии, по крайней мере, на данный момент."
  nzl.11.a: "Да, пора прекратить войну"
  nzl.11.b: "Нет! Мы продолжим войну до конца!"
-  
+ 
  nzl.12.t: "Отказ от мира с [From.GetNameDef]"
  nzl.12.d: "Наш посол прибыл из [From.GetNameDef] с разочаровывающей новостью: они отказались от мира."
  nzl.12.a: "Жаль"
-  
+ 
  nzl.14.t: "Помощь из Антанты?"
  nzl.14.d: "Теперь, когда началась война с [AST.GetNameDef], мы должны решить, пришло ли время обратиться к Антанте за помощью. Если мы воссоединимся с Империей, эта война будет продолжаться... но действительно ли у нас есть какой-то другой выбор?"
  nzl.14.a: "Нам необходима их помощь!"
  nzl.14.b: "Нет, теперь мы сами по себе"
-  
+ 
  nzl.15.t: "Новая Зеландия просит о помощи"
  nzl.15.d: "При поддержке повстанцев Новой гвардии, Новая Зеландия отделилась от [AST.GetNameDef] и призвала корону на помощь. Должны ли мы принять их в альянс и начать их защищать, даже если это означает войну через Тихий океан?"
  nzl.15.a: "Ды, мы поможем им!"
  nzl.15.b: "Нам нет смысла от этой войны"
-  
+ 
  nzl.16.t: "[From.GetNameDefCap] предоставляет помощь"
  nzl.16.d: "К большому удивлению, представители из [From.GetNameDef] сообщили нам, что [Root.GetNameDef] отныне является самостоятельным государством. Похоже, они не могут совершить войну через Тихий океан, даже ради возвращения Австралии."
  nzl.16.a: "Это было хорошей идеей"
-  
+ 
  nzl.20.t: "Генерал-губернатор в Новой Зеландии?"
  nzl.20.d: "Теперь, когда мы воссоединились с Империей, правительство Новой Зеландии рассматривает вопрос о том, следует ли назначать генерал-губернатора, как и подобает правильному члену Содружества."
  nzl.20.a: "Джордж Монктон-Арунделл, 8-й виконт-Голуэй, простой рабочий человек"
  nzl.20.b: "Бернард Фрейберг - военный, и тот, кто достоин этого поста"
  nzl.20.c: "Нет, мы не нуждаемся в этом"
-  
+ 
  nzl.21.t: "Возвращение демократии?"
  nzl.21.d: "С окончанием войны, встал вопрос перед генерал-губернаторои Фрейбергом относительно того, следует ли возвращать правительство под контроль новозеландского народа. Некоторые члены правительства говорят, что кризис еще далек от завершения, хотя большинство согласны с тем, что настало время для военных уйти в отставку. Новая Зеландия, в конце концов, демократическая нация, и авторитарное правление долго не протянет."
  nzl.21.a: "Да, запланируйте немедленные выборы"
  nzl.21.b: "Нет, военным следует продолжать контроль"
-  
+ 
  nzl.22.t: "Первые свободные выборы"
  nzl.22.d: "генерал-губернатор Бернард Фрейберг решил объявить выборы в Новой Зеландии, первые, которые нация видит в свое время. Лейбористская партия, по всей видимости, получит большинство, хотя существует вероятность того, что антисиндикалистские настроения еще популярнее, и националистическая партия получит власть. Тем не менее, есть еще один шанс на кампанию новозеландского легиона, чтобы активизировать националистическую поддержку, видя успех."
  nzl.22.a: "Лейбористская партия побеждает на выборах"
  nzl.22.b: "Национальная партия сумела победить"
  nzl.22.c: "Люди обращаются к легиону для защиты"
-  
- ### Characters ### 
+
+### Characters ###
  NZL_fintan_patrick_walsh: "Финтан Патрик Уолш"
- NZL_fintan_patrick_walsh_leader_desc: "§YBorn:§! §LAugust 13th, 1894, in Pātūtahi, Colony of New Zealand§!" #NT!
  NZL_arthur_cook: "Артур Кук"
- NZL_arthur_cook_leader_desc: "§YBorn:§! §LNovember 30th, 1895, in Campbell Town, Colony of Tasmania§!" #NT!
  NZL_elsie_violet_farrelly: "Элси Вайолет Фаррелли"
- NZL_elsie_violet_farrelly_leader_desc: "§YBorn:§! §LAugust 17th, 1912, in Hamilton, Colony of New Zealand§!" #NT!
  NZL_john_alfred_alexander_lee: "Джон Альфред Александр Ли"
- NZL_john_alfred_alexander_lee_leader_desc: "§YBorn:§! §LOctober 31st, 1891, in Dunedin, Colony of New Zealand§!" #NT!
  NZL_michael_joseph_savage: "Майкл Джозеф Сэвидж"
- NZL_michael_joseph_savage_leader_desc: "§YBorn:§! §LMarch 23rd, 1872, in Tatong, Colony of New Zealand§!" #NT!
  NZL_peter_fraser: "Питер Фрейзер"
- NZL_peter_fraser_sic_desc: "§YBorn:§! §LAugust 28th, 1884, in Hill of Fearn, Ross-shire, Scotland§!" #NT!
  NZL_eruera_tihema_te_aika_tirikatene: "Эруэра Тихема Те Айка Тирикатене"
- NZL_eruera_tihema_te_aika_tirikatene_leader_desc: "§YBorn:§! §LJanuary 5th, 1895, in Kaiapoi, Colony of New Zealand§!" #NT!
  NZL_albert_ernest_davy: "Альберт Эрнест Дэви"
- NZL_albert_ernest_davy_leader_desc: "§YBorn:§! §LAugust 17th, 1886, in Wellington, Colony of New Zealand§!" #NT!
  NZL_adam_hamilton: "Адам Гамильтон"
- NZL_adam_hamilton_leader_desc: "§YBorn:§! §LAugust 20th, 1880, in Forest Hill, Colony of New Zealand§!" #NT!
  NZL_sidney_george_holland: "Сидней Георг Холланд"
- NZL_sidney_george_holland_sic_desc: "§YBorn:§! §LOctober 18th, 1893, in Greendale, Colony of New Zealand§!" #NT!
  NZL_robert_campbell_begg: "Роберт Кэмпбелл Бегг"
- NZL_robert_campbell_begg_leader_desc: "§YBorn:§! §LApril 11th, 1886, in Dunedin, Colony of New Zealand§!" #NT!
-  
+ 
  NZL_cyril_louis_norton_newall: "Сирил Луис Нортон Ньюолл"
- NZL_cyril_louis_norton_newall_leader_desc: "§YBorn:§! §LFebruary 15th, 1886, in Mussoorie, North-Western Provinces and Oudh, British India§!" #NT!
-  
+
  NZL_constance_alice_rawcliffe: "Констанс Элис Роклифф"
- NZL_constance_alice_rawcliffe_advisor_desc: "§YBorn:§! §LJuly 27th, 1898, in Haydock, Lancashire, England§!" #NT!
  NZL_sidney_wilfred_scott: "Сидни Уилфред Скотт"
- NZL_sidney_wilfred_scott_advisor_desc: "§YBorn:§! §LJuly 20th, 1900, in Ifield, Sussex, England§!" #NT!
  NZL_arnold_henry_nordmeyer: "Арнольд Генри Нордмейер"
- NZL_arnold_henry_nordmeyer_advisor_desc: "§YBorn:§! §LFebruary 7th, 1901, in Dunedin, Colony of New Zealand§!" #NT!
  NZL_david_gervan_mcmillan: "Дэвид Герван Макмиллан"
- NZL_david_gervan_mcmillan_advisor_desc: "§YBorn:§! §LFebruary 26th, 1904, in New Plymouth, Colony of New Zealand§!" #NT!
- NZL_frederick_jones: "Frederick Nelson Jones" #NT!
- NZL_frederick_jones_advisor_desc: "§YBorn:§! §LNovember 16th, 1884, in Dunedin, Colony of New Zealand§!" #NT!
+ NZL_frederick_nelson_jones: "Фредерик Нельсон Джонс"
  NZL_james_roberts: "Джеймс Робертс"
- NZL_james_roberts_advisor_desc: "§YBorn:§! §LFebruary 21st, 1878, in Lissangle, Co. Cork, Ireland§!" #NT!
+ NZL_tapihana_paraire_paikea: "Тапихана Парайре Пайкеа"
  NZL_tiaki_omana: "Тиаки Омана"
- NZL_tiaki_omana_advisor_desc: "§YBorn:§! §LDecember 18th, 1891, in Māhia, Colony of New Zealand§!" #NT!
  NZL_ernest_richard_toop: "Эрнест Ричард Туп"
- NZL_ernest_richard_toop_advisor_desc: "§YBorn:§! §LOctober 3rd, 1895, in Clifton, Bristol, England§!" #NT!
  NZL_william_goodfellow: "Уильям Гудфеллоу"
- NZL_william_goodfellow_advisor_desc: "§YBorn:§! §LMay 26th, 1880, in Alexandra, Colony of New Zealand§!" #NT!
  NZL_william_john_polson: "Уильям Джон Полсон"
- NZL_william_john_polson_advisor_desc: "§YBorn:§! §LJune 6th, 1875, in Wanganui, Colony of New Zealand§!" #NT!
  NZL_joseph_gordon_coates: "Джозеф Гордон Коутс"
- NZL_joseph_gordon_coates_advisor_desc: "§YBorn:§! §LFebruary 3rd, 1878, in Hukatere, Colony of New Zealand§!" #NT!
  NZL_berkeley_lionel_scudamore_dallard: "Беркли Лайонел Скудамор Даллард"
- NZL_berkeley_lionel_scudamore_dallard_advisor_desc: "§YBorn:§! §LAugust 27th, 1889, in Christchurch, Colony of New Zealand§!" #NT!
  NZL_keith_lindsay_stewart: "Кит Линдси Стюарт"
- NZL_keith_lindsay_stewart_advisor_desc: "§YBorn:§! §LDecember 30th, 1896, in Timaru, Colony of New Zealand§!" #NT!
  NZL_lindsay_merritt_inglis: "Линдси Мерритт Инглис"
- NZL_lindsay_merritt_inglis_advisor_desc: "§YBorn:§! §LMay 16th, 1894, in Mosgiel, Otago, Colony of New Zealand§!" #NT!
  NZL_will_lawson: "Уилл Лоусон"
- NZL_will_lawson_advisor_desc: "§YBorn:§! §LSeptember 2nd, 1876, in Durham, England§!" #NT!
  NZL_arthur_nelson_field: "Артур Нельсон Филд"
- NZL_arthur_nelson_field_advisor_desc: "§YBorn:§! §LFebruary 27th, 1882, in Nelson, Colony of New Zealand§!" #NT!
  NZL_nancy_grace_augusta_wake: "Нэнси Грейс Августа Уэйк"
- NZL_nancy_grace_augusta_wake_advisor_desc: "§YBorn:§! §LAugust 30th, 1912, in Wellington, Dominion of New Zealand§!" #NT!
-  
+
  NZL_bernard_cyril_freyberg: "Бернард Сирил Фрейберг"
- NZL_bernard_cyril_freyberg_army_chief_desc: "§YBorn:§! §LMarch 21st, 1889, in Richmond, London, England§!" #NT!
  NZL_william_george_stevens: "Уильям Джордж Стивенс"
- NZL_william_george_stevens_commander_desc: "§YBorn:§! §LDecember 11th, 1893, in London, England§!" #NT!
  NZL_john_evelyn_duigan: "Джон Эвелин Дуйган"
- NZL_john_evelyn_duigan_commander_desc: "§YBorn:§! §LMarch 30th, 1883, in Whanganui, Colony of New Zealand§!" #NT!
  NZL_george_herbert_clifton: "Джордж Герберт Клифтон"
- NZL_george_herbert_clifton_commander_desc: "§YBorn:§! §LSeptember 18th, 1898, in Greenmeadows, Colony of New Zealand§!" #NT!
  NZL_william_george_gentry: "Уильям Георг Джентри"
- NZL_william_george_gentry_commander_desc: "§YBorn:§! §LFebruary 20th, 1899, in Walthamstow, Essex, England§!" #NT!
  NZL_james_hargest: "Джеймс Харгест"
- NZL_james_hargest_commander_desc: "§YBorn:§! §LSeptember 4th, 1891, in Gore, Colony of New Zealand§!" #NT!
  NZL_edward_puttick: "Эдвард Паттик"
- NZL_edward_puttick_high_command_desc: "§YBorn:§! §LJune 26th, 1890, in Timaru, Colony of New Zealand§!" #NT!
  NZL_andrew_hamilton_russell: "Эндрю Гамильтон Рассел"
- NZL_andrew_hamilton_russell_commander_desc: "§YBorn:§! §LFebruary 23rd, 1868, in Napier, Colony of New Zealand§!" #NT!
  NZL_harold_eric_barrowclough: "Гарольд Эрик Барроуклаф"
- NZL_harold_eric_barrowclough_commander_desc: "§YBorn:§! §LJune 23rd, 1894, in Masterton, Colony of New Zealand§!" #NT!
-  
+
  NZL_james_william_rivett_carnac: "Джеймс Уильям Риветт-Карнак"
- NZL_james_william_rivett_carnac_admiral_desc: "§YBorn:§! §LFebruary 12th, 1891, in Fornham St Martin, Suffolk, England§!" #NT!
  NZL_peter_phipps: "Питер Фиппс"
- NZL_peter_phipps_admiral_desc: "§YBorn:§! §LDecember 7th, 1908, in Sydney, New South Wales, Commonwealth of Australia§!" #NT!
  NZL_guy_charles_cecil_royle: "Гай Чарльз Сесил Ройл"
- NZL_guy_charles_cecil_royle_navy_chief_desc: "§YBorn:§! §LAugust 17th, 1885, in Esher, Surrey, England§!" #NT!
  NZL_george_haines_faulkner: "Джордж Хейнс Фолкнер"
- NZL_george_haines_faulkner_high_command_desc: "§YBorn:§! §LApril 27th, 1893, in England§!" #NT!
-  
+
  NZL_howard_karl_kippenberger: "Говард Карл Киппенбергер"
- NZL_howard_karl_kippenberger_high_command_desc: "§YBorn:§! §LJanuary 28th, 1897, in Ladbrooks, Colony of New Zealand§!" #NT!
  NZL_clive_lochiel_pleasants: "Клайв Лохиэль Плезантс"
- NZL_clive_lochiel_pleasants_high_command_desc: "§YBorn:§! §LJuly 26th, 1910, in Halcomb, Dominion of New Zealand§!" #NT!
  NZL_atwell_peregrine_macleod_lake: "Озеро Этвелл Перегрин Маклеод"
- NZL_atwell_peregrine_macleod_lake_navy_chief_desc: "§YBorn:§! §LFebruary 13th, 1891, in Greenwich, London, England§!" #NT!
  NZL_ralph_alexander_cochrane: "Ральф Александр Кокрейн"
- NZL_ralph_alexander_cochrane_air_chief_desc: "§YBorn:§! §LFebruary 24th, 1895, in Springfield, Fife, Scotland§!" #NT!
  NZL_robert_victor_goddard: "Роберт Виктор Годдард"
- NZL_robert_victor_goddard_air_chief_desc: "§YBorn:§! §LFebruary 6th, 1897, in Wembley, London, England§!" #NT!
  NZL_stanley_flamank_vincent: "Стэнли Фламанк Винсент"
- NZL_stanley_flamank_vincent_high_command_desc: "§YBorn:§! §LApril 7th, 1897, in Hampstead, London, England§!" #NT!
  NZL_ronald_stuart_park: "Парк Рональда Стюарта"
- NZL_ronald_stuart_park_theorist_desc: "§YBorn:§! §LFebruary 18th, 1895, in Dunedin, Colony of New Zealand§!" #NT!
  NZL_henry_edward_horan: "Генри Эдвард Хоран"
- NZL_henry_edward_horan_theorist_desc: "§YBorn:§! §LAugust 12th, 1890, in Newcastle West, Co. Limerick, Ireland§!" #NT!
  NZL_leonard_monk_isitt: "Леонард Монк Иситт"
- NZL_leonard_monk_isitt_theorist_desc: "§YBorn:§! §LJuly 27th, 1891, in Christchurch, Colony of New Zealand§!" #NT!
-  
- ### Traits ### 
+
+### Traits ###
  NZL_black_prince: "Черный принц"

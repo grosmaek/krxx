@@ -1,8 +1,8 @@
 ﻿l_russian:
-  
+
  SPR_focus: "Дерево фокусов Карлистской Испании"
-  
- ### Parties ### 
+
+### Parties ###
  SPR_totalist_party: "$SPA_totalist_party$"
  SPR_totalist_party_long: "$SPA_totalist_party_long$"
  SPR_syndicalist_party: "$SPA_syndicalist_party$"
@@ -23,8 +23,8 @@
  SPR_paternal_autocrat_party_long: "$SPA_paternal_autocrat_party_long$"
  SPR_national_populist_party: "CTC"
  SPR_national_populist_party_long: "Comunión Tradicionalista Carlista (Carlist Traditionalist Communion)"
-  
- ### Ideas ### 
+ 
+### Ideas ###
  SPR_black_monday: "Последствия Чёрного Понедельника"
  SPR_economic_cooperation_idea: "Средиземноморское Экономическое Сотрудничество"
  SPR_economic_cooperation_idea_desc: "Для содействия экономическому развитию союзных католических государств Средиземноморья Испания и ее союзники заключили экономический пакт в надежде на совместное экономическое процветание."
@@ -48,12 +48,12 @@
  SPR_syndicalist_resistance_desc: "Несмотря на поражение в гражданской войне, социалисты Испании еще не отказались от сопротивления победившему правительству."
  SWF_monarchist_resistance: "Реакционное сопротивление"
  SWF_monarchist_resistance_desc: "Несмотря на поражение в гражданской войне, антисоциалистические группировки еще не отказались от сопротивления победившему правительству."
-  
- ### Decisions ### 
+
+### Decisions ###
  SPR_assassinate_juan: "Убийство Инфанта Хуана"
  SPR_assassinate_juan_desc: "Инфант Хуан - регент короля Альфонсо, а также его наследник. Его смерть приведет [SPA.GetNameDef] в смятение и даст нам время полностью выбить их из гражданской войны!"
-  
- ### Political Focuses ### 
+
+### Political Focuses ###
  SPR_restauracion: "Реставрация Карлистов"
  SPR_restauracion_desc: "Теперь, когда война закончилась, мы можем смело заявить о реставрации дома Бурбонов в Испании. Наша страна лежит в руинах, но мы с уверенностью смотрим в будущее."
  SPR_dios: "Вера"
@@ -78,8 +78,8 @@
  SPR_cortes_espanolas_desc: "Кортесы - традиционная форма испанского парламента. Мы должны возродить кортесы как замену дискредитировавшему себя либеральному парламенту альфонсистов."
  SPR_viva_el_rey: "Viva El Rey!"
  SPR_viva_el_rey_desc: "Все наши распри и неурядицы прошли, народ наслаждаются эпохой единства и мира. По всей Испании слышны восклики, прославляющие короля."
-  
- ### Economic Focuses ### 
+
+### Economic Focuses ###
  SPR_rebuilding_the_economy: "Восстановление экономики"
  SPR_rebuilding_the_economy_desc: "Экономика Испании была сильно разрушена прошедшей гражданской войной. Теперь, когда наступило время мира, мы должны зализать раны и вернуть всё, что было до нас."
  SPR_expand_railroads: "Расширить сеть ж/д"
@@ -112,8 +112,8 @@
  SPR_catholic_trade_unions_desc: "Система профсоюзов нужна любой современной экономике. Однако мы не пойдём по пути синдикалистов, а создадим свои, католические профсоюзы. Это, с одной стороны, усилит развитие нашей экономики, а с другой, ещё больше огородит рабочих от красной пропаганды."
  SPR_spanish_miracle: "Испанское чудо"
  SPR_spanish_miracle_desc: "Испанская экономика восстановилась и даже превзошла довоенные показатели. Экономисты уже окрестили наши действия "испанским чудом". Люди наслаждаются плодами развитой экономики под эгидой традиционного карлизма."
-  
- ### Foreign Policy Focuses ### 
+
+### Foreign Policy Focuses ###
  SPR_join_entente: "Вступить в Антанту"
  SPR_join_entente_desc: "Португалия и Французская Республика - наши исторические друзья. Мы должны стать частью Антанты, чтобы закрепить нашу дружбу на бумаге."
  SPR_iberian_trade: "Дружба с Португалией"
@@ -128,8 +128,8 @@
  SPR_joint_military_training_desc: "Мы должны провести совместные военные учения с нашими друзьями по Антанте, чтобы перенять от них новейшие способы ведения боевых действий."
  SPR_join_isac: "Вступить в ИНАС"
  SPR_join_isac_desc: "Канадцы создали научный союз, ИНАС. Мы должны присоединиться к ним, чтобы перенять их наработки."
-  
- ### Army Focuses ### 
+
+### Army Focuses ###
  SPR_legion_espanola: "Legión Española"
  SPR_legion_espanola_desc: "Испанская армия долгое время считалась одной из самых передовых. Гражданская война уничтожила много талантливых офицеров и бойцов. Мы должны начать возрождение наших вооруженных сил."
  SPR_modern_terrico: "Современные Терцио"
@@ -160,8 +160,8 @@
  SPR_tank_shipments_desc: "Для победы в этой войне нам необходимо как можно больше танков, выведенных на поле боя. Наши союзники по Антанте все еще располагают значительными запасами танков, не принимавших участия в боевых действиях со времен революций, и мы, вероятно, сможем убедить их отправить их нам, чтобы они наконец-то снова стали полезными."
  SPR_a_catholic_army: "Католическая армия"
  SPR_a_catholic_army_desc: "Благодаря нашим реформам, армия преобразилась. Из кучки оборванцев мы создали настоящее католическое войско. Все, от генерала до простого солдата, преданы нам и церкви. Бог на стороне испанской армии."
-  
- ### Navy Focuses ### 
+
+### Navy Focuses ###
  SPR_armada_espanola: "Armada Española"
  SPR_armada_espanola_desc: "В те далёкие времена, когда Испания была империей, её армада считалась сильнейшим флотом мира. Её корабли бороздили океаны и диктовали волю Испании. Мы должны начать реформы нашего флота, чтобы хоть на шаг приблизиться к тем славным временам."
  SPR_upgrade_dockyards: "Торговый флот"
@@ -186,8 +186,8 @@
  SPR_cruiser_support_desc: "Более маленькие, но проворные корабли, позволят нам создать мобильный флот, который сможет эффективно и адекватно реагировать на угрозы со стороны врагов."
  SPR_masters_of_the_sea: "Владыки морей"
  SPR_masters_of_the_sea_desc: "Испанский флот возродился после реформ, которые мы провели. Мы поистине стали Владыками Морей."
-  
- ### Air Force Focuses ### 
+
+### Air Force Focuses ###
  SPR_aviacion_legionaria: "Aviación Legionaria"
  SPR_aviacion_legionaria_desc: "Гражданская война показала важность авиации, как боевой единицы. Мы должны развивать нашу авиацию и отделить её от сухопутных войск."
  SPR_upgrade_air_ports: "Расширить авиабазы"
@@ -214,12 +214,12 @@
  SPR_colonial_air_ports_desc: "Наши колонии не могут вместить много самолётов. Мы должны построить на их территории новые авиабазы, чтобы наши самолёты беспрепятственно могли контролировать местные небеса."
  SPR_rule_the_skies: "Владыки небес"
  SPR_rule_the_skies_desc: "Наша авиация более не мелкая кучка любителей, а полноценная ветвь армии. Мы по праву тали Владыками Небес!"
-  
- ### Cosmetic Tags ### 
+
+### Cosmetic Tags ###
  SPA_carlists: "Карлистская Испания"
  SPA_carlists_ADJ: "Карлистск"
  SPA_carlists_DEF: "Карлистская Испания"
-  
+
  SPA_carlists_kingdom_social_democrat: "Королевство Испания"
  SPA_carlists_kingdom_social_democrat_ADJ: "Испанск"
  SPA_carlists_kingdom_social_democrat_DEF: "Королевство Испания"
@@ -241,51 +241,33 @@
  SPA_carlists_kingdom_national_populist: "Королевство Испания"
  SPA_carlists_kingdom_national_populist_ADJ: "Испанск"
  SPA_carlists_kingdom_national_populist_DEF: "Королевство Испания"
-  
- ### Characters ### 
+
+### Characters ###
  SPR_francisco_javier_de_borbon_parma_y_braganza: "Хавьер I"
- SPR_francisco_javier_de_borbon_parma_y_braganza_leader_desc: "§YBorn:§! §LMay 25th, 1889, in Lucca, Kingdom of Italy§!\n§YBackground:§! §LInheriting a dynastic legacy over a century in the making, Francisco Javier de Borbón-Parma y de Braganza has ascended to the head of the Carlist branch of the Borbón dynasty as the designated successor of Duke Alfonso Carlos. Having been proclaimed as King Javier I of Spain by the supporters of Carlism, he has been given the difficult task of cementing his claim to the throne and reconciling a destructively divided nation.\n\nWhile to many in the nation, Javier is king of the Spanish people, it would be hard to describe the man himself as a Spaniard. As the son of Robert I, deposed Duke of Parma, Javier was born in the Kingdom of Italy yet immersed deeply in French culture from birth owing to his family's dynastic origins. Until the death of Alfonso Carlos, Javier's only direct experience of Spain had been brief holidays and familial visits to distant dynastic relatives.\n\nBeing the brother in law of Kaiser Karl I of Austria, Javier initially planned to join the Austrian army to support their fight against Serbia. However seeing himself as a Frenchman above all else, France's entry into the war would eventually lead to him instead enlisting alongside his brother Sixtus in the Belgian army, having been blocked from joining France's as a foreign royal. Still however valuing his family, Javier aided his brother in Karl I's disastrous attempt to negotiate a secret peace with the Entente.\n\nFollowing the conclusion of the war Javier chose to remain initially in France, staying in one of his family's castles in the country. With the outbreaks of uprisings across the nation and soon Europe as a whole, Javier and other members of the Borbón-Parma dynasty sought refuge with their relatives from the Two Sicily's branch of the family in Naples. There he would remain until his arrival in Spain in the lead up to the nation's civil war.\n\nWith Javier now ruling as a practical foreigner on a much disputed throne, only time will tell if he can truly ingratiate himself with the Spanish people and help finally heal the greatly fractured country.§!" #NT!
-  
+ SPR_francisco_javier_de_borbon_parma_y_braganza_desc: "§YОписание\nРодился:§! §g25-го мая, 1889, Лукка, Королевство Италия\n§YПолитическая карьера:§! Унаследовав династическое наследие, которое создавалось более века, Франсиско Хавьер де Борбон-Парма-и-де-Браганса стал главой карлистской ветви династии Борбонов в качестве назначенного преемника герцога Альфонса Карлоса. Провозглашенный сторонниками карлистов королем Испании, Хавьер I получил трудную задачу - закрепить свои права на престол и примирить разделенную нацию.\n\n Хотя для многих в стране Хавьер является королем испанского народа, самого его трудно назвать испанцем. Будучи сыном Роберта I, свергнутого герцога Пармского, Хавьер родился в Итальянском королевстве, но с самого рождения был глубоко погружен во французскую культуру благодаря династическому происхождению своей семьи. До смерти Альфонсо Карлоса единственным непосредственным знакомством Хавьера с Испанией были короткие отпуска и семейные визиты к дальним родственникам.\n\n Будучи родным братом кайзера Карла I Австрийского, Хавьер первоначально планировал вступить в австрийскую армию для поддержки борьбы с Сербией. Однако вступление в войну Франции, считавшей себя прежде всего французом, привело к тому, что он был призван в бельгийскую армию вместе со своим братом Сикстом, которому было запрещено вступать в армию Франции как иностранному королю. Однако, дорожа своей семьей, Хавьер помогал брату в неудачной попытке Карла I заключить тайный мир с Антантой.\n\nПосле окончания войны Хавьер предпочел остаться во Франции, поселившись в одном из замков своей семьи в этой стране. После вспышки восстаний в стране, а вскоре и во всей Европе, Хавьер и другие представители династии Борбон-Парма нашли убежище у своих родственников из двух сицилийских ветвей семьи в Неаполе. Там он оставался вплоть до своего прибытия в Испанию в преддверии гражданской войны.\n\nТеперь Хавьер правит на спорном троне как практичный иностранец, и только время покажет, сможет ли он по-настоящему сблизиться с испанским народом и помочь окончательно залечить расколотую страну."
+
  SPR_manuel_fal_conde: "Мануэль Лоренцо Хосе Фаль Конде"
- SPR_manuel_fal_conde_sic_desc: "§YBorn:§! §LAugust 10th, 1894, in Higuera de la Sierra, Province of Huelva, Kingdom of Spain§!" #NT!
-  
- SPR_jose_maria_valiente_soriano: "José María Valiente Soriano" #NT!
- SPR_jose_maria_valiente_soriano_advisor_desc: "§YBorn:§! §LNovember 18th, 1900, in Chelva, Province of Valencia, Kingdom of Spain§!" #NT!
+
+ SPR_jose_maria_valiente: "Хосе Мария Вальенте Сориано"
  SPR_alejandro_goicoechea_omar: "Алехандро Гойкоэчеа Омар"
- SPR_alejandro_goicoechea_omar_advisor_desc: "§YBorn:§! §LMarch 23rd, 1895, in Elorrio, Province of Biscay, Kingdom of Spain§!" #NT!
  SPR_tomas_dominguez_arevalo: "Томас Домингес Аревало"
- SPR_tomas_dominguez_arevalo_advisor_desc: "§YBorn:§! §LSeptember 26th, 1882, in Madrid, Province of Madrid, Kingdom of Spain§!" #NT!
- SPR_dolores_de_gortazar_serantes: "Dolores de Gortázar Serantes" #NT!
- SPR_dolores_de_gortazar_serantes_advisor_desc: "§YBorn:§! §L1872, in León, Province of León, Kingdom of Spain§!" #NT!
- SPR_pedro_segura_y_saenz: "Pedro Segura y Sáenz" #NT!
- SPR_pedro_segura_y_saenz_advisor_desc: "§YBorn:§! §LDecember 4th, 1880, in Carazo, Province of Burgos, Kingdom of Spain§!" #NT!
+ SPR_dolores_de_gortazar: "Долорес де Гортасар и Серантес"
+ SPR_pedro_segura: "Педро Сегура и Саенс"
  SPR_jaime_del_burgo_torres: "Хайме дель Бурго Торрес"
- SPR_jaime_del_burgo_torres_advisor_desc: "§YBorn:§! §LNovember 11th, 1912, in Pamplona, Province of Navarra, Kingdom of Spain§!" #NT!
- SPR_antonio_de_lizarza_iribarren: "Antonio de Lizarza Iribarren" #NT!
- SPR_antonio_de_lizarza_iribarren_advisor_desc: "§YBorn:§! §LJanuary 16th, 1891, in Leiza, Province of Navarra, Kingdom of Spain§!" #NT!
-  
+ SPR_antonio_de_lizarza: "Антонио де Лизарца Ирибаррен"
+
  SPR_miguel_cabanellas_ferrer: "Мигель Кабанельяс Феррер"
- SPR_miguel_cabanellas_ferrer_high_command_desc: "§YBorn:§! §LJanuary 1st, 1872, in Cartagena, Province of Murcia, Kingdom of Spain§!" #NT!
- SPR_gonzalo_queipo_de_llano_y_sierra: "Gonzalo Queipo de Llano y Sierra" #NT!
- SPR_gonzalo_queipo_de_llano_y_sierra_high_command_desc: "§YBorn:§! §LFebruary 5th, 1875, in Tordesillas, Province of Valladolid, Kingdom of Spain§!" #NT!
+ SPR_gonzalo_queipo_de_llano: "Гонсало Кейпо де Лья́но и Сьерра"
  SPR_mariano_gamir_ulibarri: "Мариано Гамир Улибарри"
- SPR_mariano_gamir_ulibarri_commander_desc: "§YBorn:§! §LOctober 6th, 1877, in Madrid, Province of Madrid, Kingdom of Spain§!" #NT!
  SPR_jose_moscardo_ituarte: "Хосе Москардо Итуарте"
- SPR_jose_moscardo_ituarte_commander_desc: "§YBorn:§! §LOctober 26th, 1878, in Madrid, Province of Madrid, Kingdom of Spain§!" #NT!
  SPR_ricardo_de_rada_y_peral: "Рикардо Рада-и-Пераль"
- SPR_ricardo_de_rada_y_peral_high_command_desc: "§YBorn:§! §LFebruary 5th, 1885, in Málaga, Province of Málaga, Kingdom of Spain§!" #NT!
- SPR_antonio_ortega_gutierrez: "Антонио Ортега Гутьеррес"
- SPR_antonio_ortega_gutierrez_leader_desc: "§YBorn:§! §LJanuary 17th, 1888, in Rabé de las Calzadas, Province of Burgos, Kingdom of Spain§!" #NT!
-  
- SPR_rafael_garcia_valino_y_marcen: "Rafael García-Valiño y Marcén" #NT!
- SPA_rafael_garcia_valino_army_chief_desc: "§YBorn:§! §LOctober 24th, 1898, in Toledo, Province of Toledo, Kingdom of Spain§!" #NT!
+ SPR_antonio_ortega: "Антонио Ортега"
+
+ SPR_rafael_garcia_valino: "Рафаэль Гарсиа Валиньо"
  SPR_heliodoro_rolando_de_tella_cantos: "Хели Роландо де Телла-и-Кантос"
- SPR_heliodoro_rolando_de_tella_cantos_army_chief_desc: "§YBorn:§! §LSeptember 14th, 1888, in Gomeán, Province of Lugo, Kingdom of Spain§!" #NT!
  SPR_juan_vigon_suero_diaz: "Хуан Вигон Суэро-Диас"
- SPR_juan_vigon_suero_diaz_air_chief_desc: "§YBorn:§! §LOctober 30th, 1880, in Colunga, Province of Asturias, Kingdom of Spain§!" #NT!
- SPR_jose_enrique_varela_iglesias: "José Enrique Varela Iglesias" #NT!
- SPR_jose_enrique_varela_iglesias_theorist_desc: "§YBorn:§! §LApril 17th, 1891, in San Fernando, Province of Cádiz, Kingdom of Spain§!" #NT!
-  
- ### Traits ### 
+ SPR_jose_enrique_varela: "Хосе Энрике Варела"
+
+### Traits ###
  KR_representative_of_the_pope: "Представитель Папы Римского в Испании"
  SPR_rey_leader_trait: "Божьей милостью, король Кастилии, Леона, Арагона, Наварры, Гранады, Толедо, Валенсии, Галисии, Майорки, Севильи, Кордовы, Мурсии, Хаэна, Альхесираса, Канарских островов, повелитель Бискайи и Молины и прочая."

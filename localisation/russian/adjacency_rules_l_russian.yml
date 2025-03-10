@@ -24,7 +24,6 @@
  KIEL_CANAL: "Канал кайзера Вильгельма"
  BOSPHORUS_STRAIT: "Босфорский пролив"
  disable_canal_tt: "§RКанал частично уничтожен. Для возобновления судоходства его необходимо отремонтировать.§!"
- disable_canal_tt_NOT: "$disable_canal_tt$" #NT!
  CANAL_BLOCKED_FOR_COUNTRY: "Канал заблокирован из-за [Root.GetName]."
  strait_blocked_tt: "§RПролив закрыт [ROOT.GetName] из-за ухудшения отношений с контролером пролива.§!"
  DARDANELLES_STRAIT: "Дарданеллы"
@@ -36,4 +35,4 @@
  ALAND_STRAIT: "Ботнический залив"
  TRANSSAHARIAN_ROUTE: "Транссахарская торговля"
  disable_transsaharian_tt: "§RТранссахарская железная дорога не завершена.§!"
- disable_transsaharian_tt_NOT: "$disable_transsaharian_tt$" #NT!
+ 

@@ -1,20 +1,23 @@
 ﻿l_russian:
-  
+
  Morocco_Focus: "Фокусы Марокко"
-  
- ### Countr Names ### 
+
+### Countr Names ###
  MOR: "Марокко"
  MOR_ADJ: "Марокканск"
  MOR_DEF: "Марокко"
-  
+
  MOR_totalist: "Коммуна Марокко"
+ MOR_totalist_ADJ: "Марокканск"
  MOR_totalist_DEF: "Коммуна Марокко"
  MOR_syndicalist: "Коммуна Марокко"
+ MOR_syndicalist_ADJ: "Марокканск"
  MOR_syndicalist_DEF: "Коммуна Марокко"
  MOR_radical_socialist: "Коммуна Марокко"
+ MOR_radical_socialist_ADJ: "Марокканск"
  MOR_radical_socialist_DEF: "Коммуна Марокко"
-  
- ### Parties ### 
+
+### Parties ###
  MOR_social_democrat_party: "СССМ"
  MOR_social_democrat_party_long: "Социалистическйи союз сил молодежи"
  MOR_social_conservative_party: "Хизб аль-Истиглал"
@@ -35,8 +38,8 @@
  MOR_syndicalist_party_long: "Марокканская социалистическая партия"
  MOR_totalist_party: "Шиитаская партия Марокко"
  MOR_totalist_party_long: "Шиитаская партия Марокко"
-  
- ### Politics ### 
+
+### Politics ###
  MOR_a_time_of_troubles: "Смутное время"
  MOR_a_time_of_troubles_desc: "Последние годы не были добры к Марокко. Столкнувшись с бедностью и отсталостью, наш народ выдержал, но пострадал. Мы сильны как нация и народ, но мы больше не можем игнорировать проблемы. Отныне мы стремимся решать проблемы нашего народа."
  MOR_national_infrastructure_plan: "Национальный инфраструктурный план"
@@ -75,8 +78,8 @@
  MOR_beyond_al_qarawiyn_desc: "Аль-Карауином является нашим старейшим и наиболее ценным учебным заведением. Тем не менее, наше высшее образование не должно быть переведено в одно место в Марокко, а должно быть легко доступно во всех наших крупных городах."
  MOR_industrialize_the_realm: "Индустриализация королевства"
  MOR_industrialize_the_realm_desc: "Хотя наша страна добилась быстрых успехов в развитии, наши инновации не должны прекращаться, а должны продолжаться по мере того, как мы ведем Марокко в будущее."
-  
- ### Army ### 
+
+### Army ###
  MOR_the_royal_army_of_morocco: "Королевская армия Марокко"
  MOR_the_royal_army_of_morocco_desc: "Наша армия гордо стояла сотни лет. Однако есть много новых методов, которые мы можем исследовать, чтобы улучшить их эффективность и репутацию."
  MOR_learning_with_our_mistakes: "Обучение на собственных ошибках"
@@ -108,9 +111,9 @@
  MOR_new_uniforms_and_training_drills: "Новая униформа и муштра"
  MOR_new_uniforms_and_training_drills_desc: "Наша форма старая и непрактичная для современной войны. Если посмотреть в другом месте, мы черпали вдохновение в новейших разработках, чтобы наши солдаты были лучше подготовлены к развертыванию."
  MOR_modern_artillery: "Современная артиллерия"
- MOR_modern_artillery_desc: "A common saying in German artillery regiments is: 'Infantry win battles, but artillery wins wars.' Observing the raw firepower displayed during Germany artillery demonstrations, we have decided to take this sentiment to heart and ensure our troops have satisfactory artillery support." #NT!
-  
- ### Navy ### 
+ MOR_modern_artillery_desc: "В немецких артиллерийских полках принято говорить: "Пехота побеждает в битвах, а артиллерия побеждает в войнах". Наблюдая за огневой мощью, продемонстрированной во время демонстрации артиллерии в Германии, мы решили принять это мнение близко к сердцу и обеспечить нашим артиллерийским вооружениям достаточную поддержку."
+ 
+### Navy ###
  MOR_royal_moroccan_navy: "Марокканский флот"
  MOR_royal_moroccan_navy_desc: "Наш флот в его нынешнем виде маленький, старый и устаревший. Настало время предпринять шаги, направленные на модернизацию нашего флота, учитывая продолжающуюся модернизацию европейского военно-морского флота."
  MOR_the_atlantic_kingdom: "Атлантическое королевство"
@@ -125,8 +128,8 @@
  MOR_foreign_naval_experts_desc: "Наблюдая за тактикой, используемой европейцами на своих ВМС, мы были бы глупы, если бы не обратились к ним за помощью в продвижении нашей тактики и доктрины."
  MOR_dockyards_of_casablanca: "Верфи Касабланки"
  MOR_dockyards_of_casablanca_desc: "Касабланка - наш самый большой и жизненно важный порт. В свете последних событий, мы должны и дальше расширять наши верфи для поддержки нашего развивающегося флота."
-  
- ### Air ### 
+
+### Air ###
  MOR_royal_moroccan_airforce: "Королевские Марокканские ВВС"
  MOR_royal_moroccan_airforce_desc: "Королевские марокканские ВВС в настоящее время существуют только по названию. Мы должны начать развивать его в надлежащую боевую силу, чтобы мы могли управлять своим небом."
  MOR_foreign_flight_instructors: "Иностранные лётные инструктора"
@@ -143,8 +146,8 @@
  MOR_the_war_on_the_skies_desc: "Наша доктрина ВВС так же важна, как и наши самолеты. Если у нас не будет четкого понимания тактики и стратегии действий в воздухе, мы никогда не станем такими эффективными, какими потенциально могли бы быть."
  MOR_airbase_expansion: "Расширение авиабаз"
  MOR_airbase_expansion_desc: "Для поддержки наших формирующихся военно-воздушных сил мы разработали план расширения авиабаз как в Анфе, так и в Рабат-Сале, чтобы у нас было достаточно помещений для наших новых самолетов."
-  
- ### Break with Germany ### 
+
+### Break with Germany ###
  MOR_off_with_the_german_yoke: "Покончить с германским ярмом"
  MOR_off_with_the_german_yoke_desc: "Германская империя слишком долго эксплуатировала нашу нацию для собственной выгоды! Теперь мы отбрасываем наши цепи и ищем свое будущее."
  MOR_a_deal_with_the_devil: "Сделка с дьяволом"
@@ -171,8 +174,8 @@
  MOR_prepare_to_strike_the_french_desc: "Французы владеют территорией, которая по праву принадлежит нам и народам Африки! Однако мы не можем бросаться в бой без тщательно продуманных планов; мы должны иметь все преимущества перед Пьер-Нуарами."
  MOR_the_war_for_africas_soul: "Война за душу Африки"
  MOR_the_war_for_africas_soul_desc: "Время пришло! Мы наносим удар так же быстро и тихо, как ветер пустыни, и раз и навсегда изгоняем иноземных захватчиков!"
-  
- ### Commune of Morocco ### 
+
+### Commune of Morocco ###
  MOR_the_commune_of_morocco: "Марокканская Коммуна"
  MOR_the_commune_of_morocco_desc: "Монархия слишком долго сотрудничала с западными империалистами и эксплуатировала наш народ. С этого дня народ будет управляться Марокканским Рабочим Конгрессом."
  MOR_revolutionary_fervour: "Революционное рвение"
@@ -191,8 +194,8 @@
  MOR_freedom_and_justice_desc: "Мы подчеркиваем, что во времена правления Мухаммеда V не было свободы - только рабство. Стремясь представлять наш народ, мы будем стремиться к эмансипации нашего народа и предоставлению ему подлинной свободы и справедливости."
  MOR_direct_rule_from_marrakesh: "Прямое управление из Марракеша"
  MOR_direct_rule_from_marrakesh_desc: "Остальные фракции не видят, что наша революция находится под угрозой из-за неспособности осуществить централизованное правительство. Мы должны спасти наш народ от самих себя, чтобы не поддаться буржуазной демократии. Чтобы обеспечить наше будущее, мы должны заложить основу демократии под демократическим централизмом и принципами тотализма."
-  
- ### Ideas ### 
+
+### Ideas ###
  MOR_War_For_Africa_Soul: "Война за душу Африки"
  MOR_War_For_Africa_Soul_desc: "Население Африки слишком долго страдало от цепей европейской жадности и эксплуатации. Пришло время изгнать угнетателей!"
  MOR_royal_budget_rearengment_idea: "Корректировка королевского бюджета"
@@ -208,38 +211,37 @@
  MOR_new_uniforms_and_training_drills_idea: "Новая униформа, новая муштра"
  MOR_watch_over_the_straits_idea: "Следить за проливами"
  MOR_germanmission_idea: "Немецкая военная миссия"
-  
- ### Intro Screen ### 
- MOR_country_intro_background: "GFX_MOR_intro" #NT!
+
+### Intro Screen ###
  MOR_country_intro_header: "История Марокко"
  MOR_country_intro_content: "В 1904 году Франция и Испания вырезали зоны влияния в Марокко. Признание Соединенным Королевством сферы влияния Франции, вызвало сильную реакцию со стороны Германской Империи, и в 1905 году разразился кризис. Этот вопрос был решен на конференции в Альхесирасе в 1906 году. Агадирский кризис 1911 г. усилил напряженность в отношениях между европейскими державами. Фесский договор 1912 г. сделал Марокко протекторатом Франции и спровоцировал массовые беспорядки. По этому же договору Испания взяла на себя роль защиты власти над северной и южной зонами Сахары. Во время Вельткрига, Зайская конфедерация берберов восстала против Франции и получила широкую поддержку со стороны Центральных Держав, но не смогла добиться ни одной крупной победы вплоть до падения Франции. В то время как различные претенденты на трон пытались вести переговоры с Германской империей, они были безрезультатны, и в конце концов, Мухаммед V был посажен на трон после того, как его отец отрекся от престола. Новый султан подписал новый договор с немцами, влияние которых на внутренние дела Марокко было значительно уменьшено по сравнению с французским протекторатом. Договор был тщательно сформулирован, чтобы сделать его как можно более дружелюбным. Тем не менее, напряженность все еще иногда вспыхивает, что иногда требует вмешательства со стороны поддерживаемой немцами Королевской гвардии. В 30-е годы Марокко оправилось от эпохи Протектората, однако отношения с Алжиром остаются довольно прохладными, и некоторые националисты выступают за укрепление альянса с Германской империей в целях обеспечения независимости Марокко. Султан должен защитить Марокко не только от реваншистской французской элиты в Алжире, но и от диких революционеров в Париже, которые видят в Марокко ворота революции в Африку и исламский мир."
-  
- ###Events### 
+
+###Events###
  mor.2.t: "Берберский вопрос"
  mor.2.d: "Нам нужно решить, что нам делать с берберами в нашей стране."
  mor.2.a: "Живи и давай жить другим."
  mor.2.b: "Насильная арабизация язычников-анимистов."
-  
+ 
  mor.3.t: "Новое Западное Королевство"
  mor.3.d: "Учитывая нашу ситуацию, мы можем сосредоточить свои усилия на разработке одной области первостепенной важности."
  mor.3.a: "Промышленность"
  mor.3.b: "Инфраструктура"
-  
+ 
  mor.4.t: "Разобраться с реакционерами среди берберов"
  mor.4.d: "Практика берберов не соответствует нашей новой революционной доктрине. Мы могли бы закрыть на это глаза, ведь они наши братья. Мы могли бы также уменьшить племена, чтобы они соответствовали нашей революции. Однако их пути могут быть слишком укоренены, и мы могли бы лучше справиться с ними силой."
  mor.4.a: "Никаких мест для контрреволюционеров!"
  mor.4.b: "Они должны быть перевоспитаны"
  mor.4.c: "Они наши братья и сёстры; оставим их в покое."
-  
+ 
  mor.5.t: "Марокко просит поддержки"
  mor.5.d: "Марокко просит о нашей помощи для укрепления военного присутствия в северной Африке"
  mor.5.a: "Они и сами прекрасно справляются."
  mor.5.b: "Направить военную миссию"
-  
+ 
  mor.6.t: "Германия отказывается помочь"
  mor.6.d: "Германия отказалась поддержать нас"
  mor.6.a: "Мы станем сильнее вопреки всему"
-  
+ 
  mor.7.t: "Германия отправляет военную миссию"
  mor.7.d: "Германия согласилась направить военную миссию в Марокко в течение недели. Группа, которую они направят, состоит из 50 советников и вспомогательного персонала и будет консультировать нас в течение следующих восемнадцати месяцев."
  mor.7.a: "Это сделает нас сильнее"
@@ -248,87 +250,15 @@
  mor.106.d: "Чувствуя нашу слабость перед врагами в текущем конфликте, вероломное марокканское правительство решило отказаться от нашего союза в самый трудный для нас час. Марокканский король и его советники вызвали нашего посла, чтобы сообщить ему, что все наши силы в регионе должны покинуть страну, и что они объявляют нейтралитет во внешних делах. Это глубокое оскорбление, учитывая, как сильно мы помогли их независимости от французского господства и как много они выиграли от нашей постоянной защиты. Без сомнения, их соседи сейчас с ликованием смотрят на возможность раздела их земель благодаря марокканской недальновидности. Тем не менее, учитывая наши нынешние обстоятельства, в кабинете министров звучат призывы принять этот поворот событий как свершившийся факт. Учитывая, что наше внимание сосредоточено на достижении окончательной победы над нашими врагами, возможно, не стоит добавлять Марокко в этот список."
  mor.106.a: "У нас есть проблемы поважнее."
  mor.106.b: "Им это с рук не сойдет!"
-  
- ### Characters ### 
+
+### Characters ###
  MOR_mohammed_alaouite: "Мухаммед V"
  MOR_mohammed_alaouite_leader_desc: "Коронованный при содействии Центральных Держав после принудительного отречения своего отца, король Мохаммед считает себя западным монархом. Он умело маневрировал отношения своей страны с более широким миром и заручился широкой поддержкой его временами жёсткого государственного управления."
-  
+
  MOR_leon_sultan: "Леон Султан"
- MOR_leon_sultan_leader_desc: "§YBorn:§! §LSeptember 13th, 1905, in Constantine, Algeria, French Republic§!" #NT!
- MOR_abdallah_ibrahim: "Abdallah Ibrahim" #NT!
- MOR_abdallah_ibrahim_leader_desc: "§YBorn:§! §LAugust 24th, 1918, in Tameslouht, Wilaya'at of Marrākish, Sultanate of Morocco§!" #NT!
- MOR_mohamed_hassan_ouazzani: "Mohamed Hassan Ouazzani" #NT!
- MOR_mohamed_hassan_ouazzani_leader_desc: "§YBorn:§! §LJanuary 17th, 1910, in Fès, Wilaya'at of Fès, Sultanate of Morocco§!" #NT!
- MOR_mehdi_ben_barka: "Mehdi Ben Barka" #NT!
- MOR_mehdi_ben_barka_leader_desc: "§YBorn:§! §LJanuary 1920, in Ar Ribāt, Wilaya'at of Ar Ribāt, Sultanate of Morocco§!" #NT!
- MOR_mohammed_al_makki_al_nasiri: "Mohammed al-Makki al-Nasiri" #NT!
- MOR_mohammed_al_makki_al_nasiri_leader_desc: "§YBorn:§! §LDecember 11th, 1906, in Ar Ribāt, Wilaya'at of Ar Ribāt, Sultanate of Morocco§!" #NT!
- MOR_ahmed_balafrej: "Ahmed Balafrej" #NT!
- MOR_ahmed_balafrej_leader_desc: "§YBorn:§! §LSeptember 5th, 1908, in Ar Ribāt, Wilaya'at of Ar Ribāt, Sultanate of Morocco§!" #NT!
- MOR_ahmed_bahnini: "Ahmed Bahnini" #NT!
- MOR_ahmed_bahnini_leader_desc: "§YBorn:§! §L1909, in Fès, Wilaya'at of Fès, Sultanate of Morocco§!" #NT!
- MOR_thami_el_glaoui: "T'hami El Glaoui" #NT!
- MOR_thami_el_glaoui_leader_desc: "§YBorn:§! §L1879, in Tifoultoute, Wilaya'at of Marrākish, Sultanate of Morocco§!" #NT!
- MOR_mbarek_touzounini: "Mbarek Touzounini" #NT!
- MOR_mbarek_touzounini_leader_desc: "§YBorn:§! §L1883, in Tizounine, Wilaya'at of Marrākish, Sultanate of Morocco§!" #NT!
-  
- MOR_allal_al_fassi: "Allal al-Fassi" #NT!
- MOR_allal_al_fassi_sic_desc: "§YBorn:§! §LJanuary 10th, 1910, in Fès, Wilaya'at of Fès, Sultanate of Morocco§!" #NT!
- MOR_muhammad_al_muqri: "Muhammad al-Muqri" #NT!
- MOR_muhammad_al_muqri_sic_desc: "§YBorn:§! §LFebruary 2nd, 1854, in Wajdah, Wilaya'at of Wajdah, Sultanate of Morocco§!" #NT!
-  
- MOR_abdellatif_sbihi: "Abdellatif Sbihi" #NT!
- MOR_abdellatif_sbihi_advisor_desc: "§YBorn:§! §L1897, in Salé, Wilaya'at of Fès, Sultanate of Morocco§!" #NT!
- MOR_helene_cazes_benatar: "Hélène Cazès Benatar" #NT!
- MOR_helene_cazes_benatar_advisor_desc: "§YBorn:§! §LOctober 27th, 1898, in Tangier, Wilaya'at of al Rif, Sultanate of Morocco§!" #NT!
- MOR_abdul_hayy_al_kattani: "Abdul Hayy al-Kattani" #NT!
- MOR_abdul_hayy_al_kattani_advisor_desc: "§YBorn:§! §L1884, in Fès, Wilaya'at of Fès, Sultanate of Morocco§!" #NT!
- MOR_malika_al_fassi: "Malika al-Fassi" #NT!
- MOR_malika_al_fassi_advisor_desc: "§YBorn:§! §LJune 19th, 1919, in Fès, Wilaya'at of Fès, Sultanate of Morocco§!" #NT!
- MOR_abderrahim_bouabid: "Abderrahim Bouabid" #NT!
- MOR_abderrahim_bouabid_advisor_desc: "§YBorn:§! §LMarch 23rd, 1922, in Salé, Wilaya'at of Fès, Sultanate of Morocco§!" #NT!
-  
- MOR_johannes_bernhardt: "Johannes Bernhardt" #NT!
- MOR_johannes_bernhardt_advisor_desc: "§YBorn:§! §LJanuary 1st, 1897, in Osterode, Province of East Prussia, Kingdom of Prussia, German Empire§!" #NT!
- MOR_ernst_klippel: "Ernst Klippel" #NT!
- MOR_ernst_klippel_advisor_desc: "§YBorn:§! §LApril 19th, 1872, in Liebau, Province of Silesia, Kingdom of Prussia, German Empire§!" #NT!
- MOR_ernst_kuhnel: "Ernst Kühnel" #NT!
- MOR_ernst_kuhnel_advisor_desc: "§YBorn:§! §LOctober 26th, 1882, in Neubrandenburg, Grand Duchy of Mecklenburg-Strelitz, German Empire§!" #NT!
- MOR_paul_geuthner: "Paul Geuthner" #NT!
- MOR_paul_geuthner_advisor_desc: "§YBorn:§! §L1877, in Eisenach, Grand Duchy of Saxe-Weimar-Eisenach, German Empire§!" #NT!
- MOR_jan_nehera: "Jan Nehera" #NT!
- MOR_jan_nehera_advisor_desc: "§YBorn:§! §LDecember 31st, 1899, in Kostelec na Hané, Margraviate of Moravia, Austria-Hungary§!" #NT!
- MOR_jacques_lemaigre_dubreuil: "Jacques Lemaigre Dubreuil" #NT!
- MOR_jacques_lemaigre_dubreuil_advisor_desc: "§YBorn:§! §LOctober 30th, 1894, in Solignac, Haute-Vienne, French Republic§!" #NT!
-  
- MOR_amahrok_ben_mouha_amahzoune: "Amahrok Ben Mouha Amahzoune" #NT!
- MOR_amahrok_ben_mouha_amahzoune_commander_desc: "§YBorn:§! §Lin Ḫunaifira, Wilaya'at of Maknās, Sultanate of Morocco§!" #NT!
- MOR_mbarek_bekkai: "Mbarek Bekkaï" #NT!
- MOR_mbarek_bekkai_commander_desc: "§YBorn:§! §LApril 18th, 1907, in Burkan, Wilaya'at of Wajdah, Sultanate of Morocco§!" #NT!
- MOR_mohamed_bachir_el_bouhali: "Mohamed Bachir El Bouhali" #NT!
- MOR_mohamed_bachir_el_bouhali_commander_desc: "§YBorn:§! §LMarch 12th, 1912, in Beni Ayat, Wilaya'at of Maknās, Sultanate of Morocco§!" #NT!
- MOR_benhammou_el_kettani: "Benhammou El Kettani" #NT!
- MOR_benhammou_el_kettani_commander_desc: "§YBorn:§! §L1909, in the Sultanate of Morocco§!" #NT!
- MOR_driss_ben_omar_el_alami: "Driss Ben Omar El Alami" #NT!
- MOR_driss_ben_omar_el_alami_commander_desc: "§YBorn:§! §LSeptember 27th, 1917, in Zerhoun, Wilaya'at of Maknās, Sultanate of Morocco§!" #NT!
-  
- MOR_abd_al_rahman_ibn_zaydan: "Abd al-Rahman ibn Zaydan" #NT!
- MOR_abd_al_rahman_ibn_zaydan_theorist_desc: "§YBorn:§! §LJune 1873, in Maknās, Wilaya'at of Maknās, Sultanate of Morocco§!" #NT!
-  
- ### Character Traits ### 
- MOR_amir_al_muminin: "Amir al-Mu'minin" #NT!
-  
- MOR_staunch_anticolonialist: "Staunch Anti-Colonialist" #NT!
- MOR_committed_unionist: "Committed Unionist" #NT!
- MOR_arab_nationalist: "Arab Nationalist" #NT!
- MOR_devoted_patriot: "Devoted Patriot" #NT!
- MOR_nationalist_agitator: "Nationalist Agitator" #NT!
- MOR_political_opportunist: "Political Opportunist" #NT!
- MOR_influential_pasha: "Influential Pasha" #NT!
-  
- MOR_grand_vizier: "Grand Vizier" #NT!
-  
- MOR_relief_organizer: "Relief Organizer" #NT!
- MOR_controversial_scholar: "Controversial Scholar" #NT!
-  
- MOR_ruthless_businessman: "Ruthless Businessman" #NT!
+ MOR_abd_el_krim: "Абд аль-Крим"
+ MOR_mouha_ou_hammou_zayani: "Муха Оу Хамму Зайани"
+ MOR_thani_el_glaui: "Тани Эль Глауи"
+ MOR_assou_oubasslam: "Ассу Убасслам"
+ MOR_ibn_Zaydan: "Ибн Зейдан"
+ 

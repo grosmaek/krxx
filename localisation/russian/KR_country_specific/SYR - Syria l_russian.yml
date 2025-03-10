@@ -1,77 +1,74 @@
 ﻿l_russian:
-  
- ### Factions ### 
- league_of_arab_states: "Лига Арабских Государств"
-  
- ### Parties ### 
+
+### Parties ###
  SYR_totalist_party: "АСД"
-  #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?: 
+ #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?:
  SYR_totalist_party_long: "Арабское Социалистическое Движение"
  SYR_syndicalist_party: "ССП"
-  #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?: 
+ #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
  SYR_syndicalist_party_long: "Сирийская Синдикалистская Партия"
  SYR_radical_socialist_party: "ССП"
-  #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?: 
+ #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
  SYR_radical_socialist_party_long: "Сирийская Синдикалистская Партия"
  SYR_social_democrat_party: "ССП"
-  #Party of Khalid Bakdash ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?: 
- SYR_social_democrat_party_long: "Сирийская Синдикалистская Партия"
+ #Party of Khalid Bakdash ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
+ SYR_social_democrat_party_long: "Сирийская Синдикалистская Партия" 
  SYR_social_liberal_party: "НП (Дамасское Крыло)"
-  #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus): 
+ #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus):
  SYR_social_liberal_party_long: "Народная Партия"
  SYR_market_liberal_party: "НП (Алеппское Крыло)"
-  #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (does have a portrait now :). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.: 
+ #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (does have a portrait now :). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.:
  SYR_market_liberal_party_long: "Народная Партия"
  SYR_social_conservative_party: "НБ"
-  #Party of Hashim al-Atassi and Shukri al-Quwaitli : 
+ #Party of Hashim al-Atassi and Shukri al-Quwaitli :
  SYR_social_conservative_party_long: "Национальный Блок"
-  #Previous comment, I guess by Jean: Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli: 
- SYR_authoritarian_democrat_party_kingdom: "al-Usra al-Alawiyya" #NT!
- SYR_authoritarian_democrat_party_long_kingdom: "al-Usra al-Alawiyya (Alawiyya Dynasty)" #NT!
-  #Changed to Syrian Military leadership for puppet and rebel reasons 
+ #Previous comment, I guess by Jean: Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli:
+ SYR_authoritarian_democrat_party_sultanate: "аль-Усра Аль-Алавийя" 
+ SYR_authoritarian_democrat_party_long_sultanate: "Династия Алавийя"
+ #Changed to Syrian Military leadership for puppet and rebel reasons
  SYR_authoritarian_democrat_party_long: "Аль-Киада Аль-Аскария Аль-Сурия"
  SYR_authoritarian_democrat_party: "Аль-Киада Аль-Аскария Аль-Сурия"
  SYR_paternal_autocrat_party: "Военное Правительство"
-  #Temporary military government, led by Husni al-Za'im or Adib Shishakli: 
+ #Temporary military government, led by Husni al-Zaim or Adib Shishakli:
  SYR_paternal_autocrat_party_long: "Военное Правительство"
  SYR_national_populist_party: "ССНП"
-  #Extreme nationalist party under the leadership of Antun Saadeh: 
+ #Extreme nationalist party under the leadership of Antun Saadeh:
  SYR_national_populist_party_long: "Сирийская Социал-Националистическая Партия"
-  
- ### Pre-rework portraits not in the parties listed above 
-  
- # Nazik al-Abid 
- # Female Syrian called 'Joan of Arc of the Arabs' who fought for emancipation and joined the Syrian army. The hell am I supposed to do with her? She's a nobody with 1 policy she fights for. Even a minister slot is too much for her. 
-  
- # Sabri Al-Asali 
- # A member of the National Bloc with little relevance until the late 50ies when he pushed for the Nasserist cause in Syria and in part caused the UAR. He's not in the top brass of the National Bloc and played second fiddle to the more important Quwaitli who also has a portrait. I guess he's useful for an election event in the 50ies? 
-  
- # Muhammad al-Ashmar 
- # Syrian Sheikh who was a commander in the Great Syrian Revolt and the Palestinian War. Islamist fundamentalist who opposed Shukri for being 'too liberal', for some miraculous reason became a communist later in life (likely just to protest the National Bloc) despite being against basically everything communism stands for. Euh? What slot is this guy supposed to be? Maybe has potential as a general but I honestly doubt it, not that we need any more of them either 
-  
- # Michel Aflaq 
- # Founder of the Ba'ath movement who is completely irrelevant in KR since his formative years in France don't happen and he is far too young to take over a nation in 1940 (the Ba'ath was only created otl in 1940 with the first real succes being close to 1950). No use for him 
-  
- # Ibrahim Hananu 
- # Leader of the Hananu Revolt in Northern Syria just after the proclamation of the Mandate. After being released from jail in 1925, he became a prominent member of the National Bloc. Died otl in 1935 of tuberculosis. He could theoretically be given a sip from the Fountain of Youth and form the front of the Aleppan wing of the National Bloc...? 
-  
- # Sultan al-Atrash 
- # Leader of the Jabal al-Druze and the Druze people living there. Didn't want any position in the Syrian government despite being offered and had as sole goal a Syria free from foreign tutelage in which the Jabal al-Druze was a de facto independent region. He would work together with al-Jazairi and al-Nashashibi but has no ambition to become HoS of Syria. Only use is perhaps as general? 
-  
- ### Coups ### 
- # Anti-Egyptian nations will support al-Za'im (IRQ, OTT, PER) 
- # Pro-Egyptian nations or nations that are pursuing Arab unification will support the National Bloc if Syria is democratic and Hinawi if not democratic (EGY, IRQ, HEJ) 
- # Iraqi socdems will support al-Za'im and al-Hourani (but withdraw this support when it becomes apparent they are a bunch of corrupt twats) (IRQ) 
- # If Syria is democratic, Iraq will support the Aleppan People's Party (IRQ) 
- # Adib Shishakli will take over with the SSNP if the nation fails to stabilise after a regime change. They could potentially receive support from Saudi Arabia but this isn't guaranteed 
- # The Internationale can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (FRA, ENG) 
- # The Reichspakt can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (GER) 
-  
- ### Cosmetic Tags ### 
+
+### Pre-rework portraits not in the parties listed above
+
+# Nazik al-Abid
+# Female Syrian called 'Joan of Arc of the Arabs' who fought for emancipation and joined the Syrian army. The hell am I supposed to do with her? She's a nobody with 1 policy she fights for. Even a minister slot is too much for her. 
+
+# Sabri Al-Asali
+# A member of the National Bloc with little relevance until the late 50ies when he pushed for the Nasserist cause in Syria and in part caused the UAR. He's not in the top brass of the National Bloc and played second fiddle to the more important Quwaitli who also has a portrait. I guess he's useful for an election event in the 50ies?
+
+# Muhammad al-Ashmar
+# Syrian Sheikh who was a commander in the Great Syrian Revolt and the Palestinian War. Islamist fundamentalist who opposed Shukri for being 'too liberal', for some miraculous reason became a communist later in life (likely just to protest the National Bloc) despite being against basically everything communism stands for. Euh? What slot is this guy supposed to be? Maybe has potential as a general but I honestly doubt it, not that we need any more of them either
+
+# Michel Aflaq
+# Founder of the Ba'ath movement who is completely irrelevant in KR since his formative years in France don't happen and he is far too young to take over a nation in 1940 (the Ba'ath was only created otl in 1940 with the first real succes being close to 1950). No use for him
+
+# Ibrahim Hananu
+# Leader of the Hananu Revolt in Northern Syria just after the proclamation of the Mandate. After being released from jail in 1925, he became a prominent member of the National Bloc. Died otl in 1935 of tuberculosis. He could theoretically be given a sip from the Fountain of Youth and form the front of the Aleppan wing of the National Bloc...?
+
+# Sultan al-Atrash
+# Leader of the Jabal al-Druze and the Druze people living there. Didn't want any position in the Syrian government despite being offered and had as sole goal a Syria free from foreign tutelage in which the Jabal al-Druze was a de facto independent region. He would work together with al-Jazairi and al-Nashashibi but has no ambition to become HoS of Syria. Only use is perhaps as general?
+
+### Coups ###
+# Anti-Egyptian nations will support al-Za'im (IRQ, TUR, PER)
+# Pro-Egyptian nations or nations that are pursuing Arab unification will support the National Bloc if Syria is democratic and Hinawi if not democratic (EGY, IRQ, HEJ)
+# Iraqi socdems will support al-Za'im and al-Hourani (but withdraw this support when it becomes apparent they are a bunch of corrupt twats) (IRQ)
+# If Syria is democratic, Iraq will support the Aleppan People's Party (IRQ)
+# Adib Shishakli will take over with the SSNP if the nation fails to stabilise after a regime change. They could potentially receive support from Saudi Arabia but this isn't guaranteed
+# The Internationale can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (FRA, ENG)
+# The Reichspakt can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (GER)
+
+### Cosmetic Tags ###
  SYR: "Сирия"
  SYR_ADJ: "Сирийск"
  SYR_DEF: "Сирия"
-  
+
  SYR_totalist: "Сирийская Социалистическая Республика"
  SYR_totalist_DEF: "Сирийская Социалистическая Республика"
  SYR_syndicalist: "Сирийская Социалистическая Республика"
@@ -92,7 +89,7 @@
  SYR_paternal_autocrat_DEF: "Сирийская Республика"
  SYR_national_populist: "Сирийское Государство"
  SYR_national_populist_DEF: "Сирийское Государство"
-  
+ 
  SYR_kingdom_totalist: "Сирийская Социалистическая Республика"
  SYR_kingdom_totalist_DEF: "Сирийская Социалистическая Республика"
  SYR_kingdom_syndicalist: "Сирийская Социалистическая Республика"
@@ -113,7 +110,7 @@
  SYR_kingdom_paternal_autocrat_DEF: "Султанат Сирия"
  SYR_kingdom_national_populist: "Сирийское Государство"
  SYR_kingdom_national_populist_DEF: "Сирийское Государство"
-  
+ 
  SYR_SSNP_totalist: "Сирийская Социалистическая Республика"
  SYR_SSNP_totalist_DEF: "Сирийская Социалистическая Республика"
  SYR_SSNP_syndicalist: "Сирийская Социалистическая Республика"
@@ -134,11 +131,11 @@
  SYR_SSNP_paternal_autocrat_DEF: "Истинная Сирия"
  SYR_SSNP_national_populist: "Истинная Сирия"
  SYR_SSNP_national_populist_DEF: "Истинная Сирия"
-  
- ### Focuses ### 
+
+### Focuses ###
  syria_focus: "Дерево фокусов Сирии"
-  
- # Maintain the Status Quo # 
+
+# Maintain the Status Quo #
  SYR_status_quo: "Сохранить статус-кво"
  SYR_status_quo_desc: "Сколько мы себя помним, Сирией правили ее города и их могущественные семьи. Эти семьи, занимая ключевые посты как в бюрократической, так и в религиозной иерархии, служат покровителями для тех, кому повезло меньше, и составляют ядро сирийского общества. Европейская модель массового общества, направленная на прямое представительство народа, прямо вредна для сирийцев и, вероятно, сделает нас всех добычей сумасшедших марксистов, религиозных фанатиков или ура-патриотических идиотов."
  SYR_egypt_cooperation: "Сирийско-Египетское сотрудничество"
@@ -179,8 +176,8 @@
  SYR_cooperate_with_nasha_desc: "Глупо пытаться конкурировать с Аль-Нашашиби в Иерусалиме, и мы действительно не заинтересованы в том, чтобы пытаться выполнить такую задачу. Вместо этого мы придем к взаимопониманию с Аль-Нашашибами и перетянем их на свою сторону, дав им обещания в обмен на поддержку."
  SYR_palestnian_railroad: "Восточная Палестинская железнодорожная инициатива"
  SYR_palestnian_railroad_desc: "Для дальнейшего развития транспорта к востоку от Иерусалима мы будем работать над созданием железной дороги в Восточной Палестине. Это позволит соединить Амман и другие города с остальной частью Сирии, обеспечивая дополнительное стимулирование экономического роста и дальнейшую централизацию страны в Дамаске."
-  
- # A republic of Equals # 
+
+# A republic of Equals #
  SYR_republic_of_equals: "Республика равных"
  SYR_republic_of_equals_desc: "Сирия - это разнообразное место, и хотя арабы контролируют большинство этнических групп, они не единственные. Курды, турки, алавиты и многие другие попадают под сирийское знамя. Работая вместе, мы сможем создать сильную республику равных."
  SYR_1940_census: "Сирийская перепись [GetYear] года"
@@ -203,8 +200,8 @@
  SYR_national_pact_desc: "Бессмысленно утверждать, что мы представляем интересы всех меньшинств, если мы не представляем их должным образом в управлении. Хотя это может показаться неестественно, и многие будут спорить о наших претензиях на меритократию, равное представительство более важное."
  SYR_adana_voting: "Плебисцит в Адане"
  SYR_adana_voting_desc: "Хотя мы можем попытаться победить турецких повстанцев силой, факт остается фактом: каждый, кого мы убиваем, является мучеником и приносит еще 10 жертв их делу. Мы должны сократить наши потери, пока мы впереди, и уступить референдуму о будущем наших северных территорий. Надеемся, это позволит нам сохранить лицо."
- SYR_maintain_sunni_dominance: "Maintain Sunni Dominance" #NT!
- SYR_maintain_sunni_dominance_desc: "While we undoubtedly wish to give our minorities the freedom they deserve, we shouldn't begin promoting people based on nothing more than the circumstances of their birth. While it may be that almost all positions of power are held by a Sunni, perhaps that is because we only choose the most qualified individuals?" #NT!
+ SYR_maintain_sunni_dominace: "Поддерживать господство Суннитов"
+ SYR_maintain_sunni_dominace_desc: "Хотя мы, несомненно, хотим дать нашим меньшинствам свободу, которой они заслуживают, мы не должны начинать стимулировать людей, основываясь только на обстоятельствах их рождения. Хотя может быть, что почти все позиции власти занимают сунниты, возможно, это потому, что мы выбираем только самых квалифицированных людей?"
  SYR_decentralized_development: "Децентрализованная схема развития"
  SYR_decentralized_development_desc: "Сирия сталкивается с проблемой как слабо-развитости, так и неравномерности развития. Чтобы убить двух зайцев одним и тем же камнем, мы начнем поощрять развитие всей нашей страны, а не концентрироваться в наших городах. В то время как они говорят, что прилив поднимает все лодки, это не повредит сделать немного переноски себя."
  SYR_syrian_agri_bank: "Сирийский Сельскохозяйственный Банк"
@@ -215,12 +212,12 @@
  SYR_redistribute_state_land_desc: "Многие наши фермеры живут на грани бедности, и хотя эту ситуацию будет трудно решить, мы можем решить ее. Мы можем начать с передачи наших участков государственной земли самым отчаянным людям в стране."
  SYR_ghab_project: "Проект Габ"
  SYR_ghab_project_desc: "Гидроэлектростанция способна обеспечивать почти неограниченное количество электроэнергии для тысячи людей. Хотя первоначальные инвестиции будут дорогостоящими, доступ к электричеству обеспечит нам бесчисленные социальные и экономические выгоды, поставив нас среди современных стран мира."
-  
- # An Army with a State 
+
+# An Army with a State
  SYR_army_with_a_state: "Армия с государством"
  SYR_army_with_a_state_desc: "Сирия должна стать местом всего военного превосходства. Наши военные должны обладать максимальной властью в наших делах, чтобы заставить наших врагов бояться нас."
-  
- # Military Mandate # 
+
+# Military Mandate #
  SYR_military_mandate: "Военный Мандат"
  SYR_military_mandate_desc: "Военные победили Сирию, и военные продолжат ее защищать. Мы должны установить контроль над вооружением в государстве, чтобы не допустить подрыва себя подрывными элементами."
  SYR_chief_agency: "Агентство по защите государственной тайны"
@@ -233,8 +230,8 @@
  SYR_revise_constitution_desc: "Культура нации рождается в молодости, убеждения и идеалы, которыми дорожит молодежь, являются основой, на которой будет построено будущее. Мы должны создать новую учебную программу для Сирии, которая закрепит принципы и убеждения военных. Обеспечение того, чтобы наши методы и мотивы всегда оставались актуальными в сирийском обществе."
  SYR_1940_conscription_law: "Принять закон о воинской повинности [GetYear] года"
  SYR_1940_conscription_law_desc: "Дерево Свободы нужно поливать, и наше новое государство ничем не отличается. Мы должны разработать новый расширительный закон о призыве на военную службу, чтобы не было недостатка патриотов для защиты Сирии и ее народа."
-  
- # Basic Principles # 
+
+# Basic Principles #
  SYR_basic_principles: "Следовать основным принципам"
  SYR_basic_principles_desc: "Рождение сирийской нации изменило Левант, но это преобразование не зашло достаточно далеко. Мы должны создать новую систему, новое общество, которое сможет защитить Сирию до конца времен."
  SYR_mandatory_education: "Ввести обязательное образование"
@@ -267,8 +264,8 @@
  SYR_expand_cotton_production_desc: "Производство хлопка вокруг Алеппо очень прибыльно, как и товарные культуры. Предоставляя средства на новую сельскохозяйственную технику и ирригацию, мы можем еще больше увеличить прибыль королевского хлопка."
  SYR_support_textile_industry: "Поддержать сирийскую текстильную промышленность"
  SYR_support_textile_industry_desc: "Сирийские текстильные производители известны во всем мире своей продукцией, помогая в модернизации и расширении этого сектора экономики, мы можем увеличить экспорт и доходы, возвращающиеся правительству."
-  
- # Defend Syrian National Interests # 
+
+# Defend Syrian National Interests #
  SYR_defend_natural_syria: "Защита Настоящей Сирии"
  SYR_defend_natural_syria_desc: "Пока панарабские идеалы хороши, реальность на местах такова, что эта цель в лучшем случае кажется далекой, и многие также не хотят, чтобы наша новая независимость просто была включена в растянутое и, вероятно, конфликтное арабское государство. В конечном счете мы должны четко заявить, какова наша позиция, что мы должны защищать то, что мы завоевали, и что мы прежде всего Сирийское Государство."
  SYR_greater_syrian_nationalism: "Великий сирийский национализм"
@@ -313,8 +310,8 @@
  SYR_phoncian_shipbuilding_desc: "Мы - наследники Финикийцев, и так же, как они, мы всегда будем поддерживать прочную связь с морем, источником богатства и товаров, мы должны быть уверены, что останемся экспертами в морской области, чтобы защитить наши торговые и рыболовные права."
  SYR_syrian_naval_academy: "Открыть сирийскую морскую академию"
  SYR_syrian_naval_academy_desc: "Хотя иметь корабли приятно, гораздо большее значение имеет качество моряков. Мы создадим военно-морскую академию для подготовки будущих моряков к плаванию по нашим морям и защите наших интересов."
-  
- # Leadership of the Arab Movement # 
+
+# Leadership of the Arab Movement #
  SYR_arab_leadership: "Взять на себя лидерство арабского движения"
  SYR_arab_leadership_desc: "В то время как другие могут претендовать на мантию, мы должны ясно дать понять, что мы являемся истинными лидерами панарабского движения, мы уже являемся нацией, состоящей из многих различных народов, что делает нас более подготовленными, чем другие, к формированию такой Федерации. Хотя этот шаг, несомненно, принесет нам мало друзей и сделает много врагов, мы готовы."
  SYR_League_of_Arab_States: "Основать Лигу Арабских государств"
@@ -353,8 +350,8 @@
  SYR_arabistan_claim_desc: "Хотя можно было бы назвать притязания на Хузестан слабыми или мотивированными ресурсами, арабский регион, простой и понятный. Мы освободим наших братьев от персов и навсегда приведем их под арабский сгиб, а также получим доступ ко многим ресурсам региона."
  SYR_cooperate_oman_muscat: "Сотрудничать с Оманом и Маскатом"
  SYR_cooperate_oman_muscat_desc: "В то время как отдаленные от остальных регионов конфликты, предпочитающие держаться в стороне, Оманский народ принадлежит к нашей нации, мы начнем делать предложения их правительству о присоединении к панарабскому движению."
-  
- ### Ideas ### 
+
+### Ideas ###
  syr_lebanese_unrest: "Конфликт в Ливане"
  syr_lebanese_unrest_desc: "Регион Горный Ливан всегда был бельмом на глазу османских правителей в Сирии, и этот вопрос только обострился после провозглашения независимого Сирийского государства, включая Ливан. Поскольку регион стремится отделиться от власти Дамаска, между суннитской сирийской армией и ополченцами ведется партизанская война."
  syr_alawite_unrest: "Беспорядки Алавитов"
@@ -365,20 +362,20 @@
  syr_sunni_elite_control_desc: "Несмотря на огромное культурное и религиозное разнообразие, суннитские семьи правят сирийским регионом почти с момента прихода ислама в Бильдур аль-Шам. Другие религии и секты, такие как шииты, алавиты, православные христиане и т. д., имеют очень мало так сказать в этой жесткой модели и как таковые создали свои собственные корыстные учреждения для образования, защиты и религии.\n\nХотя эта жесткая модель гарантирует огромную власть дамасской элите, она свела политические дебаты к чисто сектантскому и региональному вопросу, где дебаты сосредоточены вокруг индивидуальной власти крупнейших городов Сирии и их доминирующих религиозных групп."
  syr_mudafaa_hukuk: "Müdâfaa-i Hukuk Cemiyetleri"
  syr_mudafaa_hukuk_desc: "Müdâfaa-i Hukuk Cemiyetleri или Ассоциация защиты национальных прав, различные группы турок и их союзников ведут партизанскую войну в бывших вилайетах Адана и Алеппо против их присоединения к новому сирийскому государству. Поскольку бои в Газиантепе и Адане особенно ожесточенные, решение должно быть достигнуто быстро, поскольку координация этих групп чаще всего превосходит наши собственные военные."
-  
+ 
  syr_egyptian_cooperation: "Сирийско-Египетская экономическая интеграция"
  syr_military_intelligence: "Управление Военной Разведки"
-  
- syr_stop_land_acquisition: "Приобретение еврейской земли сокращено"
+ 
+ syr_stop_land_acquisition: "Приобретение еврейской земли сокращено" 
  syr_unitary_civil_code: "Унитарная Конституция"
  syr_hawran_secured: "Контроль над Авраном"
- syr_hawran_secured_desc: "Авран, населенный преимущественно друзским меньшинством, является одним из важнейших районов Сирии. Служа сельскохозяйственным центром внутренней Сирии и главным экспортером для гавани Бейрута, можно сказать, что тот, кто контролирует Авран, контролирует не только Дамаск, но и всю Сирию."
-  
+ syr_hawran_secured_desc: "Авран, населенный преимущественно друзским меньшинством, является одним из важнейших районов Сирии. Служа сельскохозяйственным центром внутренней Сирии и главным экспортером для гавани Бейрута, можно сказать, что тот, кто контролирует Авран, контролирует не только Дамаск, но и всю Сирию." 
+ 
  syr_census: "Национальное Бюро переписи населения"
  syr_palestinian_jewish_treaty: "Палестинское Соглашение за круглым столом"
  syr_federative_civil_code: "Федеративная Конституция"
  syr_decentralised_development: "Децентрализованное развитие"
-  
+ 
  syr_intelligence_agency: "Агентство по защите государственной тайны"
  syr_new_curriculum: "Пересмотренная учебная программа"
  syr_conscription: "Закон о воинской повинности 1940 года"
@@ -386,7 +383,7 @@
  syr_churches_plundered: "Бюро по перераспределению религиозных средств"
  syr_syrian_renaissance: "Возрождение Сирии"
  syr_central_planning: "Центральное управление экономического планирования"
-  
+ 
  syr_defence_natural_syria: "Защита настоящей Сирии"
  syr_taking_cyprus: "Вторжение на Кипр"
  syr_taking_cilicia: "Вторжение в Киликию"
@@ -394,14 +391,14 @@
  syr_hawk_of_quraish: "Ястреба курайшитов"
  syr_foreign_aid: "Иностранные инвестиции"
  syr_vanguard_of_arabia: "Свет Аравии"
-  
+ 
  syr_famine: "Великий Сирийский голод"
  syr_famine_desc: "Фермы остаются либо без присмотра, либо на милость разбойников и налетчиков, поскольку некогда продовольственная корзина Османской империи рухнула в голод, невиданный со времен Вельткрига. Десятки тысяч сирийцев бегут в города, которые выросли несоразмерно и сильно давят на и без того ограниченные санитарные и медицинские учреждения. Северная Сирия, которая меньше всего пострадала в Левантийской войне, пытается произвести достаточно для нации, но турецкое сопротивление и алеппская политика решительно пресекают почти все попытки."
-  
+ 
  SYR_lebanon_war_dont_call_allies: "Ливанская война"
  SYR_lebanon_war_dont_call_allies_desc: "Волнения в районе горы Ливан достигли своего апогея, и Фуад Шехаб и его армия добровольцев объявили открытое восстание. С этим восстанием против Сирии необходимо быстро разобраться; однако, поскольку это является внутренним делом нашей страны, мы должны разобраться с этой чрезвычайной ситуацией в одиночку."
-  
- ### Tooltips ### 
+
+### Tooltips ###
  syr_ban_parties_tooltip: "\nЭто приведет к £resistance_texticon §RВосстанию§! против §Y[EGY.GetNameWithFlag]§! и вероятно к §RКраху§! монархии в §Y[SYR.GetNameWithFlag]§!"
  syr_end_lebanon: "\nЭто приведет к £resistance_texticon §RВосстанию§! против §Y[SYR.GetNameWithFlag]§! и провозглашению независимости в §CБейруте§!"
  syr_restore_democracy_tt: "\n£manpower_texticon §PВоенное Правительство§! будет свергнуто £army_experience §YSami al-Hinawi§! и заменен £pol_power §CСоциально-Консервативным§! режимом"
@@ -411,14 +408,14 @@
  syr_elections_30_days: "§YВыборы§! состоятся в течение 30 дней"
  syr_elections_ongoing: "§YВыборы§! продолжаются"
  SYR_get_al_azma: "£army_experience Получите §Gфельдмаршала 2-го уровня§! по имени §Y$SYR_yusuf_al_azma$§!.\n"
-  
- ### Dynamic Modifiers ### 
+
+### Dynamic Modifiers ###
  autonomous_region_syr: "Автономный регион"
-  
- ### Decisions ### 
+
+### Decisions ###
  SYR_rebellion_decisions: "Великое Сирийское восстание"
  SYR_rebellion_decisions_desc: "Барабаны войны гремят по всей Великой Сирии, когда начинается последняя борьба за освобождение. Начатое друзами из Джебель-Аль-Друза, восстание быстро смело всю оппозицию в Дамаске. Однако многое еще предстоит сделать, поскольку османы прочно удерживают оставшиеся санджаки. Если восстание должно быть успешным и османские подкрепления предотвращены, скорость будет иметь существенное значение!"
-  
+ 
  SYR_Maan_Joins_Revolt: "Митинг сторонников в §YМаане§!"
  SYR_Sam_Joins_Revolt: "Митинг сторонников в §YДамаске§!"
  SYR_Beirut_Joins_Revolt: "Митинг сторонников в §YБейруте§!"
@@ -427,334 +424,298 @@
  SYR_Homs_Joins_Revolt: "Митинг сторонников в §YХомсе§!"
  SYR_Haifa_Joins_Revolt: "Митинг сторонников в §YХайфе§!"
  SYR_Jerusalem_Joins_Revolt: "Митинг сторонников в §YИерусалиме§!"
-  
+
  SYR_lebanon_independence_war: "Ливанская война за независимость"
  SYR_lebanon_independence_war_desc: "Весь сирийский регион все еще опустошен после Войны в пустыне и голода, и этот конфликт не может затягиваться слишком долго. Если Ливан продержится, Сирия будет вынуждена подписать мир."
-  
- ### Introduction ### 
+
+### Introduction ###
  SYR_guide: "§MPeople's Party§! - §MDamascene Wing§! (§lSocial Liberal§!) / §MAleppan Wing§! (§mMarket Liberal§!)\n£white_dot Have the League of National Action, the Lebanese Reform Party, and the People's Party form a coalition in the first Syrian elections.\n£white_dot When the People's Party Wins the Elections, have al-Jazairi become president to have the §lDamascene Wing§! keep the power or have Rushdi al-Kikhiya steer the nation to have the §mAleppan Wing§! come to power.\n£white_dot Don't dismiss al-Za'im after completing the \"Re-open the Military Academies\" focus.\n\n§MNational Bloc§! (§cSocial Conservative§!)\n£white_dot Have the National Bloc comes out on top in the first Syrian elections.\n£white_dot Don't dismiss al-Za'im after completing the \"Re-open the Military Academies\" focus.\n£white_dot Still having the idea \"Mt Lebanon Conflict\" will cause a Lebanese revolt and allow us to play as them while doing the focus \"Abolish the Mt Lebanon Autonomous Region\".\n\n§MMilitary Government§! (§PPaternal Autocrat§!) / §MSyrian Social Nationalist Party§! (§NNational Populist§!)\n£white_dot Dismiss al-Za'im after completing the \"Re-open the Military Academies\" focus.\n£white_dot To have the §PMilitary Government§! in power, complete \"The Military Mandate\" focus.\n£white_dot To have the §NSyrian Social Nationalist Party§! in power, complete the \"Pursue of Basic Principles\" focus. Still having the idea \"Mt Lebanon Conflict\" will cause a Lebanese revolt and allow us to play as them while doing the focus \"Syrian Integration and Assimilation Programme\".\n\n§MArab Kingdom of Syria§! (§gAuthoritarian Democrat§!)\n£white_dot Choose to turn Syria into an Egyptian puppet in \"The Status of Syria event\". This path will not allow us to choose from any of our foreign policy trees and will guarantee the Lebanese revolt.\n§CNote: This path is only playable by the AI.§!"
-  
- SYR_guide_1: "The Cedar Stands Tall - §M£KR_game_rule_flag_LEB  Lebanon§!\n\n£white_dot Either go down the §MNational Bloc§! or §MSyrian Social Nationalist Party§! path and, completing the focuses \"$SYR_abolish_mt_lebanon$\" or \"$SYR_syrian_assimilation$\", respectively, while having the idea \"Mt Lebanon Conflict\", will result in a Lebanese rebellion, allowing us to play as them.\n\n$LEB_guide$" #NT!
-  
- ### Events ### 
+
+### Events ###
  syrfor.1.t: "[SYR.GetNameDefCap] приглашает нас в Лигу Арабских государств"
  syrfor.1.d: "Чтобы укрепить единство арабских народов и защитить их от империалистических амбиций, правительство в Дамаске объявило о новой инициативе по укреплению экономических и дипломатических связей между различными арабскими государствами. Получившая название 'Лига Арабских государств', эта наднациональная организация, без сомнения, является инструментом правительства Дамаска для расширения своего влияния на полуострове, но это также и подлинная попытка арабских националистов стремиться к более сильной и процветающей Аравии."
  syrfor.1.a: "Мы с радостью примем их предложение"
  syrfor.1.b: "Нам не нужно их вмешательство"
-  
+ 
  syrfor.2.t: "[FROM.GetNameDefCap] принимает наше предложение"
  syrfor.2.d: "Наши друзья в [FROM.GetName]  приняли наше предложение и создали условия для их полного вступления в Лигу Арабских государств. По мере того, как растет наше число, растет и наш потенциал для процветания Леванта!"
  syrfor.2.a: "Добро пожаловать!"
-  
+ 
  syrfor.3.t: "[FROM.GetNameDefCap] отклоняет наше предложение"
  syrfor.3.d: "Мерзкие псы в [FROM.GetName] решили, что делить свою водопроводную трубу с империалистическими торговцами обувью более достойно своего времени, чем единство арабских народов. Хотя маловероятно, что мы сможем изменить их мнение, довольно много политиков по всей Сирии подняли свой голос против этого презренного предательства."
  syrfor.3.a: "Да уничтожит их Аллах!"
-  
- ## faction joining 
+
+## faction joining
  syrfor.4.t: "[From.GetAdjective]ое предложение"
  syrfor.4.d: "В нашу столицу прибыл посол государства [From.GetNameDef] с целью обсудить возможное присоединение Сирии к нашему альянсу. Должны ли мы принять их?"
  syrfor.4.a: "Мы согласны"
  syrfor.4.b: "Нам это не интересно"
-  
+
  syrfor.5.t: "Государство [From.GetNameDefCap] согласилось"
  syrfor.5.d: "Государство [From.GetNameDefCap] согласилось принять нас в свой союз. Теперь мы член фракции [From.GetFactionName]."
  syrfor.5.a: "Чудесно!"
-  
+
  syrfor.6.t: "Государство [From.GetNameDefCap] отказалось"
  syrfor.6.d: "Государство [From.GetNameDefCap] отказало нам в заключении союза."
  syrfor.6.a: "Черт!"
-  
- ## Syrian Republic 
+ 
+## Syrian Republic
  syrrep.1.t: "Провозглашение Сирийской Республики"
  syrrep.1.d: "Будучи главным полем битвы Левантийской войны, регион Великой Сирии находится в полном упадке. Её политическая элита была разорвана на части убийствами, депортациями и казнями, поскольку месть за Османскую оккупацию безжалостно осуществляется партизанскими группами и жесткими арабскими националистами. Несмотря на то, что (преимущественно) суннитская каста, правившая Сирией почти тысячу лет, все еще находится у власти, многие из них осторожно пытаются найти свою опору в этом неизвестном ландшафте, поскольку власть семей, торговцев и землевладельцев теперь зависит как от арабских иррегулярных войск, бродящих по сельской местности, так и от египетской армии, пытающейся сгладить переход к стабильному, но 'лояльном' правительству в Дамаске.\n\nЕще больше усугубляет ситуацию неспособность 'центрального правительства' осуществлять контроль над более шумными территориями, находящимися под его комендантским часом. На севере бывшие турецкие и курдские солдаты, организованные в так называемые 'оборонительные организации', изо всех сил сопротивляются аннексии Киликии и Курдистана. Ближе к столице партизаны (в некоторых частях им помогали друзы) борются за свою независимость, провозгласив на землях бывшего Мутасаррифата собственную страну Ливан. Граница с государством Ирак также остается спорной, и между Багдадом и Дамаском мало согласия относительно ее точного местоположения, поскольку обе стороны считают контроль над реками Месопотамии квинтэссенцией своего правления."
  syrrep.1.a: "Похоже, что у нас есть своя работа..."
-  
+ 
  syrrep.2.t: "Всесирийский конгресс в Дамаске: Национальный блок и Народная партия"
  syrrep.2.d: "Созванная дамасской элитой под бдительным оком египетских наблюдателей и с многочисленными дополнениями от изгнанников в Египте, вся Сирия попытается найти решение фактической гражданской войны, бушующей по всей Великой Сирии. Однако вскоре стало очевидно, что сирийского 'единства', существовавшего до войны, нигде не найти, поскольку повсюду происходят семейные, региональные и поколенческие конфликты.\n\nСтаршее поколение, османские знатные особы и большая часть дамасской элиты, организовались в Национальный блок, который видит себя продолжением как Аль-Фатха (сирийского сопротивления во время Вельткрига), так и послевоенного антитурецкого движения. Крупные землевладельцы, высокопоставленные религиозные деятели и сторонники старой ближневосточной системы покровитель-клиент, на них положительно смотрят со стороны египетского правительства, но с уходом турецких войск столкнулись с растущей враждебностью.\n\n Подобно Национальному блоку, но вопреки его южно-сирийскому направлению, промышленники и купцы Алеппо организовались в Народную партию. Несмотря на то, что их социальный класс схож с классом дамасских коллег, они стремятся к объединению с Ираком и выступают против монополии на власть, которой обладает элита столицы."
  syrrep.2.a: "'Стабильность и преемственность проведут нас через эти смутные времена!'"
-  
+ 
  syrrep.3.t: "Всесирийский Конгресс в Дамаске: Второе Поколение"
  syrrep.3.d: "Обе эти группы, однако, происходят из старшего поколения, поколения, единственной целью которого было сохранение старой социальной системы и стремление к автономии от Константинии. Благодаря образовательным усилиям ОНП и массовым изменениям на европейском континенте на сцену вышло новое поколение сирийцев, которые не придерживаются того же мнения, что и их старшие. Вдохновленные социалистическими движениями в Европе, социалистические и коммунистические партии Сирии используют бедность и кризис, вызванные экономической депрессией и Левантийской войной, для укрепления своих партий при поддержке левых в Европе. С другой стороны, ССНП черпала вдохновение в итальянском и русском движениях и создала светскую, милитаристскую организацию с революционными идеями для сирийского региона.\n\nОднако самая большая угроза национальному блоку может исходить от лиги национального действия. Созданная высокообразованными арабскими националистами второго поколения, эта группа формирует умеренный центр, поддерживающий как светские амбиции экстремистов, так и веру в силу избирательного бюллетеня. Газеты, радиопередачи, разведчики и ополченцы составляют большую часть их организации, и их служба во время Левантийской войны может оказаться решающим фактором. Время покажет, какое из этих движений достигнет высшей должности, а какое будет навсегда потеряно в песках времени..."
  syrrep.3.a: "'Сирия должна смотреть в светлое будущее!'"
-  
+ 
  syrrep.4.t: "Саид Аль-Джазаири объявляет о выборах"
  syrrep.4.d: "Когда солнце садится над собравшейся коллекцией интеллектуалов, торговцев и знати, спикер Палаты представителей Саид Аль-Джазаири призвал к выборам, чтобы определить будущее своей страны. Потомок легендарного алжирского Эмира Абделькадера Аль-Джазаири, чья роль в Гражданской войне в Ливане сделала его почитаемым во всем мире как 'святого среди принцев, принца среди святых'. В то время как его внук не имеет никаких полномочий, его решительные действия во время Вельткрига и Левантийской войны по обеспечению стабильности в Дамаске определили его судьбу как одного из самых влиятельных знатных людей города, что еще больше укрепилось после долгого пребывания в Османской Палате депутатов. Все собравшиеся партии, ассоциации и группы пообещали выступить за открытые, свободные и справедливые выборы и намерены вернуться в свои избирательные округа для проведения своих кампаний. Несмотря на то, что эти идеалы хорошо звучат на бумаге, глубоко укоренившаяся система патрон-клиент в Сирии, скорее всего, обеспечит победу старой элите, чем принесет истинное представительство сирийского народа."
  syrrep.4.a: "Пусть это принесет нам стабильность!"
-  
+ 
  syrrep.5.t: "Хаос на избирательных участках"
  syrrep.5.d: "Несмотря на благие намерения Всесирийского Конгресса организовать честные выборы, это обещание, похоже, было отброшено сразу же после того, как переступило порог. Сообщения о мошенничестве, взяточничестве и манипуляциях со всей страны поступают в Дамаск, где иностранные наблюдатели с ужасом наблюдают за разворачивающимся кризисом.\n\nВ Алеппо оппозиция утверждала, что ей отказывают в доступе к избирательным участкам, особенно в избирательном округе Рушди-Бея'. Руши Аль-Кихия утверждал, что мошенничество и запугивание избирателей имели место по всей сельской местности Алеппо, где фермерам платили за то, чтобы они голосовали против него и его союзников. В одном случае двое граждан попытались оказать сопротивление, и их под дулом пистолета вывели с избирательного участка. Купец Абу Салех Саадиддин и Мохаммад Хейр аль-Халаби из Ассоциации исламских ученых официально подали жалобы в Дамаск. Они утверждали, что их избивали дубинками и выгоняли из кабин для голосования за то, что они проявили свое недовольство выборами. Лоялистов Национального блока обвинили во взломе избирательных участков в Еврейском квартале города и краже избирательных урн. Столкнувшись с местными жителями, они выстрелили в воздух и подожгли ящики. В ходе беспорядков один офицер был убит. В Баб-Шридже, в Старом городе, произошли спорадические бои, и один гражданин был застрелен. Нападавшие, переодетые полицейскими, в ответ застрелили Абдула Рахмана Мекки. В центре Алеппо в кафе была обнаружена бомба, заложенная с целью убийства Рушди Аль-Кихии, говорится в полицейском отчете.\n\nДамасская ежедневная газета 'Аль-Кабас' сообщила, что выборы проходят 'в атмосфере террора', и все стороны используют запугивание, чтобы одержать превосходство."
  syrrep.5.a: "Отличный старт для демократии..."
-  
+ 
  syrrep.6.t: "Первые сирийские выборы"
  syrrep.6.d: "В условиях безудержного запугивания с обеих сторон и не полностью демобилизованных ополченцев, использующих тактику запугивания в сельской местности, выборы не столько показали желания сирийского народа, сколько подтвердили закон сильнейшего в стране, охваченной войной. Несмотря на обещания равного представительства для всех религиозных и этнических групп, уже стало ясно, что реальная власть останется у суннитского истеблишмента с лишь символическими представителями христианского меньшинства. Ни один из евреев не был избран, поскольку сионисты в Палестине бойкотировали выборы и объявили их оскорблением интересов еврейского народа, в то время как в городах с большим еврейским населением, таких как Алеппо и Дамаск, различные избирательные урны из их районов были либо объявлены 'пропавшими без вести', либо 'недействительными'.\n\nНесмотря на большие надежды на социалистические партии, их успех на выборах почти полностью отсутствовал, и только Акрам Аль-Хурани действительно утвердился в качестве ключевого игрока в своем избирательном округе Хама. Крайне правые при Сааде добились столь же плохих результатов, одержав лишь ограниченные победы в городских центрах Северной Сирии, но даже не получив места для своего партийного лидера. Тем не менее обе стороны спектра обвиняют в своем поражении фальсифицированные выборы и призывают к новым выборам, в то время как их ополченцы маршируют по улицам, размахивая партийным флагом."
  syrrep.6.a: "Лига Национального действия, Ливанская Партия реформ и Народная партия образуют коалицию"
  syrrep.6.b: "Национальный блок выходит на первое место"
-  
+ 
  syrrep.7.t: "Шукри аль-Куватли возглавляет Национальный блок"
  syrrep.7.d: "Возглавляемый стареющим Хашимом Аль-Атасси, Национальный блок с тех пор, как закончилась Левантийская война, искал нового лидера, чтобы сменить Аль-Атасси. Хотя его многие считают одним из самых выдающихся сирийских националистов, он решил, что с обретением независимости Сирии пришло время передать факел следующему поколению.\n\nИзвестный националист Шукри аль-Куватли, по слухам, давно ждал в кулуарах отставки своего наставника и теперь полностью вышел на сцену. Борец сопротивления со времен Вельткрига, Аль-Куватли получил огромную популярность после того, как был заключен в тюрьму и, по сообщениям, подвергнут пыткам тираническим режимом Джемаля-Паши. Освободившись, он отбивался от администрации Алленби вплоть до ее ухода из Северной Сирии в 1920 году, после чего быстро возобновил свою деятельность против турецких оккупантов. После нескольких близких контактов с Османской жандармерией он в конечном итоге был вынужден отправиться в изгнание в Каир, где стал видным активистом среди Шавама, призывая к освобождению своей Родины. Такие его полномочия даны в сирийских националистических кругах, но тем не менее среди членов партии есть недовольство по поводу возраста Куватли. Хотя он был моложе Аль-Атасси, многие надеялись, что его отставка позволит следующему поколению взять факел и решить новый курс Сирии."
  syrrep.7.a: "Удачи Аль-Куватли!"
-  
+ 
  syrrep.8.t: "Бечара эль-Кури объединяется с Аль-Куватли"
  syrrep.8.d: "Поскольку Национальный блок преимущественно выражает интересы дамасской элиты, Аль-Куватли ищет союзников среди других группировок Великой Сирии. В то время как ливанская идентичность внутренних районов Бейрута оказалась проблемой при формировании приемлемого правительства, Конституционный блок Бечара-Эль-Хури в конечном счете принял коалиционное предложение Национального блока в обмен на радикальные уступки ливанской партии.\n\nДоставив спикера Палаты представителей, министра Военно-Морского Флота и дополнительное финансирование для восстановления Бейрута, Национальный блок выразил протест, поскольку они считают это оскорблением единства Великой Сирии и косвенным признанием отдельной ливанской идентичности."
  syrrep.8.a: "Все сирийцы должны сотрудничать, если мы хотим добиться успеха!"
-  
+ 
  syrrep.9.t: "Ахмад Шарабати назначен министром образования"
  syrrep.9.d: "Сын знаменитого Хаджи Усмана Шарабати, одного из богатейших людей Дамаска и сторонника сирийского националистического движения, молодой Ахмад Шарабати был назначен президентом аль-Куватли министром образования. На протяжении десятилетий, эти двое тесно сотрудничали с Шарабати, который в годы своего изгнания был лиасоном аль-Куватли в Дамаске. Студент Массачусетского технологического института и один из самых высокообразованных инженеров Сирии, этот человек, однако, имеет очень мало опыта в управлении администрацией, и многие противники Аль-Куватли осудили это решение как не что иное, как явный кумовство."
  syrrep.9.a: "Мы будем следить за ним"
-  
+ 
  syrrep.10.t: "Реформы Шарабати"
  syrrep.10.d: "При поздней Османской системе, студенты были вынуждены посещать обязательные турецкие уроки, поскольку правительство решило, что только благодаря общему языку они смогут модернизироваться. Хотя это рассуждение, возможно, было ошибочным и против него протестовало сирийское население, оно также привело к значительному расширению школ и колледжей по всему Леванту, что, в свою очередь, значительно помогло грамотности в регионе.\n\nОднако теперь, когда Сирия стала независимым государством, потребность на турецких уроках почти полностью исчезла, и Шарабати решил, что реформа системы образования необходима. Турецкий язык будет исключен из учебной программы, в то время как акцент на Османской истории будет заменен изучением Сирии с явным акцентом на Дамасский халифат. Кроме того, наблюдается рост числа студентов, посылаемых учиться за границу и привозить ноу-хау Запада в Сирию, хотя глобальная нестабильность привела к тому, что пока это в основном ограничивается Египтом. Однако, чтобы заменить турецкий язык, в кабинете министров бушуют споры о том, лучше ли вместо этого преподавать немецкий язык, английский язык или придерживаться только арабского."
  syrrep.10.a: "Английский!"
  syrrep.10.b: "Немецкий!"
- syrrep.10.c: "Почему кому-то нужно больше, чем арабский, совершенно за пределами моего понимания..."
-  
+ syrrep.10.c: "Почему кому-то нужно больше, чем арабский, совершенно за пределами моего понимания..." 
+ 
  syrrep.11.t: "Народная партия побеждает на выборах"
  syrrep.11.d: "Как ни странно, Национальный блок был разгромлен при голосовании, поскольку сообщения о широко распространенной коррупции его членов в последнюю минуту изменили общественное мнение. Активная кампания членов Народной партии Алеппо, при косвенном содействии Социалистической партии по очернению их репутации, также оказала большую помощь, в то время как обещания кандидатов в регионах меньшинств о большем количестве прав и большей автономии привели к уверенным победам в их избирательных округах.\n\nХотя коалиция тем не менее победила на выборах, есть еще много разногласий на пост президента, так как Эмир Саид Аль-Джазаири из крыла Дамаска имеет поддержку друзов, маронитов и алавитов меньшинства, в то время как Рушди Аль-Кихия имеет ухо промышленной столицы Сирии, Алеппо. Аль-Кихия также выигрывает от его поддержки среди лиги национального действия, которые бойкотируют Аль-Джазаири, который, по их мнению, слишком стар и слишком удален от (молодого) Сирийского населения, который будет представлять его интересы."
  syrrep.11.a: "Аль-Джазаири становится президентом"
  syrrep.11.b: "Рушди Аль-Кихия будет править страной"
-  
+ 
  syrrep.12.t: "Коалиция компромиссов"
  syrrep.12.d: "С сокрушительным поражением Национального блока на выборах, путь был почти проложен для коалиционного билета, который противостоял им. Многие, однако, не ожидали, что зайдут так далеко, и союзы, закулисные сделки и джентльменские соглашения, заключенные для выборов, уже выдерживают серьезное напряжение, поскольку становится очевидным, что прежнее соглашение - это не что иное, как несколько поспешно составленных компромиссов.\n\nВ Ливане общество реформ ожидает обещанной автономии, в то время как аналогичные вопросы ставятся в Джебель-Аль-Друзе, Курдистане и алавитских горах. По ту сторону Таврских гор турки усиливают свои протесты и забастовки, надеясь убедить правительство в необходимости референдума, который позволит им воссоединиться с остальной Анатолией."
  syrrep.12.a: "Нам придется идти по натянутому канату"
-  
+ 
  syrrep.13.t: "Голод в Сирии"
  syrrep.13.d: "Несмотря на то, что Сирия в мирное время была одним из важнейших сельскохозяйственных экспортных регионов Османской Империи, опустошение, вызванное Левантийской войной и перемещением десятков тысяч сирийцев, оказало катастрофическое воздействие на этот сектор. Поля оставляют без присмотра или уничтожают, огороды превращают в растопку и топливо для локомотивов, а фермы по всей Сирии уничтожают бродячие бандиты.\n\nХотя египетское правительство согласилось отправить помощь, организовать ее оказалось непросто, поскольку ущерб, нанесенный железным дорогам, портам и дорогам, затруднил доступ к внутренним районам Сирии. Различные сирийские промышленники и торговцы выделили часть своего состояния на кампанию по оказанию помощи, в то время как были установлены контакты с сирийской диаспорой по всему миру, надеясь, что они смогут побудить свои правительства к действию."
  syrrep.13.a: "Это катастрофа!"
-  
+ 
  syrrep.14.t: "Состояние сирийской армии"
  syrrep.14.d: "Поскольку Османская империя в значительной степени полагалась на иракских арабов в военных позициях, как из-за того, что они считались менее подверженными влиянию арабского национализма, так и из-за презрения сирийской военной организации к армии, мы оказались в сложной ситуации. Османская сирийская армия, которая была в значительной степени расформирована после того, как турки были отброшены в Анатолию, формирует новый костяк нашей армии, но кишит офицерами, придерживающимися менее чем звездных взглядов демократического правительства.\n\nВозглавляет эту разношерстную армию бывший Османский полковник Хусни Аль-Заим, который в основном из-за отсутствия лучших вариантов был назначен ее первым командующим. Этот человек, курдского происхождения, рассматривается многими как коррумпированный, неадекватный и ответственный, но имеет огромное влияние среди войск, особенно тех, кто прибывает из регионов меньшинств.\n\nЭто убедило большую часть правительства, что избавление от этого человека, в то время как они едва контролируют свои собственные провинции, может привести к перевороту, свергающему молодую демократию и вводящему военный режим, мало чем отличающийся от наших иракских соседей."
  syrrep.14.a: "Увольте Аль-Заима!"
  syrrep.14.b: "Слишком рискованно..."
-  
+ 
  syrrep.15.t: "Государственный переворот в Дамаске"
  syrrep.15.d: "Вскоре после полуночи, вооруженные отряды под командованием генерала Хусни аль-Заима вошли в Дамаск с приказом арестовать президента и его высших должностных лиц. Когда солдаты маршировали по пустым улицам Старого города, утренняя роса покрывала деревья и цветы жасмина, заполнявшие балконы Дамаска. Перед рассветом было прохладно. Несколько человек уже проснулись, направляясь на работу пешком или на велосипеде. Танки и пулеметы были размещены в стратегических точках по всей сирийской столице.\n\nСлово 'переворот' или Инкилаб было произнесено в Сирии впервые, но многие ожидают, что это будет далеко не последний случай.\n\nВсе границы были закрыты, а связь с внешним миром приостановлена. Телефонные линии с Дамаском и обратно были отрезаны. Одна из воинских частей направилась через спящий город к резиденции президента в Бустан-эль-Раисе. Солдаты легко разоружили единственного охранника, дежурившего у входа резиденции [SYR.GetLeader] и ворвались только для того, чтобы встретиться лицом к лицу с самим президентом. После оглашения короткого ордера на арест этого человека, под дулом пистолета вывели из его дома и отвезли в тюрьму Меззе на вершине холма к западу от Дамаска."
  syrrep.15.a: "Что происходит?"
-  
+ 
  syrrep.16.t: "[SYR.GetLeader] подает в отставку"
  syrrep.16.d: "Только недавно избранный президент Сирийской Республики, [SYR.GetLeader] ранее сегодня он подал в отставку из своей тюремной камеры: 'Я представляю благородному народу Сирии мою отставку с поста Президента Республики, желая ему вечного величия и славы'. Он высказал свою точку зрения, обратившись к сирийскому народу, а не к Хусни Аль-Заиму или распущенной Палате депутатов. Аль-Заим приказал сделать цинкографию и напечатать ее в пропагандистской брошюре, распространяемой отделом средств массовой информации сирийской армии, сопровождая ее похвальными отзывами генерала. Все известные люди в Сирии высказались о его мудрости, обаянии и рыцарстве, включая друзей свергнутого президента.\n\nНесмотря на все насилие - следует отметить, что во время переворота не было убито ни одного человека, - международная пресса упоминает: 'Большинство сирийцев, потягивая кофе на базарах и куря свои трубки Хаббла, почти не обратили внимания на смену правительства. За свою 4000-летнюю историю они испытали на себе власть персов, греков, римлян, монголов и турок. Они тоже были готовы привыкнуть к Хусни Аль-Заиму'. Был введен комендантский час, и правительственные чиновники вынуждены были занять свои обычные посты, но в целом народ Сирии слишком устал, чтобы оказывать серьезное сопротивление. В ближайшие несколько недель и месяцев, вероятно, будет наблюдаться рост оппозиции, но пока Аль-Заим правит верховной властью."
  syrrep.16.a: "Да здравствует Аль-Заим!!"
-  
+ 
  syrrep.17.t: "Враги государства"
  syrrep.17.d: "С приближением к завершению захвата сирийского государственного аппарата пришло время для второго этапа четырехэтапного плана 'Аль-Заим'. Хорошо понимая, что для легитимации своего правления ему необходимо провести радикальные реформы, обслуживающие все стороны, и прежде всего перезапустить разрушающуюся сирийскую экономику, Аль-Заим видит это возможным только через получение огромной экономической и военной поддержки из-за рубежа для своего режима.\n\nНесмотря на то, что многие из его врагов и коллег называли его грубияном, Аль-Заим избегал злить сторонников любого из двух европейских силовых блоков, как угождающих социалисту Акраму Аль-Хурани, так и сирийской армии, состоящей из многих прогерманских бывших османских офицеров, поддерживающих его правительство. Однако если Сирия хочет получить столь необходимую ей поддержку, ей необходимо занять решительную позицию в противостоянии между двумя блоками и избавиться от агентов внутри страны, которые могут оказать поддержку противостоящему блоку."
  syrrep.17.a: "Встаньте на сторону Аль-Хурани, очистите немецких сторонников!"
  syrrep.17.b: "Встаньте на сторону армии, арестуйте социалистов!"
-  
+ 
  syrrep.18.t: "Введение аграрных реформ"
  syrrep.18.d: "Несмотря на попытки позднего османского правительства сокрушить власть традиционных феодальных землевладельцев, они контролировали большую часть земель в Сирии со времен Омейядского халифата. Имея мало земли, оставленной простому фермеру, социалист Акрам Аль-Хурани смог распространить свою популистскую риторику по всей стране, особенно успешно в своем родном городе Хама, где широко распространенная коррупция и нищета обеспечили ему уверенную победу на последних выборах.\n\nИспользуя планы своего друга Аль-Хурани, Аль-Заим одновременно ломает власть великих сирийских семей, своей главной оппозиции, и завоевывает благосклонность простого человека, который борется за выживание после Левантийской войны и отчаянно умоляет о сильной фигуре для восстановления порядка."
  syrrep.18.a: "Насколько дальше пойдет Аль-Заим?"
-  
+ 
  syrrep.19.t: "Аль-Заим проводит социальные реформы"
  syrrep.19.d: "Вдохновленный программами покойной Османской ОНП и ее лидера Мустафы Кемаля-Паши, он положил глаз на модернизацию сирийского государства и разрыв с его традиционными, религиозными корнями. Нацелившись на школы, университеты и суды, кабинет Аль-Заима арестовал или заменил деятелей, которые были идентифицированы как враги режима, переписал учебные программы, чтобы обесценить арабских националистов, которые основали Национальный блок. Религиозные школы, закрытые поздним османским режимом, но вновь открытые после их ухода из Сирии, были закрыты еще раз, поскольку новый генералиссимус видит в Улемме не что иное, как древнее, дряхлое учреждение, призванное ослабить сирийский народ изнутри.\n\nПоскольку все политические партии запрещены, правительство также начало крестовый поход против газет и подпольных политических организаций, чтобы гарантировать, что его контроль не может быть оспорен. Налажено круглосуточное пропагандистское вещание на радиоволнах, а над любыми другими станциями осуществляется строгий контроль. Несмотря на эти усилия по подавлению оппозиции, газеты и радиопередачи, выпускаемые сирийскими эмигрантами в соседних с нами странах, способны проникнуть в страну."
  syrrep.19.a: "Он наживает себе много могущественных врагов..."
-  
+ 
  syrrep.20.t: "Выборы в Сирии"
  syrrep.20.d: "Как и обещал Хусни Аль-Заим, когда он пришел к власти, на прошлой неделе по всей Сирии были проведены 'свободные' выборы, чтобы решить судьбу нации. То, что выборы будут фальшивыми, следовало ожидать, но не многие ожидали, что это будет настолько очевидно, поскольку Аль-Заим был сегодня объявлен Президентом со 117% голосов после того, как баллотировался без сопротивления, успешно набрав на 150 000 голосов больше, чем было имеющих право голоса избирателей. Государственные газеты поспешили поздравить президента с его удивительной победой в то время как в Дамаске были устроены праздничные мероприятия в честь консолидации власти военным истеблишментом.\n\nПромышленники, сторонники Национального блока или интеллектуалы, которые еще не покинули страну, теперь массово бегут, напуганные сильным гневом, вылившимся на их фигуру студенческими манифестациями и прозаическими протестующими. Правительство не делает ничего, чтобы воспрепятствовать их отъезду, но уже постановило, что каждый враг государства, который покидает страну, должен быть конфискован и перераспределен (среди приближенных Аль-Заима)."
  syrrep.20.a: "Мы стоим за нашего президента!"
-  
+ 
  syrrep.21.t: "Государственный переворот в Дамаске"
  syrrep.21.d: "Подобно тому, как это произошло всего несколько месяцев назад, сирийские танки и грузовики катились по улицам Старого города сегодня рано утром, когда бывший друг и коллега Аль-Заима, Сами аль-Хинави совершил свой собственный переворот.\n\nСирийский диктатор был похищен из своего дома в Аль-Равде, недалеко от улицы Абу Румманех, и его постигла та же участь, что и последнего президента-демократа. Когда в 2 часа ночи солдаты появились у его порога, Аль-Заим столкнулся с ними из окна своего балкона, только что вернувшись с благотворительного бала в отеле 'Блудан', организованного Сирийским Красным Полумесяцем. Они открыли огонь, промахнулись, затем ворвались внутрь и вытащили его в майке, кричащего как сумасшедший. Фадлалла Абу Мансур, один из офицеров, возглавлявших переворот, ударил сирийского президента по лицу. ‘Не бей меня,- прорычал Аль-Заим. Он быстро добавил: 'Послушайте, у меня с собой 80 000 сирийских фунтов. Возьмите 50 000 и дайте 20 000 своим войскам. Только дай мне выбраться из Сирии живым. Абу Мансур снова ударил его: 'Откуда у тебя такое богатство? Как ваша бедность превратилась в богатство?' Солдаты уже конфисковали 36 000 фунтов из дома Аль-Заима. Уже в слезах Аль-Заим пробормотал: 'Говорю вам, я невиновен'. Затем он спросил: 'Кто стоит за переворотом?'. Абу Мансур зарядил пистолет и крепко прижал его к голове: 'Если ты не заткнешься, я вышибу тебе мозги!'\n\nДобравшись до заброшенного участка земли в Меззе, рядом со старым кладбищем, Аль-Заим постигла именно такая участь. Он был расстрелян вместе со своим премьер-министром и советником Мухсеном Аль-Барази рано утром, в общей сложности в его тело было выпущено 117 пуль."
  syrrep.21.a: "Верховный вождь мертв! Да здравствует верховный вождь!"
-  
+ 
  syrrep.22.t: "Хлебные бунты в Алеппо"
  syrrep.22.d: "Подстрекаемый Народной партией в ответ на недостаточные меры, принятые правительством для борьбы с ростом цен на зерно, город Алеппо вышел на улицы в знак протеста против своего правительства. Все пекарни и хлебопекарни были закрыты, а студенты и торговцы маршировали по улицам. Хотя основная тема этого протеста сосредоточена вокруг слабой экономической политики правительства, на самом деле это протест промышленного капитала Сирии против ограниченного влияния, которое они имеют в принятии решений, которое почти исключительно осуществляется дамасской элитой."
  syrrep.22.a: "Пусть едят пирог!"
-  
+ 
  syrrep.23.t: "Смерть Саадаллы Аль-Джабири"
  syrrep.23.d: "Саадалла аль-Джабири был найден мертвым сегодня утром в своем доме в Алеппо. Национальный блок - тяжеловес и убежденный защитник демократии, которого многие считали неофициальным лидером Алеппо, был близким другом Аль-Куватли и действовал как его партнер и союзник в спорной Северной Сирии. До сих пор неясно, какова причина смерти, но все еще относительно молодой политик боролся с собой после того, как минометный снаряд попал в его дом во время осады Алеппо во время Левантийской войны. Маловероятно, что слухи об убийстве когда-либо будут отброшены, так как в мусульманской традиции тело должно быть похоронено как можно скорее.\n\nС его уходом, многие Алеппинцы теперь смотрят на Народную партию, которая сформировала его главную оппозицию в городе. Их лидеры, Рушди Аль-Кихия и Назим Аль-Кудси, однако, быстро оплакивали его кончину и восхваляли его как образец добродетели и сирийского национализма."
  syrrep.23.a: "Огромный удар по Национальному блоку"
-  
+ 
  syrrep.24.t: "Марада активизирует атаки на севере Ливана"
  syrrep.24.d: "Возглавляемые Пьером Амин Джумайил и Уильямом Хави, партизаны Марада активизировали свои атаки на военные аванпосты в западной Сирии. Группа получила свое название от независимых общин в Ливане и прилегающих высокогорьях после завоевания Сирии Арабской Армией в 630 году н. э., известных своей жестокой военной доблестью. Именно на их наследии хочет строить преимущественно маронитское ополчение, и их цели по созданию независимого Ливана, свободного от сирийского вмешательства, не подлежат обсуждению.\n\nОднако не все ливанские граждане поддерживают их действия, поскольку многие считают, что их чрезмерное насилие и жестокость по отношению к мусульманам разрушают вновь обретенную роль Ливана в сирийской нации. Мэр Бейрута и отпрыск известной семьи Даук Ахмад Даук осудил их действия и срочно потребовал отставки Гемаэля и Хави."
  syrrep.24.a: "Они не будут сопротивляться нам вечно!"
-  
+ 
  syrrep.25.t: "Беспорядки в рядах ливанцев"
  syrrep.25.d: "Благодаря особому статусу Ливана в Османской Империи и их достаточно самостоятельной роли во время Левантийской войны, бывшему ливанскому сопротивлению было позволено создавать свои собственные подразделения и военную структуру в сирийских рамках. Называя себя "Ливанской Добровольческой армией", эти люди сражаются под руководством своего генерала Фуада Чехаба.\n\nПоскольку конфликт все еще бушует по всей Сирии, правительство в Дамаске призывает все части сирийской армии оказать помощь в восстановлении порядка. Однако ЛВА отказывается воевать за пределами ливанской территории, утверждая, что это сирийские проблемы, а не ливанские. Это вызвало сильное возмущение в Дамаске, который отрицает, что Ливан является отдельным образованием от Сирии, и направил новые приказы Чехабу, направив его и его войска в Палестину для оказания помощи в подавлении сионистских ячеек."
  syrrep.25.a: "Как они смеют отказываться от прямого приказа?"
-  
+ 
  syrrep.26.t: "Фуад Чехаб провозглашает независимость Ливана"
  syrrep.26.d: "Недовольство агрессивным влиянием и вмешательством дамасской элиты в дела бывшего Мутасаррифата, последняя капля, которая опрокинула ведро, прибыла в начале этой недели, когда некомпетентность сирийской армии в подавлении различных повстанческих ячеек, все еще действующих на ее территории, побудила [SYR.GetLeader] послать ливанскую дивизию в Палестину. Ссылаясь на это как на вопиющее пренебрежение бейрутским договором, который предусматривал автономию маронитской общины и обещал, что ливанские силы будут использоваться исключительно на ливанской территории, их генерал Фуад Чехаб объявил, что 'Сирийско-ливанский союз' исчерпал свое время.\n\nСирийская общественность возмущена этим вопиющим предательством арабского дела и требует прямых военных действий, чтобы вернуть восставшую провинцию в исходное положение. С учетом того, что Бейрут является важнейшим портом Леванта, экономический ущерб, скорее всего, будет огромным для молодого сирийского государства, если не будет найдено решение. Президент [SYR.GetLeader] быстро объявил Ливанское государство незаконным и получил поддержку от всего арабского мира в этой позиции, при этом египтяне пообещали помочь Сирии, если в этом возникнет необходимость."
  syrrep.26.a: "Будет ли Сирия знать, что такое мир?!"
  syrrep.26.b: "Куллюнаа лиль-ватан, лиль-‘уляя, лиль-‘алям! (Играть за Ливан)"
-  
+ 
  syrrep.27.t: "Ливанские представители протестуют против влияния Дамаска"
  syrrep.27.d: "Недавние кадровые перестановки в кабинете министров и явная предвзятость правительства в отношении Дамасских промышленников вызвали большое недовольство среди представителей Ливана.\n\nПосле того, как финансирование на реконструкцию гавани Бейрута и расширение медицинских учреждений в городе было предоставлено компании (министра образования) Ахмад Шарабати, представители города сегодня встали в середине парламентской сессии и покинули здание в знак протеста против кумовства, распространенного в городской администрации [SYR.GetLeader]."
  syrrep.27.a: "Они должны быть счастливы, что мы вообще им помогаем!"
-  
+ 
  syrrep.28.t: "Плебисцит в Киликии"
  syrrep.28.d: "Чтобы выполнить пожелания преимущественно турецкого населения Киликии и положить конец деятельности по защите закона, правительство в Дамаске наконец-то решилось на проведение референдума в северных провинциях Сирии. В то время как это создает опасный прецедент для других групп, желающих покинуть сирийское государство, правительство было вынуждено признать, что оно совершенно неспособно победить иррегулярные турецкие силы и выписало референдум в надежде сохранить лицо.\n\nВ столице уже обнажены кинжалы и брошена обувь, поскольку население бастует и протестует против того, что они считают гибелью Сирии. Полиция и военные подразделения были направлены в город в попытке остановить эскалацию насилия, но в Дамаске и городах, расположенных дальше на севере, туркоязычные граждане подвергаются нападениям и кричат на улицах."
  syrrep.28.a: "У нас не было выбора..."
-  
+ 
  syrrep.29.t: "Сами аль-Хинави восстанавливает демократию"
  syrrep.29.d: "Несмотря на то, что аль-Хинави был частью военного истеблишмента и близким другом покойного сирийского диктатора, сегодня он заявил, что полностью планирует вернуть Сирию ее народу и призвал известного сирийского националиста Хашима аль-Атасси сформировать правительство, которое вернет Сирию на правильный путь.\n\nНесмотря на свои благие намерения, лидер переворота позаботился о сохранении своего положения и использовал момент своей власти, чтобы передать больше привилегий и влияния главе вооруженных сил.  Министр обороны теперь всегда будет военным, чтобы избежать, по его словам, 'некомпетентности и отсутствия ноу-хау у гражданского персонала'."
  syrrep.29.d.Alt: "Несмотря на то, что аль-Хинави был частью военного истеблишмента и близким другом покойного сирийского диктатора, сегодня он заявил, что полностью планирует вернуть Сирию народу и призвал к созданию нового правительства во главе с Народной партией, надеясь, что они смогут вернуть нормальную жизнь в сирийскую политику.\n\nНесмотря на кажущиеся благие намерения восстановить статус-кво, лидер переворота убедился, что его положение в безопасности, и использовал свой момент власти, чтобы передать больше привилегий и влияния главе вооруженных сил. Министр обороны теперь всегда будет военным, чтобы избежать, по его словам, 'некомпетентности и отсутствия ноу-хау у гражданского персонала'."
  syrrep.29.a: "Аль-Хатасси берет мантию!"
  syrrep.29.b: "Народной партии дают второй шанс"
-  
+ 
  syrrep.30.t: "Документ Зука Микаэля"
  syrrep.30.d: "В ответ на ультиматум сирийской армии, требующей мобилизации ливанских войск для подавления восстаний на алавитских и еврейских территориях, группа ливанских солдат и офицеров собралась сегодня в городе Зук-Микаэль, чтобы засвидетельствовать свое имя в документе, подтверждающем их клятву служить интересам Ливана исключительно и под ливанским знаменем и командованием его национального правительства. Манифест вызвал возмущение военного руководства в Дамаске, но приобрел широкую популярность как среди членов ливанской Добровольческой армии, так и среди гражданского населения Ливана.\n\nЗвучат призывы к потенциально мешок Фуад Шехаб, и назначить более про-сирийский офицер Шаукат Шукайр, чтобы возглавить ливанскую Добровольческую армию в Палестину, но даже Шукайр, кажется, проявляет сомнения, так как его телеграммы обратно в Дамаск занимают все больше и больше времени, чтобы прибыть, с каждым ответом. Сам Шехаб якобы взял 'отпуск', но был немедленно помещен под пристальный надзор наших правительственных агентов."
  syrrep.30.a: "Будем молиться, чтобы они образумились"
-  
+ 
  syrrep.31.t: "Ливанские общественные деятели собрались во Дворце Бейтеддин"
  syrrep.31.d: "Генерал Фуад Шехаб был замечен в начале этого дня, когда он садился в машину вместе с заметным ливанским политиком Бечарой Эль-Хури и друзским шейхом Маджидом Арсланом. Хотя наши агенты проследили за машиной до Дворца Бейтеддин, Старого замка, построенного в эпоху ливанского эмирата, они были задержаны отрядом ливанской Добровольческой армии, который, казалось, без каких-либо четких объяснений разместил гарнизон во Дворце. Последовал несколько напряженный разговор, который перерос в сложный спор о полномочиях и бюрократической волоките, поскольку солдаты отказали им во въезде.\n\nПеред тем, как их заставили уйти, наши агенты отметили присутствие других политических деятелей на этом подозрительном собрании. Учитывая расположение Бейтдина в районе Чоуф, на территории клана друзов Джамблатт, весьма вероятно, что молодой вождь Камаль Джамблатт и его родственники также присутствовали на этом мероприятии.\n\n Хотя сирийская Конституция поддерживает право своих граждан на проведение публичного собрания, присутствие как военных, так политиков и вождей племен, собравшихся во дворце, который рассматривался как символ ливанской независимости, посеяло в Дамаске страх."
  syrrep.31.a: "Созвать партию для обсуждения кризиса"
-  
+ 
  syrrep.32.t: "Конференция в Яффе"
  syrrep.32.d: "Избранный на основе обещания автономии для различных групп сирийского меньшинства, наш новоизбранный президент призвал ко второму Всесирийскому Конгрессу в Яффе для изучения возможностей передачи власти. Однако энтузиазм по поводу его планов остается низким среди арабов суннитов поскольку они опасаются что это значительно ослабит власть сирийского правительства и помешает его потенциалу стать лидером арабского движения.\n\nЧтобы показать свое недовольство, Национальный блок выступил против конференции в Яффе и попросил ее членов не присутствовать в надежде предотвратить какое-либо соглашение. Раскол свирепствует как в партии, так и в суннитской группе в целом, однако многие деятели видят в Яффе ступеньку к власти в Новой сирийской системе. Алеппинцы, уставшие от потери власти Дамаскинцами и опасающиеся, что агрессивное сирийское правительство может посеять хаос в их преимущественно турецких и курдских экономических глубинках, уже объявили о своем появлении. Алавиты, друзы и марониты также приняли приглашение, в то время как турки тусфар отказались участвовать. К огромному протесту своих коллег в Дамаске, президент также принял любопытное решение направить приглашение Давиду Бен-Гуриону из Ишува, надеясь, что он сможет прийти к соглашению с оставшимися сионистами, что может принести пользу Сирии."
  syrrep.32.a: "Яффа сломает или сделает новую Сирию..."
-  
+
  syrrep.35.t: "Государственный переворот в Дамаске"
  syrrep.35.d: "Подобно тому, как это произошло всего несколько месяцев назад, сирийские танки и грузовики катились по улицам Старого города сегодня рано утром, когда бывший друг и коллега Аль-Заима Адиб бен Хасан совершил свой собственный переворот.\n\nСирийский диктатор был похищен из своего дома в Аль-Равде, недалеко от улицы Абу Румманех, и его постигла та же участь, что и последнего президента-демократа. Когда в 2 часа ночи солдаты появились у его порога, Аль-Заим столкнулся с ними из окна своего балкона, только что вернувшись с благотворительного бала в отеле 'Блудан', организованного Сирийским Красным Полумесяцем. Они открыли огонь, промахнулись, затем ворвались внутрь и вытащили его в майке, кричащего как сумасшедший. Фадлалла Абу Мансур, один из офицеров, возглавлявших переворот, ударил сирийского президента по лицу. ‘Не бей меня,-прорычал Аль-Заим. Он быстро добавил: 'Послушайте, у меня с собой 80 000 сирийских фунтов. Возьмите 50 000 и дайте 20 000 своим войскам. Только дай мне выбраться из Сирии живым. Абу Мансур снова ударил его: 'Откуда у тебя такое богатство? Как ваша бедность превратилась в богатство? Солдаты уже конфисковали 36 000 фунтов из дома Аль-Заима. Уже в слезах Аль-Заим пробормотал: 'Говорю вам, я невиновен.' Затем он спросил: 'Кто стоит за переворотом?'. Абу Мансур зарядил пистолет и крепко прижал его к голове: 'Если ты не заткнешься, я вышибу тебе мозги!'\n\nДобравшись до заброшенного участка земли в Меззе, рядом со старым кладбищем, Аль-Заим постигла именно такая участь. Он был расстрелян вместе со своим премьер-министром и советником Мухсеном Аль-Барази рано утром, в общей сложности в его тело было выпущено 117 пуль."
  syrrep.35.a: "Верховный вождь мертв! Да здравствует верховный вождь!"
-  
- ####################### 
- # GREAT SYRIAN REVOLT # 
- ####################### 
+
+#######################
+# GREAT SYRIAN REVOLT #
+#######################
  syrrev.1.t: "Великое восстание друзов"
  syrrev.1.d: "Пока в войне с [EGY.GetNameDef] идёт прогресс, среди жителей Леванта назревают недовольства своим положением. В связи с этим, друзы Сирии подняли восстание против турецкого правления. Вооружившись и разбив местные турецкие гарнизоны, друзы стали примером для подражания всем арабам на территории Ближнего Востока.\n\nИ хотя у них пока лишь небольшая армия ополченцев, если мы позволим им усилиться, они станут для нас серьёзной угрозой. "
  syrrev.1.a: "Мы их подавим!"
-  
+
  syrrev.2.t: "Дамаск присоединяется к восстанию"
  syrrev.2.d: "С началом войны в Машрике дамасцы еще раз показали чего стоит их верность. Сегодня армия друзов вошла в столицу Вилайета Сурия и успешно разгромила, благодаря поддержке местного населения, турецкий гарнизон. Повсюду в городе разрушены турецкие магазины и турецкие граждане подвергаются нападениям, поскольку новая революционная лихорадка распространяется среди арабов!"
  syrrev.2.a: "Клянусь Аллахом!"
-  
+ 
  syrrev.3.t: "Аль-Карак присоединяется к восстанию"
  syrrev.3.d: "Подавление восстания младотурками в 1910 году с целью восстановления Османского контроля над регионом, кровавые репрессии и насильственное разоружение бедуинов региона Аль-Карак способствовали тому, что местные силы отозвались на призыв друзов и других сирийских движений, и присоединились к Сирийскому восстанию. Будучи жизненно важной станцией на Хиджазской железной дороге, это происшествие сильно шокировало османские власти, которые теперь опасаются, что их неспособность быстро реагировать на движение в Хиджазе приведет к открытому восстанию в самих священных городах."
  syrrev.3.a: "Всеобщее арабское восстание кажется теперь неизбежным..."
-  
+ 
  syrrev.5.t: "Халеп присоединяется к восстанию"
  syrrev.5.d: "Восстание продолжает распространяться, поскольку племена вокруг Халеп и Антиохии теперь также взялись за оружие, чтобы присоединиться к своим братьям из свободной Сирии. Вилайет, чья связь с турецкой Анатолией является самой прочной из всего сирийского региона, похоже, теперь также отрекается от султана в пользу самоопределения. Хаос господствует на улицах города, поскольку агитаторы распространились как на Север, так и на Искендерун. Хотя те же признаки полной преданности восстанию, что и в южных вилайетах, пока отсутствуют вероятно из-за соперничества между разными горожанами, включая большое немусульманское население города."
  syrrev.5.a: "Это. Прекратится. Сейчас же!"
-  
+ 
  syrrev.6.t: "Хомс присоединяется к восстанию"
  syrrev.6.d: "После своих соотечественников-суннитов к восстанию присоединились алавиты, возмущенные действиями Османской империи по всей Великой Сирии. Пусть даже это хрупкий союз, две группы теперь объединяют свои силы для достижения общей цели."
  syrrev.6.a: "Мы еще вернемся!"
-  
+ 
  syrrev.7.t: "Хайфа присоединяется к восстанию"
  syrrev.7.d: "Даже в Палестине ярость достигло предела. Сегодня дом наместника был взят штурмом разъяренной толпой, которая сорвала османский флаг и линчевала самого Вали (прим. наместник). Матросы Османского военно-морского флота, отдыхавшие в порту, смогли успешно уйти, но большой запас боеприпасов и оружия спасти не удалось."
  syrrev.7.a: "Долой предателей!"
-  
+ 
  syrrev.8.t: "Сирийское восстание подавлено"
  syrrev.8.d: "Пыль оседает в Дамаске, а последние оставшиеся ячейки сопротивления уничтожаются с помощью бронемашин и османской бронетанковой дивизии. Кажется, что порядок в Сирии скоро будет восстановлен. Поскольку османская военная мощь снова доминирует, маловероятно, что в ближайшее время будет предпринята вторая попытка."
  syrrev.8.a: "Ура!"
-  
- ########################### 
- # Yishuv Flavour (by Ido) # 
- ########################### 
-  
+
+###########################
+# Yishuv Flavour (by Ido) #
+###########################
+
  yishuvflavour.1.t: "Еврейский Национальный Совет возобновляет деятельность в мирное время"
  yishuvflavour.1.d: "Еврейский Национальный Совет, действующий с момента создания Мутасаррифата, управлял делами в Ишуве, многочисленных еврейских поселениях, которые были созданы в рамках сионистского движения, возобновил свою деятельность в мирное время после окончания войны в Палестине. Давид Бен-Гурион предложил уйти со своего поста президента ЕНС, вероятно, в качестве жеста примирения с зарождающимся сирийским правительством, и призвал провести выборы в Собрание представителей, чтобы избрать себе замену. Хотя многие удивлены отставкой самого влиятельного сионистского лидера в Палестине, многие предполагают, что он будет иметь влияние на управление будущими правительствами ЕНС."
  yishuvflavour.1.a: "Только не устраивайте беспорядок"
-  
+
  yishuvflavour.2.t: "Еврейский Национальный Совет тихо одобряет Народную партию"
  yishuvflavour.2.d: "Официально бойкотируя сирийские выборы, Еврейский Национальный Совет намекнул о своей тихой поддержке Народной партии, возможно, надеясь, что либеральное правительство в Дамаске даст им больше шансов на автономию, что предпочтительнее, чем Национальный блок. Еще до создания Сирийской Республики, Ишув поддерживал теплые отношения с Рагибом ан-Нашашиби, которые переросли в позитивное отношение к аль-Джазаири и его идеалам мультикультурной федеративной Сирии. Это новое принятие статус-кво в Сирии уже вызывает беспокойство у более воинственных националистических элементов Ишува."
  yishuvflavour.2.a: "Ожидаемо, но удивительно"
-  
+
  yishuvflavour.3.t: "Прекращение огня между Хаганой и Эцелем срывается"
  yishuvflavour.3.d: "Во время войны между Каирским Пактом и Османской Империей, Хагана, связанная с союзниками Бен-Гуриона и общим истеблишментом Ишува, и Эцель, более воинственное военизированное формирование, связанное с правым ревизионистским движением, возглавляемым Зеэвом Жаботинским, согласились на временное перемирие для защиты еврейских интересов в Палестине. Но теперь, когда ЕНС, похоже, вступил в союз с Сирией, Эцель расторг перемирие и заявил, что ЕНС, Бен-Гурион и Хагана предали сионистское движение, вступив в союз с Дамаском. ЕНС быстро согласился запретить ревизионистскую партию во всех своих органах, включая Собрание представителей. Многие опасаются, что Эцель планирует вооруженное восстание в Палестине, дестабилизирующее регион."
  yishuvflavour.3.a: "Палестина снова дестабилизируется..."
-  
+
  yishuvflavour.4.t: "Выборы в Собрание представителей Ишува"
  yishuvflavour.4.d: "В еврейских городах Палестины прошли выборы в Собрание представителей Ишува [GetYear] года. После отставки Бен-Гуриона с поста президента ЕНС его партия социал-демократическая Мапай выдвинула в качестве преемника не вызывающего разногласий Залмана Шазара, и благодаря доминированию Мапай в организациях ишува, легко получила большинство голосов. Многие предполагают, что Залман Шазар находится под скрытым влиянием Бен-Гуриона, который ушел на покой в кибуц в Негеве. Результатом выборов для Мапай стало появление блока левых синдикалистов 'ХаПоэль ха-Цаир' и 'Поале Цион', что может означать ослабление влияния Мапай на левое крыло Ишува. Другие крупные партии, появившиеся на выборах, - это партия 'Новая алия', которую поддерживают многие либерально настроенные сионисты среднего класса, и социально-консервативная 'ХаПоэль ха-Мизрачи'. Ревизионистской партии, возглавляемой Зеэвом Жаботинским, запрещено участвовать в выборах из-за ее неприятия нового статус-кво, однако ее сторонники заявили, что будут бойкотировать выборы."
  yishuvflavour.4.a: "Кто?"
-  
+
  yishuvflavour.5.t: "Декларация национального освобождения Жаботинского"
  yishuvflavour.5.d: "Ссылаясь на предательство учреждения Ишува по отношению к сионистскому идеалу суверенного еврейского национального государства, Жаботинский заявил в радиообращении, что Иргун теперь будет действовать, чтобы 'освободить землю Израиля от ее поработителей, и призвал всех 'гордых' евреев в Палестине сопротивляться сирийскому правительству любым возможным способом. Опасения сирийского правительства и ЕНС сбылись: Эцель поднял восстание. Шансы Эцеля на успех невелики, но многие опасаются, что это только начало худших событий. ЕНС объявил Жаботинского и нескольких лидеров ревизионистского движения, а также Эцеля персонами нон-грата, и сирийское правительство выступило с таким же заявлением."
  yishuvflavour.5.a: "Это означает неприятности"
-  
+
  yishuvflavour.6.t: "Попытка подрыва офиса губернатора"
  yishuvflavour.6.d: "Заговор Эцель с целью взрыва офиса губернатора Иерусалима был успешно предотвращен сегодня властями: самодельная бомба была найдена в комнате под офисом губернатора Иерусалима. Хагана согласилась сотрудничать с сирийскими властями в поисках исполнителей попытки взрыва."
  yishuvflavour.6.a: "Хоть кто-то сотрудничает с нами..."
-  
+
  yishuvflavour.7.t: "Сезон"
  yishuvflavour.7.d: "Хагана начала серию рейдов против отделений Эцель по всей Палестине, захватив склады с оружием и взяв в плен около 200 человек. Некоторые отделения оказали яростное сопротивление этим рейдам, что привело к перестрелкам, которые иногда длились часами. Среди убитых - известный член Эцель Авраам Штерн, который в результате был замучен Хаган."
  yishuvflavour.7.a: "Ишув обращается против самого себя?"
-  
+
  yishuvflavour.8.t: "Жаботинский отправляется в изгнание"
  yishuvflavour.8.d: "Жаботинский, сославшись на отчаяние, вызванное 'Войной братьев', отправился в изгнание в Грецию, поклявшись продолжать 'истинное сионистское дело'. Вместе с ним отправился Авраам Техоми, командир Эцель, который, как утверждается, до сих пор организует новые подпольные ячейки Эцель, чтобы оттянуть время до нанесения нового удара по Сирии."
  yishuvflavour.8.a: "Пусть он останется в изгнании"
-  
+
  yishuvflavour.9.t: "Какал сажает деревья в Палестине"
  yishuvflavour.9.d: "Keren Kayemet L'Israel, известный под аббревиатурой Kakal и английским названием Еврейский Национальный Фонд, начал кампанию по посадке деревьев вокруг Палестины. Хотя многие критикуют его усилия по покупке земли вокруг Палестины, также многие приветствуют его усилия по посадке деревьев, поскольку Палестина страдает от сильного обезлесения в последние столетия. Правительство заявило, что будет следить за усилиями ЕНФ по приобретению земли, чтобы успокоить возможную напряженность и сохранить региональную стабильность в Палестине."
  yishuvflavour.9.a: "Кажется достаточно безобидным"
-  
- ### Characters ### 
+
+### Characters ###
  SYR_akram_al_hourani: "Акрам аль-Хурани"
- SYR_akram_al_hourani_leader_desc: "§YBorn:§! §L1911, in Hama, Vilayet of Syria, Ottoman Empire§!" #NT!
  SYR_khalid_bakdash: "Халид Бакдаш"
- SYR_khalid_bakdash_leader_desc: "§YBorn:§! §L1912, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
  SYR_said_al_jazairi: "Саид аль-Джазаири"
- SYR_said_al_jazairi_leader_desc: "§YBorn:§! §L1885, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
  SYR_rushdi_al_kikhiya: "Рушди аль-Кихия"
- SYR_rushdi_al_kikhiya_leader_desc: "§YBorn:§! §L1899, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
-  
+ 
  SYR_hashim_al_atassi: "Хашим аль-Атасси"
- SYR_hashim_al_atassi_leader_desc: "§YBorn:§! §LJanuary 1st, 1875, in Homs, Vilayet of Syria, Ottoman Empire§!" #NT!
-  
+ 
  SYR_shukri_al_quwatli: "Шукри аль-Куватли"
  SYR_shukri_al_quwatli_leader_desc: "Среди нескольких ветвей династии аль-Фатат, ни одно не добьётся успеха, сравнимого с сирийской, и всё благодаря ловкому политическому маневрированию её главы, Шукри аль-Куатри. Не смотря на его двойное изгнание из Сирии, он вернулся и собирает союзников в преддверии создания нового типа республиканского правительства. Шукри занимает сбалансированную позицию между либеральными бюргерами и консервативными землевладельцами, имеющих законодательную власть в Сирии."
-  
+ 
  SYR_sultan_al_atrash: "Султан аль-Атраш"
- SYR_sultan_al_atrash_leader_desc: "§YBorn:§! §LMarch 5th, 1891, in Al-Qurayya, Vilayet of Syria, Ottoman Empire§!" #NT!
-  
  SYR_husni_al_zaim: "Хусни аз-Заим"
- SYR_husni_al_zaim_leader_desc: "§YBorn:§! §LMay 11th, 1897, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
-  
+ 
  SYR_antun_saadeh: "Антун Сааде"
  SYR_antun_saadeh_leader_desc: "Родившийся в Бейруте, Антун Сааде является человеком многих талантов и малого терпения. Прожил половину своей жизни на западе, а по возвращению обнаружил смерть мечты о демократическом Ливане. В руинах Левана Антоун оснавал организацию под названием ‘Великая Сирия’, посвящённую созданию секулярной, независимой Сирии, готовой сражаться с османским и западным империализмом. Единственной точкой соприкосновением между ним и синдикалистами является ненависть к империализму, и поэтому от отвергает идеологию как сеющую распри. Великая Сирия, согласно его идеям, является родиной всех сирийцев, курдов, иракцев и ливанцев, в не зависимости от этноса или расы. В своей литературе он заявляет, что объединит лучшие детали социализма, национализма и патриотизма под знаменем идеологии ‘Забваа’."
-  
+ 
  SYR_sami_al_hinawi: "Сами Аль-Хинави"
- SYR_sami_al_hinawi_high_command_desc: "§YBorn:§! §L1898, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_adib_idb_hassan_al_shishakli: "Adib ibn Hassan al-Shishakli" #NT!
- SYR_adib_idb_hassan_al_shishakli_sic_desc: "§YBorn:§! §L1909, in Hama, Vilayet of Syria, Ottoman Empire§!" #NT!
+ SYR_adib_al_shishakli: "Адиб бин Хасан аш-Шишакли"
+
  SYR_yusuf_al_azma: "Юсуф аль-Азма"
- SYR_yusuf_al_azma_commander_desc: "§YBorn:§! §LApril 9th, 1884, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_abdullah_atfeh: "Абдулла Атфе"
- SYR_abdullah_atfeh_high_command_desc: "§YBorn:§! §L1897, in Khirbet Ghazaleh, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_fawzi_selu: "Фаузи Селу"
- SYR_fawzi_selu_army_chief_desc: "§YBorn:§! §L1905, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_fawzi_al_qawuqji: "Фаузи аль-Кавукджи"
- SYR_fawzi_al_qawuqji_army_chief_desc: "§YBorn:§! §L1890, in Tripoli, Vilayet of Beirut, Ottoman Empire§!" #NT!
+
  SYR_abd_al_rahman_shahbandar: "Абд аль-Рахман Шахбандар"
- SYR_abd_al_rahman_shahbandar_sic_desc: "§YBorn:§! §LNovember 6th, 1879, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
  SYR_jamil_mardam_bey: "Джамиль Мардам Бей"
- SYR_jamil_mardam_bey_sic_desc: "§YBorn:§! §L1895, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_muhsen_al_barazi: "Musen al-Barazi" #NT!
- SYR_muhsen_al_barazi_sic_desc: "§YBorn:§! §L1904, in Hama, Vilayet of Syria, Ottoman Empire§!" #NT!
+ SYR_muhsen_barazi: "Мусен аль-Барази"
  SYR_maarouf_al_dawalibi: "Мааруф аль-Давалиби"
- SYR_maarouf_al_dawalibi_advisor_desc: "§YBorn:§! §LMarch 29th, 1909, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_nazim_al_kudsi: "Nazim al-Kudsi" #NT!
- SYR_nazim_al_kudsi_advisor_desc: "§YBorn:§! §LFebruary 14th, 1906, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
+ SYR_nazim_kudsi: "Назим аль-Кудси"
  SYR_rashad_barmada: "Рашад Бармада"
- SYR_rashad_barmada_advisor_desc: "§YBorn:§! §L1913, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_raghib_al_nashashibi: "Raghib al-Nashashibi" #NT!
- SYR_rashad_barmada_leader_desc: "§YBorn:§! §L1881, in Jerusalem, Mutasarrifate of Jerusalem, Ottoman Empire§!" #NT!
- SYR_fakhri_al_nashashibi: "Fakhri al-Nashashibi" #NT!
- SYR_fakhri_al_nashashibi_advisor_desc: "§YBorn:§! §L1899, in Baghdad, Vilayet of Baghdad, Ottoman Empire§!" #NT!
- SYR_edmond_al_homsi: "Edmond al-Homsi" #NT!
- SYR_edmond_al_homsi_advisor_desc: "§YBorn:§! §LJanuary 6th, 1901, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_saadallah_al_jabiri: "Saadallah al-Jabiri" #NT!
- SYR_saadallah_al_jabiri_advisor_desc: "§YBorn:§! §L1893, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_fares_al_khoury: "Fares al-Khoury" #NT!
- SYR_fares_al_khoury_advisor_desc: "§YBorn:§! §L1877, in Kfeir, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_abd_al_rahman_al_kayali: "Abd al-Rahman al-Kayyali" #NT!
- SYR_abd_al_rahman_al_kayali_advisor_desc: "§YBorn:§! §L1887, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_lutfi_al_haffar: "Lutfi al-Haffar" #NT!
- SYR_lutfi_al_haffar_advisor_desc: "§YBorn:§! §L1885, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
- SYR_sati_al_husri: "Sati al-Husri" #NT!
- SYR_sati_al_husri_advisor_desc: "§YBorn:§! §L1882, in Sana, Vilayet of Yemen, Ottoman Empire§!" #NT!
- SYR_ahmad_al_sharbati: "Ahmad al-Sharabati" #NT!
- SYR_ahmad_al_sharbati_advisor_desc: "§YBorn:§! §L1909, in Damascus, Vilayet of Syria, Ottoman Empire§!" #NT!
+ SYR_raghib_nashashibi: "Рагиб аль-Нашашиби"
+ SYR_fakhri_nashashibi: "Фахри аль-Нашашиби"
+ SYR_edmond_homsi: "Эдмонд аль-Хомси"
+ SYR_saadallah_jabiri: "Саадалла аль-Джабири"
+ SYR_fares_khoury: "Фарес аль-Хури"
+ SYR_abdulrahman_kayali: "Абд аль-Рахман аль-Кайали"
+ SYR_lutfi_haffar: "Лютфи аль-Хаффар"
+ SYR_abdullah_atfeh: "Абдулла Атфе"
+ SYR_fawzi_selu: "Фаузи Селу"
+ SYR_sati_husri: "Сати аль-Хусри"
+ SYR_ahmad_sharbati: "Ахмад аль-Шарабати"
  SYR_george_abd_messih: "Джордж Абд Мессих"
- SYR_george_abd_messih_advisor_desc: "§YBorn:§! §L1908, in the Vilayet of Syria, Ottoman Empire§!" #NT!
  SYR_said_taqiyaddin: "Саид Такияддин"
- SYR_said_taqiyaddin_advisor_desc: "§YBorn:§! §LMay 15th, 1904, in Baakleen, Mount Lebanon Mutasarrifate, Ottoman Empire§!" #NT!
  SYR_salah_al_shishakli: "Салах аль-Шишакли"
- SYR_salah_al_shishakli_advisor_desc: "§YBorn:§! §Lin Hama, Vilayet of Syria, Ottoman Empire§!" #NT!
+ SYR_fawzi_al_qawuqji: "Фаузи аль-Кавукджи"
  SYR_anwar_bannud: "Анвар Баннуд"
- SYR_anwar_bannud_army_chief_desc: "§YBorn:§! §L1908, in Aleppo, Vilayet of Syria, Ottoman Empire§!" #NT!
  SYR_army_subservient_air_command: "Командование армейской авиации"
- SYR_army_subservient_air_command_air_chief_desc: "§YFounded:§! §Lin Damascus, Syrian Republic§!" #NT!
  SYR_army_naval_arm: "Военно-морские силы"
- SYR_army_naval_arm_navy_chief_desc: "§YFounded:§! §Lin Damascus, Syrian Republic§!" #NT!
  SYR_interbranch_cooperation: "Межотраслевое сотрудничество"
- SYR_interbranch_cooperation_theorist_desc: "§YFounded:§! §Lin Damascus, Syrian Republic§!" #NT!

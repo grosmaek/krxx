@@ -1,33 +1,21 @@
 ﻿l_russian:
-  
- ### Country Names ### 
+
+### Country Names ###
  MNT: "Черногория"
  MNT_ADJ: "Черногорск"
  MNT_DEF: "Черногория"
-  
+
  MNT_totalist: "Черногорская Социалистическая Республика"
+ MNT_totalist_ADJ: "Черногорск"
  MNT_totalist_DEF: "Социалистическая Республика Черногория"
  MNT_syndicalist: "Черногорская Социалистическая Республика"
+ MNT_syndicalist_ADJ: "Черногорск"
  MNT_syndicalist_DEF: "Социалистическая Республика Черногория"
  MNT_radical_socialist: "Черногорская Социалистическая Республика"
+ MNT_radical_socialist_ADJ: "Черногорск"
  MNT_radical_socialist_DEF: "Социалистическая Республика Черногория"
-  
- MTN_kingdom_social_democrat: "Королевство Черногория"
- MTN_kingdom_social_democrat_DEF: "Королевство Черногория"
- MTN_kingdom_social_liberal: "Королевство Черногория"
- MTN_kingdom_social_liberal_DEF: "Королевство Черногория"
- MTN_kingdom_market_liberal: "Королевство Черногория"
- MTN_kingdom_market_liberal_DEF: "Королевство Черногория"
- MTN_kingdom_social_conservative: "Королевство Черногория"
- MTN_kingdom_social_conservative_DEF: "Королевство Черногория"
- MTN_kingdom_authoritarian_democrat: "Королевство Черногория"
- MTN_kingdom_authoritarian_democrat_DEF: "Королевство Черногория"
- MTN_kingdom_paternal_autocrat: "Королевство Черногория"
- MTN_kingdom_paternal_autocrat_DEF: "Королевство Черногория"
- MTN_kingdom_national_populist: "Королевство Черногория"
- MTN_kingdom_national_populist_DEF: "Королевство Черногория"
-  
- ### Parties ### 
+
+### Parties ###
  MNT_totalist_party: "ЛКЧ"
  MNT_totalist_party_long: "Лига коммунистов Черногории"
  MNT_syndicalist_party: "ЦПР"
@@ -48,29 +36,29 @@
  MNT_paternal_autocrat_party_long: "Истинная народная партия"
  MNT_national_populist_party: "ОСМ"
  MNT_national_populist_party_long: "Объединенная сербская молодежь"
-  
- ### Events ### 
-  
+ 
+### Events ###
+
  mnt.1.t: "Реставрация Петрович-Негоша"
  mnt.1.d: "Реставрация Петрович-Негоша"
  mnt.1.a: "Реставрация Петрович-Негоша"
-  
- ### National Spirits ### 
-  
+
+### National ideas ###
+
  MNT_independent_montenegro: "Čojstvo i Junaštvo"
  MNT_independent_montenegro_desc: ""Мужество и героизм" - этический идеал черногорской культуры, описанный Марко Милянов. Черногорцы просты и скромны, но не стесняются защищать тех, кого нужно защищать и храбрость в самые суровые времена. На протяжении веков горные черногорские племена сопротивлялись захватчикам повсюду, а их скромные хайдучи воплощали в себе идеал Мужественности и Героизма."
  MNT_peasant_cooperatives1: "Крестьянские кооперативы"
-  
+
  MNT_free_education1: "Бесплатное образование"
-  
+
  MNT_for_the_honour1: "За право, честь и свободу Черногории"
-  
+
  MNT_opium1: "Опиумная прибыль"
-  
+
  MNT_serbophobia1: "Сербофобия"
-  
- ### Focuses ### 
-  
+
+### Focuses ###
+
  montenegro_focus: "Фокусы Черногории"
  MNT_socialist: "Социалистическая Черногория"
  MNT_connection_to_the_people: "Связь с народом"
@@ -103,51 +91,57 @@
  MNT_port: "Порт Бар"
  MNT_powerplant: "Elektroprivreda Crne Gore"
  MNT_research: "Университет Черногории"
-  
- ### Decisions Categories ### 
-  
+
+### Decisions Categories ###
+
  MNT_port_decisions: "Наше окно в мир"
-  
- ### Decisions ### 
-  
+
+### Decisions ###
+
  MNT_connect_to_port: "Соединить порт с железной дорогой"
  MNT_coastal_facilities: "Капитальный ремонт береговых сооружений"
  MNT_merchant_navy: "Собрать торговый флот"
-  
- ### Characters ### 
+
+### Characters ###
  MNT_blazo_jovanovic: "Блажо Йованович"
- MNT_blazo_jovanovic_leader_desc: "§YBorn:§! §LMarch 28th, 1907, in Podgorica, Principality of Montenegro§!" #NT!
  MNT_sekula_drljevic: "Секула Дрлевич"
- MNT_sekula_drljevic_leader_desc: "§YBorn:§! §LSeptember 7th, 1884, in Ravno, Principality of Montenegro§!" #NT!
  MNT_krsto_popovic: "Крсто Попович"
- MNT_krsto_popovic_leader_desc: "§YBorn:§! §LSeptember 13th, 1881, in Lipa, Principality of Montenegro§!" #NT!
  MNT_pavle_durisic: "Павле Джуришич"
- MNT_pavle_durisic_high_command_desc: "§YBorn:§! §LJuly 9th, 1909, in Podgorica, Principality of Montenegro§!" #NT!
  MNT_mitar_martinovic: "Митар Мартинович"
- MNT_mitar_martinovic_high_command_desc: "§YBorn:§! §LSeptember 8th, 1870, in Bajice, Principality of Montenegro§!" #NT!
  MNT_mihailo_petrovic_njegos: "Михаило I"
- MNT_mihailo_petrovic_njegos_leader_desc: "§YBorn:§! §LSeptember 14th, 1908, in Podgorica, Principality of Montenegro§!" #NT!
  MNT_novica_radovic: "Новица Радович"
- MNT_novica_radovic_advisor_desc: "§YBorn:§! §LMay 15th, 1890, in Novica Radović, Principality of Montenegro§!" #NT!
  MNT_milovan_djilas: "Милован Джилас"
- MNT_milovan_djilas_advisor_desc: "§YBorn:§! §LJune 12th, 1911, in Podbišće, Kingdom of Montenegro§!" #NT!
  MNT_vasilija_vukotic: "Василия Вукотич"
- MNT_vasilija_vukotic_advisor_desc: "§YBorn:§! §L1897, in Čevo, Principality of Montenegro§!" #NT!
  MNT_jovan_plamenac: "Йован Пламенак"
- MNT_jovan_plamenac_advisor_desc: "§YBorn:§! §L1873, in Boljevići, Principality of Montenegro§!" #NT!
  MNT_lazar_mijuskovic: "Лазарь Миюшкович"
- MNT_lazar_mijuskovic_advisor_desc: "§YBorn:§! §LDecember 24th, 1867, in Povija, Principality of Montenegro§!" #NT!
  MNT_gavrilo_dozic: "Гаврило Дожич"
- MNT_gavrilo_dozic_advisor_desc: "§YBorn:§! §LMay 17th, 1881, in Vrujci, Principality of Montenegro§!" #NT!
  MNT_ljubomir_vuksanovic: "Любомир Вуксанович"
- MNT_ljubomir_vuksanovic_advisor_desc: "§YBorn:§! §L1875, in the Principality of Montenegro§!" #NT!
  MNT_andrija_radovic: "Андрия Радович"
- MNT_andrija_radovic_high_command_desc: "§YBorn:§! §LJanuary 28th, 1872, in Martinići, Principality of Montenegro§!" #NT!
- MNT_bajo_stanisic: "Байо Станишич"
- MNT_bajo_stanisic_air_chief_desc: "§YBorn:§! §LMay 16th, 1890, in Vinići, Principality of Montenegro§!" #NT!
  MNT_blazo_dukanovic: "Блажо Джуканович"
- MNT_blazo_dukanovic_high_command_desc: "§YBorn:§! §LNovember 26th, 1883, in Lukovo, Principality of Montenegro§!" #NT!
+ MNT_bajo_stanisic: "Байо Станишич"
  MNT_army_reform_group: "Группа реформирования армии"
- MNT_army_reform_group_theorist_desc: "§YFounded:§! §L1879, in Podgorica, Principality of Montenegro§!" #NT!
  MNT_petko_miletic: "Петко Милетич"
- MNT_petko_miletic_leader_desc: "§YBorn:§! §LMarch 7th, 1897, in Rovci, Principality of Montenegro§!" #NT!
+  
+ ### Cosmetic Tag ###
+
+ MTN_kingdom_social_democrat: "Королевство Черногория"
+ MTN_kingdom_social_democrat_ADJ: "Черногорск"
+ MTN_kingdom_social_democrat_DEF: "Королевство Черногория"
+ MTN_kingdom_social_liberal: "Королевство Черногория"
+ MTN_kingdom_social_liberal_ADJ: "Черногорск"
+ MTN_kingdom_social_liberal_DEF: "Королевство Черногория"
+ MTN_kingdom_market_liberal: "Королевство Черногория"
+ MTN_kingdom_market_liberal_ADJ: "Черногорск"
+ MTN_kingdom_market_liberal_DEF: "Королевство Черногория"
+ MTN_kingdom_social_conservative: "Королевство Черногория"
+ MTN_kingdom_social_conservative_ADJ: "Черногорск"
+ MTN_kingdom_social_conservative_DEF: "Королевство Черногория"
+ MTN_kingdom_authoritarian_democrat: "Королевство Черногория"
+ MTN_kingdom_authoritarian_democrat_ADJ: "Черногорск"
+ MTN_kingdom_authoritarian_democrat_DEF: "Королевство Черногория"
+ MTN_kingdom_paternal_autocrat: "Королевство Черногория"
+ MTN_kingdom_paternal_autocrat_ADJ: "Черногорск"
+ MTN_kingdom_paternal_autocrat_DEF: "Королевство Черногория"
+ MTN_kingdom_national_populist: "Королевство Черногория"
+ MTN_kingdom_national_populist_ADJ: "Черногорск"
+ MTN_kingdom_national_populist_DEF: "Королевство Черногория"

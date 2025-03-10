@@ -45,21 +45,16 @@
  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Рикугун Тюдзё"
  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Рикугун Тюдзё"
  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Рикугун Тюдзё"
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Полковник"
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Генерал-майор"
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Генерал-майор"
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал-лейтенант"
+ SOV_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал-полковник"
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Полковник"
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Генерал-майор"
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Генерал-майор"
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал-лейтенант"
  RUS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал-полковник"
- RSA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Colonel" #NT!
- RSA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "General-major" #NT!
- RSA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "General-major" #NT!
- RSA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "General-lieutenant" #NT!
- RSA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "General-lieutenant" #NT!
- FER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Colonel" #NT!
- FER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "General-major" #NT!
- FER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "General-major" #NT!
- FER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "General-lieutenant" #NT!
- FER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "General-lieutenant" #NT!
  ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Бригадный генерал"
  ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Дивизионный генерал"
  ITA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Дивизионный генерал"
@@ -70,16 +65,6 @@
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Кэннязмач"
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Фитаурари"
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Дэджазмач"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Бригадир"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Бригадир"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Генерал-майор"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал-майор"
- NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал-лейтенант"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Бригадный генерал"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Бригадный генерал"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Генерал-майор"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал-майор"
- FIN_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал-лейтенант"
  UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE: "§HПовысить полевого офицера§!\n\n"
  HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Повысить полевого офицера"
  HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Вы уверены, что офицера $CHARACTER$ нужно повысить до генерала?\n\nОпыт этой дивизии будет сброшен, а повышение обойдется нам в\n$COST|H$ £command_power."
@@ -114,7 +99,6 @@
  CAPITAL_HISTORY: "Отряд принял участие в оккупации провинции $PROVINCE$, ранее бывшей $SUBJECT$ столицей."
  PARADROP_HISTORY: "Отряд успешно десантировался в провинции $PROVINCE$ до подхода основных сил."
  UNIT_RENAMED_HISTORY: "Отряд изменил наименование на $SUBJECT$."
- RAID_HISTORY: "Участник налета на провинцию $PROVINCE$"
  WAS_ON_OPERATION_HISTORY: "Отряд был награжден за ведение боевых действий в провинции $SUBJECT$."
  WAS_ON_OPERATION_EXCELLED_HISTORY: "Отряд был награжден за проявленную доблесть в $SUBJECT$."
  DIVISION_DETAILS: "Подробнее"
@@ -146,8 +130,8 @@
  COMBINED_MEDAL_EFFECTS_LEADER: "§HПолевые награды§!\n\n"
  CANNOT_AWARD_TO_EXPEDITIONARY: "Это действие нельзя выполнить по отношению к экспедиционным войскам"
  NO_AWARDABLE_HISTORY_ENTRIES: "В истории нет событий, за которые можно было бы представить отряд к награде"
-  
-  ###Medal Names 
+
+ ###Medal Names
  star: "Звезда"
  cross: "Крест"
  medallion: "Медальон"
@@ -237,21 +221,4 @@
  ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP: "§HПолучаемый опыт полевого офицера§!\nПолевой офицер получает опыт на $MULT|%H$ от обычного темпа.\n\nКаждая медаль, выданная этой дивизии, повышает прирост на $PER_MEDAL|%H$."
  DIVISIONAL_COMMAND_DIVISION_PENALTY: "Ветеранский статус этой дивизии будет снижен на $RESULT|%H$."
  FURTHER_MULT_DIVC: "Затем применяются следующие коэффициенты:"
- norwegian_defense_cross_of_honor: "Почетный крест за оборону Норвегии"
- mannerheim_cross: "Крест Маннергейма"
- order_of_the_red_star_finland: "Орден Красной звезды"
- order_of_the_white_rose: "Орден Белой розы"
- order_of_the_lion: "Орден Льва"
- cross_of_liberty: "Крест Свободы"
- SWE_medal_1: "Медаль за заслуги"
- order_of_the_dannebrog: "Орден Данеброг"
- order_of_the_civil_union: "Герой Датского гражданского союза"
- krigskorset: "Военный крест Норвегии"
- haakon_viis_frihetskors: "Крест Свободы короля Хокона VII"
- krigsmedaljen: "Военная медаль Норвегии"
- haakon_viis_frihetsmedalje: "Медаль Свободы короля Хокона VII"
- deltagermedaljen: "Медаль Обороны"
- haakon_viis_70arsmedalje: "Haakon VII's 70s Anniversary Medal" #NT!
- st_olavsmedaljen: "Орден Святого Олафа"
- folketskors: "Народный крест Норвегии"
- norgeskors: "Норвежский крест"
+ 

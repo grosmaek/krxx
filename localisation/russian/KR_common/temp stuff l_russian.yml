@@ -1,18 +1,18 @@
 ﻿l_russian:
-  
- ## false positives because they use text on top of id here 
+
+## false positives because they use text on top of id here
  RUS_Naval_Infantry_MTG: ""
  RUS_New_Tactics_For_New_Ships_MTG: ""
- FER_Create_The_VDV: "" #NT!
- FER_Fleet_Vanguards: "" #NT!
- FER_A_Destroyer_Armada: "" #NT!
- FER_The_Invisible_Navy: "" #NT!
- FER_Carrier_Development: "" #NT!
- FER_New_Tactics_For_New_Ships: "" #NT!
- FER_Ural_Tractor_Plants: "" #NT!
- FER_Research_Investments: "" #NT!
-  
- ## ditto 
+ TRM_Create_The_VDV: ""
+ TRM_Fleet_Vanguards: ""
+ TRM_A_Destroyer_Armada: ""
+ TRM_The_Invisible_Navy: ""
+ TRM_Carrier_Development: ""
+ TRM_New_Tactics_For_New_Ships: ""
+ TRM_Ural_Tractor_Plants: ""
+ TRM_Research_Investments: ""
+
+## ditto
  SZC_Restructure_The_Army_2: ""
  SZC_Recruit_NRA_Veterans_2: ""
  SZC_Form_Minjun_2: ""
@@ -24,8 +24,8 @@
  SZC_Create_A_New_Currency_2: ""
  SZC_Land_Value_Tax_2: ""
  SZC_Judicial_Renewal_2: ""
-  
- ## various interface tooltips 
+
+## various interface tooltips
  tooltip_effect_annex: ""
  NO_COMMANDER_FOR_GROUP: ""
  mines_desc: ""
@@ -35,3 +35,4 @@
  FE_INTERESTING_MAJORS_TOOLTIP: "Крупные страны"
  FE_INTERESTING_MINORS_TOOLTIP: "Недавно обновившиеся малые страны"
  FE_OTHER_COUNTRIES_TOOLTIP: "Другие страны"
+ 

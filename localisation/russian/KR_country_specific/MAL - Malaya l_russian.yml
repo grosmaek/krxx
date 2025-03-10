@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Parties ### 
+
+### Parties ###
  MAL_totalist_party: "ППМ"
  MAL_totalist_party_long: "Поколение проснувшейся молодёжи"
  MAL_radical_socialist_party: "МНП"
@@ -21,85 +21,70 @@
  MAL_paternal_autocrat_party_long: "Всемалайская ассоциация улем"
  MAL_national_populist_party: "ОСН"
  MAL_national_populist_party_long: "Особая сила народа"
-  
- #Puppet Parties 
+
+#Puppet Parties
  MAL_CHI_CRS_puppet_party_name: "АТЗ"
  MAL_CHI_CRS_puppet_party_name_long: "Армия трёх звёзд"
  MAL_CHI_PAC_puppet_party_name: "КВД"
  MAL_CHI_PAC_puppet_party_name_long: "Комитет временного действия"
  MAL_CHI_RCA_puppet_party_name: "ЗКОСНоВ"
  MAL_CHI_RCA_puppet_party_name_long: "Заморское китайское общества спасения нации от врагов"
-  
- ### Country Names ### 
+
+### Country Names ###
  MAL: "Малайя"
  MAL_ADJ: "Малайск"
  MAL_DEF: "Малайя"
-  
+
  MAL_totalist: "Малайская Социалистическая Республика"
  MAL_totalist_DEF: "Малайская Социалистическая Республика"
  MAL_syndicalist: "Малайская Социалистическая Республика"
  MAL_syndicalist_DEF: "Малайская Социалистическая Республика"
  MAL_radical_socialist: "Малайская Социалистическая Республика"
  MAL_radical_socialist_DEF: "Малайская Социалистическая Республика"
-  
+
  MAL_malaysia: "Малайзия"
  MAL_malaysia_ADJ: "Малазийск"
  MAL_malaysia_DEF: "Малайзия"
-  
+
  MAL_malaysia_totalist: "Малазийская Социалистическая Республика"
  MAL_malaysia_totalist_DEF: "Малазийская Социалистическая Республика"
  MAL_malaysia_syndicalist: "Малазийская Социалистическая Республика"
  MAL_malaysia_syndicalist_DEF: "Малазийская Социалистическая Республика"
  MAL_malaysia_radical_socialist: "Малазийская Социалистическая Республика"
  MAL_malaysia_radical_socialist_DEF: "Малазийская Социалистическая Республика"
-  
- ### Characters ### 
-  
- #Main Country Leaders 
+
+### Characters ###
+
+#Main Country Leaders
  MAL_burhanuddin_al_helmy: "Бурхануддин Аль-Хелми"
- MAL_burhanuddin_al_helmy_leader_desc: "§YBorn:§! §LAugust 29th, 1911, in Kota Bharu, Perak, Federated Malay States§!" #NT!
-  
+
  MAL_zhuang_mingli: "Чжуан Миньли"
  MAL_zhuang_mingli_leader_desc: "Чжуан Миньли родился в крестьянской семье из провинции Фуцзянь. Многие мужчины в семье работали за границей, а его отец нашел работу лодочника на британской территории Пенанг, на Малайском полуострове, и трагически погиб в 1926 году.\n\n Миньли отправился сначала на Пенанг, а затем в Бинджай в Голландской Ост-Индии, где устроился в гараж, которым управлял один из его дядей. Там он вступил в политическую борьбу с активистами китайской общины за рубежом, протестуя против европейской и японской эксплуатации своей родины. Он стал членом благотворительной организации для гражданских жертв инцидента "Нефритовый ветер" и заместителем председателя молодежной группы, бойкотировавшей иностранные товары. Эта деятельность привлекла внимание голландцев, и он был депортирован обратно в Китай.\n\nОн искал работу на фабриках Цюаньчжоу, но вскоре увлекся радикальным профсоюзным движением, что заставило его бежать обратно на Пенанг в 1930 году, опасаясь, что его убьют, если он останется в Китае. Миньли присоединился к ряду новых политических организаций, таких как Фуцзяньский конгресс спасения заморских китайцев, проходивший в Сингапуре, Пенангский филоматический союз, основанный Сунь Ятсеном, а также ряд местных гильдий и профсоюзов. \n\nХотя Миньли было всего 20 лет, он стал одним из самых видных китайских политиков в Малайе, писал пламенные социалистические статьи в зарубежной китайской прессе под псевдонимом "Чжуанцзя", которые в целом симпатизировали Реорганизованной ассоциации товарищей КМТ. Самым заметным его достижением стало создание "Комитета помощи беженцам и раненым солдатам Мингана" для поддержки восстания Гоминьдана в 1936 году.\n\n Будучи авторитетным профсоюзным деятелем, а также харизматичным защитником свободы и демократии, Миньли стал естественным кандидатом на высокий пост во Всеобщем профсоюзе труда, главном профсоюзе Малайи, но мало кто ожидал, что его сделают его председателем. Он был компромиссом между синдикалистами, анархистами и более умеренными социалистами, молодым человеком, у которого, тем не менее, хватило мудрости и опыта, чтобы объединить враждующие фракции в общей революционной борьбе."
-  
+
  MAL_ibrahim_yaacob: "Ибрагим Яакоб"
- MAL_ibrahim_yaacob_leader_desc: "§YBorn:§! §L1911, in Temerloh, Pahang, Federated Malay States§!" #NT!
-  
+
  MAL_mustapha_hussain: "Мустафа Хусейн"
- MAL_mustapha_hussain_leader_desc: "§YBorn:§! §LAugust 21st, 1910, in Matang, Perak, Federated Malay States§!" #NT!
-  
+
  MAL_onn_jaafar: "Онн Джаафар"
- MAL_onn_jaafar_leader_desc: "§YBorn:§! §LFebruary 12th, 1895, in Bukut Jambu, Johore Bahru, Johore§!" #NT!
-  
+
  MAL_haji_embok_suloh: "Хаджи Эмбок Сулох"
- MAL_haji_embok_suloh_leader_desc: "§YBorn:§! §L1891, in Singapore, Straits Settlements§!" #NT!
-  
+
  MAL_tunku_abdul_rahman: "Тунку Абдул Рахман"
-  # Alor Setar, Kedah Sultanate 
- MAL_tunku_abdul_rahman_leader_desc: "§YBorn:§! §LFebruary 8th, 1903, in Sultanate of Syburi, Monthon Syburi, Kingdom of Siam§!" #NT!
-  
+
  MAL_abu_bakar_al_baqir: "Абу Бакар аль-Бакир"
- MAL_abu_bakar_al_baqir_leader_desc: "§YBorn:§! §L1907, in Gunung Semanggol, Perak, Federated Malay States§!" #NT!
-  
+
  MAL_ahmad_fuad_hassan: "Ахмад Фуад Хассан"
- MAL_ahmad_fuad_hassan_leader_desc: "§YBorn:§! §L1910, in Manong, Perak, Federated Malay States§!" #NT!
-  
+
  MAL_onan_haji_siraj: "Онан Хаджи Сирадж"
- MAL_onan_haji_siraj_leader_desc: "§YBorn:§! §L1912, in Ipoh, Perak, Federated Malay States§!" #NT!
-  
- #Alternative Leaders 
+
+#Alternative Leaders
  MAL_ibrahim_i_of_johor: "Ибрагим I Джохорский"
- MAL_ibrahim_i_of_johor_leader_desc: "§YBorn:§! §LSeptember 17th, 1873, in Istana Bidadari, Singapore, Straits Settlements§!" #NT!
  MAL_peng_zemin: "Пэн Цзэминь"
- MAL_peng_zemin_leader_desc: "§YBorn:§! §L1877, in Sihui, Guangdong Province, Qing Empire§!" #NT!
  MAL_lai_teck: "Лай Тек"
- MAL_lai_teck_leader_desc: "§YBorn:§! §L1901, in Nghệ Tĩnh Province, Protectorate of Annam, Indochinese Union§!" #NT!
  MAL_abdul_hamid_halim: "Абдул Хамид Халим Шах"
- MAL_abdul_hamid_halim_leader_desc: "§YBorn:§! §LJune 3rd, 1864, in Alor Setar, Syburi, Kingdom of Siam§!" #NT!
-  
- #Others 
+
+#Others
  MAL_yusof_bin_ishak: "Юсоф ибн Исхак"
- MAL_yusof_bin_ishak_leader_desc: "§YBorn:§! §LAugust 12th, 1910, in Padang Gajah, Perak, Federated Malay States§!" #NT!
  MAL_mokhtaruddin_lasso: "Мохтаруддин Лассо"
  MAL_ishak_haji_muhammad: "Исхак Хаджи Мухаммад"
  MAL_henry_lee_hau_shik: "Генри Ли Хау Шик"
@@ -107,94 +92,95 @@
  MAL_lim_bo_seng: "Лим Бо Сенг"
  MAL_tan_chong_tee: "Тан Чонг Ти"
  MAL_adnan_saidi: "Аднан Саиди"
-  
-  ### Focuses ### 
-  
- malaya_focus: "Malaya Focus Tree" #NT!
- MAL_perjuangan_melayu: "Perjuangan Melayu" #NT!
- MAL_malay_economic_patronage: "Malay Economic Patronage" #NT!
- MAL_peoples_islamic_education_institutions: "People's Islamic Education Institutions" #NT!
- MAL_political_research_slot: "Has not already received a research slot from a political focus." #NT!
- MAL_enforcement_of_sharia_law: "Enforcement of Sharia Law" #NT!
- MAL_strengthen_islamic_malay_identity: "Strengthen Islamic Malay Identity" #NT!
-  
- MAL_bersekutu_bertambah_mutu: "Bersekutu Bertambah Mutu" #NT!
- MAL_formation_of_the_legislative_council: "Formation of the Legislative Council" #NT!
- MAL_the_malay_confederation: "The Malay Confederation" #NT!
- MAL_enforcing_ketuanan_melayu: "Enforcing Ketuanan Melayu" #NT!
- MAL_federal_reformation: "Federal Reformation" #NT!
- MAL_enshrinement_of_multiethnicism: "Enshrine Multiethnic Citizenship" #NT!
- MAL_dual_justice_system: "Dual Justice System" #NT!
- MAL_national_schooling: "National Schooling" #NT!
- MAL_ensure_constitutional_oversight: "Ensure Constitutional Oversight" #NT!
-  
- MAL_satu_untuk_semua_semua_untuk_satu: "Satu Untuk Semua, Semua Untuk Satu!" #NT!
- MAL_satu_negara: "Satu Negara" #NT!
- MAL_cooperative_economy: "Cooperative Economy" #NT!
- MAL_towards_new_consciousness: "Towards New Consciousness" #NT!
- MAL_islamic_socialism: "Islamic Socialism" #NT!
- MAL_adopt_political_tutelage: "Adopt Political Tutelage" #NT!
- MAL_national_self_reliance: "National Self Reliance" #NT!
- MAL_reject_racial_division: "Reject Racial Division" #NT!
- MAL_encourage_cultural_unity: "Encourage Cultural Unity" #NT!
-  
- MAL_salvaging_german_industry: "Salvaging German Industry" #NT!
- MAL_union_with_sarawak: "Union with East Malaya" #NT!
- MAL_integration_of_singapore: "Integration of Singapore" #NT!
- MAL_reclamation_of_north_malaya: "Reclamation of North Malaya" #NT!
-  
- MAL_develop_kuala_lumpur: "Develop Kuala Lumpur" #NT!
- MAL_malacca_dockyards: "Malacca Dockyards" #NT!
- MAL_johor_factories: "Johore Factories" #NT!
- MAL_support_rubber_plantation_expansion: "Support Rubber Plantation Expansion" #NT!
- MAL_pahang_bauxite_mining: "Pahang Bauxite Mining" #NT!
-  
- MAL_reform_the_malay_regiments: "Reform the Malay Regiment" #NT!
- MAL_scavenge_abandoned_equipment: "Scavenge Abandoned Equipment" #NT!
- MAL_learning_from_our_liberators: "Learning from our Liberators" #NT!
- MAL_establish_the_malay_army: "Establish the Malay Army" #NT!
-  
- MAL_engineer_regiments: "Engineer Regiments" #NT!
- MAL_malay_armoured_corp: "Malay Armoured Corp" #NT!
- MAL_native_rifle_development: "Native Rifle Development" #NT!
- MAL_expand_the_training_depot: "Expand the Training Depot" #NT!
- MAL_incorporate_the_rangers: "Incorporate the Rangers" #NT!
- MAL_organised_command_structure: "Organised Command Structure" #NT!
- MAL_multiracial_recruitment: "Multiracial Recruitment" #NT!
- MAL_territorial_army_regiment: "Territorial Army Regiment" #NT!
-  
- MAL_warriors_in_the_skies: "Warriors in the Skies" #NT!
- MAL_importation_of_aircraft: "Importation of Aircraft" #NT!
- MAL_simpang_airport: "Simpang Airport" #NT!
- MAL_on_the_great_ocean: "On the Great Ocean" #NT!
- MAL_defending_the_straits: "Defending the Straits" #NT!
- MAL_disrupt_enemy_shipping: "Disrupt Enemy Shipping" #NT!
-  
-  ### Ideas ### 
-  
- MAL_rubber_plantation_idea: "Rubber Plantation Expansion" #NT!
- MAL_rubber_plantation_idea_desc: "Malaya has long been the largest producer of rubber in the world, and with the native government having much more control over the nation's rubber industry it has chosen to greatly support its development to hopefully reap the economic benefits that it can bring." #NT!
-  
- MAL_perjuangan_melayu_idea: "Perjuangan Melayu" #NT!
- MAL_perjuangan_melayu_idea_desc: "To the [MAL.GetAdjective] government, the Malay identity is one that cannot be divorced from the Islamic faith to which a majority of the population adhere. To the government also, it is to these Malay Muslims to whom the nation belongs, and although it may not be explicitly opposed to those of other ethnicities or faiths, it makes clear that they are more akin to tolerated guests than a true part of the nation. Through this lens, the government ensures that it operates within a system which prioritises Malay Muslims over all others, while attempting to adhere to many core Islamic values to which its leaders view as fundamental to Malay society." #NT!
-  
- MAL_malaya_merdeka_idea: "Malaya Merdeka" #NT!
- MAL_malaya_merdeka_idea_desc: "For the first time in centuries, the Malay peninsula has found itself free to mostly decide its own future, although of course supported towards this direction by those who aided in its freedom. With this newfound freedom, the [MAL.GetAdjective] government has set out to establish a democratic state in which the rights of both the nation's peoples, and the states which make up the nation, are equally respected." #NT!
-  
- MAL_the_six_pillars_idea: "The Six Pillars" #NT!
- MAL_the_six_pillars_idea_desc: "Unlike many of the world's nations who in recent decades have embarked upon the path of socialism, those in the [MAL.GetAdjective] government are putting into practice their own vision as to how a state that balances socialist belief with nationalist thought may look. The values to which these views are derived are known collectively by the party as the Six Pillars, 'To Unite' the people, 'To Show Loyalty' to the nation, 'To Serve' the nation, 'To Be Happy', 'To Serve the People', and to show 'Courtesy' as leaders of the people." #NT!
-  
- MAL_satu_untuk_semua_semua_untuk_satu_idea: "Satu Untuk Semua, Semua Untuk Satu!" #NT!
- MAL_satu_untuk_semua_semua_untuk_satu_idea_desc: "'One for all, all for one' is the phrase to which many within the government of [MAL.GetNameDef] chooses to represent its vision for Malay socialism. To the government socialism is a concept which must be enacted through a nationalist lens, one where Malay communities must band together to lift up the nation beyond its colonial past and lift all of its people up along with it." #NT!
-  
- MAL_merdeka_dengan_darah_idea: "Merdeka Dengan Darah" #NT!
- MAL_merdeka_dengan_darah_idea_desc: "Inspired greatly by a combination of Chinese influence, Islamic theology, and wider Nusantaran politics, the [MAL.GetAdjective] government have developed a view of socialism in which all of these inspirations have coalesced into one socialist vision. It is through this vision that the future of the nation is seen as one in which all of its people must fight for their freedom, no matter their race, and it is through this fight that they may all be united under a singular banner and move past inequality or division." #NT!
-  
- MAL_malay_confederation_idea: "The Malay Confederation" #NT!
- MAL_malay_confederation_idea_desc: "Rejecting a strong central authority, the [MAL.GetAdjective] government has chosen to greatly empower the rights of the individual states which make up [MAL.GetName]. While there remains a central government with direct authority over many matters of national interest and defence, power has been primarily placed in the hands of the local primarily Malay dominated governments of its member states." #NT!
-  
- MAL_reformed_federation_idea: "Federal Reformation" #NT!
- MAL_reformed_federation_idea_desc: "Under colonial rule, under both British and German dominion, much of the Malay peninsula was governed as a federation united together under a central authority. Now free from the colonial shackles, the [MAL.GetAdjective] government has chosen to expand a reformed version of such a model to the entire nation, granting significant power to the states while investing executing authority in the nation's cabinet." #NT!
-  
- MAL_army_idea: "The [MAL.GetAdjective] Armed Forces" #NT!
- MAL_army_idea_desc: "While historically the Malay states have fieled soldiers and even their own regiment for their colonial overlords, the burden of national defence is now one that cannot simply be pawned off to other people. As a result, the [MAL.GetAdjective] Armed Forces have been established to properly manage not only [MAL.GetName]'s national defence on land, but even on the sea and in the skies." #NT!
+
+ ### Focuses ###
+
+ malaya_focus: "Малайское дерево фокуса»
+ MAL_perjuangan_melayu: "Perjuangan Melayu»
+ MAL_malay_economic_patronage: "Малайский экономический патронаж»
+ MAL_peoples_islamic_education_institutions: "Народные исламские учебные заведения»
+ MAL_political_research_slot: "Еще не получил исследовательский слот от политического фокуса»
+ MAL_enforcement_of_sharia_law: "Исполнение законов шариата»
+ MAL_strengthen_islamic_malay_identity: "Укрепление исламской малайской идентичности»
+
+ MAL_bersekutu_bertambah_mutu: "Bersekutu Bertambah Mutu»
+ MAL_formation_of_the_legislative_council: "Формирование Законодательного совета»
+ MAL_the_malay_confederation: "Малайская конфедерация»
+ MAL_enforcing_ketuanan_melayu: "Обеспечение соблюдения кетуанан мелайю»
+ MAL_federal_reformation: "Федеральная реформа»
+ MAL_enshrinement_of_multiethnicism: "Закрепить многоэтническое гражданство»
+ MAL_dual_justice_system: "Двойная система правосудия»
+ MAL_national_schooling: "Национальное школьное образование»
+ MAL_ensure_constitutional_oversight: "Обеспечить конституционный надзор»
+
+ MAL_satu_untuk_semua_semua_untuk_satu: "Satu Untuk Semua, Semua Untuk Satu!»
+ MAL_satu_negara: "Сату Негара»
+ MAL_cooperative_economy: "Кооперативная экономика»
+ MAL_towards_new_consciousness: "На пути к новому сознанию»
+ MAL_islamic_socialism: "Исламский социализм»
+ MAL_adopt_political_tutelage: "Принять политическую опеку»
+ MAL_national_self_reliance: "Национальная самодостаточность»
+ MAL_reject_racial_division: "Отвергать расовое разделение»
+ MAL_encourage_cultural_unity: "Поощрять культурное единство»
+
+ MAL_salvaging_german_industry: "Спасение немецкой промышленности»
+ MAL_union_with_sarawak: "Союз с Восточной Малайей»
+ MAL_integration_of_singapore: "Интеграция Сингапура»
+ MAL_reclamation_of_north_malaya: "Освоение Северной Малайи»
+
+ MAL_develop_kuala_lumpur: "Развивать Куала-Лумпур»
+ MAL_malacca_dockyards: "Доковые верфи Малакки»
+ MAL_johor_factories: "Фабрики Джохора»
+ MAL_support_rubber_plantation_expansion: "Поддерживать расширение каучуковых плантаций»
+ MAL_pahang_bauxite_mining: "Добыча бокситов в Паханге»
+
+ MAL_reform_the_malay_regiments: "Реформировать малайские полки»
+ MAL_scavenge_abandoned_equipment: "Разгребать заброшенное оборудование»
+ MAL_learning_from_our_liberators: "Учиться у наших освободителей»
+ MAL_establish_the_malay_army: "Создать малайскую армию»
+
+ MAL_engineer_regiments: "Саперные полки»
+ MAL_malay_armoured_corp: "Малайский бронетанковый корпус»
+ MAL_native_rifle_development: "Разработка родной винтовки»
+ MAL_expand_the_training_depot: "Расширить учебный склад»
+ MAL_incorporate_the_rangers: "Включить рейнджеров»
+ MAL_organised_command_structure: "Организованная командная структура»
+ MAL_multiracial_recruitment: "Многорасовый набор»
+ MAL_territorial_army_regiment: "Полк территориальной армии»
+
+ MAL_warriors_in_the_skies: "Воины в небе»
+ MAL_importation_of_aircraft: "Импорт самолетов»
+ MAL_simpang_airport: "Аэропорт Симпанг»
+ MAL_on_the_great_ocean: "На Великом океане»
+ MAL_defending_the_straits: "Защищая проливы»
+ MAL_disrupt_enemy_shipping: "Нарушить судоходство противника»
+ 
+ ### Ideas ###
+
+ MAL_rubber_plantation_idea: "Расширение каучуковых плантаций»
+ MAL_rubber_plantation_idea_desc: "Малайя уже давно является крупнейшим производителем каучука в мире, и теперь, когда правительство страны имеет гораздо больший контроль над каучуковой промышленностью, оно решило оказать значительную поддержку ее развитию, чтобы надеяться получить экономические выгоды, которые она может принести.»
+
+ MAL_perjuangan_melayu_idea: "Perjuangan Melayu»
+ MAL_perjuangan_melayu_idea_desc: "Для [MAL.GetAdjective]ого правительства  малайская идентичность не может быть отделена от исламской веры, которой придерживается большинство населения. Правительство также считает, что именно этим малайцам-мусульманам принадлежит нация, и хотя оно не может открыто выступать против представителей других этнических групп или вероисповеданий, оно ясно дает понять, что они скорее сродни терпимым гостям, чем истинной части нации. Через эту призму правительство гарантирует, что оно действует в рамках системы, которая отдает предпочтение малайским мусульманам перед всеми остальными, пытаясь при этом придерживаться многих основных исламских ценностей, которые его лидеры считают фундаментальными для малайского общества.»
+
+ MAL_malaya_merdeka_idea: "Малайская Мердека»
+ MAL_malaya_merdeka_idea_desc: "Впервые за много веков Малайский полуостров оказался свободен и в основном сам определяет свое будущее, хотя, конечно, его поддерживают те, кто помог ему освободиться. С этой вновь обретенной свободой [MAL.GetAdjective]ое правительство  поставило перед собой задачу создать демократическое государство, в котором права как народов страны, так и государств, входящих в ее состав, будут соблюдаться в равной степени.»
+
+ MAL_the_six_pillars_idea: "Шесть столпов»
+ MAL_the_six_pillars_idea_desc: "В отличие от многих стран мира, которые в последние десятилетия встали на путь социализма, члены правительства [MAL.GetAdjective] реализуют на практике свое собственное видение того, как может выглядеть государство, сочетающее социалистическую веру с националистическим мышлением. Ценности, из которых вытекают эти взгляды, известны партии как "Шесть столпов»: "Объединять» народ, "Проявлять лояльность» к нации, "Служить» нации, "Быть счастливыми», "Служить народу» и проявлять "Вежливость» как лидеры народа.»
+
+ MAL_satu_untuk_semua_semua_untuk_satu_idea: "Satu Untuk Semua, Semua Untuk Satu!»
+ MAL_satu_untuk_semua_semua_untuk_satu_idea_desc: "»Один за всех, все за одного» - фраза, которую многие в правительстве [MAL.GetNameDef] выбирают для представления своего видения малайского социализма. Для правительства социализм - это концепция, которая должна быть реализована через националистическую призму, где малайские общины должны объединиться, чтобы поднять нацию за пределы ее колониального прошлого и поднять вместе с ней весь ее народ.»
+
+ MAL_merdeka_dengan_darah_idea: "Merdeka Dengan Darah»
+ MAL_merdeka_dengan_darah_idea_desc: "Вдохновляясь сочетанием китайского влияния, исламской теологии и более широкой нусантаранской политики, [MAL.GetAdjective]ое правительство разработало взгляд на социализм, в котором все эти вдохновения слились в единое социалистическое видение. Именно благодаря этому видению будущее нации видится таким, в котором все ее люди должны бороться за свою свободу, независимо от их расы, и именно благодаря этой борьбе все они могут объединиться под единым знаменем и преодолеть неравенство и разделение.»
+
+ MAL_malay_confederation_idea: "Малайская конфедерация»
+ MAL_malay_confederation_idea_desc: "Отвергая сильную центральную власть, [MAL.GetAdjective]ое правительство решило значительно расширить права отдельных штатов, входящих в [MAL.GetName]. Несмотря на то, что в стране остается центральное правительство с прямыми полномочиями по многим вопросам национальных интересов и обороны, власть в основном передана в руки местных правительств государств-членов, в которых доминируют малайцы.»
+
+ MAL_reformed_federation_idea: "Федеральная реформа»
+ MAL_reformed_federation_idea_desc: "Во времена колониального господства, как британского, так и немецкого, большая часть Малайского полуострова управлялась как федерация, объединенная под властью центральной власти. Теперь, освободившись от колониальных оков, [MAL.GetAdjective]ое правительство  решило распространить реформированную версию такой модели на всю страну, предоставив значительные полномочия штатам и вложив исполнительную власть в кабинет министров страны.»
+
+ MAL_army_idea: "[MAL.GetAdjective]ие вооруженные силы»
+ MAL_army_idea_desc: "Хотя исторически малайские штаты поставляли солдат и даже собственные полки для своих колониальных владык, бремя национальной обороны теперь нельзя просто переложить на других людей. В результате были созданы [MAL.GetAdjective]ие вооруженные силы, чтобы должным образом управлять не только национальной обороной [MAL.GetName] на суше, но даже на море и в небе.»
+ 

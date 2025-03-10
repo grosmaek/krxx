@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Parties ### 
+
+### Parties ###
  TUN_totalist_party: "Нео-Дустур"
  TUN_totalist_party_long: "Новая либеральная конституционная партия"
  TUN_syndicalist_party: "ВКТТ"
@@ -21,27 +21,17 @@
  TUN_paternal_autocrat_party_long: "Трон бея"
  TUN_national_populist_party: "Трон бея"
  TUN_national_populist_party_long: "Трон бея"
-  
- ### Characters ### 
+
+### Characters ###
  TUN_mahmoud_el_materi: "Махмуд Эль Матери"
- TUN_mahmoud_el_materi_commander_desc: "§YBorn:§! §LDecember 1897, in Tunis, Regency of Tunis§!" #NT!
  TUN_tahar_haddad: "Тахар Хаддад"
- TUN_tahar_haddad_leader_desc: "§YBorn:§! §LDecember 4th, 1899, in Tunis, Regency of Tunis§!" #NT!
  TUN_mohamed_ali_elhammi: "Мохамед Али эль-Хамми"
- TUN_mohamed_ali_elhammi_leader_desc: "§YBorn:§! §LOctober 15th, 1890, in El Hamma, Regency of Tunis§!" #NT!
  TUN_elie_cohen_hadria: "Эли Коэн-Хадриа"
- TUN_elie_cohen_hadria_leader_desc: "§YBorn:§! §LDecember 8th, 1898, in Tunis, Regency of Tunis§!" #NT!
  TUN_abdeljelil_zaouche: "Абдельжелил Зауш"
- TUN_abdeljelil_zaouche_leader_desc: "§YBorn:§! §LDecember 15th, 1873, in La Marsa, Beylik of Tunis§!" #NT!
  TUN_moncef_bey: "Монсеф Бей"
- TUN_moncef_bey_leader_desc: "§YBorn:§! §LMarch 4th, 1881, in Tunis, Beylik of Tunis§!" #NT!
  TUN_ahmad_bin_ali: "Ахмад бин Али"
- TUN_ahmad_bin_ali_commander_desc: "§YBorn:§! §LApril 13th, 1862, in Dar al-Taj Palace, La Marsa, Beylik of Tunis§!" #NT!
  TUN_habib_bourguiba: "Хабиб Бургиба"
- TUN_habib_bourguiba_leader_desc: "§YBorn:§! §LAugust 3rd, 1903, in Monastir, Regency of Tunis§!" #NT!
  TUN_abdelaziz_thaalbi: "Абдельазиз Таальби"
- TUN_abdelaziz_thaalbi_commander_desc: "§YBorn:§! §LSeptember 5th, 1876, in Tunis, Beylike of Tunis§!" #NT!
  TUN_hassen_belkhodja: "Хассен Белходжа"
- TUN_hassen_belkhodja_commander_desc: "§YBorn:§! §LMarch 10th, 1916, in Ras Jebel, Regency of Tunis§!" #NT!
  TUN_hassan_ferjani: "Хасан Ферджани"
- TUN_hassan_ferjani_commander_desc: "§YBorn:§! §L1907, in Hammamet, Regency of Tunis§!" #NT!
+ 

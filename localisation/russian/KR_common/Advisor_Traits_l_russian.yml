@@ -13,12 +13,14 @@
  KR_authoritarian_sic: "Контролируемая законодательная власть"
  KR_socialist_sic: "Усиленные профсоюзы"
  KR_colonial_government_sic: "Колониальное правительство"
+ KR_colonial_government_paperless_sic: "$KR_colonial_government_sic$"
 
 ### Political ###
  KR_backroom_backstabber: "Тайный манипулятор"
  KR_compassionate_gentleman: "Благожелательный джентльмен"
  KR_flamboyant_brute: "Пламенный грубиян"
  KR_great_compromiser: "Мастер компромисса"
+ KR_happy_amateur: "Счастливый любитель"
  KR_iron_fisted_brute: "Властный грубиян"
  KR_man_of_the_people: "Человек народа"
  KR_naive_optimist: "Наивный оптимист"
@@ -89,7 +91,7 @@
  KR_brilliant_lawyer: "Гениальный юрист"
  KR_corporate_suit: "Корпоративный пиджак"
  KR_crime_fighter: "Борец с преступностью"
- KR_head_of_intelligence: "Шпион-мастер"
+ KR_head_of_intelligence: "Скрытный джентельмен"
  KR_health_and_safety_adherent: "Поборник здоровья и безопасности"
  KR_media_magnate: "Медиа-магнат"
  KR_resource_industrialist: "Сырьевой промышленник"
@@ -109,6 +111,7 @@
  KR_pious_intellectual: "Благочестивый интеллектуал"
  KR_heartless_lawyer: "Бессердечный адвокат"
  KR_teleological_planner: "Телеологический планировщик"
+ KR_faithful_lieutenant: "Верный подчинённый"
 
 ##################################
 ### Generic Seconds in Command ###
@@ -126,7 +129,7 @@
  KR_economic_reformer_sic: "$KR_economic_reformer$"
  KR_flamboyant_brute_sic: "$KR_flamboyant_brute$"
  KR_great_compromiser_sic: "$KR_great_compromiser$"
- KR_happy_amateur_sic: "Довольный любитель"
+ KR_happy_amateur_sic: "$KR_happy_amateur$"
  KR_iron_fisted_brute_sic: "$KR_iron_fisted_brute$"
  KR_local_tyrant_sic: "Местный тиран"
  KR_man_of_the_people_sic: "$KR_man_of_the_people$"
@@ -152,16 +155,15 @@
 ######################################################
 
 ### ARM ###
- KR_emergency_government_sic: "Чрезвычайное положение"
- KR_dashnak_pragmatist_sic: "Дашнакский прагматик"
+ KR_emergency_government_sic: "Чрезвычайная власть"
+ KR_dashnak_pragmatist_sic: "Прагматист-дашнак"
  KR_nzhdehs_protege_sic: "Протеже Нжде"
  KR_patriotic_visionary_sic: "Патриотический визионер"
- KR_diligent_reformer_sic: "Усердный реформатор"
+ KR_diligent_reformer_sic: "Трудолюбивый реформатор"
  KR_resolute_activist_sic: "Решительный активист"
  KR_harbiye_officer_sic: "Офицер Харбие"
  KR_son_of_spartak_sic: "Сын Спартака"
  KR_free_thinking_intellectual_sic: "Свободомыслящий интеллектуал"
- KR_face_of_the_military_sic: "Лицо военного истеблишмента"
 
  ### ASY ###
  KR_supportive_metropolitan: "Поддерживающий митрополит"
@@ -326,7 +328,15 @@
 
 ### IND ###
  KR_integration_proponent: "Сторонник интеграции"
- 
+
+### IRE ###
+ KR_big_fellow_3: "$IRE_big_fellow_1$"
+ KR_the_chief_4: "$IRE_the_chief_1$"
+ KR_agrarian_firebrand: "Ярый аграрий"
+ KR_passionate_feminist: "Страстная феминистка"
+ KR_passionate_feminist_2: "$KR_passionate_feminist$"
+ KR_consummate_proceduralist: "Убежденный процессуалист"
+
 ### IRQ ###
  KR_conniving_opportunist: "Потворствующий оппортунист"
  KR_paramilitary_leader: "Лидер военизированного формирования"
@@ -338,14 +348,14 @@
 ### JAP ###
  KR_imperial_prince_sic: "Имперский принц"
  KR_reformist_socialist_sic: "Социалист-реформатор"
- KR_man_with_thousand_friends_sic: "Человек с тысячей друзей"
- KR_man_with_thousand_friends2_sic: "Человек с тысячей друзей"
- KR_scion_of_fujiwara_sic: "Потомок Фудзивары"
- KR_long_war_advocate: "Центрист"
+ KR_man_with_thousand_friends_sic: "Человек с тысячью друзьями"
+ KR_man_with_thousand_friends2_sic: "Человек с тысячью друзьями"
+ KR_scion_of_fujiwara_sic: "Отпрыск Фудзивары"
+ KR_long_war_advocate: "Централист"
  KR_short_war_advocate: "Реставрационист"
- KR_lord_keeper_of_the_privy_seal: "Лорд-хранитель Тайной печати"
- KR_nationalist_ideologue: "Идеолог национализма"
- KR_governor_of_bank_of_japan: "Управляющий Банком Японии"
+ KR_lord_keeper_of_the_privy_seal: "Хранитель Тайной печати"
+ KR_nationalist_ideologue: "Националистический идеолог"
+ KR_governor_of_bank_of_japan: "Глава Банка Японии"
 
 ### KUM ###
  KUM_royal_advisory_sic: "Королевский советник"
@@ -355,6 +365,10 @@
  KR_desert_spy_ring: "Пустынные шпионские ячейки"
  KR_armed_caravans: "Хорошо охраняемые караваны"
  KR_pliant_authorities: "Планирующие органы"
+
+### LEP ###
+ KR_flour_king: "Мучной царь"
+ KR_general_guillotine: "Генерал-гильотина"
 
 ### LIT ###
  KR_daimler_benz_engineer: "Инженер Даймлер-Бенц"
@@ -406,7 +420,7 @@
 
 ### POR ###
  KR_organic_doctrinaire_sic: "Проповедник органичности"
- KR_the_kings_lieutenant: "Королевский лейтенант"
+ KR_the_kings_lieutenant_sic: "Слуга короля"
  KR_militant_reactionary: "Воинственный реакционер"
  KR_veteran_democrat: "Ветеран-демократ"
  KR_the_paladin: "Паладин"
@@ -419,7 +433,18 @@
 
 ### QIE ###
  KR_army_chief_imperial_commissioner: "Имперский комиссар"
+ KR_idealistic_monarchist: "Идеалистический монархист"
+ KR_contentious_peacemaker: "Противоречивый миротворец"
+ KR_hero_of_chinese_liberalism: "Герой китайского либерализма"
+ KR_conductor_of_the_banking_clans: "Представитель банковских кланов"
+ KR_devout_constitutionalist: "Преданный конституционалист"
+ KR_leftist_lawyer: "Левый юрист"
+ KR_speaker_of_the_assembly: "Спикер Собрания"
+ KR_detested_educator: "Презираемый педагог"
+ KR_director_general: "Генеральный директор"
 
+### HNN ###
+ KR_resented_attache: "Отосланный атташе"
 ### ROM ###
  KR_the_capitanul_sic: "Căpitanul"
  KR_marshal_of_the_palace: "Маршал дворца"
@@ -467,6 +492,11 @@
 ### SWF ###
  KR_la_pasionaria: "La Pasionaria"
 
+### SZC ###
+ KR_gentleman_polymath_sic: "Джентльмен-полимат"
+ KR_establishment_navigator_sic: "Навигатор истеблишмента"
+ KR_marshal_of_tianjin: "Маршал Тяньцзиня"
+
 ### TIB ###
  KR_foreign_buddhist: "Буддист-иностранец"
 
@@ -476,6 +506,7 @@
  KR_geopolitical_theorist: "Теоретик геополитики"
  KR_natiocrat: "Нациократ"
  KR_cooperatives_proponent: "Сторонник кооперативов"
+ KR_cooperatives_proponent_2: "$KR_cooperatives_proponent$"
  KR_man_of_the_centre: "Человек центра"
  KR_voices_of_our_rebirth: "Голос перерождения"
  KR_council_of_jurors: "Глава присяжных"
@@ -484,7 +515,7 @@
  KR_representatives_of_protofis_2: "Представители Протофиса"
  KR_evil_genius: "Злой гений"
  KR_reformist_socialist_sic_2: "Реформист-социалист"
- KR_social_security_champion_2: "Чемпион по социальному обеспечению"
+ KR_social_security_champion_2: "Поборник социального обеспечения"
  KR_radical_firebrand: "Радикальный разжигатель"
  KR_idealistic_communard: "Коммунар-идеалист"
  KR_charming_romantic: "Харизматичный романтик"
@@ -498,6 +529,10 @@
  UKR_metropolitan_of_kyiv_and_all_ukraine: "Митрополит Киевский и всея Украины"
  KR_MHC_maknovite: "Махновец\n(Эксперт)"
  KR_MHC_propaganda: "Пропаганда\n(Эксперт)"
+ KR_MHC_chief_otaman: "Верховный Отаман\n(Эксперт)"
+ KR_MHC_chief_otaman_2: "Верховный Отаман\n(Эксперт)"
+ KR_MHC_chief_otaman_3: "Верховный Отаман\n(Эксперт)"
+ KR_MHC_chief_otaman_4: "Верховный Отаман\n(Эксперт)"
  KR_commissioner_of_poale_zion: "Комиссар Поалей Цион"
  KR_mathematical_pioneer: "Пионер математики"
  KR_incendiary_demagogue: "Зажигательный демагог"
@@ -536,7 +571,6 @@
  KR_patriotic_director: "Патриотический директор"
  KR_master_engineer: "Мастер-инженер"
  KR_public_works_administrator: "Администратор общественных работ"
- KR_revelatory_speaker: "Откровенный спикер"
  KR_christian_nationalist: "Христианский националист"
  KR_committed_internationalist: "Убежденный интернационалист"
  KR_father_of_the_assembly_line: "Отец сборочной линии"
@@ -561,6 +595,7 @@
 
 ### XSM ###
  KR_clan_council_sic: "Совет кланов"
+ KR_nationalist_imam: "Националистический имам"
 
 ####################################################
 ### Generic Military Staff - ported from vanilla ###

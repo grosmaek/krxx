@@ -63,6 +63,10 @@
  INS_pobsi_short: "ЦТОИ"
  INS_pobsi_long: "Центр Трудовых Организаций Инсулиндии"
 
+### Introduction ###
+
+ INS_guide: "§MDemocracy§! (§gAuthoritarian Democrat§! / §cSocial Conservative§! / §RRadical Socialist§!)\n£white_dot If the attempted coup occurs, have the militants push back and chased back into the jungle.\n£white_dot After completing the focus \"Insulindian Elections\", choose the \"Murba secures the workers' vote!\" to elect §RMurba§!, \"Nahdlatul Ulama wins on its mandate of religious democracy!\" to elect §cNahdlatul Ulama§!, \"Sukarno's hopes are fulfilled and the PNI wins the Dewan\" or \"The Dewan is hung and the PNI is forced into a coalition with NU\" to elect §gPNI§!.\n£white_dot After this election, every 4 years elections will be held with the same parties to choose.\n\n§MHouse of Islam§! / §MSultanate§! (§PPaternal Autocrat§!)\n£white_dot Have the unity of the Insulindia rebellion be at a medium level for the attempted coup to happen and at a low one to have the royalist countercoup happen too.\n£white_dot In the attempted coup, have the militants take control.\n£white_dot To have the Sultanate, have Jakarta be secured by the rebels in the royalist countercoup."
+
 ### Events ###
  ins.1.t: "Убийство Сукарно"
  ins.1.d: "Во время визита нашего президента в Суматру, кто-то швырнул в него гранату. Подозреваемый был быстро задержан и опознан, как боевик Дарул Ислам. Однако положение президента на данный момент неясно: бомба не взорвалась, и он выжил; или грязные боевики преуспели в своем заговоре нацеленом на дестабилизацию нашего правительства?"
@@ -666,11 +670,15 @@
  INS_alliance_with_australasia: "Присоединиться к Антанте"
  INS_alliance_with_australasia_desc: "Антанта, если сравнивать с недавним прошлым, находится сейчас не в самом лучшем положении, но она все еще существует, и имеет некоторого важного члена, с которым мы бы хотели остаться в хороших отношениях."
  INS_contacts_within_asia: "Контакты с Азией"
+ INS_join_internationale: "Вступить в Интернационал"
+ INS_join_internationale_desc: "Интернационал - наш самый сильный союзник в борьбе с западным империализмом. И хотя Париж и Лондон находятся далеко от Тихого океана, они могут нам помочь. Было бы славно поддерживать хорошие отношения с ними."
  INS_contacts_within_asia_desc: "Великие страны азиатского континента являются нашими естественными союзниками в борьбе за азиатское единство против западного империализма. Если мы будем поддерживать с ними хорошие отношения, возможно, мы сможем получить от них защиту."
  INS_alliance_with_bharatiya: "Альянс с Бхаратской Коммуной"
  INS_alliance_with_bharatiya_desc: "Бхаратская Коммуна, вместе со своим реакционным соседом,  была первой страной, сбросившей оковы колониализма. Мы должны заключить с ними союз, чтобы дать отпор западным колониальным собакам!"
  INS_join_co_prosperity_sphere: "Присоединиться к Сфере совместного процветания"
  INS_join_co_prosperity_sphere_desc: "Япония страна восходящего солнца Азии, ей удалось стать наравне с западными народами. Японцы были одной из немногих наций, которым удалось избежать колониального гнета, и теперь они стремятся распространить свое влияние по всей Азии. Мы должны присоединиться к Сфере взаимопроцветания, чтобы вместе противостоять вторжению Запада!"
+ INS_cooperate_with_the_chinese: "Кооперация с китайцами"
+ INS_cooperate_with_the_chinese_desc: "И хотя Китай годами угнетался западными империалистами, Дракон вновь восстал из пепла. Естественным будет скооперироваться с ними в деле борьбы с Европой и Японией."
  INS_international_contacts: "Международные контакты"
  INS_international_contacts_desc: "С установлением международных контактов, наш голос будет восприниматься более серьезно на мировой политической арене!"
  INS_economy_of_insulindia: "Экономика Инсулиндии"
@@ -882,8 +890,7 @@
  INS_sekarmadji_kartosuwirjo: "Секармаджи Картосувирио"
  INS_hamengkubuwono_ix: "Хаменгкубувоно IX"
 
- INS_raymond_westerling: "Реймонд Вестерлинг"
- INS_raymond_westerling_leader_desc: "Из всех стран, в которых Вестрелинг мог оказаться, Инсулиндия была одним из его последних вариантов, и хотя он принял ислам ещё в молодости, его отношения с левыми и Сакерат Исламом не могут быть хуже. Его отряд получил как хорошую, так и плохую репутацию за дисциплину, а также отсутствие эмоций в вынесении своих приказов. В кромешном хаосе, охватившем страну Вестерлинг стал довольно иностранным влиянием, даже для страны полной иностранцев. Хотя, возможно это и дало ему шанс забраться на самый верх."
+ INS_soetomo: "Соетомо"
 
  INS_urip_sumohardjo: "Урип Сумохарджо"
  INS_basuki_rahmat: "Басуки Рахмат"

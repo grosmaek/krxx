@@ -6,13 +6,10 @@
  AZR_DEF: "Азербайджан"
 
  AZR_totalist: "Социалистическая Республика Азербайджан"
- AZR_totalist_ADJ: "Азербайджанск"
  AZR_totalist_DEF: "Социалистическая Республика Азербайджан"
  AZR_syndicalist: "Социалистическая Республика Азербайджан"
- AZR_syndicalist_ADJ: "Азербайджанск"
  AZR_syndicalist_DEF: "Социалистическая Республика Азербайджан"
  AZR_radical_socialist: "Социалистическая Республика Азербайджан"
- AZR_radical_socialist_ADJ: "Азербайджанск"
  AZR_radical_socialist_DEF: "Социалистическая Республика Азербайджан"
 
 ### Parties ###
@@ -36,9 +33,6 @@
  AZR_paternal_autocrat_party_long: "Вооружённые Силы Азербайджана"
  AZR_national_populist_party: "Пантюркситы"
  AZR_national_populist_party_long: "Партия Пантюркситов"
- 
- AZR_democratic_coalition: "Демократическая коалиция"
- AZR_democratic_coalition_long: "Демократическая коалиция"
  
  ### Characters ###
  AZR_mir_jafar_baghirov: "Мир Джафар Багиров"

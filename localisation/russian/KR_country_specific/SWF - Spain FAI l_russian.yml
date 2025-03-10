@@ -1,10 +1,10 @@
 ﻿l_russian:
-  
+
  SWF_focus: "Дерево фокусов НКТ-ФАИ"
-  
- ### Ideas ### 
+
+### Ideas ###
  SWF_advisors_france: "Французская поддержка"
-  
+
  SWF_patrullas_de_control_idea: "Патрули контроля"
  SWF_patrullas_de_control_idea_desc: "Поскольку в ходе гражданской войны большая часть полиции перешла на сторону социалистов, для поддержания внутреннего мира в стране были созданы новые силы по охране общественного порядка."
  SWF_confederal_militias_idea: "Конфедеративное ополчение"
@@ -37,16 +37,16 @@
  SWF_socialism_desc: "Концепция PSOE направляет Испанию по пути марксистского социализма, надеясь восстановить процветание страны и освободить ее народы от угнетения."
  SWF_beacon: "Сияющий маяк социализма"
  SWF_beacon_desc: "С укоренением социализма в Иберии многие смотрят на страну как на свет во тьме, как на настоящий маяк социализма."
-  
- ### Tooltips ### 
+
+### Tooltips ###
  spanish_civil_war: "Испанская Гражданская война началась"
  SWF_political_effect: "\n§CЭтот фокус даст разный национальный дух в зависимости от того, будет ли у власти §РНКТ-ФАИ§! или §РPSOE§!§!"
-  
- ### Focuses ### 
+
+### Focuses ###
  SWF_consolidating_spain: "Объединение Испании"
  SWF_consolidating_spain_desc: "Испанское государство долго раздирали внутренние конфликты, и теперь только время покажет, сможет ли наш режим удержать его на плаву."
-  
- ### Economy Focuses ### 
+ 
+### Economy Focuses ###
  SWF_rebuilding_the_economy: "Восстановление экономики"
  SWF_rebuilding_the_economy_desc: "Экономика Испании была полностью разрушена нашими недавними бедами. Теперь, когда ситуация стабилизировалась, настало время для восстановления."
  SWF_expand_railroads: "Расширение железных дорог"
@@ -79,8 +79,8 @@
  SWF_empower_the_unions_desc: "Профсоюзы являются основой синдикализма и освобождения рабочего класса. Для того чтобы испанская экономика действительно процветала, мы должны значительно расширить возможности профсоюзов нашей страны, что вернет власть скромному рабочему."
  SWF_spanish_miracle: "Испанское чудо"
  SWF_spanish_miracle_desc: "Наконец-то испанская экономика восстановлена. По всей Испании люди упорно трудятся, наслаждаясь вновь обретенным экономическим процветанием."
-  
- ### Army Focuses ### 
+
+### Army Focuses ###
  SWF_peoples_army: "Создать Народную армию"
  SWF_peoples_army_desc: "Народная революция наконец-то свершилась. Настало время для новой армии, которая должна заменить старую структуру царской армии на структуру, соответствующую революции! Таким образом, мы сможем отбросить старый и устаревший образ мышления и принять новый."
  SWF_modern_terrico: "Сапоги на земле"
@@ -111,8 +111,8 @@
  SWF_tank_shipments_desc: "Наши товарищи в Великобритании располагают значительными запасами танков, оставшихся со времен старого режима, которые можно легко переоборудовать, замазав монархическую символику свежим слоем краски. В условиях продолжающейся войны, в которую мы втянуты, мы можем использовать эти танки и поэтому должны запросить их поставку у наших британских союзников."
  SWF_a_revolutionary_army: "Революционная армия"
  SWF_a_revolutionary_army_desc: "Еще недавно наша армия была безнадежно устаревшей, практически не продвинувшись вперед со времен наполеоновских войн. Теперь же, благодаря последним реформам и технологическому прогрессу, испанскую армию уже нельзя сбрасывать со счетов как устаревший реликт - это современная армия, которая в скором времени может стать главной армией Европы."
-  
- ### Navy Focuses ### 
+
+### Navy Focuses ###
  SWF_armada_espanola: "Военно-морской флот Испании"
  SWF_armada_espanola_desc: "Во времена золотого века Испании испанская Армада была самым большим флотом в мире. Ее корабли бороздили океаны, а мы правили волнами. Мы должны модернизировать наш флот, чтобы вернуть славу нашим военно-морским силам."
  SWF_upgrade_dockyards: "Генеральный директорат по торговому судоходству"
@@ -137,8 +137,8 @@
  SWF_cruiser_support_desc: "Использование небольших легкобронированных кораблей-разведчиков позволит рассредоточить силы на большой территории для разведки всего побережья, что обеспечит возможность быстрого реагирования на вторжение противника."
  SWF_masters_of_the_sea: "Владыки морей"
  SWF_masters_of_the_sea_desc: "Испанский флот был успешно реформирован и теперь является одним из величайших флотов мира. Мы вновь обретаем законный титул морских хозяев."
-  
- ### Air Force Focuses ### 
+
+### Air Force Focuses ###
  SWF_fuerzas_aereas_populares: "Народные ВВС"
  SWF_fuerzas_aereas_populares_desc: "От скромных истоков в составе ВМФ до интенсивного использования в последние годы авиация выросла настолько, что стала полноценным родом войск. Мы будем развивать технологии и профессионалов, которые приведут нас к покорению неба!"
  SWF_upgrade_air_ports: "Национализация гражданских аэродромов"
@@ -165,8 +165,8 @@
  SWF_air_defences_desc: "Противовоздушная оборона жизненно важна для защиты Испании, мы не можем позволить вражеским бомбардировщикам разрушить наши прекрасные города. Поэтому мы должны построить по всей стране противовоздушные батареи, чтобы сбивать любые самолеты, которые осмелятся атаковать ее."
  SWF_rule_the_skies: "Чемпионы небес"
  SWF_rule_the_skies_desc: "Военно-воздушные силы - это уже не разношерстное сборище добровольцев, а полноценный орган вооруженных сил страны. Будем править небом Испании и других стран!"
-  
- ### Politics Focuses ### 
+
+### Politics Focuses ###
  SWF_party_congress: "Конгресс иберийского социализма"
  SWF_party_congress_desc: "Теперь, когда наши беды закончились, настало время провести съезд, чтобы обсудить дальнейшее направление развития страны и устранить политический раскол, который остался между монархистами, экстремистами и нашим новым социалистическим режимом."
  SWF_anarchist_revolution: "Анархическая революция"
@@ -197,9 +197,9 @@
  SWF_strong_government_desc: "Последние несколько десятилетий Испания находилась в состоянии вечной нестабильности и хаоса. Теперь кажется, что благодаря нашим усилиям этот период нестабильности подошел к концу, и мы можем двигаться к процветающему будущему."
  SWF_beacon_socialism: "Сияющий маяк испанского социализма"
  SWF_beacon_socialism_desc: "Наши усилия, приложенные за последние несколько месяцев, принесли свои плоды, и волна социализма, прокатившаяся по стране, прочно укоренилась. Многие угнетенные народы мира смотрят на нас как на маяк надежды во тьме, зная, что однажды и они будут освобождены социализмом."
-  
- ### Foreign Policy Focuses ### 
-  
+
+### Foreign Policy Focuses ###
+
  SWF_foreign_focus: "Взгляд вдаль"
  SWF_foreign_focus_desc: "Пришло время смотреть вдаль, не на восстановление самой Испании, а на революцию, которую мы должны помочь распространить по всему миру. За рабочий класс!"
  SWF_join_france: "Подходная коммуна"
@@ -214,8 +214,8 @@
  SWF_british_advisors_desc: "Когда-то Британия была пристанищем реакционеров, а теперь здесь находятся, пожалуй, самые лучшие в синдикалистском мире военно-морские и военно-воздушные силы. Если мы захотим усовершенствовать свой военно-морской и военно-воздушный флот, британцы с готовностью окажут нам помощь."
  SWF_joint_military_training: "Совместная военная подготовка"
  SWF_joint_military_training_desc: "Хотя учения британских и французских революционеров сами по себе принесли огромную пользу нашей стране, объединив их, мы сможем поднять нашу армию на еще большую высоту, о которой еще несколько лет назад мало кто мог мечтать."
-  
- ### Parties ### 
+
+### Parties ###
  SWF_totalist_party: "$SPA_totalist_party$"
  SWF_totalist_party_long: "$SPA_totalist_party_long$"
  SWF_syndicalist_party: "$SPA_syndicalist_party$"
@@ -236,12 +236,12 @@
  SWF_paternal_autocrat_party_long: "$SPA_paternal_autocrat_party_long$"
  SWF_national_populist_party: "$SPA_national_populist_party$"
  SWF_national_populist_party_long: "$SPA_national_populist_party_long$"
-  
- ### Cosmetic Tags ### 
+
+### Cosmetic Tags ###
  SPA_socialist: "Иберия"
  SPA_socialist_ADJ: "Иберийск"
  SPA_socialist_DEF: "Иберия"
-  
+
  SPA_socialist_totalist: "Испанская Социалистическая Республика"
  SPA_socialist_totalist_ADJ: "Испанск"
  SPA_socialist_totalist_DEF: "Испанская Социалистическая Республика"
@@ -251,84 +251,57 @@
  SPA_socialist_radical_socialist: "Испанская Социалистическая Республика"
  SPA_socialist_radical_socialist_ADJ: "Испанск"
  SPA_socialist_radical_socialist_DEF: "Испанская Социалистическая Республика"
-  
+
  SPA_socialist_iberia_radical_socialist: "Иберийский Союз"
+ SPA_socialist_iberia_radical_socialist_ADJ: "Иберийск"
  SPA_socialist_iberia_radical_socialist_DEF: "Иберийский Союз"
  SPA_socialist_iberia_syndicalist: "Иберийская Конфедерация"
+ SPA_socialist_iberia_syndicalist_ADJ: "Иберийск"
  SPA_socialist_iberia_syndicalist_DEF: "Иберийская Конфедерация"
  SPA_socialist_iberia_totalist: "Иберийский Союз"
+ SPA_socialist_iberia_totalist_ADJ: "Иберийск"
  SPA_socialist_iberia_totalist_DEF: "Иберийский Союз"
-  
+
  SPA_socialist_civil_war: "НКТ-ФАИ"
  SPA_socialist_civil_war_ADJ: "Красноиспанск"
  SPA_socialist_civil_war_DEF: "НКТ-ФАИ"
-  
- ### Characters ### 
+
+### Characters ###
  SWF_dolores_ibarruri_gomez: "Долорес Ибаррури"
- SWF_dolores_ibarruri_gomez_leader_desc: "§YBorn:§! §LDecember 9th, 1895, in Gallarta, Province of Biscay, Kingdom of Spain§!" #NT!
  SWF_angel_pestana_nunez: "Анхель Пестанья Нуньес"
- SWF_angel_pestana_nunez_leader_desc: "§YBorn:§! §LFebruary 14th, 1886, in Santo Tomás de las Ollas, Province of León, Kingdom of Spain§!" #NT!
- SWF_buenaventura_durruti_dumange: "Buenaventura Durruti Dumange" #NT!
- SWF_buenaventura_durruti_dumange_leader_desc: "§YBorn:§! §LJuly 14th, 1896, in León, Province of León, Kingdom of Spain§!\n§YBackground:§! §LBeing the son of a common labourer and socialist trade unionist, it is hardly a surprise that José Buenaventura Durruti Dumange would find his way to socialism and anarchist thought from a young age. However, very few who knew this man in his formative years could have predicted that less than two decades later he would become one of the premier commanders of the Spanish revolutionary cause.\n\nDespite strikes and worker disputes being commonplace in Durruti's childhood, his involvement in the general strike of 1917 would dramatically alter the direction of his life. Initially fleeing to France after the deployment of the Civil Guard against the strikers, he was rearrested not long after attempting to re-enter Spain. Managing to escape captivity and cross the border once again, Durruti soon found himself in the middle of the last days of the Third French Republic.\n\nUsing connections made during his prior stays in the nation, the young anarchist joined one of the many revolutionary cells across France participating in the uprising against the old regime. Distinguishing himself in the fighting for control of Marseilles, Durruti quickly attracted the attention of those in the new government who wished to export their revolution across the globe. His initial plans to return to Spain after the war's conclusion were soon scuppered by the strikes in Argentina developing into a full blown civil war.\n\nWithin a few months he would set sail for Patagonia alongside a few of his new comrades on an indiscernible vessel filled with leftover armaments from the Weltkrieg and Civil War. Their eventual arrival in Patagonia was met with a welcome from the strikers more akin to that of returning soldiers than one would expect in response to a simple military attaché. Even with this aid from France the war in Patagonia quickly reached a stalemate. With further victories seeming unlikely Durruti soon departed back to his homeland for many years, only returning to Patagonia much later alongside Nestor Makhno. Even without a full victory being achieved, words of his alleged exploits still began to spread like wildfire in anarchist circles.\n\nNow having returned to the land of his birth once more, Durruti has quickly become the figurehead of Spain's anarcho-syndicalist movement. While not often involving himself in much of the daily bureaucracy, his continuous influence upon it is hard for anyone to deny.§!" #NT!
- SWF_buenaventura_durruti_dumange_advisor_desc: "§YBorn:§! §LJuly 14th, 1896, in León, Province of León, Kingdom of Spain§!" #NT!
-  
+ SWF_buenaventura_durruti: "Буэнавентура Дуррути Думанхе"
+ SWF_buenaventura_durruti_leader_desc: "§YОписание\nРодился:§! §g14-го июля, 1896, Леон, Королевство Испания\n§YПолитическая карьера:§! Сын простого рабочего и профсоюзного деятеля-социалиста, Хосе Буэнавентура Дуррути Дюманже с юных лет пришел к социализму и анархистской мысли. Однако мало кто из тех, кто знал этого человека в годы его становления, мог предположить, что менее чем через два десятилетия он станет одним из главных командиров испанской революции.\n\nНесмотря на то, что забастовки и рабочие споры были обычным делом в детстве Дуррути, его участие во всеобщей забастовке 1917 г. кардинально изменит направление его жизни. После того как против забастовщиков была направлена гражданская гвардия, он бежал во Францию, но вскоре был вновь арестован при попытке вернуться в Испанию. Сумев избежать плена и вновь пересечь границу, Дюррути вскоре оказался в центре последних дней Третьей французской республики.\n\nПользуясь связями, приобретенными во время предыдущего пребывания в стране, молодой анархист присоединился к одной из многочисленных революционных ячеек по всей Франции, участвовавших в восстании против старого режима. Отличившись в борьбе за контроль над Марселем, Дюррути быстро привлек внимание тех представителей нового правительства, которые хотели распространить свою революцию по всему миру. Его первоначальные планы вернуться в Испанию после окончания войны были сорваны из-за забастовок в Аргентине, переросших в полномасштабную гражданскую войну.\n\nЧерез несколько месяцев он вместе с несколькими своими новыми товарищами отплывает в Патагонию на неразборном судне, наполненном остатками вооружения времен Вельткрига и гражданской войны. По прибытии в Патагонию забастовщики встретили их скорее как вернувшихся солдат, чем как простого военного атташе. Но даже с такой помощью Франции война в Патагонии быстро зашла в тупик. Поскольку дальнейшие победы казались маловероятными, Дюррути вскоре уехал на родину на долгие годы, вернувшись в Патагонию лишь много позже вместе с Нестором Махно. Даже не добившись полной победы, слухи о его предполагаемых подвигах стали распространяться в анархистских кругах как лесной пожар.\n\nСейчас, вернувшись на родину, Дуррути быстро стал лидером анархо-синдикалистского движения Испании. Хотя он не часто принимает участие в повседневной бюрократической работе, его постоянное влияние на нее трудно отрицать."
+
  SWF_comite_central_de_la_cnt_fai: "Центральный комитет НКТ-ФАИ"
- SWF_comite_central_de_la_cnt_fai_sic_desc: "§YFounded:§! §LJuly 1936, in Barcelona, Province of Barcelona, Kingdom of Spain§!" #NT!
-  
- SWF_bibiano_fernandez_osorio_y_tafall: "Bibiano Fernández Osorio y Tafall" #NT!
- SWF_bibiano_fernandez_osorio_y_tafall_commander_desc: "§YBorn:§! §LDecember 3rd, 1902, in Salcedo, Province of Pontevedra, Kingdom of Spain§!" #NT!
- SWF_domingo_batet_mestres: "Domingo Batet Mestres" #NT!
- SWF_domingo_batet_mestres_commander_desc: "§YBorn:§! §LAugust 30th, 1872, in Tarragona, Province of Tarragona, Kingdom of Spain§!" #NT!
+
+ SWF_fernandez_osorio_y_tafall: "Фернандес Осорио-и-Тафаль"
+ SWF_domenec_batet: "Доминго Батет"
  SWF_jose_riquelme_y_lopez_bago: "Хосе Рикельме-и-Лопес Баго"
- SWF_jose_riquelme_y_lopez_bago_commander_desc: "§YBorn:§! §LAugust 31st, 1880, in Tarragona, Province of Tarragona, Kingdom of Spain§!" #NT!
  SWF_emilio_herrera_linares: "Эмилио Эррера Линарес"
- SWF_emilio_herrera_linares_commander_desc: "§YBorn:§! §LFebruary 13th, 1879, in Granada, Province of Granada, Kingdom of Spain§!" #NT!
  SWF_vicente_rojo_lluch: "Висенте Рохо"
- SWF_vicente_rojo_lluch_commander_desc: "§YBorn:§! §LOctober 8th, 1894, in Fuente de la Higuera, Province of Valencia, Kingdom of Spain§!" #NT!
-  
+
  SWF_francisco_largo_caballero: "Франсиско Ларго Кабальеро"
  SWF_francisco_largo_caballero_leader_desc: "§YОписание\nРодился:§! §g15-го октября, 1869, Мадрид, Королевство Испания\n§YПолитическая карьера:§! Рожденный в нищете и воспитанный матерью-одиночкой, бежавшей от жестокого мужа, Франциско Ларго Кабальеро прошел далеко не легкий жизненный путь. Вынужденный начать работать, чтобы прокормить семью, в возрасте всего 7 лет, он со временем нашел работу штукатура, оттачивая свое мастерство именно на лепнине. Продолжение работы в этой области в двадцатилетнем возрасте и растущее рабочее движение в стране вскоре вдохновили его на вступление во Всеобщий союз трудящихся (UGT). Через несколько лет членство в UGT привело его к вступлению в близкую к нему Испанскую социалистическую рабочую партию (PSOE), которую он возглавляет и по сей день.\n\nНа протяжении последующих двух десятилетий Ларго активно выступал в поддержку испанского рабочего движения и постепенно стал одним из главных лидеров испанского социализма. Когда-то он был просто вдохновлен Пабло Иглесиасом, основателем и лидером PSOE, но вскоре стал вторым помощником Иглесиаса и его преемником в период становления режима де Риверы.\n\n В условиях новой диктатуры он поначалу придерживался противоречивого реформистского подхода, сотрудничая с правительством. Однако несостоятельность выполнения требований де Риверы привела к тому, что Ларго и PSOE выступили против режима и присоединились к своим соратникам-республиканцам в попытках сместить де Риверу, что в конечном итоге способствовало установлению недолговечной Второй республики.\n\nПохоже, что новый режим окончательно утвердился, и Франсиско Ларго взял на себя роль лидера новой республики, чтобы вести ее вперед. Многие пытаются описать идеологию, с которой Ларго теперь ведет страну. Одни называют его "революционным реформистом" из-за его более умеренных взглядов, другие  "паблоистом" из-за вдохновения бывшим лидером, а некоторые даже "испанским Лениным", что часто является уничижительной ссылкой на несостоявшегося большевика. Только время покажет, какое наследие оставит этот политический хамелеон для Испании и ее народов."
- SWF_francisco_largo_caballero_advisor_desc: "§YBorn:§! §LOctober 15th, 1869, in Madrid, Province of Madrid, Kingdom of Spain§!" #NT!
  SWF_juan_garcia_oliver: "Хуан Гарсия Оливер"
- SWF_juan_garcia_oliver_advisor_desc: "§YBorn:§! §LJanuary 20th, 1901, in Reus, Province of Tarragona, Kingdom of Spain§!" #NT!
  SWF_horacio_martinez_prieto: "Орасио Мартинес Прието"
- SWF_horacio_martinez_prieto_advisor_desc: "§YBorn:§! §L1902, in Bilbao, Province of Biscay, Kingdom of Spain§!" #NT!
- SWF_juan_peiro_belis: "Juan Peiró Belis" #NT!
- SWF_juan_peiro_belis_advisor_desc: "§YBorn:§! §LFebruary 18th, 1887, in Barcelona, Province of Barcelona, Kingdom of Spain§!" #NT!
- SWF_andres_nin_perez: "Andrés Nin Pérez" #NT!
- SWF_andres_nin_perez_advisor_desc: "§YBorn:§! §LFebruary 4th, 1892, in El Vendrell, Province of Tarragona, Kingdom of Spain§!" #NT!
- SWF_ramon_rufat_llop: "Ramón Rufat Llop" #NT!
- SWF_ramon_rufat_llop_advisor_desc: "§YBorn:§! §LDecember 28th, 1916, in Vilanova i la Geltrú, Province of Barcelona, Kingdom of Spain§!" #NT!
-  
+ SWF_joan_peiro: "Хоан Пейро"
+ SWF_andreu_nin_perez: "Андреу Нин и Перес"
+ SWF_ramon_rufat: "Рамон Руфат Ллоп"
+
  SWF_enrique_lister_forjan: "Энрике Листер Форхан"
- SWF_enrique_lister_forjan_army_chief_desc: "§YBorn:§! §LApril 21st, 1907, in Ameneiro, Province of La Coruña, Kingdom of Spain§!" #NT!
  SWF_joaquin_ascaso_budria: "Хоакин Аскасо Будрия"
- SWF_joaquin_ascaso_budria_high_command_desc: "§YBorn:§! §LJune 5th, 1906, in Zaragoza, Province of Zaragoza, Kingdom of Spain§!" #NT!
  SWF_juan_lopez_sanchez: "Хуан Лопес Санчес"
- SWF_juan_lopez_sanchez_leader_desc: "§YBorn:§! §LJanuary 16th, 1900, in Bullas, Province of Murcia, Kingdom of Spain§!" #NT!
- SWF_manuel_taguena_lacorte: "Manuel Tagüeña Lacorte" #NT!
- SWF_manuel_taguena_lacorte_high_command_desc: "§YBorn:§! §LMay 23rd, 1913, in Madrid, Province of Madrid, Kingdom of Spain§!" #NT!
- SWF_juan_modesto_guilloto_leon: "Juan \"Modesto\" Guilloto León" #NT!
- SWF_juan_modesto_guilloto_leon_high_command_desc: "§YBorn:§! §LSeptember 24th, 1906, in El Puerto de Santa María, Province of Cádiz, Kingdom of Spain§!" #NT!
+ SWF_manuel_taguena: "Мануэль Тагенья"
+ SWF_juan_modesto: "Хуан Модесто"
  SWF_cipriano_mera: "Чиприано Мера"
- SWF_cipriano_mera_leader_desc: "§YBorn:§! §LNovember 4th, 1897, in Madrid, Province of Madrid, Kingdom of Spain§!" #NT!
- SWF_julio_mangada_rosenorn: "Julio Mangada Rosenörn" #NT!
- SWF_julio_mangada_rosenorn_army_chief_desc: "§YBorn:§! §LJune 30th, 1877, in Sancti Spíritus, Santa Clara Province, Captaincy General of Cuba§!" #NT!
+ SWF_julio_mangada: "Хулио Мангада"
  SWF_ignacio_hidalgo: "Игнасио Идальго де Сиснерос"
- SWF_ignacio_hidalgo_air_chief_desc: "§YBorn:§! §LJuly 11th, 1896, in Vitoria-Gasteiz, Province of Álava, Kingdom of Spain§!" #NT!
  SWF_felipe_diaz_sandino: "Фелипе Диас Сандино"
- SWF_felipe_diaz_sandino_air_chief_desc: "§YBorn:§! §LSeptember 25th, 1891, in Caldetas, Province of Barcelona, Kingdom of Spain§!" #NT!
  SWF_pedro_prado_mendizabal: "Педро Прадо Мендисабаль"
- SWF_pedro_prado_mendizabal_navy_chief_desc: "§YBorn:§! §LJuly 29th, 1902, in Lugo, Province of Lugo, Kingdom of Spain§!" #NT!
  SWF_luis_gonzales_de_ubieta: "Луис Гонсалес де Убьета"
- SWF_luis_gonzales_de_ubieta_navy_chief_desc: "§YBorn:§! §LNovember 18th, 1899, in León, Province of León, Kingdom of Spain§!" #NT!
  SWF_jose_pellicer_gandia: "Хосе Пеллисер Гандиа"
- SWF_jose_pellicer_gandia_theorist_desc: "§YBorn:§! §LApril 28th, 1912, in Valencia, Province of Valencia, Kingdom of Spain§!" #NT!
- SWF_virgilio_leret_ruiz: "Virgilio Leret Ruiz" #NT!
- SWF_virgilio_leret_ruiz_theorist_desc: "§YBorn:§! §LMarch 23rd, 1902, in Pamplona, Province of Navarra, Kingdom of Spain§!" #NT!
+ SWF_virgilio_leret_luiz: "Вирджилио Лерет Руис"
  SWF_luis_casado_escudero: "Луис Касадо Эскудеро"
- SWF_luis_casado_escudero_high_command_desc: "§YBorn:§! §LSeptember 27th, 1897, in Vigo, Province of Pontevedra, Kingdom of Spain§!" #NT!
  SWF_eleuterio_diaz_tendero_merchan: "Элеутерио Диас-Тендеро Мерчан"
- SWF_eleuterio_diaz_tendero_merchan_high_command_desc: "§YBorn:§! §LSeptember 16th, 1883, in Consuegra, Province of Toledo, Kingdom of Spain§!" #NT!
+ SWF_enrique_lister: "Энрике Листер"
  SWF_pavel_batov: "Павел Батов"
- SWF_pavel_batov_high_command_desc: "§YBorn:§! §LJune 20th, 1897, in Filisovo, Yaroslavl Governorate, Russian Empire§!" #NT!

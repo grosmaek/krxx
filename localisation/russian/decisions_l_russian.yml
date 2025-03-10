@@ -37,9 +37,4 @@
  IMPORTED_FILM_INDUSTRY: "Импортировать пропагандистские фильмы от союзников"
  DOMESTIC_FILM_INDUSTRY_DESC: "[ROOT.GetAdjective]ая киноиндустрия значительно развилась за последнее десятилетие. Народ соскучился по развлечениям, и потому мы можем многое выгадать, дав ему кинофильмы патриотической направленности."
  IMPORTED_FILM_INDUSTRY_DESC: "Наши благодетели и союзники грамотно используют пропагандистские фильмы. Вложив небольшие средства, мы могли бы снимать такие фильмы в своей стране, чтобы склонять население поддержать войну."
- available_mio_tt: "§GAvailable§! as §YMilitary Industrial Organisation§!:" #NT!
- unavailable_mio_tt: "§RUnavailable§! as §YMilitary Industrial Organisation§!:" #NT!
- invites_mio_tt: "§YInvites Foreign Military Industrial Organisation§!:" #NT!
- diversify_special_forces: "Диверсифицировать элитные войска"
- diversify_special_forces_desc: "Обычных войск не хватит, чтобы пережить грядущую бурю. Нужно что-то новое."
- add_potential_special_forces_tree_tt: "Добавляет §H1§! бесплатную §Hспециализацию войск§!: войска специального назначения"
+ 

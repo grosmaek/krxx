@@ -4,7 +4,19 @@
  navy_leader: "Адмирал"
  operative_skill_1: "Завербовать"
  operative_skill_2: "Агент"
-  
+
+ tank_manufacturer: "Конструктор танков"
+ artillery_manufacturer: "Конструктор артиллерии"
+ infantry_equipment_manufacturer: "Конструктор пехотного снаряжения"
+ support_equipment_manufacturer: "Конструктор снаряжения отрядов обеспечения"
+ motorized_equipment_manufacturer: "Конструктор автотранспорта"
+ naval_manufacturer: "Конструктор кораблей"
+ industrial_concern: "Промышленный концерн"
+ railway_company: "Железнодорожная компания"
+ construction_company: "Строительная компания"
+ electronics_concern: "Электронный концерн"
+ electronics_developer: "Производитель электроники"
+
  seawolf: "Морской волк"
  seawolf_desc: "§LМорской волк особенно силен в охоте на конвои.§!"
  superior_tactician: "Превосходный тактик"
@@ -65,13 +77,36 @@
  air_controller_desc: "§LСпециалист по недавно возникшей палубной авиации. Отличный выбор на роль командующего авианосцем.§!"
  naval_invader: "Интервент"
  naval_invader_desc: "§LСпециалист по морским вторжениям. Идеальный кандидат для подготовки и осуществления вторжения на неприятельский берег.§!"
-  
+ bearer_of_artillery: "Артиллерийская обслуга"
+ bearer_of_artillery_desc: "§LНе уронит ни единого ящика!§!"
+
+ CAS_manufacturer: "Конструктор штурмовиков"
+ light_aircraft_manufacturer: "Конструктор легкой авиации"
+ light_aircraft_manufacturer_2: "Конструктор быстрой авиации"
+ fuel_efficient_aircraft_manufacturer: "Конструктор дальней авиации"
+ medium_aircraft_manufacturer: "Конструктор средней авиации"
+ heavy_aircraft_manufacturer: "Конструктор тяжелой авиации"
+ naval_aircraft_manufacturer: "Конструктор палубной авиации"
+ fast_tank_manufacturer: "Конструктор быстрых танков"
+ medium_tank_manufacturer: "Конструктор средних танков"
+ heavy_tank_manufacturer: "Конструктор тяжелых танков"
+ infantry_tank_manufacturer: "Конструктор пехотного танка"
+ armored_car_manufacturer: "Конструктор бронемашины"
+ pacific_fleet_naval_manufacturer: "Конструктор кораблей Тихоокеанского флота"
+ atlantic_fleet_naval_manufacturer: "Конструктор кораблей Атлантического флота"
+ raiding_fleet_naval_manufacturer: "Конструктор рейдерских кораблей"
+ convoy_escort_naval_manufacturer: "Конструктор кораблей сопровождения"
+ coastal_defence_naval_manufacturer: "Конструктор кораблей береговой защиты"
+ mediterranean_naval_manufacturer: "Конструктор кораблей Средиземноморского флота"
+ battlefleet_designer: "Конструктор линейного флота"
+ refinery_concern: "Нефтеперерабатывающий концерн"
+
  exiled: "Сосланный"
  exiled_desc: "§LИз-за угрозы преследования большую часть периода политической нестабильности он провел за рубежом.§!"
-  
+
  organizer: "Организатор"
  organizer_desc: "§LУмеет планировать и осуществлять переброску крупных армий.§!"
-  
+
  nationalist_symbol: "Националистический символ"
  dealbroker: "Посредник"
  dealbroker_desc: "§LЛюди не хотят знать, как на свет появляются сосиски и законы. Он знает почему.§!"
@@ -122,7 +157,7 @@
  background: "Биография"
  LEADER_DETAILS_TITLE: "Описание лидера"
  OPEN_LEADER_DETAILS: "Показать описание лидера."
-  
+
  ENABLES_ABILITY: "Открывает доступ к способности: $NAME|H$"
  ABILITY_DESC: "$NAME|H$: $DETAILS$"
  TRAIT_NOT_ASSIGNABLE: "Доступ к приобретенным чертам открывается с получением опыта или событиями.\n"
@@ -164,7 +199,7 @@
  CONFIRMTRAITASSIGNMENT_DESC: "Вы действительно хотите назначить черту «$TRAIT|H$» генералу $LEADER|H$?"
  CONFIRMTRAITASSIGNMENT_DESC_REMAINING: "После назначения этой черты $TITLE$ будет располагать еще несколькими ячейками ($NUM|H$) для черт."
  CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE: "После назначения этой черты $TITLE$ §Rне§! будет располагать ячейками для черт."
-  
+
  BOOST_ATTACK_FACTOR: "Вероятнее всего получение навыка §HАтака§! при повышении уровня"
  BOOST_DEFENCE_FACTOR: "Вероятнее всего получение навыка §HОборона§! при повышении уровня"
  BOOST_LOGISTICS_FACTOR: "Вероятнее всего получение навыка §HЛогистика§! при повышении уровня"
@@ -259,15 +294,11 @@
  TRAIT_UNLOCKED_BY_MIN_RANK: "Чтобы стать советником, нужен уровень навыка не ниже §Y$RANK$§!."
  TRAIT_UNLOCKS_ADVISOR_ROLE: "Открывает роль §Y$ADVISORSLOT$§!: §Y$ADVISORNAME$§!\n"
  TRAIT_MODIFIER_FOR_ADVISOR_RANK: "При навыке §Y$RANK$§!:\n\n$TEXT$"
- TRAIT_PARENT_PRECONDITION_ALL_OF_TITLE: "§YНеобходимо все из этого:§!"
- TRAIT_PARENT_PRECONDITION_N_OF_TITLE: "§YНеобходимо $NUMBER$ из этого:§!"
- TRAIT_PARENT_PRECONDITION_OR_SUB_ENTRY: "- Что-либо из этого:"
- TRAIT_PARENT_PRECONDITION_PARENT: "- $NAME$"
  expert_improviser_movement_bonus_on_land: "Бонус к скорости перемещения по суше: §G+10%§!"
-  
+
  exiled_leader: "Изгнанный лидер"
  exiled_leader_desc: "Этот офицер сражался и после того, как его родина потерпела поражение. Он отлично командует другими изгнанниками, которые разделяют его пыл и волю к борьбе."
-  
+
  inshore_fighter: "Эксперт по сражениям в прибрежной зоне"
  inshore_fighter_desc: "§LЭтот офицер знает толк в сражениях около побережья. Прячась за островами и фьордами, он наносит сокрушительные удары по противнику.§!"
  green_water_expert: "Эксперт по мелководью"
@@ -288,8 +319,10 @@
  lone_wolf_desc: "§LКомандовать большим флотом трудно, но и раскрыть весь потенциал небольшой боевой группы – тоже задача не из простых.§!"
  concealment_expert: "Эксперт по маскировке"
  concealment_expert_desc: "§LЭтот офицер прошел обязательный курс подготовки для тех, кто не хочет попадаться врагу на глаза.§!"
- mine_craft: "Минное дело"
- mine_craft_desc: "§LКаждый моряк знает, насколько страшны эти тихо подкрадывающиеся и затем внезапно взрывающиеся убийцы!§!"
+ mine_sweeper: "Тральщик"
+ mine_sweeper_desc: "§LЛюбой корабль может поработать тральщиком хотя бы один раз, но только умелые способны обезвредить несколько мин.§!"
+ mine_layer: "Минный заградитель"
+ mine_layer_desc: "§LТолько храбрец сможет сбрасывать мощные мины, способные потопить корабль, со своего судна. Этому офицеру не занимать храбрости.§!"
  cruiser_captain: "Капитан крейсера"
  cruiser_captain_desc: "§LЭтот офицер умело командует крейсерами.§!"
  big_guns_expert: "Специалист по большим орудиям"
@@ -344,7 +377,7 @@
  navy_media_personality_desc: "§LЭтот адмирал умеет выдать правильную цитату нужному репортеру.§!"
  dive_bomber: "Пикирующий бомбардировщик"
  dive_bomber_desc: "§LЭксперт по использованию пикирующих бомбардировщиков.§!"
-  
+
  SEAWOLF_TRIGGER_TT: "Более 80% подводных лодок во флоте"
  FLEET_PROTECTOR_TRIGGER_TT: "Более 50% кораблей охранения во флоте"
  SUPERIOR_TACTICIAN_TRIGGER_TT: "Обладает преимуществом в бою"
@@ -352,7 +385,7 @@
  FLY_SWATTER_TRIGGER_TT: "Сражается с вражескими авиачастями"
  IRONSIDE_TRIGGER_TT: "Командует или сражается с крупными кораблями"
  BLOCKADE_RUNNER_TRIGGER_TT: "Храбро отступает при виде превосходящих сил противника"
-  
+
  operative_commando: "Коммандо"
  operative_commando_desc: "Этот агент прошёл курсы подготовки коммандос."
  operative_seducer: "Соблазнитель"
@@ -377,14 +410,14 @@
  operative_escape_artist_desc: "Не построили ещё тюрьму, из которой не мог бы сбежать этот агент."
  operative_demolition_expert: "Эксперт-подрывник"
  operative_demolition_expert_desc: "Этот агент отлично владеет разными способами устраивать взрывы."
-  
- peasant_sympathiser: "Симпатизирует крестьянам"
- peasant_sympathiser_desc: "§LHolds sympathies for the peasants and working class of the nation.§!" #NT!
-  
- trait_determined: "Determined" #NT!
- trait_foreign_military_advisor: "Foreign Military Advisor" #NT!
- trait_foreign_military_advisor_desc: "Time spent abroad is an opportunity to study tactics we may one day find ourselves pitted against." #NT!
-  
+
+ tank_refurbishment_plant: "Завод по восстановлению танков"
+ repair_and_refurbishment_plant: "Ремонтный завод"
+ black_sea_naval_manufacturer: "Черноморский конструктор кораблей"
+ submarine_manufacturer: "Конструктор подводных лодок"
+ submarine_manufacturer_2: "$submarine_manufacturer$"
+ multi_role_aircraft_manufacturer: "Конструктор многоцелевых самолетов"
+
  regular_trait_tab_title: "Черты"
  advisor_trait_tab_title: "Роли в офицерском корпусе"
  advisor_slot_title: "$NAME$"
@@ -393,9 +426,6 @@
  advisor_trait_genius: "(Гений)"
  officer_corps: "Офицерский корпус"
  pick_advisor_role: "Доступная роль советника"
-  
+
  promoted_from_the_ranks: "Выдвижение из рядов"
  promoted_from_the_ranks_desc: "В РАБОТЕ"
-  
- light_infantry_officer: "Light Infantry Officer" #NT!
- light_infantry_officer_desc: "§LExpert in asymmetric warfare and sabotage operations behind enemy lines.§!" #NT!
